@@ -99,111 +99,129 @@ export default async function RootLayout({ children }: Readonly<RootLayoutProps>
         <ScrollToTopButton />
 
         <footer className="border-t border-[#263352] bg-[#19233c] text-slate-200">
-          <div className="mx-auto flex max-w-6xl flex-col gap-8 px-4 py-10 sm:px-6 md:flex-row md:items-start md:justify-between lg:px-8">
-            <div className="max-w-xl space-y-5">
-              <div className="space-y-2">
-                <p className="text-lg font-extrabold tracking-tight text-white">29N</p>
+          <div className="mx-auto max-w-6xl space-y-10 px-4 py-12 sm:px-6 lg:px-8">
+            <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-4">
+              {/* Marca y verificación del corpus */}
+              <div className="space-y-3 sm:col-span-2 lg:col-span-1">
+                <Link
+                  href="/"
+                  className="inline-block text-lg font-extrabold tracking-tight text-white hover:text-slate-200"
+                >
+                  Programa29N
+                </Link>
                 <p className="text-sm leading-relaxed text-slate-300">
-                  Un proyecto independiente y sin afiliación política. Reunimos las medidas
-                  literales de cada programa oficial, añadimos contexto divulgativo separado de la
-                  cita y enlazamos siempre a la página exacta del PDF original.
+                  Proyecto cívico independiente y sin afiliación política. Reunimos las medidas
+                  literales de cada programa oficial con enlace directo a la página del PDF.
                 </p>
+                <div className="rounded-[4px] border border-[#2f3d61] bg-[#141d33] px-3 py-2 text-xs text-slate-300">
+                  <p className="font-semibold text-white">
+                    {coverage.totals.parties} programas ·{" "}
+                    {coverage.totals.published.toLocaleString("es-ES")} medidas
+                  </p>
+                  <p className="mt-0.5 text-slate-400">Actualizado {formattedBuildDate}</p>
+                </div>
               </div>
 
-              <nav aria-label="Pie de página" className="space-y-2 text-sm">
-                <div className="flex flex-wrap items-center gap-x-5 gap-y-2 font-bold text-white">
-                  <Link
-                    href="/programas"
-                    className="underline underline-offset-4 hover:text-slate-200"
-                  >
-                    Programas
-                  </Link>
-                  <Link
-                    href="/comparar"
-                    className="underline underline-offset-4 hover:text-slate-200"
-                  >
-                    Comparador
-                  </Link>
-                  <Link
-                    href="/encuesta"
-                    className="underline underline-offset-4 hover:text-slate-200"
-                  >
-                    Test de afinidad
-                  </Link>
-                  <Link
-                    href="/metodologia"
-                    className="underline underline-offset-4 hover:text-slate-200"
-                  >
-                    Metodología
-                  </Link>
-                </div>
+              {/* Explorar */}
+              <nav aria-label="Explorar la plataforma" className="space-y-3">
+                <h2 className="text-xs font-bold uppercase tracking-wider text-slate-400">
+                  Explorar
+                </h2>
+                <ul className="space-y-2 text-sm text-slate-200">
+                  <li>
+                    <Link href="/programas" className="hover:text-white hover:underline">
+                      Programas oficiales
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/comparar" className="hover:text-white hover:underline">
+                      Comparador frente a frente
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/encuesta" className="hover:text-white hover:underline">
+                      Test de afinidad
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/buscar" className="hover:text-white hover:underline">
+                      Buscador de medidas
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/estadisticas" className="hover:text-white hover:underline">
+                      Vocabulario y estadísticas
+                    </Link>
+                  </li>
+                </ul>
+              </nav>
 
-                <div className="flex flex-wrap items-center gap-x-5 gap-y-2 text-slate-300">
-                  <Link href="/buscar" className="underline underline-offset-4 hover:text-white">
-                    Buscador de medidas
-                  </Link>
-                  <Link
-                    href="/estadisticas"
-                    className="underline underline-offset-4 hover:text-white"
-                  >
-                    Estadísticas y palabras
-                  </Link>
-                  <Link
-                    href="/aviso-legal#respaldo"
-                    className="underline underline-offset-4 hover:text-white"
-                  >
-                    Datos abiertos y respaldo (SHA-256)
-                  </Link>
-                  <Link
-                    href="/aviso-legal"
-                    className="underline underline-offset-4 hover:text-white"
-                  >
-                    Aviso legal y licencias
-                  </Link>
-                  <Link
-                    href="/privacidad"
-                    className="underline underline-offset-4 hover:text-white"
-                  >
-                    Privacidad
-                  </Link>
-                </div>
+              {/* Transparencia */}
+              <nav aria-label="Transparencia y datos" className="space-y-3">
+                <h2 className="text-xs font-bold uppercase tracking-wider text-slate-400">
+                  Transparencia
+                </h2>
+                <ul className="space-y-2 text-sm text-slate-200">
+                  <li>
+                    <Link href="/metodologia" className="hover:text-white hover:underline">
+                      Metodología y fuentes
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/aviso-legal#respaldo" className="hover:text-white hover:underline">
+                      Respaldo SHA-256
+                    </Link>
+                  </li>
+                  <li>
+                    <a
+                      href="/api/audit"
+                      download="respaldo_auditoria_29N.json"
+                      className="hover:text-white hover:underline"
+                    >
+                      Manifiesto de auditoría (JSON)
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://github.com/javirodel/Programas29N"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="hover:text-white hover:underline"
+                    >
+                      Repositorio en GitHub ↗
+                    </a>
+                  </li>
+                </ul>
+              </nav>
+
+              {/* Contacto y legal */}
+              <nav aria-label="Contacto y legal" className="space-y-3">
+                <h2 className="text-xs font-bold uppercase tracking-wider text-slate-400">
+                  Contacto y legal
+                </h2>
+                <ul className="space-y-2 text-sm text-slate-200">
+                  <li>
+                    <Link href="/contacto" className="font-semibold text-white hover:underline">
+                      Contacto y sugerencias
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/aviso-legal" className="hover:text-white hover:underline">
+                      Aviso legal y licencias
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/privacidad" className="hover:text-white hover:underline">
+                      Política de privacidad
+                    </Link>
+                  </li>
+                </ul>
               </nav>
             </div>
 
-            <div className="space-y-4 text-sm text-slate-300 md:text-right">
-              <div className="space-y-1">
-                <p>
-                  Corpus verificado ·{" "}
-                  <strong className="font-semibold text-white">{formattedBuildDate}</strong>
-                </p>
-                <p className="text-xs text-slate-300">
-                  {coverage.totals.parties} programas oficiales ·{" "}
-                  {coverage.totals.published.toLocaleString("es-ES")} medidas literales
-                </p>
-              </div>
-
-              <div className="space-y-1">
-                <p className="text-xs text-slate-300">¿Quieres comprobar fuentes o integridad?</p>
-                <p className="flex flex-wrap gap-x-3 md:justify-end">
-                  <a
-                    href="/api/audit"
-                    download="respaldo_auditoria_29N.json"
-                    className="font-medium text-white underline underline-offset-4 hover:text-slate-200"
-                  >
-                    Manifiesto JSON
-                  </a>
-                  <Link
-                    href="/metodologia"
-                    className="font-medium text-white underline underline-offset-4 hover:text-slate-200"
-                  >
-                    Transparencia y fuentes
-                  </Link>
-                </p>
-              </div>
-
-              <p className="text-xs text-slate-400">
-                Código bajo licencia MIT · Sin cookies ni rastreo
-              </p>
+            <div className="flex flex-col gap-2 border-t border-[#263352] pt-6 text-xs text-slate-400 sm:flex-row sm:items-center sm:justify-between">
+              <p>© 2026 Programa29N · Código abierto bajo licencia MIT</p>
+              <p>Sin cookies de rastreo, sin analítica invasiva y sin afiliación partidista</p>
             </div>
           </div>
         </footer>

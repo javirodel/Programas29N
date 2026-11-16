@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 import { getParties } from "@/modules/corpus/repository";
 import { PENDING_CONGRESS_PARTIES } from "@/modules/ui/party-colors";
 
-const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://programas29n.es";
+const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://programa29n.app";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const parties = await getParties();
@@ -37,6 +37,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       lastModified: now,
       changeFrequency: "monthly",
       priority: 0.5,
+    },
+    {
+      url: `${BASE_URL}/contacto`,
+      lastModified: now,
+      changeFrequency: "monthly",
+      priority: 0.6,
     },
   ];
 

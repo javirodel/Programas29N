@@ -14,12 +14,14 @@ export async function GET(request: NextRequest) {
   try {
     const sp = request.nextUrl.searchParams;
     const q = (sp.get("q") ?? "").slice(0, 200);
-    const rawParties = parseListParam(sp.get("partido"));
+    const rawParties = parseListParam(sp.get("partido")).slice(0, 25);
     const parties = rawParties
       .map((p) => PartyIdSchema.safeParse(p))
       .filter((r) => r.success)
       .map((r) => r.data);
-    const themes = parseListParam(sp.get("bloque"));
+    const themes = parseListParam(sp.get("bloque"))
+      .filter((t) => t.length <= 80)
+      .slice(0, 25);
     const limitRaw = Number.parseInt(sp.get("limit") ?? "60", 10);
     const offsetRaw = Number.parseInt(sp.get("offset") ?? "0", 10);
 

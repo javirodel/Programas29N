@@ -438,41 +438,67 @@ export function ProgramViewer({
                                 : "border-line/80 bg-canvas/70 hover:border-line-strong"
                             }`}
                           >
-                            <div className="flex items-baseline gap-2.5">
-                              <span className="shrink-0 rounded-[3px] border border-line bg-surface-muted px-2 py-0.5 font-mono text-xs font-bold text-ink-secondary">
-                                #{proposal.extraction_number}
-                              </span>
-                              {proposal.title.text ? (
-                                <h4 className="text-base font-bold leading-snug text-ink sm:text-lg">
-                                  {proposal.title.text}
-                                </h4>
-                              ) : null}
-                            </div>
-
-                            <div className="max-w-[70ch] space-y-2 font-serif text-[15px] leading-relaxed text-ink-secondary sm:text-base">
-                              <p
-                                lang={proposal.official_text.language}
-                                className="whitespace-pre-line"
+                            {isLong ? (
+                              <button
+                                type="button"
+                                aria-expanded={isTextExpanded}
+                                onClick={() => {
+                                  if (window.getSelection()?.toString()) return;
+                                  setExpandedTextIds((prev) => ({
+                                    ...prev,
+                                    [proposal.id]: !isTextExpanded,
+                                  }));
+                                }}
+                                className="block w-full cursor-pointer space-y-3 text-left"
                               >
-                                «{displayText}»
-                              </p>
-                              {isLong ? (
-                                <button
-                                  type="button"
-                                  onClick={() =>
-                                    setExpandedTextIds((prev) => ({
-                                      ...prev,
-                                      [proposal.id]: !isTextExpanded,
-                                    }))
-                                  }
-                                  className="font-sans text-xs font-semibold text-ink underline underline-offset-4 hover:text-civic"
-                                >
-                                  {isTextExpanded
-                                    ? "Mostrar resumen literal"
-                                    : "Leer medida completa"}
-                                </button>
-                              ) : null}
-                            </div>
+                                <div className="flex items-baseline gap-2.5">
+                                  <span className="shrink-0 rounded-[3px] border border-line bg-surface-muted px-2 py-0.5 font-mono text-xs font-bold text-ink-secondary">
+                                    #{proposal.extraction_number}
+                                  </span>
+                                  {proposal.title.text ? (
+                                    <h4 className="text-base font-bold leading-snug text-ink sm:text-lg">
+                                      {proposal.title.text}
+                                    </h4>
+                                  ) : null}
+                                </div>
+
+                                <div className="max-w-[70ch] space-y-2 font-serif text-[15px] leading-relaxed text-ink-secondary sm:text-base">
+                                  <p
+                                    lang={proposal.official_text.language}
+                                    className="whitespace-pre-line"
+                                  >
+                                    «{displayText}»
+                                  </p>
+                                  <span className="inline-block font-sans text-xs font-semibold text-ink underline underline-offset-4 hover:text-civic">
+                                    {isTextExpanded
+                                      ? "Mostrar resumen literal"
+                                      : "Leer medida completa"}
+                                  </span>
+                                </div>
+                              </button>
+                            ) : (
+                              <div className="space-y-3">
+                                <div className="flex items-baseline gap-2.5">
+                                  <span className="shrink-0 rounded-[3px] border border-line bg-surface-muted px-2 py-0.5 font-mono text-xs font-bold text-ink-secondary">
+                                    #{proposal.extraction_number}
+                                  </span>
+                                  {proposal.title.text ? (
+                                    <h4 className="text-base font-bold leading-snug text-ink sm:text-lg">
+                                      {proposal.title.text}
+                                    </h4>
+                                  ) : null}
+                                </div>
+
+                                <div className="max-w-[70ch] font-serif text-[15px] leading-relaxed text-ink-secondary sm:text-base">
+                                  <p
+                                    lang={proposal.official_text.language}
+                                    className="whitespace-pre-line"
+                                  >
+                                    «{displayText}»
+                                  </p>
+                                </div>
+                              </div>
+                            )}
 
                             <div className="space-y-2 pt-1">
                               <div className="flex flex-wrap items-center gap-3 text-xs">

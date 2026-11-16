@@ -943,33 +943,53 @@ export function ComparatorView({
                                   ) : null}
                                 </div>
 
-                                <h3
-                                  className={`${
-                                    isExpanded ? "" : "line-clamp-2"
-                                  } text-base font-bold leading-snug text-ink`}
-                                >
-                                  {proposal.title.text || `Medida #${proposal.extraction_number}`}
-                                </h3>
-
-                                <p
-                                  lang={proposal.official_text.language}
-                                  className={`${
-                                    isExpanded ? "whitespace-pre-line" : "line-clamp-4"
-                                  } font-serif text-sm leading-relaxed text-ink-secondary`}
-                                >
-                                  «{text}»
-                                </p>
-
                                 {isLongText ? (
                                   <button
                                     type="button"
                                     aria-expanded={isExpanded}
-                                    onClick={() => toggleProposalExpanded(proposal.id)}
-                                    className="font-sans text-xs font-bold text-civic underline underline-offset-4 hover:text-ink"
+                                    onClick={() => {
+                                      if (window.getSelection()?.toString()) return;
+                                      toggleProposalExpanded(proposal.id);
+                                    }}
+                                    className="block w-full cursor-pointer space-y-2 text-left"
                                   >
-                                    {isExpanded ? "Mostrar resumen" : "Leer medida completa"}
+                                    <h3
+                                      className={`${
+                                        isExpanded ? "" : "line-clamp-2"
+                                      } text-base font-bold leading-snug text-ink`}
+                                    >
+                                      {proposal.title.text ||
+                                        `Medida #${proposal.extraction_number}`}
+                                    </h3>
+
+                                    <p
+                                      lang={proposal.official_text.language}
+                                      className={`${
+                                        isExpanded ? "whitespace-pre-line" : "line-clamp-4"
+                                      } font-serif text-sm leading-relaxed text-ink-secondary`}
+                                    >
+                                      «{text}»
+                                    </p>
+
+                                    <span className="inline-block font-sans text-xs font-bold text-civic underline underline-offset-4 hover:text-ink">
+                                      {isExpanded ? "Mostrar resumen" : "Leer medida completa"}
+                                    </span>
                                   </button>
-                                ) : null}
+                                ) : (
+                                  <div className="space-y-2">
+                                    <h3 className="text-base font-bold leading-snug text-ink">
+                                      {proposal.title.text ||
+                                        `Medida #${proposal.extraction_number}`}
+                                    </h3>
+
+                                    <p
+                                      lang={proposal.official_text.language}
+                                      className="font-serif text-sm leading-relaxed text-ink-secondary"
+                                    >
+                                      «{text}»
+                                    </p>
+                                  </div>
+                                )}
                               </div>
 
                               <div className="mt-auto space-y-2.5 border-t border-line pt-3">

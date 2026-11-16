@@ -429,31 +429,49 @@ export function SearchExplorer({
                     </div>
                   </div>
 
-                  {hit.title ? (
-                    <h2 className="text-lg font-bold leading-snug text-ink sm:text-xl">
-                      <HighlightedText text={hit.title} query={query} />
-                    </h2>
-                  ) : null}
+                  {isLong ? (
+                    <button
+                      type="button"
+                      aria-expanded={isExpanded}
+                      onClick={() => {
+                        if (window.getSelection()?.toString()) return;
+                        setExpandedHitIds((prev) => ({
+                          ...prev,
+                          [hit.id]: !isExpanded,
+                        }));
+                      }}
+                      className="block w-full cursor-pointer space-y-3 text-left"
+                    >
+                      {hit.title ? (
+                        <h2 className="text-lg font-bold leading-snug text-ink sm:text-xl">
+                          <HighlightedText text={hit.title} query={query} />
+                        </h2>
+                      ) : null}
 
-                  <div className="max-w-[70ch] space-y-1.5 font-serif text-[15px] leading-relaxed text-ink-secondary sm:text-base">
-                    <p lang={hit.language} className="whitespace-pre-line">
-                      «<HighlightedText text={shownText} query={query} />»
-                    </p>
-                    {isLong ? (
-                      <button
-                        type="button"
-                        onClick={() =>
-                          setExpandedHitIds((prev) => ({
-                            ...prev,
-                            [hit.id]: !isExpanded,
-                          }))
-                        }
-                        className="font-sans text-xs font-semibold text-ink underline underline-offset-4 hover:text-civic"
-                      >
-                        {isExpanded ? "Mostrar menos" : "Leer texto completo"}
-                      </button>
-                    ) : null}
-                  </div>
+                      <div className="max-w-[70ch] space-y-1.5 font-serif text-[15px] leading-relaxed text-ink-secondary sm:text-base">
+                        <p lang={hit.language} className="whitespace-pre-line">
+                          «<HighlightedText text={shownText} query={query} />»
+                        </p>
+                        <span className="inline-block font-sans text-xs font-semibold text-ink underline underline-offset-4 hover:text-civic">
+                          {isExpanded ? "Mostrar menos" : "Leer texto completo"}
+                        </span>
+                      </div>
+                    </button>
+                  ) : (
+                    <div className="space-y-3">
+                      {hit.title ? (
+                        <h2 className="text-lg font-bold leading-snug text-ink sm:text-xl">
+                          <HighlightedText text={hit.title} query={query} />
+                        </h2>
+                      ) : null}
+
+                      <div className="max-w-[70ch] font-serif text-[15px] leading-relaxed text-ink-secondary sm:text-base">
+                        <p lang={hit.language} className="whitespace-pre-line">
+                          «<HighlightedText text={shownText} query={query} />»
+                        </p>
+                      </div>
+                    </div>
+                  )}
 
                   <div className="flex flex-wrap items-center gap-3 pt-1 text-xs">
                     <a
