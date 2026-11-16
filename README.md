@@ -6,18 +6,18 @@ Plataforma web cívica neutral, verificable y accesible (WCAG 2.2 AA) para consu
 
 ## Cobertura actual del corpus
 
-- **18 programas electorales oficiales en PDF** compilados y sellados criptográficamente mediante **SHA-256** (`pdfs_originales/`), con **4.588 medidas literales publicadas** y enlace directo a la página exacta de cada PDF.
-- **Seguimiento íntegro del Congreso de los Diputados saliente (350 escaños):** incluye las 8 formaciones con programa publicado (PP, PSOE, VOX, ERC, PNV, Compromís, BNG y Coalición Canaria) y las 5 con documento completo aún pendiente de publicación (Sumar / Frente Amplio, Junts, EH Bildu, Podemos y UPN).
+- **20 programas electorales oficiales en PDF** compilados y sellados criptográficamente mediante **SHA-256** (`pdfs_originales/`), con **5.681 medidas literales publicadas** y enlace directo a la página exacta de cada PDF.
+- **Seguimiento íntegro del Congreso de los Diputados saliente (350 escaños):** incluye las 10 formaciones con programa publicado (PP, PSOE, VOX, Sumar / Frente Amplio, ERC, EH Bildu, PNV, Compromís, BNG y Coalición Canaria) y las 3 sin documento autónomo publicado para el 29N (Junts, Podemos y UPN).
 - **10 candidaturas extraparlamentarias** con programa oficial completo (Adelante Andalucía, Falange, Frente Obrero, Iustitia Europa, PACMA, Partido Humanista, Por un Mundo más Justo, SALF, Soria ¡YA! y Teruel Existe).
 
 ---
 
 ## Funcionalidades principales
 
-- **Inicio (`/`)**: Hemiciclo interactivo del Congreso de los Diputados (350 escaños) con accesos directos por bloque y sección completa de «Otras candidaturas».
-- **Comparador (`/comparar`)**: Vista continua estilo comparativa de producto con selectores fijos al hacer scroll, resumen de posturas en los 15 ejes principales y desglose detallado bloque por bloque.
+- **Inicio (`/`)**: Hemiciclo interactivo del Congreso de los Diputados (350 escaños) con simulación de pactos, accesos directos por bloque, termómetro visual de debates y sección de «Otras candidaturas».
+- **Comparador (`/comparar`)**: Vista continua emparejada fila por fila para los 15 debates clave y el desglose detallado bloque por bloque entre hasta 4 candidaturas.
 - **Test de afinidad (`/encuesta`)**: Cuestionario cívico de 15 cuestiones calculado íntegramente en el navegador del usuario, sin penalizar el silencio de los partidos (`sin_referencia` / `insuficiente`) y con citas al PDF oficial.
-- **Buscador (`/buscar`) y Programas (`/programas`, `/programas/[partyId]`)**: Búsqueda instantánea normalizada con MiniSearch, filtros por candidatura y bloque, desplegable colapsado *«A favor y en contra»* y visor documental.
+- **Buscador (`/buscar`), Programas (`/programas`, `/programas/[partyId]`) y Vocabulario (`/estadisticas`)**: Búsqueda instantánea normalizada con MiniSearch, filtros por candidatura y bloque, desplegable colapsado *«A favor y en contra»*, radar léxico TF-IDF de conceptos y visor documental.
 - **Transparencia, Privacidad y Respaldo (`/metodologia`, `/privacidad`, `/aviso-legal`, `/api/audit`)**: Política de cero rastreo, licencias y manifiesto descargable con todos los hashes SHA-256.
 
 ---
