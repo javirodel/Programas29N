@@ -1,0 +1,276 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "adelante-andalucia",
+  "entries": {
+    "adelante-andalucia-601": {
+      "status": "corregida",
+      "arguments_for": "La Ley 9/2017 de Contratos del Sector Público (LCSP) permite en sus artículos 202 y 215 incorporar condiciones especiales de ejecución laborales y sociales y exigir que determinadas tareas críticas sean ejecutadas directamente por el contratista principal para frenar la precarización en cadenas de subcontratación.",
+      "arguments_against": "El Tribunal de Justicia de la Unión Europea (asunto C-63/18, Vitali SpA) ha establecido que los Estados miembros no pueden imponer prohibiciones o límites cuantitativos generales a la subcontratación en contratos públicos, pues restringen la libre concurrencia y el acceso de pymes y autónomos.",
+      "sources_for": [
+        {
+          "title": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12902",
+          "date": "2017-11-09"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Contratación pública: sentencia del TJUE sobre interpretación de la Directiva 2014/24 y límites a la subcontratación",
+          "publisher": "Derecho Local",
+          "url": "https://derecholocal.es/fallo-judicial/contratacion-publica-sentencia-del-tjue-sobre-interpretacion-de-la-directiva-2014-24"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y explicación fieles al programa (p. 114). Sustituidos los argumentos IA originales porque incluían texto ajeno sobre estrés hídrico, protección animal y tauromaquia."
+    },
+    "adelante-andalucia-602": {
+      "status": "corregida",
+      "arguments_for": "La Dama de Baza fue hallada en Granada en 1971 y trasladada al Museo Arqueológico Nacional de Madrid; su retorno o custodia compartida responde a una reivindicación institucional y municipal reiterada en Andalucía para reforzar el vínculo territorial y el dinamismo cultural de la comarca.",
+      "arguments_against": "La Ley 16/1985 del Patrimonio Histórico Español (art. 63) otorga la máxima protección (BIC) a los bienes de museos estatales y exige orden ministerial para su salida, mientras que informes técnicos del Ministerio de Cultura desaconsejan el traslado de piezas frágiles como la Dama de Baza por riesgo de alteración física en el transporte.",
+      "sources_for": [
+        {
+          "title": "Vuelven a reclamar la devolución de la Dama de Baza",
+          "publisher": "El Independiente de Granada",
+          "url": "https://www.elindependientedegranada.es/cultura/vuelven-reclamar-devolucion-dama-baza"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1985-12534",
+          "date": "1985-06-29"
+        },
+        {
+          "title": "Baza reclama una réplica de la Dama tras decidirse su permanencia en Madrid",
+          "publisher": "Telemadrid",
+          "url": "https://www.telemadrid.es/noticias/cultura/Baza-reclama-una-replica-de-la-Dama-tras-decidirse-su-permanencia-en-Madrid-0-2592640749--20230831015351.html",
+          "date": "2023-08-31"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y explicación fieles al programa (p. 114). Sustituidos los argumentos IA originales que mezclaban tributación OCDE, animales y tauromaquia."
+    },
+    "adelante-andalucia-603": {
+      "status": "corregida",
+      "arguments_for": "Según la Cuenta Satélite de la Cultura del Ministerio de Cultura, las actividades culturales aportan en torno al 2,2 % del PIB español (3,4 % incluyendo propiedad intelectual), mientras que el gasto público cultural ejecutado por la Administración General del Estado se sitúa alrededor del 0,08 %-0,09 % del PIB, muy por debajo del esfuerzo de las entidades locales.",
+      "arguments_against": "Elevar de forma progresiva y anual el gasto estatal en cultura genera compromisos de gasto corriente sujetos al marco fiscal europeo del Pacto de Estabilidad y Crecimiento y obliga a priorizar frente a otras partidas presupuestarias sociales o de inversión.",
+      "sources_for": [
+        {
+          "title": "Estadística de Financiación y Gasto Público en Cultura (nota resumen)",
+          "publisher": "Ministerio de Cultura",
+          "url": "https://www.cultura.gob.es/dam/jcr:fcf39b56-7d11-4b89-ad60-422d805ccfbc/nota-resumen-financiacion-y-gasto-publico-en-cultura.pdf"
+        },
+        {
+          "title": "Cuenta Satélite de la Cultura en España",
+          "publisher": "Ministerio de Cultura",
+          "url": "https://www.cultura.gob.es/dam/jcr:17c40bc7-976c-4a55-a1d8-4e8f40a06c77/cuenta-satelite-de-la-cultura-2023.pdf"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Stability and Growth Pact",
+          "publisher": "Comisión Europea (DG ECFIN)",
+          "url": "https://economy-finance.ec.europa.eu/economic-and-fiscal-governance/stability-and-growth-pact_en"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y explicación fieles al programa (p. 114). Sustituidos los argumentos IA originales por contener texto genérico ajeno sobre animales y tauromaquia."
+    },
+    "adelante-andalucia-604": {
+      "status": "corregida",
+      "arguments_for": "En los museos estatales dependientes del Ministerio de Cultura la entrada es gratuita para menores de 18 años y para jóvenes de hasta 25 años únicamente si acreditan condición de estudiante o Carné Joven; universalizar la gratuidad hasta los 26 años elimina barreras económicas para jóvenes trabajadores o sin acreditación.",
+      "arguments_against": "Los museos estatales ya ofrecen gratuidad general en franjas horarias concretas, además de exenciones para menores de 18 años, estudiantes hasta 25 y titulares de Carné Joven, por lo que ampliar la exención total reduce los ingresos propios de taquilla y exige compensación presupuestaria estatal bajo las reglas fiscales europeas.",
+      "sources_for": [
+        {
+          "title": "Entradas y tarifas de los museos estatales",
+          "publisher": "Ministerio de Cultura",
+          "url": "https://www.cultura.gob.es/cultura/areas/museos/mc/museos-estatales/entradas.html"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Entradas y tarifas de los museos estatales",
+          "publisher": "Ministerio de Cultura",
+          "url": "https://www.cultura.gob.es/cultura/areas/museos/mc/museos-estatales/entradas.html"
+        },
+        {
+          "title": "Stability and Growth Pact",
+          "publisher": "Comisión Europea (DG ECFIN)",
+          "url": "https://economy-finance.ec.europa.eu/economic-and-fiscal-governance/stability-and-growth-pact_en"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y explicación fieles al programa (p. 114). Sustituidos los argumentos IA originales por mezclar tributación OCDE, animales y tauromaquia."
+    },
+    "adelante-andalucia-605": {
+      "status": "corregida",
+      "arguments_for": "El Reglamento (UE) 2024/1689 (Reglamento de Inteligencia Artificial) obliga a los proveedores de modelos de IA de propósito general a transparentar los contenidos de entrenamiento, respetar las reservas de derechos de autor y etiquetar contenidos sintéticos, respaldando la protección de voz, imagen y remuneración de los creadores.",
+      "arguments_against": "La Directiva (UE) 2019/790 (transpuesta en España por el RDL 24/2021) ya habilita excepciones de minería de textos y datos salvo reserva expresa de derechos; imponer un fondo específico nacional a las tecnológicas puede generar fragmentación regulatoria frente al mercado único europeo y encarecer el desarrollo local de IA.",
+      "sources_for": [
+        {
+          "title": "Reglamento (UE) 2024/1689 del Parlamento Europeo y del Consejo (Reglamento de Inteligencia Artificial)",
+          "publisher": "DOUE / BOE",
+          "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2024-81079",
+          "date": "2024-07-12"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "IA generativa, derechos de autor y minería de textos y datos (RDL 24/2021)",
+          "publisher": "Regulación IA",
+          "url": "https://regulacionia.com/regulacion/ia-generativa-derechos-autor-mineria-datos"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y explicación fieles al programa (p. 114). Sustituidos los argumentos IA originales por incluir referencias ajenas a protección animal y tauromaquia."
+    },
+    "adelante-andalucia-606": {
+      "status": "corregida",
+      "arguments_for": "El artículo 3.3 de la Constitución Española reconoce las distintas modalidades lingüísticas como patrimonio cultural objeto de especial respeto y protección, y el artículo 10.3.4º del Estatuto de Autonomía para Andalucía fija como objetivo básico la defensa, promoción, estudio y prestigio de la modalidad lingüística andaluza.",
+      "arguments_against": "El Estatuto de Autonomía no otorga al andaluz carácter de lengua cooficial distinta del castellano (art. 3.1 CE) y las universidades e instituciones culturales ya investigan las hablas andaluzas, por lo que crear una nueva institución pública implica costes estructurales y posible duplicidad funcional.",
+      "sources_for": [
+        {
+          "title": "Constitución Española (edición BOE)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/biblioteca_juridica/pdf/PUB-PB-2026-116.pdf"
+        },
+        {
+          "title": "Ley Orgánica 2/2007, de reforma del Estatuto de Autonomía para Andalucía (art. 10.3.4º)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/pdf/2007/BOE-A-2007-5825-consolidado.pdf"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "El Gobierno recuerda que el Estatuto no prevé en Andalucía una lengua oficial al margen del castellano",
+          "publisher": "Europa Press",
+          "url": "https://www.europapress.es/andalucia/noticia-gobierno-recuerda-vox-estatuto-no-preve-andalucia-lengua-oficial-margen-castellano-20230319104550.html",
+          "date": "2023-03-19"
+        },
+        {
+          "title": "Constitución Española (edición BOE)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/biblioteca_juridica/pdf/PUB-PB-2026-116.pdf"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y explicación fieles al programa (p. 115). Sustituidos los argumentos IA originales por mezclar protección animal y tauromaquia."
+    },
+    "adelante-andalucia-607": {
+      "status": "corregida",
+      "arguments_for": "El artículo 10.3.4º del Estatuto de Autonomía para Andalucía encomienda el prestigio y respeto de la modalidad lingüística andaluza, mientras que investigaciones sociolingüísticas de la Universidad de Málaga documentan la existencia de prejuicios y autocorrección dialectal en medios audiovisuales estatales.",
+      "arguments_against": "El Manual de Estilo de RTVE no prohíbe los acentos regionales, pero establece criterios de registro estándar y dicción clara en informativos estatales para garantizar la inteligibilidad general y la neutralidad editorial, frente a protocolos lingüísticos prescriptivos.",
+      "sources_for": [
+        {
+          "title": "Ley Orgánica 2/2007, de reforma del Estatuto de Autonomía para Andalucía",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/pdf/2007/BOE-A-2007-5825-consolidado.pdf"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Manual de Estilo de RTVE — El lenguaje",
+          "publisher": "Corporación RTVE",
+          "url": "https://manualdeestilo.rtve.es/el-lenguaje/"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y explicación fieles al programa (p. 115). Sustituidos los argumentos IA originales por mezclar protección animal y tauromaquia."
+    },
+    "adelante-andalucia-608": {
+      "status": "corregida",
+      "arguments_for": "Iniciativas culturales como la propuesta ortográfica EPA buscan ofrecer una convención gráfica voluntaria para representar los rasgos fonéticos de las hablas andaluzas en literatura y divulgación, en línea con el reconocimiento cultural de la modalidad andaluza.",
+      "arguments_against": "El ordenamiento constitucional y estatutario reconoce el castellano como única lengua oficial en Andalucía, y respaldar desde lo público sistemas ortográficos fonéticos alternativos genera debate lingüístico frente a la unidad ortográfica panhispánica del español.",
+      "sources_for": [
+        {
+          "title": "Propuesta de ortografía andaluza (EPA)",
+          "publisher": "Andalûh EPA",
+          "url": "https://andaluhepa.wordpress.com/wp-content/uploads/2019/10/propuesta-de-ortografc3ada-andaluza-epa-actualizada-2019-docx.pdf",
+          "date": "2019"
+        },
+        {
+          "title": "Rasgos de la modalidad lingüística andaluza",
+          "publisher": "Junta de Andalucía (EDEA)",
+          "url": "https://edea.juntadeandalucia.es/bancorecursos/file/4d6b3379-4313-4325-abca-a5e711250a24/1/es-an_2020061012_9121805.zip/31_rasgos_de_la_modalidad_lingstica_andaluza.html?temp.hn=true&temp.hb=true",
+          "date": "2020"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "El Gobierno recuerda que el Estatuto no prevé en Andalucía una lengua oficial al margen del castellano",
+          "publisher": "Europa Press",
+          "url": "https://www.europapress.es/andalucia/noticia-gobierno-recuerda-vox-estatuto-no-preve-andalucia-lengua-oficial-margen-castellano-20230319104550.html",
+          "date": "2023-03-19"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y explicación fieles al programa (p. 115). Sustituidos los argumentos IA originales por mezclar protección animal y tauromaquia."
+    },
+    "adelante-andalucia-609": {
+      "status": "corregida",
+      "arguments_for": "El Reglamento (UE) 2024/903 sobre la Europa Interoperable promueve el uso y el intercambio transfronterizo de soluciones de código abierto en el sector público para evitar la dependencia tecnológica de proveedores únicos y facilitar la reutilización de aplicaciones entre administraciones.",
+      "arguments_against": "Casos como el proyecto LiMux en el Ayuntamiento de Múnich ilustran que las migraciones masivas a software libre en puestos de trabajo administrativos afrontan costes elevados de adaptación, problemas de compatibilidad con formatos externos y resistencia organizativa, culminando en una reversión parcial en 2017 con un coste estimado superior a 50 millones de euros.",
+      "sources_for": [
+        {
+          "title": "Reglamento (UE) 2024/903 sobre la Europa Interoperable",
+          "publisher": "DOUE / BOE",
+          "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2024-80414",
+          "date": "2024-03-22"
+        },
+        {
+          "title": "Declaration of Independence: The LiMux Project in Munich",
+          "publisher": "Comisión Europea (OSOR)",
+          "url": "https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/document/declaration-independence-limux-project-munich"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Múnich migrará sus sistemas a Windows 10: el fin de LiMux",
+          "publisher": "Xataka",
+          "url": "https://www.xataka.com/servicios/munich-migrara-sus-sistemas-a-windows-10-tragico-fin-para-toda-una-era-de-linux-y-open-source",
+          "date": "2017"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y explicación fieles al programa (p. 116). Sustituidos los argumentos IA originales porque hablaban erróneamente de política industrial, tributación OCDE y banca pública."
+    },
+    "adelante-andalucia-610": {
+      "status": "corregida",
+      "arguments_for": "La Agencia Española de Protección de Datos advierte que la soberanía operativa en datos sensibles como salud y educación exige controlar los medios de tratamiento y el cifrado frente a leyes extraterritoriales de terceros países (doctrina Schrems II), en sintonía con la Estrategia Nacional de Servicios en la Nube.",
+      "arguments_against": "Levantar infraestructuras de nube exclusivamente públicas conlleva elevadas inversiones en centros de datos, operación y ciberseguridad especializada, con menor elasticidad y capacidad de innovación continua frente a estrategias de nube híbrida que combinan infraestructura propia y proveedores certificados bajo control europeo.",
+      "sources_for": [
+        {
+          "title": "Soberanía operativa en tratamientos de datos personales",
+          "publisher": "Agencia Española de Protección de Datos (AEPD)",
+          "url": "https://www.aepd.es/prensa-y-comunicacion/blog/soberania-operativa-en-tratamientos-de-datos-personales"
+        },
+        {
+          "title": "Estrategia Nacional de Servicios en la Nube de las Administraciones Públicas",
+          "publisher": "España Digital (Gobierno de España)",
+          "url": "https://espanadigital.gob.es/sites/espanadigital/files/2025-05/2022_12_Estrategia_Cloud_AAPP.pdf"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Estrategia Nacional de Servicios en la Nube de las Administraciones Públicas",
+          "publisher": "España Digital (Gobierno de España)",
+          "url": "https://espanadigital.gob.es/sites/espanadigital/files/2025-05/2022_12_Estrategia_Cloud_AAPP.pdf"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y explicación fieles al programa (p. 116). Sustituidos los argumentos IA originales porque hablaban erróneamente de banca pública, OCDE y fronteras."
+    }
+  }
+}

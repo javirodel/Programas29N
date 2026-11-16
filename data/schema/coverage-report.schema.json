@@ -1,0 +1,298 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "generated_at": {
+      "type": "string",
+      "minLength": 1
+    },
+    "totals": {
+      "type": "object",
+      "properties": {
+        "parties": {
+          "type": "integer",
+          "exclusiveMinimum": 0,
+          "maximum": 9007199254740991
+        },
+        "extracted": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "published": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "verified": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "requires_review": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "rejected": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "reserved": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        },
+        "survey_questions": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991
+        }
+      },
+      "required": [
+        "parties",
+        "extracted",
+        "published",
+        "verified",
+        "requires_review",
+        "rejected",
+        "reserved",
+        "survey_questions"
+      ],
+      "additionalProperties": false
+    },
+    "by_party": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "party_id": {
+            "type": "string",
+            "enum": [
+              "adelante-andalucia",
+              "bng",
+              "coalicion-canaria",
+              "compromis",
+              "erc",
+              "falange",
+              "frente-obrero",
+              "iustitia-europa",
+              "pacma",
+              "partido-humanista",
+              "pnv",
+              "por-un-mundo-mas-justo",
+              "pp",
+              "psoe",
+              "salf",
+              "soria-ya",
+              "teruel-existe",
+              "vox"
+            ]
+          },
+          "party_name": {
+            "type": "string"
+          },
+          "short_name": {
+            "type": "string"
+          },
+          "document_id": {
+            "type": "string"
+          },
+          "sha256": {
+            "type": "string"
+          },
+          "bytes": {
+            "type": "integer",
+            "exclusiveMinimum": 0,
+            "maximum": 9007199254740991
+          },
+          "page_count": {
+            "type": "integer",
+            "exclusiveMinimum": 0,
+            "maximum": 9007199254740991
+          },
+          "extraction_tool": {
+            "type": "string"
+          },
+          "extracted": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "published": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "verified": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "requires_review": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "rejected": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "reserved": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "match_counts": {
+            "type": "object",
+            "propertyNames": {
+              "type": "string",
+              "enum": [
+                "literal",
+                "fragmentado",
+                "parcial",
+                "no_localizado"
+              ]
+            },
+            "additionalProperties": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 9007199254740991
+            },
+            "required": [
+              "literal",
+              "fragmentado",
+              "parcial",
+              "no_localizado"
+            ]
+          }
+        },
+        "required": [
+          "party_id",
+          "party_name",
+          "short_name",
+          "document_id",
+          "sha256",
+          "bytes",
+          "page_count",
+          "extraction_tool",
+          "extracted",
+          "published",
+          "verified",
+          "requires_review",
+          "rejected",
+          "reserved",
+          "match_counts"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "by_theme": {
+      "type": "object",
+      "propertyNames": {
+        "type": "string"
+      },
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "extracted": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "published": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 9007199254740991
+          },
+          "by_party": {
+            "type": "object",
+            "propertyNames": {
+              "type": "string",
+              "enum": [
+                "adelante-andalucia",
+                "bng",
+                "coalicion-canaria",
+                "compromis",
+                "erc",
+                "falange",
+                "frente-obrero",
+                "iustitia-europa",
+                "pacma",
+                "partido-humanista",
+                "pnv",
+                "por-un-mundo-mas-justo",
+                "pp",
+                "psoe",
+                "salf",
+                "soria-ya",
+                "teruel-existe",
+                "vox"
+              ]
+            },
+            "additionalProperties": {
+              "type": "object",
+              "properties": {
+                "extracted": {
+                  "type": "integer",
+                  "minimum": 0,
+                  "maximum": 9007199254740991
+                },
+                "published": {
+                  "type": "integer",
+                  "minimum": 0,
+                  "maximum": 9007199254740991
+                }
+              },
+              "required": [
+                "extracted",
+                "published"
+              ],
+              "additionalProperties": false
+            },
+            "required": [
+              "adelante-andalucia",
+              "bng",
+              "coalicion-canaria",
+              "compromis",
+              "erc",
+              "falange",
+              "frente-obrero",
+              "iustitia-europa",
+              "pacma",
+              "partido-humanista",
+              "pnv",
+              "por-un-mundo-mas-justo",
+              "pp",
+              "psoe",
+              "salf",
+              "soria-ya",
+              "teruel-existe",
+              "vox"
+            ]
+          }
+        },
+        "required": [
+          "extracted",
+          "published",
+          "by_party"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "schema_version",
+    "generated_at",
+    "totals",
+    "by_party",
+    "by_theme"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,20 @@
+{
+  "archivo_original": "Programa.pdf",
+  "nombre": "FrenteObrero_programa29N",
+  "sha256": "7b9f423f2c1ada187b6f42ed8dbf4e025356254d7a6b81830e114b818ef2e282",
+  "fecha_procesamiento": "2026-11-11T15:48:07+0100",
+  "herramienta": "Docling (PyPdfiumBackend)",
+  "formatos": [
+    "md",
+    "json",
+    "txt"
+  ],
+  "paginas": 64,
+  "duracion_segundos": 66.29,
+  "tamano_bytes": {
+    "pdf": 1202338,
+    "md": 85602,
+    "json": 633708,
+    "txt": 84124
+  }
+}

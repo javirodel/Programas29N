@@ -1,0 +1,298 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "frente-obrero",
+  "entries": {
+    "frente-obrero-001": {
+      "status": "corregida",
+      "summary": "Propone establecer un aumento general de los salarios vinculado a la evolución del coste de la vida, lo que requeriría generalizar cláusulas de revisión salarial ligadas a la inflación en la negociación colectiva y la normativa laboral.",
+      "arguments_for": "Según datos de la OCDE analizados en prensa económica, el salario real medio en España apenas creció un 2,7 % acumulado entre 1994 y 2024, frente a avances superiores al 20-30 % en las principales economías de la OCDE. Durante el episodio inflacionario de 2021-2023, el IPC medio anual fue del 3,1 % (2021), 8,4 % (2022) y 3,5 % (2023), mientras los incrementos pactados en convenio se situaron en torno al 1,61 %, 2,78-3,20 % y 3,46 %, provocando una pérdida de poder adquisitivo.",
+      "arguments_against": "El Banco de España y el Banco Central Europeo advierten de que la indexación automática y generalizada de los salarios a la inflación pasada genera 'efectos de segunda vuelta' (espiral precios-salarios) que prolongan las presiones inflacionistas y restan competitividad exterior. Además, según el DIRCE (INE), el 99,8 % de las empresas españolas son pymes y microempresas, muchas con márgenes estrechos donde alzas salariales desligadas de la productividad pueden frenar el empleo.",
+      "sources_for": [
+        {
+          "title": "De 1994 a 2024 el salario real en España ha subido apenas un 2,7%",
+          "publisher": "El Blog Salmón (con datos OCDE)",
+          "url": "https://www.elblogsalmon.com/economia/1994-a-2024-salario-real-espana-ha-subido-apenas-2-7-cesta-compra-ha-hecho-63-ocio-52",
+          "date": "2025"
+        },
+        {
+          "title": "Evolución salarial y pérdida de poder adquisitivo",
+          "publisher": "Nueva Tribuna (datos Ministerio de Trabajo e INE)",
+          "url": "https://www.nuevatribuna.es/actualidad/evolucion-salarial-poder-adquisitivo/20240613112541227906.html",
+          "date": "2024-06-13"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Los efectos de segunda vuelta de la inflación y la indexación salarial",
+          "publisher": "Banco de España",
+          "url": "https://www.bde.es/f/webbde/GAP/Secciones/SalaPrensa/IntervencionesPublicas/Gobernador/Arc/Fic/hdc291121b.pdf",
+          "date": "2021-11-29"
+        },
+        {
+          "title": "Retrato de la PYME (DIRCE)",
+          "publisher": "Ministerio de Industria / DGPYME",
+          "url": "https://ipyme.org/Publicaciones/Retrato%20de%20la%20PYME/Retrato-PYME-DIRCE-1-enero-2023.pdf",
+          "date": "2023"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles (p. 9). Eliminadas de summary referencias no presentes en la medida (cesta básica de vivienda/energía y SMI). Ajustadas cifras salariales y de IPC 2021-2023 a datos verificados del Ministerio de Trabajo, INE y OCDE."
+    },
+    "frente-obrero-002": {
+      "status": "corregida",
+      "summary": "Plantea reformar la regulación de la representación unitaria (artículo 62 del Estatuto de los Trabajadores) para que sea obligatoria la existencia de representación de los trabajadores en todas las empresas con diez o más empleados, sin excepciones.",
+      "arguments_for": "Actualmente el artículo 62 del Estatuto de los Trabajadores solo permite delegados de personal desde 11 trabajadores (y entre 6 y 10 únicamente por decisión mayoritaria de la plantilla). Según un estudio de CCOO sobre actas electorales oficiales, solo el 12,8 % de los trabajadores en pequeñas empresas (hasta 49 empleados) cuenta con representación sindical efectiva, frente al 55,4 % en medianas y el 84,8 % en grandes empresas de más de 500 trabajadores.",
+      "arguments_against": "El marco constitucional (art. 28 CE) y la normativa laboral configuran la promoción de elecciones sindicales como un derecho de los trabajadores y sindicatos, no como un deber forzoso si la plantilla no presenta candidaturas. Además, la normativa vigente asigna a cada delegado un crédito horario retribuido (art. 68 ET, desde 15 horas mensuales hasta 100 trabajadores), lo que añade costes fijos y carga organizativa a empresas muy pequeñas.",
+      "sources_for": [
+        {
+          "title": "Solo el 13% de los trabajadores de pequeñas empresas tienen representación sindical y CCOO es la organización mayoritaria",
+          "publisher": "Infobae (estudio CCOO)",
+          "url": "https://www.infobae.com/espana/2024/04/09/solo-el-13-de-los-trabajadores-de-pequenas-empresas-tienen-representacion-sindical-y-ccoo-es-la-organizacion-mayoritaria/",
+          "date": "2024-04-09"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Representación de los empleados en la empresa",
+          "publisher": "Administración General del Estado (administracion.gob.es)",
+          "url": "https://administracion.gob.es/tu-espacio-europeo/derechos-obligaciones/empresas/empleados/representacion"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles (p. 9). Sustituido el dato no verificado (>65% de empresas de 10-49) por el dato contrastado del estudio electoral de CCOO (12,8% de cobertura en pequeñas empresas)."
+    },
+    "frente-obrero-003": {
+      "status": "corregida",
+      "summary": "Propone endurecer las penas contra la contratación de extranjeros en situación irregular, con foco en el sector agrario, y derogar las leyes que permiten la contratación colectiva en origen en sectores precarizados.",
+      "arguments_for": "Según la Encuesta de Población Activa (EPA) del INE (3T 2026), España mantiene una tasa de paro del 10,18 % (2.591.200 personas), con cerca de 695.000 desempleados entre Andalucía (en torno a 627.000-630.000) y Extremadura (alrededor de 66.000-67.000). A su vez, las campañas agrícolas concentran actuaciones recurrentes de la Inspección de Trabajo por empleo irregular y subdeclaración de jornadas.",
+      "arguments_against": "El Ministerio de Inclusión, Seguridad Social y Migraciones y las organizaciones agrarias defienden la orden GECCO (que movilizó más de 20.000 trabajadores en 2024 y 25.767 en 2025, un 84 % en Huelva) como una vía de migración circular ordenada, con contrato y alojamiento regulados, necesaria para cubrir campañas agrícolas donde las ofertas en los servicios públicos de empleo quedan parcialmente desiertas.",
+      "sources_for": [
+        {
+          "title": "Encuesta de Población Activa (EPA) — Datos nacionales y autonómicos",
+          "publisher": "INE",
+          "url": "https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176918&menu=ultiDatos&idp=1254735976595"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Los programas de migración circular GECCO alcanzaron 25.767 trabajadores en 2025",
+          "publisher": "La Moncloa / Ministerio de Inclusión, Seguridad Social y Migraciones",
+          "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/paginas/2025/291225-programas-gecco-migracion-circular.aspx",
+          "date": "2025-12-29"
+        },
+        {
+          "title": "Orden ISM/1520/2025 por la que se regula la gestión colectiva de contrataciones en origen (GECCO)",
+          "publisher": "BOE",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-27014",
+          "date": "2025"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles (p. 9). Ajustada la explicación para no asumir penas de prisión específicas no citadas en el texto, y actualizadas las cifras de paro EPA y contratos GECCO (2024-2026)."
+    },
+    "frente-obrero-004": {
+      "status": "corregida",
+      "summary": "Plantea restringir las condiciones legales para celebrar contratos temporales y fijos-discontinuos, y prohibir las Empresas de Trabajo Temporal (ETT) para combatir la temporalidad.",
+      "arguments_for": "Según datos analizados por Fedea y estadísticas laborales de 2025, España cerró el año con en torno a 841.000 afiliados fijos discontinuos y varios cientos de miles en periodos de inactividad que no figuran como paro registrado en el SEPE; además, las ETT gestionan más de 4 millones de contratos de puesta a disposición anuales y concentran cerca del 38 % de los llamamientos de fijos discontinuos.",
+      "arguments_against": "Prohibir las ETT colisionaría con la Directiva 2008/104/CE de la Unión Europea relativa al trabajo a través de empresas de trabajo temporal y con el Convenio 181 de la OIT ratificado por España. Por otro lado, tras la reforma laboral de 2021 (RDL 32/2021), la tasa de temporalidad en el sector privado bajó de más del 25 % a situarse por debajo del 13 %, y en actividades muy estacionales (turismo, agricultura) el fijo-discontinuo aporta continuidad contractual frente a contratos eventuales encadenados.",
+      "sources_for": [
+        {
+          "title": "¿Cuántos son los trabajadores fijos discontinuos?",
+          "publisher": "Fedea",
+          "url": "https://fedea.net/cuantos-son-los-trabajadores-fijos-discontinuos/"
+        },
+        {
+          "title": "España finaliza 2025 con 841.000 fijos discontinuos y temporalidad privada por debajo del 13%",
+          "publisher": "Servimedia (datos Seguridad Social y Ministerio de Trabajo)",
+          "url": "https://www.servimedia.es/noticias/espana-finaliza-2025-841000-fijos-discontinuos-apenas-0-24-encima-2024/1412617918",
+          "date": "2026"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Directiva 2008/104/CE relativa al trabajo a través de empresas de trabajo temporal",
+          "publisher": "EUR-Lex (Unión Europea)",
+          "url": "https://eur-lex.europa.eu/legal-content/ES/ALL/?uri=celex:32008L0104",
+          "date": "2008-11-19"
+        },
+        {
+          "title": "Balance del empleo 2025 en perspectiva",
+          "publisher": "UGT",
+          "url": "https://ugt.es/sites/default/files/EMPLEO_2025_BALANCE_EN_PERSPECTIVA.pdf",
+          "date": "2026"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles (p. 9). Actualizados datos de fijos-discontinuos y temporalidad privada (<13%) con cifras verificadas de 2025."
+    },
+    "frente-obrero-005": {
+      "status": "corregida",
+      "summary": "Propone eliminar la cuota a la Seguridad Social para los autónomos con ingresos inferiores al SMI, reducir las cuotas del colectivo, implantar una bonificación total durante las bajas médicas y garantizar la jubilación de los autónomos.",
+      "arguments_for": "Con el sistema de cotización por ingresos reales (RDL 13/2022), el tramo más bajo de la tabla reducida (rendimientos netos iguales o inferiores a 670 €/mes, muy por debajo del SMI) sigue obligado a cotizar sobre una base mínima de 653,59 €/mes (unos 205,88 € mensuales de cuota). Además, según datos de UPTA y la Seguridad Social, la pensión media de jubilación del RETA ronda los 1.054 €/mes frente a más de 1.724 €/mes en el Régimen General (una brecha de unos 670 € mensuales).",
+      "arguments_against": "Según datos de ejecución de la Seguridad Social y análisis económicos sobre el RETA, las cotizaciones de los trabajadores autónomos (en torno a 12.200 millones de euros) cubren aproximadamente la mitad de sus prestaciones contributivas (más de 24.000 millones), generando un déficit específico cercano a los 12.000 millones anuales. Eximir de cuota al primer tramo, rebajar las demás cuotas y elevar sus pensiones ampliaría el desfase contributivo y exigiría mayor financiación vía Presupuestos Generales del Estado.",
+      "sources_for": [
+        {
+          "title": "Bases y tipos de cotización de trabajadores autónomos por rendimientos netos",
+          "publisher": "Seguridad Social",
+          "url": "https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/CotizacionRecaudacionTrabajadores/10721/10724/1320/1322"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "El déficit de los autónomos en la Seguridad Social: las cuotas cubren la mitad del gasto en pensiones",
+          "publisher": "elDiario.es (datos Seguridad Social)",
+          "url": "https://www.eldiario.es/economia/datos-deficit-autonomos-seguridad-social-cuotas-cubren-mitad-gasto-pensiones_1_12730705.html"
+        },
+        {
+          "title": "Proyecciones de la AIReF sobre el saldo de la Seguridad Social y transferencias del Estado",
+          "publisher": "elEconomista (datos AIReF)",
+          "url": "https://www.eleconomista.es/economia/noticias/14026360/11/26/la-seguridad-social-reducira-su-deficit-al-01-del-pib-a-partir-del-proximo-ano.html"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles (p. 9). Eliminada de summary la equiparación literal al Régimen General (no consta en el texto). Corregidas cifras de pensión media RETA (~1.054 € vs >1.724 €) y déficit específico del RETA (~12.000 M€ anuales)."
+    },
+    "frente-obrero-006": {
+      "status": "corregida",
+      "summary": "Plantea erradicar la figura fraudulenta de los 'falsos autónomos', trabajadores por cuenta ajena encubiertos bajo el régimen de autónomos para eludir cotizaciones y derechos laborales.",
+      "arguments_for": "Organizaciones de autónomos como UPTA estiman entre 100.000 y 300.000 los falsos autónomos en España en sectores como reparto, transporte, construcción o servicios profesionales. Entre 2018 y 2024 la Inspección de Trabajo y Seguridad Social (ITSS) regularizó cerca de 139.000 falsos autónomos (y en 2025 sumó otros 47.143 aflorados), recuperando cotizaciones impagadas a la Seguridad Social.",
+      "arguments_against": "La legislación española ya endureció el marco contra esta práctica mediante la Ley 12/2021 ('Ley Rider'), multas de 3.750 a 12.000 € por trabajador en la LISOS y la reforma de 2022 del artículo 311.2 del Código Penal (penas de prisión de 6 meses a 6 años). A su vez, distinguir entre fraude laboral y la figura legal del Trabajador Autónomo Económicamente Dependiente (TRADE, Ley 20/2007) exige inspección caso a caso para no penalizar colaboraciones independientes legítimas.",
+      "sources_for": [
+        {
+          "title": "Las sanciones a empresas por contratar falsos autónomos: multas y cárcel",
+          "publisher": "20minutos (datos UPTA e ITSS)",
+          "url": "https://www.20minutos.es/lainformacion/management/las-sanciones-empresas-por-contratar-falsos-autonomos-multas-carcel-5286168/"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Reforma penal para castigar con hasta seis años de cárcel el fraude con falsos autónomos",
+          "publisher": "RTVE",
+          "url": "https://www.rtve.es/noticias/20221209/gobierno-castigara-incumplimientos-reiterados-legislacion-laboral/2411307.shtml",
+          "date": "2022-12-09"
+        },
+        {
+          "title": "El falso autónomo como delito en el artículo 311.2 del Código Penal",
+          "publisher": "Kernel Legal",
+          "url": "https://kernellegal.com/falso-autonomo-delito-abogados/"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles (p. 9). Precisadas las cifras históricas de regularizaciones de la ITSS (2018-2024 y 2025) y el marco sancionador vigente (LISOS y art. 311.2 CP)."
+    },
+    "frente-obrero-007": {
+      "status": "corregida",
+      "summary": "Propone derogar las sucesivas reformas laborales que han facilitado y abaratado el despido y que permiten la primacía del convenio de empresa sobre los convenios sectoriales cuando perjudica al trabajador.",
+      "arguments_for": "La reforma laboral de 2012 (Ley 3/2012) redujo la indemnización general por despido improcedente de 45 días por año (máximo 42 mensualidades) a 33 días (máximo 24 mensualidades), suprimió la autorización administrativa en los ERE y limitó los salarios de tramitación. En 2024, el Comité Europeo de Derechos Sociales (CEDS) del Consejo de Europa concluyó que el sistema español de indemnización tasada vulnera el artículo 24.b de la Carta Social Europea Revisada por no resultar suficientemente disuasorio ni reparador.",
+      "arguments_against": "En materia de negociación colectiva, el Real Decreto-ley 32/2021 ya modificó el artículo 84.2 del Estatuto de los Trabajadores para suprimir la prioridad aplicativa del convenio de empresa en materia salarial. En cuanto a la indemnización por despido, el Tribunal Supremo mantiene que el tope legal de 33 días es plenamente aplicable y aporta seguridad jurídica, mientras organismos económicos advierten de que encarecer el despido indefinido puede frenar la contratación estable.",
+      "sources_for": [
+        {
+          "title": "Análisis de la decisión del Comité Europeo de Derechos Sociales y la doctrina del Tribunal Supremo sobre el despido",
+          "publisher": "Cuatrecasas",
+          "url": "https://www.cuatrecasas.com/es/spain/laboral/art/indemnizacion-despido-espana"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Resumen legislativo del Real Decreto-ley 32/2021 de reforma laboral",
+          "publisher": "Mutua MAZ (BOE)",
+          "url": "https://www.maz.es/Publicaciones/Resumen%20legislativo/real-decreto-ley32-2021-reforma-laboral.pdf",
+          "date": "2022"
+        },
+        {
+          "title": "Análisis de la decisión del Comité Europeo de Derechos Sociales y la doctrina del Tribunal Supremo sobre el despido",
+          "publisher": "Cuatrecasas",
+          "url": "https://www.cuatrecasas.com/es/spain/laboral/art/indemnizacion-despido-espana"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles (p. 9). Simplificada summary para no atribuir detalles específicos (45 días, EREs) ausentes del enunciado oficial; trasladado ese contexto a arguments_for y añadida la doctrina vigente del Tribunal Supremo en arguments_against."
+    },
+    "frente-obrero-008": {
+      "status": "corregida",
+      "summary": "Plantea la derogación inmediata del Real Decreto-ley 17/1977 sobre relaciones de trabajo al considerar que limita el ejercicio pleno del derecho de huelga, especialmente en sectores estratégicos.",
+      "arguments_for": "El Real Decreto-ley 17/1977 es una norma preconstitucional aprobada antes de la Constitución de 1978, varios de cuyos preceptos restrictivos tuvieron que ser anulados o reinterpretados por la Sentencia del Tribunal Constitucional 11/1981. Su artículo 10.2 permite a la autoridad gubernativa fijar servicios mínimos en servicios esenciales, dando lugar a litigios recurrentes ante los tribunales contencioso-administrativos cuando se fijan porcentajes considerados desproporcionados.",
+      "arguments_against": "El propio artículo 28.2 de la Constitución Española exige expresamente que la ley reguladora del derecho de huelga establezca las garantías precisas para asegurar el mantenimiento de los servicios esenciales de la comunidad. Derogar el RDL 17/1977 sin aprobar simultáneamente una Ley Orgánica que regule preavisos, comités y servicios mínimos dejaría un vacío normativo respecto a la continuidad de servicios críticos como sanidad, transporte o suministro energético.",
+      "sources_for": [
+        {
+          "title": "Real Decreto-ley 17/1977, de 4 de marzo, sobre relaciones de trabajo",
+          "publisher": "BOE",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1977-6061",
+          "date": "1977-03-09"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Artículo 28.2 de la Constitución Española — Derecho de huelga y servicios esenciales",
+          "publisher": "BOE (Constitución Española)",
+          "url": "https://www.boe.es/legislacion/derechos_fundamentales.php?id_articulo=28.2&id_concepto=311"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles (p. 9). Eliminado el rango porcentual '75% al 100%' en summary por no constar en el programa y añadidas fuentes primarias del BOE."
+    },
+    "frente-obrero-009": {
+      "status": "corregida",
+      "summary": "Propone reforzar el control sobre el cumplimiento de las condiciones laborales, priorizando la prevención de riesgos laborales especialmente en trabajos de alta peligrosidad.",
+      "arguments_for": "Según los datos consolidados de siniestralidad de 2025 (Ministerio de Trabajo / UGT), en España se registraron 640.148 accidentes laborales con baja (546.473 en jornada) y 771 trabajadores fallecidos (613 en jornada y 158 in itinere). En cuanto a vigilancia, la plantilla de la ITSS ronda los 2.400 efectivos conjuntos (unos 1.077 inspectores y 1.362 subinspectores), lo que sitúa la ratio de inspectores puros por encima de 1 por cada 20.000 ocupados frente al referente orientativo de la OIT de 1 por cada 10.000, motivo por el que la Estrategia ITSS 2025-2027 prevé incorporar 554 nuevos efectivos.",
+      "arguments_against": "La Ley 31/1995 de Prevención de Riesgos Laborales establece ya obligaciones exhaustivas de evaluación y planificación preventiva, que organizaciones empresariales consideran muy gravosas burocráticamente para microempresas. Además, según informes del INSST y estadísticas de siniestralidad, más del 40 % de los fallecimientos en jornada corresponden a patologías no traumáticas (infartos e ictus) y accidentes de tráfico, vinculados también a factores de salud pública y movilidad.",
+      "sources_for": [
+        {
+          "title": "Informe de Accidentes de Trabajo 2025",
+          "publisher": "UGT (datos Ministerio de Trabajo)",
+          "url": "https://www.ugt.es/sites/default/files/informes/informe_%20AT_2025.pdf",
+          "date": "2026"
+        },
+        {
+          "title": "Estrategia de la Inspección de Trabajo y Seguridad Social 2025-2027 (554 nuevos efectivos)",
+          "publisher": "Ministerio de Trabajo y Economía Social",
+          "url": "https://prensa.mites.gob.es/webPrensa/listado-noticia/noticia/4465",
+          "date": "2025"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Informe anual de accidentes de trabajo en España",
+          "publisher": "Instituto Nacional de Seguridad y Salud en el Trabajo (INSST)",
+          "url": "https://www.insst.es/documentacion/material-tecnico/documentos-tecnicos/informe-anual-de-accidentes-de-trabajo-en-espana"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles (p. 9). Corregido error grave en datos_a_favor: la plantilla real de ITSS ronda los 2.400 efectivos (no 3.000) y la ratio de inspectores supera 1 por 20.000 ocupados (no 1 por 7.000). Actualizada siniestralidad a datos de 2025 (640.148 con baja, 771 mortales)."
+    },
+    "frente-obrero-010": {
+      "status": "corregida",
+      "summary": "Plantea reforzar el control del registro de horas extraordinarias y garantizar que únicamente se realicen las permitidas por la ley para cada trabajador.",
+      "arguments_for": "Según los informes basados en microdatos de la EPA del INE (2024-2025), en España se realizan entre 6,3 y 6,4 millones de horas extraordinarias semanales, de las que unos 2,5 millones (cerca del 39-43 %) no se pagan ni cotizan. CCOO estima que estas horas no retribuidas suponen entre 3.243 y 3.378 millones de euros anuales en costes laborales eludidos y equivalen a entre 62.000 y 68.000 empleos a tiempo completo.",
+      "arguments_against": "Desde la implantación del registro horario obligatorio en 2019 (RDL 8/2019, art. 34.9 ET), organizaciones empresariales señalan dificultades prácticas de control en modalidades de teletrabajo, actividad comercial itinerante y puestos con flexibilidad horaria, así como el riesgo de sanciones por errores formales de fichaje en picos puntuales de actividad de pequeños comercios y hostelería.",
+      "sources_for": [
+        {
+          "title": "Análisis de las horas extraordinarias en España a partir de la EPA",
+          "publisher": "CCOO (microdatos EPA del INE)",
+          "url": "https://www.ccoo.es/dc838838f559574d5410f05584a2bf86000001.pdf",
+          "date": "2025"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Real Decreto-ley 8/2019, de medidas urgentes de protección social y lucha contra la precariedad laboral en la jornada de trabajo (art. 10, registro horario)",
+          "publisher": "BOE",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3481",
+          "date": "2019-03-12"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles (p. 9). Ajustadas cifras EPA de horas extra (6,3-6,4M semanales, ~2,5M no pagadas, 62.000-68.000 empleos equivalentes) con informe verificado y añadida fuente primaria BOE."
+    }
+  }
+}

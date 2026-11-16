@@ -1,0 +1,561 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "salf",
+  "entries": {
+    "salf-001": {
+      "status": "corregida",
+      "summary": "SALF propone garantizar por ley que el comprador de primera vivienda pague al menos un 35 % menos que hoy mediante la exención del ITP y del AJD (al 0 %), la devolución íntegra en la declaración de la renta del IVA al 4 %, la cesión de suelo público sin coste y la concesión de licencias en plazo, con un coste estimado de unos 5.000 millones de euros anuales cubierto con el sobrecoste autonómico.",
+      "arguments_for": "Según el Observatorio de Emancipación del Consejo de la Juventud de España (CJE), un joven que quiera alquilar en solitario necesita destinar de media el 98,7 % de su salario neto y el riesgo de pobreza entre jóvenes trabajadores que alquilan asciende al 43 % tras pagar la vivienda. Además, APCEspaña calcula que los impuestos acumulados representan más del 25 % del precio final de una vivienda de obra nueva.",
+      "arguments_against": "El ITP y el AJD son tributos cedidos íntegramente a las comunidades autónomas —superando en conjunto los 10.000 millones de euros anuales en las liquidaciones recientes—, por lo que su supresión por ley estatal generaría un conflicto competencial bajo la LOFCA y exigiría compensación financiera. Asimismo, devolver íntegramente el IVA en el IRPF alteraría la estructura de un impuesto armonizado por la normativa europea.",
+      "sources_for": [
+        {
+          "title": "Observatorio de Emancipación (1.er semestre 2025)",
+          "publisher": "Consejo de la Juventud de España (CJE)",
+          "url": "https://www.cje.org/en/observatorio_2025/",
+          "date": "2025"
+        },
+        {
+          "title": "Paquete de medidas de vivienda de APCEspaña",
+          "publisher": "APCEspaña",
+          "url": "https://apce.es/paquete-de-vivienda-apcespana/"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas (LOFCA)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://boe.es/buscar/act.php?id=BOE-A-1980-21166&tn=6&p=20131210"
+        },
+        {
+          "title": "La escalada de precios de la vivienda dispara a máximos los ingresos de las comunidades por ITP y AJD",
+          "publisher": "El País",
+          "url": "https://elpais.com/economia/2025-06-06/la-escalada-de-precios-de-la-vivienda-dispara-a-maximos-los-ingresos-de-las-comunidades.html",
+          "date": "2025-06-06"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles al PDF (p. 5). Explicación corregida para eliminar el matiz añadido ('dotacional', 'exprés') e incluir el coste estimado (≈ 5.000 M€/año). Argumentos corregidos: el 43 % citado originalmente correspondía al riesgo de pobreza tras el pago de vivienda según CJE (no al esfuerzo salarial medio), y se actualiza la recaudación autonómica de ITP y AJD."
+    },
+    "salf-002": {
+      "status": "corregida",
+      "arguments_for": "La recaudación conjunta vinculada a la vivienda (incluyendo IVA, ITP, AJD, IBI, plusvalía municipal y otros tributos estatales, autonómicos y locales) ronda los 52.000 millones de euros anuales según estimaciones del sector recogidas en informes económicos y datos tributarios de Hacienda, lo que eleva los ingresos públicos cuando suben los precios.",
+      "arguments_against": "Vincular rígidamente la recaudación de múltiples figuras impositivas locales, autonómicas y estatales a la evolución del IPC chocaría con la autonomía financiera de los municipios (art. 142 CE) y de las comunidades autónomas (art. 156 CE), además de introducir incertidumbre y volatilidad en la elaboración de los presupuestos públicos.",
+      "sources_for": [
+        {
+          "title": "España recauda 52.000 millones con impuestos a la vivienda y le dedica 7.000 millones en gasto público",
+          "publisher": "elDiario.es",
+          "url": "https://www.eldiario.es/economia/espana-recauda-52-000-millones-impuestos-vivienda-le-dedica-7-000-millones-gasto-publico_1_13337008.html"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Constitución Española de 1978 (arts. 142 y 156)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles al PDF (p. 5). Explicación correcta. Argumento a favor matizado para atribuir la cifra de ~52.000 M€ a estimaciones fiscales sobre vivienda publicadas en prensa económica y datos de Hacienda sin atribuirla erróneamente a un informe conjunto de AIReF."
+    },
+    "salf-003": {
+      "status": "corregida",
+      "arguments_for": "Según estimaciones estadísticas del Consejo General del Poder Judicial (CGPJ) y análisis procesales del sector, la resolución de juicios verbales arrendaticios y procedimientos de desahucio hasta el lanzamiento suele promediar entre 9 y 15 meses según el partido judicial y la existencia de oposición o suspensión, lo que genera incertidumbre entre los propietarios.",
+      "arguments_against": "Fuera de los supuestos de delito flagrante, la entrada policial en un inmueble sin autorización judicial choca con las garantías constitucionales del artículo 18.2 y la tutela judicial efectiva del artículo 24 de la Constitución. Asimismo, exigir señalamiento y lanzamiento en 30 días resulta difícil de materializar con la carga de trabajo actual de los juzgados de primera instancia sin un refuerzo significativo de medios.",
+      "sources_for": [
+        {
+          "title": "Estimación de los tiempos medios de duración de los procedimientos judiciales",
+          "publisher": "Consejo General del Poder Judicial (CGPJ)",
+          "url": "https://www.poderjudicial.es/cgpj/es/Temas/Transparencia/Estimacion-de-los-tiempos-medios-de-duracion-de-los-procedimientos-judiciales/"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Nota Informativa n.º 26/2019 (constitucionalidad del desalojo sumario judicial de viviendas ocupadas, Ley 5/2018)",
+          "publisher": "Tribunal Constitucional",
+          "url": "https://www.tribunalconstitucional.es/NotasDePrensaDocumentos/NP_2019_026/NOTA%20INFORMATIVA%20N%C2%BA%2026-2019.pdf",
+          "date": "2019"
+        },
+        {
+          "title": "Constitución Española de 1978 (arts. 18.2 y 24)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles al PDF (p. 5). Explicación correcta. Corregida la horquilla de duración judicial (9-15 meses frente a 12-20) y precisado el argumento constitucional sobre autorización judicial y tutela efectiva."
+    },
+    "salf-004": {
+      "status": "corregida",
+      "arguments_for": "Según datos del Ministerio de Vivienda y Agenda Urbana y Sareb, los activos movilizados hacia la empresa estatal de vivienda suman más de 40.000 viviendas y cerca de 2.400 suelos con capacidad estimada para unas 55.000 nuevas unidades. La escasez de oferta asequible contribuye a que la tasa de emancipación juvenil en España haya bajado al 14,5 % (CJE), situándose la edad media de emancipación en 30,2 años frente a 26,3 de media en la UE.",
+      "arguments_against": "Diversos suelos en cartera de Sareb se ubican en municipios con menor demanda residencial, carecen de urbanización consolidada o presentan cargas complejas. Además, la Comisión Europea y la OCDE subrayan el reducido parque de alquiler social en España (en torno al 1,5 %-2 % del total) y recomiendan ampliar la vivienda pública permanente de alquiler asequible frente a la enajenación en propiedad.",
+      "sources_for": [
+        {
+          "title": "Traspaso de vivienda y suelo de Sareb",
+          "publisher": "Ministerio de Vivienda y Agenda Urbana (MIVAU)",
+          "url": "https://www.mivau.gob.es/vivienda/traspaso-vivienda-y-suelo-sareb"
+        },
+        {
+          "title": "Observatorio de Emancipación (1.er semestre 2025)",
+          "publisher": "Consejo de la Juventud de España (CJE)",
+          "url": "https://www.cje.org/en/observatorio_2025/",
+          "date": "2025"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "2026 Spain Housing Annex",
+          "publisher": "Comisión Europea",
+          "url": "https://housing.ec.europa.eu/document/download/3c0b5ce5-67e0-4e4a-a5e2-fede25ea3e07_en?filename=2026%20ES%20Housing%20Annex.pdf&prefLang=sl",
+          "date": "2026"
+        },
+        {
+          "title": "Tackling the Affordability Gap through Increased Supply of Affordable and Social Housing",
+          "publisher": "OCDE",
+          "url": "https://www.oecd.org/en/publications/tackling-the-affordability-gap-through-increased-supply-of-affordable-and-social-housing_60b5a398-en/full-report.html"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles al PDF (p. 6). Explicación correcta. Corregida la tasa de emancipación juvenil (14,5 % según CJE y 30,2 años de media, frente al 17 % sin fuente directa) y precisadas las cifras de suelos y viviendas de Sareb."
+    },
+    "salf-005": {
+      "status": "corregida",
+      "arguments_for": "Informes del sector promotor (APCEspaña) y del Observatorio Inmobiliario constatan que los plazos medios municipales para conceder una licencia de obra mayor suelen oscilar entre 12 y 18 meses, lo que eleva los costes financieros de la promoción y retrasa la puesta en el mercado de nueva oferta residencial.",
+      "arguments_against": "El silencio administrativo positivo automático en licencias contrarias al planeamiento choca con la jurisprudencia consolidada del Tribunal Supremo y con la legislación estatal del suelo, que impiden adquirir por silencio facultades urbanísticas contrarias a la ordenación territorial o ambiental. Además, imponer plazos e indemnizaciones por ley estatal incide en competencias autonómicas exclusivas de urbanismo (art. 148.1.3.ª CE) y municipales.",
+      "sources_for": [
+        {
+          "title": "Paquete de medidas de vivienda de APCEspaña",
+          "publisher": "APCEspaña",
+          "url": "https://apce.es/paquete-de-vivienda-apcespana/"
+        },
+        {
+          "title": "La construcción industrializada reducirá los plazos de ejecución",
+          "publisher": "Observatorio Inmobiliario",
+          "url": "https://observatorioinmobiliario.es/opinion/la-construccion-industrializada-reducira-los-plazos-de-ejecucion-2/"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "El silencio administrativo positivo en el ámbito urbanístico y la doctrina del Tribunal Supremo",
+          "publisher": "Revista Andaluza de Administración Pública (Junta de Andalucía)",
+          "url": "https://ws168.juntadeandalucia.es/revistaselectronicas/raap/article/download/159/157/306"
+        },
+        {
+          "title": "Artículo 148 de la Constitución Española",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles al PDF (p. 6). Explicación correcta. Eliminada la horquilla no verificada de '10.000 a 15.000 euros' por vivienda y respaldada la doctrina del Tribunal Supremo sobre silencio positivo."
+    },
+    "salf-006": {
+      "status": "corregida",
+      "arguments_against": "El régimen de las SOCIMI (equivalente a los vehículos REIT existentes en numerosos países de la OCDE) está diseñado para canalizar inversión institucional hacia el alquiler profesionalizado trasladando la tributación a los dividendos del socio. Elevar su tributación corporativa al 25 % y restringir la contratación pública podría reducir el atractivo para el capital institucional y frenar proyectos de vivienda en alquiler de nueva planta.",
+      "sources_for": [
+        {
+          "title": "Ley 11/2009, de 26 de octubre, por la que se regulan las Sociedades Anónimas Cotizadas de Inversión en el Mercado Inmobiliario (SOCIMI)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17042"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "2026 Spain Housing Annex",
+          "publisher": "Comisión Europea",
+          "url": "https://housing.ec.europa.eu/document/download/3c0b5ce5-67e0-4e4a-a5e2-fede25ea3e07_en?filename=2026%20ES%20Housing%20Annex.pdf&prefLang=sl",
+          "date": "2026"
+        },
+        {
+          "title": "Ley 11/2009 reguladora de las SOCIMI (estructura internacional REIT)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/eli/es/l/2009/10/26"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles al PDF (p. 6). Explicación y argumento a favor correctos. Corregido en el argumento en contra el dato impreciso 'más de 40 países de la OCDE' (la OCDE cuenta con 38 Estados miembros) por 'numerosos países de la OCDE'."
+    },
+    "salf-007": {
+      "status": "corregida",
+      "summary": "Propone crear un aval público del 20 % de la entrada hipotecaria para menores de 40 años que adquieran su primera vivienda, con una línea de garantías de 2.000 millones de euros que el programa no computa como gasto directo y que, combinada con la rebaja prevista del 35 %, pretende facilitar la compra con ingresos ordinarios.",
+      "arguments_against": "El Banco de España ha advertido en sus análisis sobre el mercado inmobiliario de que los estímulos centrados exclusivamente en la demanda —como los avales públicos para cubrir la entrada de la hipoteca— tienden a trasladarse a mayores precios cuando la oferta residencial es rígida a corto plazo, además de elevar el endeudamiento relativo de los compradores y generar pasivos contingentes para el Estado.",
+      "sources_for": [
+        {
+          "title": "Informe Anual 2023 — Capítulo 4: El mercado de la vivienda en España",
+          "publisher": "Banco de España",
+          "url": "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesAnuales/InformesAnuales/23/Fich/InfAnual_2023_Cap4.pdf",
+          "date": "2024"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Informe Anual 2023 — Capítulo 4: El mercado de la vivienda en España",
+          "publisher": "Banco de España",
+          "url": "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesAnuales/InformesAnuales/23/Fich/InfAnual_2023_Cap4.pdf",
+          "date": "2024"
+        },
+        {
+          "title": "Discurso sobre el mercado de la vivienda en España",
+          "publisher": "Banco de España",
+          "url": "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesAnuales/InformesAnuales/25/Fich/IIPP-2026-06-18-lopez-salido-es-or.pdf",
+          "date": "2026"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Aviso texto oficial (reportado al coordinador): omite la frase 'Garantía de 2.000 M€; no es gasto.' (p. 6). Explicación corregida para eliminar la referencia no contenida en el programa al ICO e incorporar la garantía de 2.000 M€. Argumento en contra ajustado a las advertencias contrastadas del Banco de España."
+    },
+    "salf-008": {
+      "status": "corregida",
+      "summary": "Propone un seguro público de impago que garantice al propietario el cobro de doce meses de renta y daños en la vivienda, encargándose después el Estado de reclamar al moroso. A cambio, el alquiler se formaliza sin exigir tres nóminas ni aval bancario, dando prioridad a menores de 45 años y familias con hijos, con un coste estimado de unos 150 millones de euros anuales.",
+      "arguments_for": "La exigencia de múltiples nóminas, depósitos y avales encarece el acceso al alquiler. Según análisis del Banco de España, alrededor del 90 % de las viviendas en alquiler a precio de mercado pertenecen a personas físicas (particulares), y en torno al 76 % de esos arrendadores posee una única vivienda, lo que limita su capacidad para absorber impagos prolongados sin cobertura.",
+      "sources_for": [
+        {
+          "title": "Informe Anual 2023 — Capítulo 4: El mercado de la vivienda en España",
+          "publisher": "Banco de España",
+          "url": "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesAnuales/InformesAnuales/23/Fich/InfAnual_2023_Cap4.pdf",
+          "date": "2024"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "2026 Spain Housing Annex",
+          "publisher": "Comisión Europea",
+          "url": "https://housing.ec.europa.eu/document/download/3c0b5ce5-67e0-4e4a-a5e2-fede25ea3e07_en?filename=2026%20ES%20Housing%20Annex.pdf&prefLang=sl",
+          "date": "2026"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles al PDF (p. 7). Explicación corregida: inventaba el requisito de 'precios tasados' (inexistente en el programa) y omitía la supresión de tres nóminas/aval bancario y el coste de ≈ 150 M€/año. Argumento a favor corregido con la estadística del Banco de España sobre arrendadores particulares."
+    },
+    "salf-009": {
+      "status": "corregida",
+      "summary": "La medida impulsa la construcción de vivienda industrializada en suelo público y suelo urbano consolidado con licencia automática (fijada en 15 días en el título de la propuesta) y un estándar técnico único válido en toda España. Paralelamente, crea un registro único de alquiler turístico con cumplimiento fiscal y sin prohibiciones.",
+      "sources_for": [
+        {
+          "title": "La construcción industrializada reducirá los plazos de ejecución",
+          "publisher": "Observatorio Inmobiliario",
+          "url": "https://observatorioinmobiliario.es/opinion/la-construccion-industrializada-reducira-los-plazos-de-ejecucion-2/"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Constitución Española de 1978 (art. 148.1.3.ª)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+        },
+        {
+          "title": "2026 Spain Housing Annex",
+          "publisher": "Comisión Europea",
+          "url": "https://housing.ec.europa.eu/document/download/3c0b5ce5-67e0-4e4a-a5e2-fede25ea3e07_en?filename=2026%20ES%20Housing%20Annex.pdf&prefLang=sl",
+          "date": "2026"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles al PDF (p. 7). Explicación ajustada para ceñirse al contenido literal del programa (eliminado 'modular', 'habitabilidad', 'cuotas de prohibición') aclarando que los 15 días figuran en el epígrafe de la medida."
+    },
+    "salf-010": {
+      "status": "corregida",
+      "summary": "Plantea la eliminación total y sin excepciones del Impuesto sobre Bienes Inmuebles (IBI) sin compensaciones a ninguna administración. El programa cifra el descenso de ingresos municipales en unos 13.400 millones de euros anuales y señala que los ayuntamientos deberán absorberlo mediante ahorro, sin crear otros impuestos.",
+      "arguments_against": "El IBI constituye el principal impuesto propio de los municipios españoles, con una recaudación superior a 13.400 millones de euros anuales (alrededor del 22 % de los ingresos totales locales y cerca de la mitad de sus ingresos fiscales propios). Su supresión sin compensación comprometería la suficiencia financiera municipal garantizada por los artículos 140 y 142 de la Constitución y dificultaría la financiación de servicios básicos locales.",
+      "sources_for": [
+        {
+          "title": "Los municipios ingresan con el IBI el doble que en el pico del boom inmobiliario",
+          "publisher": "Cinco Días / El País",
+          "url": "https://cincodias.elpais.com/economia/2023-06-01/los-municipios-ingresan-con-el-ibi-el-doble-que-en-el-pico-del-boom-inmobiliario.html",
+          "date": "2023-06-01"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "La hacienda local en cifras: análisis y reflexiones",
+          "publisher": "Fundación Democracia y Gobierno Local",
+          "url": "https://www.gobiernolocal.org/acento-local/la-hacienda-local-en-cifras-analisis-y-reflexiones/"
+        },
+        {
+          "title": "Constitución Española de 1978 (arts. 140 y 142)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Aviso texto oficial (reportado al coordinador): omite la línea 'Menos ingresos municipales: ≈ 13.400 M€/año; los ayuntamientos lo absorben con ahorro, no con otros impuestos.' (p. 7). Explicación corregida para incluirla y evitar añadir 'gasto político superfluo'. Argumento en contra ajustado al peso real del IBI (~22 % de ingresos totales y ~50 % de ingresos fiscales propios)."
+    },
+    "salf-011": {
+      "status": "corregida",
+      "summary": "Propone construir un centro penitenciario de máxima seguridad para asesinos, agresores sexuales, narcotraficantes, crimen organizado, terroristas, multirreincidentes violentos y políticos corruptos, con un régimen sin permisos, sin tercer grado y sin teléfono. El programa cifra el coste de obra en unos 3.000 millones de euros, financiados con lo decomisado al narcotráfico y al crimen organizado.",
+      "arguments_for": "Según el Balance de Criminalidad de 2025 del Ministerio del Interior, España registró 376 homicidios dolosos y asesinatos consumados y más de 21.000 infracciones contra la libertad sexual. Los defensores de los centros de máxima seguridad destacan su efecto neutralizador y disuasorio frente al crimen organizado en países que los han implantado.",
+      "arguments_against": "El artículo 25.2 de la Constitución Española establece que las penas privativas de libertad estarán orientadas hacia la reeducación y reinserción social. Un régimen de incomunicación permanente y aislamiento prolongado colisionaría con las Reglas Nelson Mandela de la ONU y la jurisprudencia del TEDH; además, el Fondo de Bienes Decomisados recauda habitualmente decenas de millones anuales, muy lejos de los 3.000 millones proyectados.",
+      "sources_for": [
+        {
+          "title": "Balance de Criminalidad — Cuarto Trimestre de 2025",
+          "publisher": "Ministerio del Interior",
+          "url": "https://estadisticasdecriminalidad.ses.mir.es/publico/portalestadistico/dam/jcr:7d3776cd-9ca4-4c02-8ca4-96b2571dbee4/BalancedeCriminalidadCuartoTrimestre2025.pdf",
+          "date": "2026"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Reglas Mínimas de las Naciones Unidas para el Tratamiento de los Reclusos (Reglas Nelson Mandela)",
+          "publisher": "ONU (UNODC)",
+          "url": "https://www.unodc.org/documents/justice-and-prison-reform/Brochure_on_the_The_UN_Standard_Minimum_the_Nelson_Mandela_Rules-S.pdf"
+        },
+        {
+          "title": "El Fondo de Bienes Decomisados por tráfico ilícito de drogas y otros delitos relacionados",
+          "publisher": "Ministerio de Sanidad",
+          "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6995"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Aviso texto oficial (reportado al coordinador): antepone '105 1 ' (infografía) y omite 'Coste de obra: ≈ 3.000 M€, pagados con lo decomisado al narco y al crimen organizado.' (p. 8). Explicación corregida para incluir a multirreincidentes violentos y retirar referencias no literales al CECOT. Argumentos contrastados con datos de Interior 2025 y Fondo de Bienes Decomisados."
+    },
+    "salf-012": {
+      "status": "contrastada",
+      "sources_for": [
+        {
+          "title": "Balance de Criminalidad — Cuarto Trimestre de 2025",
+          "publisher": "Ministerio del Interior",
+          "url": "https://estadisticasdecriminalidad.ses.mir.es/publico/portalestadistico/dam/jcr:7d3776cd-9ca4-4c02-8ca4-96b2571dbee4/BalancedeCriminalidadCuartoTrimestre2025.pdf",
+          "date": "2026"
+        },
+        {
+          "title": "Informe CEPEJ sobre la eficiencia de la justicia 2024",
+          "publisher": "Consejo General de la Abogacía Española",
+          "url": "https://www.abogacia.es/actualidad/noticias/informe-sobre-la-eficiencia-de-la-justicia-de-2024-datos-2022/",
+          "date": "2024"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "STC 169/2021, de 6 de octubre (constitucionalidad de la prisión permanente revisable)",
+          "publisher": "Boletín Oficial del Estado (BOE) / Tribunal Constitucional",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-18372",
+          "date": "2021-10-06"
+        },
+        {
+          "title": "Constitución Española de 1978 (art. 25.2)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles al PDF (p. 8). Explicación y argumentos contrastados con el Balance de Criminalidad de Interior, el art. 25.2 CE y la STC 169/2021."
+    },
+    "salf-013": {
+      "status": "contrastada",
+      "sources_for": [
+        {
+          "title": "Las violaciones en España subieron un 2,8 % en 2025 (21.659 delitos contra la libertad sexual)",
+          "publisher": "Efeminista (Agencia EFE)",
+          "url": "https://efeminista.com/2025-datos-espana-violaciones/",
+          "date": "2026"
+        },
+        {
+          "title": "El Parlamento polaco aprueba la castración química para pederastas",
+          "publisher": "elEconomista.es",
+          "url": "https://www.eleconomista.es/europa/noticias/1568417/09/09/El-Parlamento-polaco-aprueba-la-castracion-quimica-para-los-pederastas.html",
+          "date": "2009"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Constitución Española de 1978 (arts. 18 y 25.2)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles al PDF (p. 8). Explicación y argumentos contrastados con datos del Ministerio del Interior (21.659 infracciones sexuales en 2025), antecedentes comparados en Polonia y límites constitucionales (arts. 18 y 25 CE)."
+    },
+    "salf-014": {
+      "status": "contrastada",
+      "sources_for": [
+        {
+          "title": "Cataluña lidera junto a otros cinco sistemas europeos el porcentaje de extranjeros en sus cárceles",
+          "publisher": "The Objective",
+          "url": "https://theobjective.com/espana/2026-05-21/cataluna-top-seis-carceles-europeas-extranjeros/",
+          "date": "2026-05-21"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Convenio sobre traslado de personas condenadas (Estrasburgo, 1983) — disposiciones BOE",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2017-11117"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Aviso texto oficial (reportado al coordinador): omite la línea 'Ahorro: ≈ 500 M€/año. Una plaza aquí cuesta ≈ 80 € al día.' (p. 9). Explicación y argumentos contrastados (~31 % de internos extranjeros en Instituciones Penitenciarias y >48 % en Cataluña; límites del Convenio de Estrasburgo de 1983 y art. 3 CEDH)."
+    },
+    "salf-015": {
+      "status": "corregida",
+      "summary": "Propone culminar en dos años la equiparación salarial real de Guardia Civil y Policía Nacional con las policías autonómicas como los Mossos d'Esquadra, establecer la jubilación a los 60 años sin penalización y reconocerlas como profesión de riesgo. El programa afirma que actualmente perciben 7.500 euros menos al año y trabajan 130 horas más.",
+      "sources_for": [
+        {
+          "title": "Jubilación de policías nacionales y guardias civiles: debate sobre equiparación y haber regulador",
+          "publisher": "Asociación Unificada de Guardias Civiles (AUGC)",
+          "url": "https://augc.org/article/noticias/jubilacion-de-policias-nacionales-y-guardias-civiles-interior-acepta-recalcular-el-haber-regulador-para-mejorar-las-pensiones-de-policias-y-guardias-civiles"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Jubilación de policías nacionales y guardias civiles: impacto presupuestario y negociación con Interior",
+          "publisher": "Asociación Unificada de Guardias Civiles (AUGC)",
+          "url": "https://augc.org/article/noticias/jubilacion-de-policias-nacionales-y-guardias-civiles-interior-acepta-recalcular-el-haber-regulador-para-mejorar-las-pensiones-de-policias-y-guardias-civiles"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles al PDF (p. 9). Explicación corregida para eliminar detalles no presentes en el texto ('Ertzaintza', 'pagas extraordinarias', 'segunda actividad') e incluir la brecha de 7.500 € y 130 horas citada en el programa. Argumentos contrastados."
+    },
+    "salf-016": {
+      "status": "corregida",
+      "summary": "Plantea un Plan Estrecho contra el narcotráfico con apoyo permanente de la Armada y el Ejército del Aire, una inversión de 180 millones de euros en lanchas, drones y medios aéreos, y el decomiso civil de todo bien procedente del narcotráfico, mencionando que cuatro guardias civiles han muerto por narcolanchas desde 2024.",
+      "sources_for": [
+        {
+          "title": "Muerte de los guardias civiles de Barbate (febrero de 2024)",
+          "publisher": "Wikipedia",
+          "url": "https://es.wikipedia.org/wiki/Muerte_de_los_guardias_civiles_de_Barbate"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Ley Orgánica 5/2005, de la Defensa Nacional, y normativa de seguridad nacional",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14747"
+        },
+        {
+          "title": "Constitución Española de 1978 (art. 33 y art. 104)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Aviso texto oficial (reportado al coordinador): incluye el número y título '6 Plan Estrecho: la Armada contra el narco. ' al inicio del cuerpo (p. 9). Explicación corregida para ceñirse al texto (eliminado 'Campo de Gibraltar' y 'sin condena' literal, e incorporada la referencia del programa a las muertes desde 2024). Argumentos contrastados."
+    },
+    "salf-017": {
+      "status": "corregida",
+      "summary": "Crea una mili voluntaria, militar o civil, de entre seis y doce meses para jóvenes de 18 a 30 años, retribuida con 1.600 euros netos mensuales, formación oficial, puntos en todas las oposiciones, acceso preferente a vivienda protegida y 5.000 euros al finalizar, con un coste estimado de unos 1.200 millones de euros anuales.",
+      "arguments_against": "Financiar decenas de miles de plazas anuales retribuidas con 1.600 euros netos al mes más la prima final de 5.000 euros y los gastos de equipamiento, alojamiento e instrucción superaría previsiblemente los 1.200 millones estimados, absorbiendo una parte sustancial del presupuesto de Defensa y restando margen a inversiones en capacidades operativas.",
+      "sources_for": [
+        {
+          "title": "El servicio militar vuelve a Europa: el modelo de Suecia",
+          "publisher": "El Independiente",
+          "url": "https://www.elindependiente.com/internacional/2024/04/07/el-servicio-militar-vuelve-a-europa/",
+          "date": "2024-04-07"
+        },
+        {
+          "title": "Países occidentales que han vuelto a implantar el servicio militar y el SNU francés",
+          "publisher": "El Blog Salmón",
+          "url": "https://www.elblogsalmon.com/economia/estos-paises-occidentales-que-han-vuelto-a-implantar-servicio-militar-obligatorio-guerra-rusia"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "El servicio militar vuelve a Europa",
+          "publisher": "El Independiente",
+          "url": "https://www.elindependiente.com/internacional/2024/04/07/el-servicio-militar-vuelve-a-europa/",
+          "date": "2024-04-07"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles al PDF (p. 9). Explicación corregida: inventaba microcréditos para emprendimiento y 50.000 plazas (la medida 8 habla de 30.000) y omitía vivienda protegida preferente, 5.000 € al terminar y el coste de 1.200 M€/año. Argumento en contra ajustado para retirar la cifra errónea de 50.000 plazas."
+    },
+    "salf-018": {
+      "status": "corregida",
+      "summary": "Establece incentivos fiscales y formativos para quien complete la mili voluntaria: mínimo exento en el IRPF de 50.000 euros durante diez años (15.000 más que el mínimo general propuesto), cero cotización a cargo del trabajador en sus tres primeros años de contrato y matrícula gratuita en universidad y formación profesional, con un coste estimado de unos 250 millones de euros anuales para 30.000 plazas al año.",
+      "sources_for": [
+        {
+          "title": "El servicio militar vuelve a Europa",
+          "publisher": "El Independiente",
+          "url": "https://www.elindependiente.com/internacional/2024/04/07/el-servicio-militar-vuelve-a-europa/",
+          "date": "2024-04-07"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Constitución Española de 1978 (art. 31, igualdad y progresividad tributaria)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles al PDF (p. 9). Explicación corregida: inventaba bonificación por primer empleado y prioridad en vivienda (pertenecía a otra medida) y omitía cero cotización del trabajador los tres primeros años, matrícula gratuita en universidad/FP y coste de ≈ 250 M€/año."
+    },
+    "salf-019": {
+      "status": "corregida",
+      "summary": "Propone incorporar 2.000 jueces y 1.500 fiscales más, implantar juicios rápidos en 72 horas para multirreincidentes y delitos flagrantes y crear un expediente digital único en toda España, con un coste estimado de unos 400 millones de euros anuales.",
+      "sources_for": [
+        {
+          "title": "El Consejo de Europa mantiene a España por debajo de la media europea en jueces por habitante",
+          "publisher": "Otrosí (ICAM)",
+          "url": "https://www.otrosi.net/el-consejo-de-europa-mantiene-a-espana-muy-por-encima-en-presupuesto-judicial-por-habitante-pero-por-debajo-en-jueces/"
+        },
+        {
+          "title": "España, a la cola de Europa en jueces y fiscales",
+          "publisher": "The Objective",
+          "url": "https://theobjective.com/espana/2022-10-05/espana-jueces-fiscales-europa/",
+          "date": "2022-10-05"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Informe CEPEJ sobre la eficiencia de la justicia 2024",
+          "publisher": "Consejo General de la Abogacía Española",
+          "url": "https://www.abogacia.es/actualidad/noticias/informe-sobre-la-eficiencia-de-la-justicia-de-2024-datos-2022/",
+          "date": "2024"
+        },
+        {
+          "title": "Constitución Española de 1978 (art. 24)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles al PDF (p. 10). Explicación corregida para eliminar 'dictar sentencia firme' (no consta en el texto) e incorporar el coste estimado de ≈ 400 M€/año. Argumentos contrastados con datos CEPEJ."
+    },
+    "salf-020": {
+      "status": "corregida",
+      "summary": "Propone establecer una presunción legal de legítima defensa en la propia vivienda o negocio —incluido el uso de armas de fuego legalmente tenidas— frente a quien irrumpa por la fuerza o de noche, haciendo recaer en la acusación la prueba del exceso y no en la víctima, además de conceder licencias de armas para defensa del domicilio sin trabas a ciudadanos sin antecedentes.",
+      "arguments_against": "Ampliar la presunción de legítima defensa hacia una doctrina próxima a la 'castle doctrine' anglosajona tensiona el requisito legal de necesidad racional del medio empleado del artículo 20.4 del Código Penal y eleva el riesgo de respuestas letales desproporcionadas. Asimismo, facilitar licencias de armas para defensa domiciliaria incrementa la circulación de armas de fuego en el ámbito doméstico y los riesgos de accidentes o uso indebido.",
+      "sources_for": [
+        {
+          "title": "Código Penal (Ley Orgánica 10/1995), artículo 20.4 sobre legítima defensa",
+          "publisher": "Legia (texto BOE)",
+          "url": "https://legia.es/normativa-boe/cp"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Código Penal (Ley Orgánica 10/1995), artículo 20.4",
+          "publisher": "Legia (texto BOE)",
+          "url": "https://legia.es/normativa-boe/cp"
+        },
+        {
+          "title": "Boletín Oficial de las Cortes Generales — Reforma del Código Penal y legítima defensa",
+          "publisher": "Senado de España",
+          "url": "https://www.senado.es/legis15/publicaciones/pdf/senado/bocg/BOCG_T_15_242.PDF"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles al PDF (p. 10). Explicación corregida: inventaba prohibir prisión provisional, indemnizaciones civiles y jurado popular, y omitía la inversión de la carga de la prueba del exceso y las licencias de armas para ciudadanos sin antecedentes. Argumento en contra corregido para retirar la referencia al jurado popular."
+    }
+  }
+}

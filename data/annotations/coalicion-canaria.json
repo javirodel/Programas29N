@@ -1,0 +1,336 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "coalicion-canaria",
+  "entries": {
+    "coalicion-canaria-001": {
+      "status": "corregida",
+      "summary": "Propone exigir al Gobierno del Estado un cronograma vinculante en la Comisión Mixta de Transferencias Administración del Estado-Comunidad Autónoma de Canarias para culminar los traspasos y desarrollos previstos en la reforma del Estatuto de Autonomía de Canarias (Ley Orgánica 1/2018, de 5 de noviembre). Destaca de forma expresa las autorizaciones de trabajo para personas extranjeras previstas en el Estatuto y la gestión del transporte aéreo interinsular (artículos 160 y 161), exigiendo que cada traspaso incluya la valoración real de medios económicos, personales y materiales y rechazando cualquier recentralización.",
+      "arguments_against": "La Abogacía del Estado y los ministerios de Transportes e Inclusión han invocado reiteradamente límites constitucionales derivados del artículo 149.1 de la Constitución Española (competencia exclusiva estatal sobre inmigración y extranjería del art. 149.1.2ª, y sobre control del espacio aéreo, tránsito y transporte aéreo y aeropuertos de interés general del art. 149.1.20ª). Además, la experiencia del traspaso de Costas a Canarias mediante el Real Decreto 713/2022 evidenció conflictos financieros y administrativos: el Estado valoró el coste efectivo en unos 805.000 euros anuales, cuantía que el Gobierno de Canarias consideró insuficiente, junto a litigios sobre expedientes en curso que derivaron en recursos ante el Tribunal Constitucional.",
+      "sources_for": [
+        {
+          "title": "Estatuto de Autonomía de Canarias (Ley Orgánica 1/2018)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://boe.es/biblioteca_juridica/pdf/PUB-PB-2022-130.pdf",
+          "date": "2018"
+        },
+        {
+          "title": "Real Decreto 713/2022, de 30 de agosto, de traspaso de funciones y servicios en ordenación y gestión del litoral a Canarias",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14778",
+          "date": "2022"
+        },
+        {
+          "title": "Real Decreto 1463/2009, de traspaso a Cataluña en materia de autorizaciones de trabajo de extranjeros",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-14963",
+          "date": "2009"
+        },
+        {
+          "title": "Real Decreto 511/2025, de traspaso al País Vasco en autorizaciones iniciales de trabajo",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-12839",
+          "date": "2025"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Constitución Española de 1978 (artículo 149.1)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/biblioteca_juridica/codigos/pdf/151_Constitucion_Espanola.pdf",
+          "date": "1978"
+        },
+        {
+          "title": "El TC admite a trámite el recurso presentado por Canarias en defensa de sus plenas competencias en Costas",
+          "publisher": "Gobierno de Canarias",
+          "url": "https://www3.gobiernodecanarias.org/noticias/el-tc-admite-a-tramite-el-recurso-presentado-por-canarias-en-defensa-de-sus-plenas-competencias-en-costas/"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Corregida la referencia inexacta al artículo 144.1.g del Estatuto en summary y sustituida la cifra no verificada de >2M EUR de discrepancia en Costas por la valoración documentada (~805.000 EUR en el RD 713/2022) y el litigio constitucional."
+    },
+    "coalicion-canaria-002": {
+      "status": "corregida",
+      "summary": "Plantea reforzar la relación bilateral entre Canarias y el Estado (artículos 191 y 192 del Estatuto de Autonomía, relativos a cooperación y a la Comisión Bilateral de Cooperación Canarias-Estado) para que las decisiones estatales con impacto singular en las islas cuenten con la participación efectiva de las instituciones canarias. Asimismo, reclama mecanismos de acuerdo sobre infraestructuras científicas estratégicas y sobre los nombramientos en los organismos estatales radicados en Canarias, aplicando criterios de competencia profesional e idoneidad.",
+      "arguments_for": "La Disposición Adicional Tercera de la Constitución Española y los artículos 166 y 167 del Estatuto de Autonomía de Canarias establecen trámites preceptivos de informe previo del Parlamento de Canarias ante modificaciones que afecten al REF, que el ámbito institucional canario ha denunciado como preteridos cuando se recurre a reales decretos-leyes estatales de urgencia. Además, Canarias concentra infraestructuras incluidas en el Mapa nacional de las 29 Infraestructuras Científicas y Técnicas Singulares (ICTS), como PLOCAN, los Observatorios de Canarias y el Gran Telescopio Canarias (dentro de la RIA) y un nodo de la Red Española de Supercomputación (RES) en el IAC, cuya gobernanza compartida resulta clave para el retorno científico territorial.",
+      "sources_for": [
+        {
+          "title": "Estatuto de Autonomía de Canarias (artículos 166, 167, 191 y 192)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://boe.es/biblioteca_juridica/pdf/PUB-PB-2022-130.pdf",
+          "date": "2018"
+        },
+        {
+          "title": "Mapa de Infraestructuras Científicas y Técnicas Singulares (ICTS)",
+          "publisher": "Ministerio de Ciencia e Innovación",
+          "url": "https://www.ciencia.gob.es/dam/jcr:a26aeaf9-1341-4d7e-bf35-3d66e73b55b3/ICTS2022-11072022.pdf",
+          "date": "2022"
+        },
+        {
+          "title": "Plataforma Oceánica de Canarias (PLOCAN)",
+          "publisher": "Ministerio de Ciencia, Innovación y Universidades",
+          "url": "https://www.ciencia.gob.es/en/Organismos-y-Centros/ICTS/CienciasMar/PLOCAN.html"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "La STC 31/2010 y sus efectos sobre los Estatutos de Autonomía (Teoría y Realidad Constitucional)",
+          "publisher": "UNED",
+          "url": "https://revistas.uned.es/index.php/TRC/article/view/6952/6650"
+        },
+        {
+          "title": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566",
+          "date": "2015"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Corregido el artículo erróneo de la Comisión Bilateral (es art. 192, no 188), los artículos del informe previo del REF (DA 3ª CE y arts. 166-167 EAC, no art. 186 EAC ni art. 166 Ley 20/1991) y precisada la relación de nodos del Mapa ICTS en Canarias."
+    },
+    "coalicion-canaria-003": {
+      "status": "corregida",
+      "arguments_against": "Cualquier reforma de la Constitución Española exige, según el artículo 167 CE, una mayoría cualificada de tres quintos en ambas Cámaras —o dos tercios y disolución de las Cortes si afecta a materias del procedimiento agravado del artículo 168 CE—, un consenso que, como ya reflejó el informe del Consejo de Estado sobre reforma constitucional de 2006, resulta difícil de alcanzar en un Parlamento fragmentado. Asimismo, juristas constitucionalistas señalan que la reforma estatutaria de 2018 (Ley Orgánica 1/2018, artículos 166 y 167) ya refuerza las garantías del REF en el bloque de la constitucionalidad sin necesidad de abrir una reforma constitucional.",
+      "sources_for": [
+        {
+          "title": "Dosier sobre las Regiones Ultraperiféricas y el artículo 349 del TFUE",
+          "publisher": "Congreso de los Diputados",
+          "url": "https://www.congreso.es/docu/docum/ddocum/dosieres/sleg/legislatura_12/spl_9/pdfs/18.pdf"
+        },
+        {
+          "title": "Canarias en la UE y el Régimen Económico y Fiscal (REF)",
+          "publisher": "Gobierno de Canarias",
+          "url": "https://www.gobiernodecanarias.org/asuntoseuropeos/canarias_en_ue/ref/"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Constitución Española de 1978 (artículos 167 y 168 y Disposición Adicional Tercera)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/biblioteca_juridica/codigos/pdf/151_Constitucion_Espanola.pdf",
+          "date": "1978"
+        },
+        {
+          "title": "Estatuto de Autonomía de Canarias (Ley Orgánica 1/2018)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://boe.es/biblioteca_juridica/pdf/PUB-PB-2022-130.pdf",
+          "date": "2018"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Eliminada la cita a un supuesto dictamen del Consejo de Estado de 2018 sobre reforma constitucional no verificado y precisados los artículos 167 y 168 CE y 166-167 EAC."
+    },
+    "coalicion-canaria-004": {
+      "status": "corregida",
+      "summary": "Exige salvaguardar la integridad jurídica y económica del Régimen Económico y Fiscal de Canarias (Leyes 20/1991, 19/1994 y 8/2018) y actualizarlo para responder a las necesidades de la sociedad canaria y extender sus beneficios a todas las islas. Reclama mayor capacidad de decisión canaria sobre sus instrumentos económicos y fiscales (como la RIC, ZEC, DIC, IGIC y AIEM) y rechaza reformas unilaterales del Estado que prescindan de la participación del Gobierno y del Parlamento de Canarias (informe previo preceptivo por mayoría de dos tercios del artículo 167 del Estatuto).",
+      "arguments_for": "El Régimen Económico y Fiscal busca compensar las desventajas permanentes de lejanía, insularidad y fragmentación territorial reconocidas por el artículo 349 del TFUE y la Constitución Española, mediante incentivos como la Reserva para Inversiones en Canarias (RIC), que permite reducir hasta el 90 % de los beneficios no distribuidos destinados a inversión productiva o creación de empleo en el archipiélago (art. 27 de la Ley 19/1994). No obstante, la litigiosidad tributaria en torno a la interpretación y materialización de la RIC y otros incentivos ha generado inseguridad jurídica para el tejido empresarial.",
+      "arguments_against": "Los análisis de evaluación de beneficios fiscales de organismos como la AIReF destacan el elevado coste recaudatorio de los incentivos tributarios y la necesidad de evaluar su eficiencia y eficacia económica. Según la Contabilidad Regional de España del INE (2023), el PIB per cápita de Canarias continúa en torno al 79 %-80 % de la media nacional, sin haber cerrado la brecha de renta pese a décadas de incentivos, los cuales además están supeditados a la autorización de la Comisión Europea en el marco de las ayudas de Estado y el Mapa de Ayudas Regionales.",
+      "sources_for": [
+        {
+          "title": "Reserva para Inversiones en Canarias (RIC) — Régimen fiscal",
+          "publisher": "Agencia Estatal de Administración Tributaria (AEAT)",
+          "url": "https://sede.agenciatributaria.gob.es/Sede/impuesto-sobre-sociedades/deducciones-beneficios-fiscales-impuesto-sobre-sociedades/beneficios-fiscales-canarias/reserva-inversiones-canarias.html"
+        },
+        {
+          "title": "El Régimen Económico y Fiscal de Canarias",
+          "publisher": "Gobierno de Canarias",
+          "url": "https://www.gobiernodecanarias.org/asuntoseuropeos/canarias_en_ue/ref/"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Contabilidad Regional de España. Revisión estadística y serie 2023",
+          "publisher": "Instituto Nacional de Estadística (INE)",
+          "url": "https://www.ine.es/dyngs/Prensa/es/CRE2023.htm",
+          "date": "2024"
+        },
+        {
+          "title": "Revista de Hacienda Canaria: análisis del REF y su encaje europeo",
+          "publisher": "Agencia Tributaria Canaria / Gobierno de Canarias",
+          "url": "https://www3.gobiernodecanarias.org/tributos/atc/documents/65729/226681/RevistaHC-21_3.pdf/e5ab8fa9-3022-e3ed-fb36-7a17a4af8110?t=1725954467690"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Matizado en summary que el informe del art. 167 EAC es preceptivo (no un veto absoluto vinculante) y eliminadas cifras concretas no verificadas sobre dotación RIC (2.200M/600-900M), sobrecostes (12-18%) y coste fiscal (800-1.000M); contrastado el PIB per cápita con el INE."
+    },
+    "coalicion-canaria-005": {
+      "status": "corregida",
+      "arguments_against": "En los debates técnicos sobre la reforma del Sistema de Financiación Autonómica, varias comunidades autónomas de régimen común y expertos en hacienda autonómica señalan que la exclusión de los recursos del REF (en particular el IGIC, cuya recaudación conjunta ha superado los 2.000-2.100 millones de euros anuales en ejercicios recientes) sitúa a Canarias moderadamente por encima de la media de financiación efectiva por habitante ajustado a competencias homogéneas (en el entorno de los índices 104-108 sobre base 100 según las series de Fedea), reduciendo el margen disponible para nivelar a las comunidades infrafinanciadas.",
+      "sources_for": [
+        {
+          "title": "La financiación de las comunidades autónomas de régimen común (2002-2021)",
+          "publisher": "FEDEA",
+          "url": "https://documentos.fedea.net/pubs/eee/2023/eee2023-28.pdf",
+          "date": "2023"
+        },
+        {
+          "title": "Estatuto de Autonomía de Canarias (artículo 167)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://boe.es/biblioteca_juridica/pdf/PUB-PB-2022-130.pdf",
+          "date": "2018"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Estudios de economía española sobre financiación autonómica y recursos REF",
+          "publisher": "FEDEA",
+          "url": "https://documentos.fedea.net/pubs/eee/2026/eee2026-24.pdf",
+          "date": "2026"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Contrastadas las series de FEDEA (2023 y 2026) y ajustado el rango del índice de financiación por habitante ajustado (104-108 base 100)."
+    },
+    "coalicion-canaria-006": {
+      "status": "contrastada",
+      "sources_for": [
+        {
+          "title": "La insularidad pierde peso y Canarias deja de recibir casi 190 millones",
+          "publisher": "El Diario de las Islas",
+          "url": "https://eldiariodelasislas.es/economia/2026-07-23/987/arturo-melian-la-insularidad-pierde-peso-y-canarias-deja-de-recibir-casi-190-millones.html",
+          "date": "2026"
+        },
+        {
+          "title": "Contabilidad Regional de España",
+          "publisher": "Instituto Nacional de Estadística (INE)",
+          "url": "https://www.ine.es/dyngs/Prensa/es/CRE2023.htm",
+          "date": "2024"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Análisis de financiación autonómica y criterios de población ajustada",
+          "publisher": "FEDEA",
+          "url": "https://documentos.fedea.net/pubs/eee/2026/eee2026-24.pdf",
+          "date": "2026"
+        },
+        {
+          "title": "Ley 22/2009, del sistema de financiación de las Comunidades Autónomas de régimen común",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2009-20375",
+          "date": "2009"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Contrastado el peso del 0,6 % de la insularidad (Ley 22/2009), el volumen demográfico y turístico (>17M visitantes y >320.000 de población flotante) y el debate territorial sobre las variables de población ajustada."
+    },
+    "coalicion-canaria-007": {
+      "status": "corregida",
+      "arguments_for": "Las estadísticas de inversión real territorializada del sector público estatal publicadas por la IGAE han reflejado de forma recurrente desfases relevantes entre lo presupuestado en los PGE y lo efectivamente ejecutado en Canarias. En el caso del Convenio de Carreteras, los recortes unilaterales aplicados entre 2012 y 2016 dieron lugar a sentencias favorables del Tribunal Supremo por un montante global cercano a los 900-1.000 millones de euros, y la rigidez de los plazos de vigencia de los convenios en el artículo 49 de la Ley 40/2015 ha obligado a tramitar adendas y prórrogas para evitar la caducidad de compromisos en obras complejas.",
+      "sources_for": [
+        {
+          "title": "Resolución del Convenio de Carreteras y liquidación de las sentencias cercanas a mil millones",
+          "publisher": "Gobierno de Canarias",
+          "url": "https://www3.gobiernodecanarias.org/noticias/hemeroteca/torres-presenta-la-resolucion-del-convenio-de-carreteras-y-la-llegada-de-casi-mil-millones-como-un-gran-logro/"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Ley 40/2015, de Régimen Jurídico del Sector Público (artículo 49 sobre duración de convenios)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10566",
+          "date": "2015"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Eliminado el rango porcentual concreto no verificado (45 %-60 %) de ejecución IGAE y contrastadas las sentencias del TS sobre el Convenio de Carreteras (~900-1.000M EUR) y la Ley 40/2015."
+    },
+    "coalicion-canaria-008": {
+      "status": "corregida",
+      "arguments_for": "Los ocho aeropuertos canarios de la red de Aena superaron los 52 millones de pasajeros anuales en ejercicios recientes, consolidándose como uno de los principales motores de tráfico de la red, mientras que desde Canarias se han reclamado mayores inversiones frente a las carencias del DORA II (2022-2026) —lo que ha llevado a incluir más de 1.800 millones para Canarias en la propuesta del DORA III (2027-2031)—. Por su parte, el Registro Especial de Buques y Empresas Navieras de Canarias (REBECA) ha perdido competitividad y flota hasta situarse en torno a los 84 buques mercantes inscritos frente a otros registros europeos como el de Madeira (MAR).",
+      "sources_for": [
+        {
+          "title": "Los aeropuertos canarios cierran el año con más de 52 millones de pasajeros",
+          "publisher": "Aena",
+          "url": "https://www.aena.es/es/prensa/los-aeropuertos-canarios-cierran-el-ano-con-mas-de-52-millones-de---pasajeros-y-471.248-operaciones.html"
+        },
+        {
+          "title": "El Parlamento pide medidas para relanzar el registro de buques REBECA",
+          "publisher": "Atlántico Hoy",
+          "url": "https://www.atlanticohoy.com/economia/canarias-parlamento-registro-buques-navieras-inversion-empleo-rebeca_1568819_102.html"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Composición accionarial de Aena S.M.E., S.A. (51 % ENAIRE, 49 % capital privado)",
+          "publisher": "Aena",
+          "url": "https://www.aena.es/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1576858142189&ssbinary=true"
+        },
+        {
+          "title": "Estatuto de Autonomía de Canarias (artículos 160-161)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://boe.es/biblioteca_juridica/pdf/PUB-PB-2022-130.pdf",
+          "date": "2018"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Actualizados los datos de REBECA (~84 buques inscritos) y DORA III (>1.800M EUR previstos para Canarias), eliminando cifras no verificadas (300-400M de beneficio neto aislado y >800 buques en Madeira). Texto literal verificado entre pp. 8 y 9."
+    },
+    "coalicion-canaria-009": {
+      "status": "contrastada",
+      "sources_for": [
+        {
+          "title": "El Pleno del Cabildo rechaza la ampliación del campo de tiro de Pájara y exige su desmantelamiento definitivo",
+          "publisher": "Cabildo de Fuerteventura",
+          "url": "https://www.cabildofuer.es/cabildo/el-pleno-del-cabildo-rechaza-la-ampliacion-del-campo-de-tiro-de-pajara-y-exige-su-desmantelamiento-definitivo/"
+        },
+        {
+          "title": "Pájara añora las tierras expropiadas por el campo de maniobras y tiro (4.205 hectáreas)",
+          "publisher": "Diario de Fuerteventura",
+          "url": "https://diariodefuerteventura.com/noticia/p%C3%A1jara-a%C3%B1ora-las-tierras-expropiadas-por-el-campo-de-maniobras-y-tiro"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Real Decreto 600/2012, por el que se declara Zona de Interés para la Defensa Nacional el Campo de Maniobras y Tiro de Pájara",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2012-4443",
+          "date": "2012"
+        },
+        {
+          "title": "Ley 33/2003, del Patrimonio de las Administraciones Públicas",
+          "publisher": "Noticias Jurídicas",
+          "url": "https://noticias.juridicas.com/base_datos/Admin/l33-2003.t2.html",
+          "date": "2003"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Contrastada la extensión (>4.200 ha), las resoluciones institucionales del Cabildo y Parlamento de Canarias, la declaración como Zona de Interés para la Defensa Nacional (RD 600/2012) y la normativa patrimonial estatal."
+    },
+    "coalicion-canaria-010": {
+      "status": "corregida",
+      "arguments_for": "El presupuesto del Servicio Canario de la Salud supera ya los 5.000 millones de euros anuales debido al coste de mantener infraestructura hospitalaria, urgencias y transporte sanitario aéreo y marítimo en ocho islas. Aunque Canarias llegó a registrar las mayores demoras quirúrgicas de España (153 días de espera media en junio de 2023) y los planes de choque permitieron reducirla hasta el entorno de los 106 días a cierre de 2025, persiste el déficit estructural de especialistas en las islas no capitalinas.",
+      "arguments_against": "La AIReF, en sus informes de supervisión presupuestaria y revisión del gasto hospitalario del SNS, ha señalado márgenes de mejora en la eficiencia de las compras hospitalarias, la gestión farmacéutica y el control del crecimiento estructural del gasto del SCS bajo las reglas fiscales. Por otra parte, el Ministerio de Sanidad destaca que desde 2018 la oferta estatal de Formación Sanitaria Especializada se ha incrementado en más de un 40 %-50 % (alcanzando el SCS un máximo histórico de 492 plazas ofertadas para el curso 2026-27), correspondiendo a la comunidad autónoma la política retributiva y de incentivos para fidelizar facultativos en islas menores.",
+      "sources_for": [
+        {
+          "title": "El presupuesto del Servicio Canario de la Salud supera los 5.000 millones de euros",
+          "publisher": "Gobierno de Canarias",
+          "url": "https://www3.gobiernodecanarias.org/noticias/el-presupuesto-del-servicio-canario-de-la-salud-se-incrementa-un-853-por-ciento-hasta-superar-los-5-000-millones-d/?format=pdf"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Nota de prensa sobre incremento histórico de plazas de Formación Sanitaria Especializada",
+          "publisher": "Ministerio de Sanidad",
+          "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6972"
+        },
+        {
+          "title": "El SCS oferta 492 plazas de Formación Sanitaria Especializada para el curso 2026-27",
+          "publisher": "Gobierno de Canarias",
+          "url": "https://www3.gobiernodecanarias.org/noticias/el-scs-oferta-492-plazas-de-formacion-sanitaria-especializada-para-el-curso-2026-27-la-mayor-de-su-historia/"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Actualizados el presupuesto del SCS (>5.000M EUR) y la evolución de la espera quirúrgica (de 153 días en 2023 a ~106 días en dic. 2025), eliminando afirmaciones atribuidas al Spending Review de AIReF sobre quirófanos de tarde no verificadas y precisando las cifras de FSE."
+    }
+  }
+}

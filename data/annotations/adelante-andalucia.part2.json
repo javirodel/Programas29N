@@ -1,0 +1,288 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "adelante-andalucia",
+  "entries": {
+    "adelante-andalucia-121": {
+      "status": "corregida",
+      "arguments_for": "Según el estudio de UNICEF España, Red.es y la Universidad de Santiago de Compostela (2025), el 92,5 % de los menores está registrado en al menos una red social y el 78,3 % del alumnado de últimos cursos de Primaria ya tiene perfil. La evidencia educativa respalda la alfabetización mediática para enseñar a verificar fuentes y distinguir hechos de bulos u odio.",
+      "arguments_against": "Introducir contenidos específicos contra la desinformación en un currículo ya cargado exige reasignar horas lectivas o formación docente y abre el debate sobre quién define qué constituye un «bulo» o discurso de odio, con riesgo de percepciones de sesgo ideológico si no se apoya en criterios metodológicos estrictamente neutrales.",
+      "sources_for": [
+        {
+          "title": "Informe Infancia, adolescencia y bienestar digital (2025)",
+          "publisher": "PantallasAmigas / UNICEF España",
+          "url": "https://www.pantallasamigas.net/informe-infancia-digital-2025-infancia-adolescencia-bienestar-digital-aproximacion-salud-convivencia-responsabilidad-social/",
+          "date": "2025"
+        },
+        {
+          "title": "Qué es la alfabetización mediática y por qué ayuda frente a la desinformación",
+          "publisher": "Newtral",
+          "url": "https://www.newtral.es/que-es-alfabetizacion-mediatica-desinformacion/20261024/",
+          "date": "2026-10-24"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Campañas de desinformación y riesgos democráticos (Foro contra la desinformación)",
+          "publisher": "Departamento de Seguridad Nacional",
+          "url": "https://www.dsn.gob.es/sites/default/files/2026-05/Trabajo%209%20FORO%20CAMPA%C3%91AS%20DE%20DESINFORMACI%C3%93N%202025.pdf",
+          "date": "2026"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Reemplazado texto genérico fuera de tema (supresión de conciertos/ratios) por datos contrastados sobre uso de redes en menores, alfabetización mediática y riesgos de diseño curricular."
+    },
+    "adelante-andalucia-122": {
+      "status": "corregida",
+      "arguments_for": "La edad media de acceso al primer móvil en España se sitúa en 10,8 años y cerca del 9 % de los menores pasa más de cinco horas diarias en redes entre semana según UNICEF España y Red.es (2025). La educación digital temprana ayuda a prevenir la exposición a contenidos nocivos, el ciberacoso y el uso problemático.",
+      "arguments_against": "Expertos y organismos como UNICEF advierten que las medidas centradas solo en restringir o educar desde la escuela tienen eficacia limitada si no van acompañadas de verificación de edad efectiva y regulación de los algoritmos de retención de las plataformas, además de recargar a los centros con responsabilidades familiares.",
+      "sources_for": [
+        {
+          "title": "Informe Infancia, adolescencia y bienestar digital (2025)",
+          "publisher": "PantallasAmigas / UNICEF España",
+          "url": "https://www.pantallasamigas.net/informe-infancia-digital-2025-infancia-adolescencia-bienestar-digital-aproximacion-salud-convivencia-responsabilidad-social/",
+          "date": "2025"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Informe GEM 2023: Tecnología en la educación (resumen en español)",
+          "publisher": "UNESCO",
+          "url": "https://www.unesco.org/gem-report/sites/default/files/medias/fichiers/2023/07/2023reportflyer_SP.pdf",
+          "date": "2023"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Sustituido texto genérico educativo por evidencia sobre acceso temprano de menores a redes y límites de la acción exclusivamente escolar."
+    },
+    "adelante-andalucia-123": {
+      "status": "corregida",
+      "arguments_for": "La AEPD y las autoridades autonómicas de protección de datos subrayan en su decálogo para plataformas educativas que los datos de menores gozan de protección reforzada y no deben tratarse con fines comerciales ni transferirse sin garantías. Las plataformas públicas con software libre evitan la dependencia de un único proveedor y fomentan la interoperabilidad bajo estándares abiertos.",
+      "arguments_against": "Migrar centros educativos hacia software libre y plataformas propias conlleva costes relevantes de desarrollo, mantenimiento técnico, interoperabilidad con herramientas editoriales y formación continua del profesorado, lo que ha limitado el alcance práctico de iniciativas autonómicas previas si no se sostienen en el tiempo.",
+      "sources_for": [
+        {
+          "title": "Las autoridades de protección de datos publican un decálogo para la contratación de plataformas educativas",
+          "publisher": "Agencia Española de Protección de Datos (AEPD)",
+          "url": "https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/las-autoridades-proteccion-datos-publican-decalogo-contratacion-plataformas-educativas",
+          "date": "2024"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Estudio sobre el Software de Fuentes Abiertas en Universidades y Centros",
+          "publisher": "Portal de Administración Electrónica / CENATIC",
+          "url": "https://administracionelectronica.gob.es/content/dam/pae/pae-obsae/pae-otras-fuentes/cenatic/Estudio_sobre_la_situacion_actual_del_Software_de_Fuentes_Abiertas_en_las_Universidades_y_Centros_de_I_D_2009.pdf",
+          "date": "2009"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Eliminada afirmación ajena al tema sobre tributación de la OCDE y sustituida por el decálogo de la AEPD sobre datos de menores y los retos de migración y soporte del software libre."
+    },
+    "adelante-andalucia-124": {
+      "status": "corregida",
+      "arguments_for": "El Informe GEM 2023 de la UNESCO advierte frente a la adopción acrítica de tecnología en las aulas sin evidencia pedagógica sólida, y los datos de PISA muestran que la distracción digital en clase se asocia a descensos significativos en el rendimiento en matemáticas y lectura.",
+      "arguments_against": "Frenar o condicionar en exceso la dotación de programas tecnológicos en la escuela pública puede ampliar la brecha digital entre el alumnado de hogares con menor acceso tecnológico y quienes disponen de recursos digitales fuera del aula, si la evaluación previa retrasa la actualización curricular en competencias STEM.",
+      "sources_for": [
+        {
+          "title": "Informe GEM 2023: Tecnología en la educación",
+          "publisher": "UNESCO",
+          "url": "https://www.unesco.org/gem-report/sites/default/files/medias/fichiers/2023/07/2023reportflyer_SP.pdf",
+          "date": "2023"
+        },
+        {
+          "title": "La distracción digital en PISA y el uso de pantallas en las aulas",
+          "publisher": "elDiario.es",
+          "url": "https://www.eldiario.es/tecnologia/no-pantalla-diseno-pisa-no-dice-industria-atencion-torpedea-estudiantes_1_13495613.html",
+          "date": "2026"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Informe GEM 2023: Tecnología en la educación",
+          "publisher": "UNESCO",
+          "url": "https://www.unesco.org/gem-report/sites/default/files/medias/fichiers/2023/07/2023reportflyer_SP.pdf",
+          "date": "2023"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Reemplazado texto genérico por evidencia de la UNESCO (GEM 2023) y PISA sobre uso pedagógico vs. distracción y riesgo de brecha digital."
+    },
+    "adelante-andalucia-125": {
+      "status": "corregida",
+      "arguments_for": "El estudio empírico de la Universitat de València sobre 115 manuales de ESO halló que la presencia de mujeres como personajes era del 12,8 % y descendía por debajo del 7 % en menciones recurrentes, lo que respalda reforzar referentes femeninos e historia de las mujeres en el currículo.",
+      "arguments_against": "La Real Academia de la Historia y sectores docentes han alertado en debates curriculares de la LOMLOE sobre la sobrecarga de los programas y el riesgo de que enfoques temáticos o sociológicos desplacen la secuencia cronológica y la visión histórica global si no se coordinan con el horario disponible.",
+      "sources_for": [
+        {
+          "title": "Análisis de la ausencia de las mujeres en los manuales de la ESO",
+          "publisher": "Universitat de València (Ana López-Navajas)",
+          "url": "https://www.uv.es/cgt/DONA_I_IGUALTAT/Temes%20interes/An%C3%A1lisis%20de%20la%20ausencia%20de%20las%20mujeres%20en%20los%20manuales%20de%20la%20ESO.pdf",
+          "date": "2014"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Alegaciones al borrador de ordenación y enseñanzas mínimas de Bachillerato",
+          "publisher": "Real Academia de la Historia",
+          "url": "https://www.rah.es/alegaciones-de-la-real-academia-de-la-historia-al-borrador-de-proyecto-de-real-decreto-por-el-que-se-establece-la-ordenacion-y-las-ensenanzas-minimas-del-bachillerato/",
+          "date": "2022"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Reemplazado texto genérico educativo por el estudio cuantitativo de la Universitat de València y el debate curricular planteado por la Real Academia de la Historia."
+    },
+    "adelante-andalucia-126": {
+      "status": "corregida",
+      "arguments_for": "Asociaciones docentes de Filosofía y Música y sindicatos educativos señalan que ambas materias refuerzan el pensamiento crítico, la competencia ética y el desarrollo expresivo y cognitivo, y han reclamado mayor peso horario tras los sucesivos cambios normativos entre LOMCE y LOMLOE.",
+      "arguments_against": "El diseño de horarios escolares opera como una suma cero: ampliar las horas obligatorias de Música y Filosofía o exigir especialistas específicos en Infantil y Primaria obliga a reducir carga de otras áreas (lenguas, matemáticas o ciencias) o a incrementar las plantillas docentes y el gasto salarial autonómico.",
+      "sources_for": [
+        {
+          "title": "Los profesores de Filosofía, Cultura Clásica y Música reclaman mayor peso en el horario escolar",
+          "publisher": "CulturaClásica.com",
+          "url": "https://culturaclasica.com/los-profesores-de-filosofia-cultura-clasica-y-musica-protestan-para-que-sus-materias-tengan-mas-peso-en-el-horario-escolar/",
+          "date": "2022"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "El conflicto de los horarios y las asignaturas en la nueva LOMLOE",
+          "publisher": "STECyL-i",
+          "url": "https://stecyl.net/el-conflicto-de-los-horarios-y-las-asignaturas-en-la-nueva-lomloe/",
+          "date": "2022"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Sustituido texto genérico por argumentos específicos sobre la defensa de Música y Filosofía y la restricción de suma cero del horario escolar bajo la LOMLOE."
+    },
+    "adelante-andalucia-127": {
+      "status": "corregida",
+      "arguments_for": "Según la Fundación Española del Corazón, en España se producen unas 30.000 paradas cardíacas extrahospitalarias al año y la RCP iniciada de inmediato por testigos puede triplicar la supervivencia, pero apenas 1 de cada 5 afectados la recibe; bastan unas dos horas anuales de formación escolar para adquirir nociones básicas.",
+      "arguments_against": "La LOMLOE ya contempla nociones de primeros auxilios en Educación Física, mientras que extender formación práctica acreditada y dotar de desfibriladores (DEA) a todos los centros —con un coste unitario de entre 1.600 y 2.800 euros o renting mensual más mantenimiento de electrodos y baterías— requiere financiación específica y descarga horaria para el profesorado.",
+      "sources_for": [
+        {
+          "title": "Premios RCP Escuelas: la formación en reanimación en colegios salva vidas",
+          "publisher": "Fundación Española del Corazón",
+          "url": "https://fundaciondelcorazon.com/actualidad/premio-rcp-escuelas/4187-5-edicion-premios-rcp-escuelas.html",
+          "date": "2023"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Desfibriladores en colegios: normativa, LOMLOE y costes de implantación",
+          "publisher": "Cardiopro",
+          "url": "https://www.cardiopro-desfibrilador.es/desfibrilador-para-colegios",
+          "date": "2024"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Sustituido texto genérico por cifras de la Fundación Española del Corazón sobre RCP y costes normativos/materiales de implantación en centros."
+    },
+    "adelante-andalucia-128": {
+      "status": "corregida",
+      "arguments_for": "Los informes de FEDEA sobre liquidación del Sistema de Financiación Autonómica sitúan sistemáticamente a Andalucía entre las comunidades peor financiadas por habitante ajustado, con una brecha superior a los 1.500 millones de euros anuales respecto a la media, lo que limita su capacidad para costear reducciones de ratios.",
+      "arguments_against": "La doctrina del Tribunal Constitucional sobre el artículo 156.1 CE y la LOFCA advierte que las transferencias estatales finalistas o condicionadas reducen la autonomía financiera y de gasto de las comunidades autónomas en competencias propias como educación, frente a una reforma general e incondicionada del modelo.",
+      "sources_for": [
+        {
+          "title": "Andalucía y los datos de infrafinanciación autonómica",
+          "publisher": "Junta de Andalucía",
+          "url": "https://www.juntadeandalucia.es/organismos/economiahaciendayfondoseuropeos/servicios/actualidad/noticias/detalle/602437.html",
+          "date": "2025"
+        },
+        {
+          "title": "Informe de FEDEA sobre financiación autonómica",
+          "publisher": "FEDEA",
+          "url": "https://documentos.fedea.net/pubs/ap/2026/ap2026-21.pdf",
+          "date": "2026"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Jurisprudencia constitucional sobre autonomía financiera y subvenciones condicionadas (STC)",
+          "publisher": "Tribunal Constitucional de España",
+          "url": "https://hj.tribunalconstitucional.es/es/Resolucion/Show/25088",
+          "date": "2014"
+        },
+        {
+          "title": "Las subvenciones condicionadas y el principio de autonomía financiera",
+          "publisher": "Cuadernos de Derecho Público (INAP)",
+          "url": "https://revistasonline.inap.es/index.php/CDP/article/download/9512/9452",
+          "date": "2000"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Reemplazado texto genérico por datos de infrafinanciación autonómica de Andalucía (FEDEA/Junta) y el debate constitucional sobre fondos finalistas (art. 156.1 CE)."
+    },
+    "adelante-andalucia-129": {
+      "status": "corregida",
+      "arguments_for": "Sindicatos como CCOO denuncian que miles de solicitantes se quedan cada curso sin plaza pública en Formación Profesional en Andalucía pese al fuerte aumento de la demanda, y la etapa 0–3 años sigue requiriendo mayor cobertura pública gratuita; repartir fondos estatales según listas de espera atajaría déficits acumulados.",
+      "arguments_against": "Expertos en financiación autonómica y la doctrina constitucional sobre el art. 156 CE señalan que los fondos estatales finalistas según listas de espera pueden incentivar el cómputo estratégico de demanda o invadir la planificación educativa autonómica, en lugar de corregir el déficit mediante financiación ordinaria incondicionada.",
+      "sources_for": [
+        {
+          "title": "CCOO acusa al Gobierno andaluz de recortar plazas de FP pública frente a la demanda",
+          "publisher": "Europa Press",
+          "url": "https://www.europapress.es/andalucia/noticia-ccoo-acusa-gobierno-andaluz-quitar-plazas-fp-publica-poner-alfombra-roja-empresas-20260320135948.html",
+          "date": "2026-03-20"
+        },
+        {
+          "title": "Escolarización de 0 a 3 años en Andalucía",
+          "publisher": "Junta de Andalucía",
+          "url": "https://www.juntadeandalucia.es/educacion/portales/web/escolarizacion/0-a-3-anos",
+          "date": "2025"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Análisis sobre financiación autonómica y transferencias territoriales",
+          "publisher": "FEDEA",
+          "url": "https://documentos.fedea.net/pubs/ap/2026/ap2026-19.pdf",
+          "date": "2026"
+        },
+        {
+          "title": "Jurisprudencia constitucional sobre autonomía financiera autonómica",
+          "publisher": "Tribunal Constitucional de España",
+          "url": "https://hj.tribunalconstitucional.es/es/Resolucion/Show/25088",
+          "date": "2014"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Reemplazado texto genérico por datos sobre listas de espera en FP/0-3 en Andalucía y objeciones de diseño de transferencias finalistas."
+    },
+    "adelante-andalucia-130": {
+      "status": "corregida",
+      "arguments_for": "La Ley 1/2020 de bioclimatización de centros educativos en Andalucía reconoció la necesidad de combatir temperaturas extremas y eliminar materiales nocivos como el amianto y las aulas prefabricadas, cuya ejecución lenta ha sido denunciada reiteradamente por sindicatos y comunidad educativa.",
+      "arguments_against": "La construcción y conservación de centros escolares corresponde estatutariamente a la comunidad autónoma, por lo que una financiación estatal directa requiere convenios interadministrativos complejos y un alto volumen de inversión plurianual en obra pública sujeto a licitaciones y disponibilidad presupuestaria.",
+      "sources_for": [
+        {
+          "title": "Ley 1/2020, de 13 de julio, para la mejora de las condiciones térmicas y ambientales de los centros educativos andaluces",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-9344",
+          "date": "2020-07-13"
+        },
+        {
+          "title": "Denuncia sobre incumplimiento de la ley de bioclimatización y retirada de amianto en centros andaluces",
+          "publisher": "CGT Enseñanza",
+          "url": "https://cgtaeducacion.org/cgt-denuncia-incumplimiento-ley-bioclimatizacion-andaluza-en-centros-educativos/",
+          "date": "2024"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Jurisprudencia constitucional sobre autonomía financiera y competencias autonómicas",
+          "publisher": "Tribunal Constitucional de España",
+          "url": "https://hj.tribunalconstitucional.es/es/Resolucion/Show/25088",
+          "date": "2014"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Eliminada afirmación ajena al tema sobre tributación de la OCDE; sustituidos argumentos por marco de la Ley 1/2020, denuncias de ejecución y competencias/coste de obra pública."
+    }
+  }
+}

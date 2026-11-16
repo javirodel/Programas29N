@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "pnv",
+  "entries": {
+    "pnv-003": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/71, p. 8) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pnv-004": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/72, p. 8) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pnv-080": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/271, p. 18) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pnv-088": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/291, p. 19) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pnv-111": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/334, p. 21) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pnv-121": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/387, p. 25) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pnv-151": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/450, p. 28) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pnv-152": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/451, p. 28) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pnv-156": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/492, p. 31) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pnv-181": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/552, p. 34) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pnv-187": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/573, p. 35) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pnv-194": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/616, p. 38) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pnv-201": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/333, p. 21) para trazabilidad del banco de encuesta (T3.6)."
+    }
+  }
+}

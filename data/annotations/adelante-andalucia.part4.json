@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "adelante-andalucia",
+  "entries": {
+    "adelante-andalucia-361": {
+      "status": "corregida",
+      "arguments_for": "Según la Contabilidad Regional del INE, el PIB per cápita andaluz sigue sensiblemente por debajo de la media estatal (en torno al 76 % de la media española), al igual que los indicadores medios de renta de los hogares y salarios, por lo que fijar metas medibles de convergencia orienta la política económica hacia el cierre de esa brecha territorial.",
+      "arguments_against": "Documentos de trabajo del Banco de España y estudios de Fedea señalan que la brecha de renta regional responde principalmente a diferencias estructurales de productividad, tamaño empresarial y cualificación, por lo que fijar metas agregadas sin reformas microeconómicas y de mercado interior puede resultar insuficiente.",
+      "sources_for": [
+        {
+          "title": "Contabilidad Regional de España. Revisión y avance 2025",
+          "publisher": "Instituto Nacional de Estadística (INE)",
+          "url": "https://www.ine.es/dyngs/Prensa/avCRE2025.htm",
+          "date": "2026"
+        },
+        {
+          "title": "Andalucía recupera más de dos puntos de convergencia con España en PIB por habitante desde 2019",
+          "publisher": "Junta de Andalucía",
+          "url": "https://www.juntadeandalucia.es/organismos/economiahaciendayfondoseuropeos/servicios/actualidad/noticias/detalle/688345.html",
+          "date": "2026"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Regional convergence dynamics in Spain and major European economies",
+          "publisher": "Banco de España",
+          "url": "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosOcasionales/26/Fich/do2615.pdf",
+          "date": "2026"
+        },
+        {
+          "title": "Productividad y fragmentación del mercado interior en España",
+          "publisher": "Fedea",
+          "url": "https://documentos.fedea.net/pubs/eee/eee2020-04.pdf",
+          "date": "2020"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Eliminada referencia genérica a municipios, autogobierno y LOFCA; contrastado con datos de Contabilidad Regional (INE) y análisis de convergencia y productividad (Banco de España, Fedea)."
+    },
+    "adelante-andalucia-362": {
+      "status": "corregida",
+      "arguments_for": "Los informes de distribución territorial de la inversión del Sector Público Estatal (IGAE) permiten comprobar desviaciones entre los créditos presupuestados y la ejecución real por comunidades autónomas, de modo que desglosar partidas y rendir cuentas ante el Congreso refuerza la transparencia y el seguimiento parlamentario.",
+      "arguments_against": "Vincular de forma rígida la inversión estatal al peso poblacional puede colisionar con criterios técnicos de eficiencia, prioridades de redes transeuropeas o ejecución plurianual de grandes obras, mientras que los desfases de ejecución obedecen a menudo a trámites de contratación, ambientales o expropiaciones.",
+      "sources_for": [
+        {
+          "title": "Distribución territorial de la inversión del Estado y sus organismos",
+          "publisher": "datos.gob.es / Ministerio de Hacienda (IGAE)",
+          "url": "https://datos.gob.es/es/catalogo/e05250001-distribucion-territorial-de-la-inversion-del-estado-y-sus-organismos"
+        },
+        {
+          "title": "Respuesta parlamentaria sobre ejecución de inversiones reales del Estado por comunidades autónomas",
+          "publisher": "Congreso de los Diputados",
+          "url": "https://www.congreso.es/entradap/l12p/e4/e_0043329_n_000.pdf"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Previsiones económicas para las comunidades autónomas 2025-2026",
+          "publisher": "Funcas",
+          "url": "https://www.funcas.es/textointegro/previsiones-economicas-para-las-comunidades-autonomas-2025-2026/",
+          "date": "2025"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Corregido texto genérico sobre LOFCA y cesiones patrimoniales; enfocado en la estadística territorial de la IGAE y los criterios técnicos y plurianuales de inversión."
+    },
+    "adelante-andalucia-363": {
+      "status": "corregida",
+      "arguments_for": "Las series históricas de distribución territorial de la inversión del Sector Público Estatal (IGAE) permiten identificar ejercicios con ejecución inferior a lo presupuestado en Andalucía, lo que sirve de base técnica para programar planes plurianuales que compensen proyectos retrasados.",
+      "arguments_against": "Comprometer partidas retroactivas plurianuales tensiona la senda de gasto primario neto sujeta al nuevo marco fiscal europeo (Reglamento UE 2024/1263) y puede generar disputas de reparto con otras comunidades autónomas que también reclaman déficits históricos de inversión.",
+      "sources_for": [
+        {
+          "title": "Distribución territorial de la inversión del Estado y sus organismos",
+          "publisher": "datos.gob.es / Ministerio de Hacienda (IGAE)",
+          "url": "https://datos.gob.es/es/catalogo/e05250001-distribucion-territorial-de-la-inversion-del-estado-y-sus-organismos"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Reglamento (UE) 2024/1263 sobre coordinación eficaz de las políticas económicas y supervisión presupuestaria multilateral",
+          "publisher": "EUR-Lex (Unión Europea)",
+          "url": "https://eur-lex.europa.eu/eli/reg/2024/1263/oj?locale=es",
+          "date": "2024"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Sustituidos argumentos genéricos de LOFCA/cesiones patrimoniales por referencias comprobadas a la estadística IGAE y el marco fiscal europeo (Reglamento UE 2024/1263)."
+    },
+    "adelante-andalucia-364": {
+      "status": "corregida",
+      "arguments_for": "El Real Decreto 209/2022 establece el procedimiento de desconcentración de sedes del sector público institucional estatal para favorecer la cohesión territorial y la vertebración económica; trasladar organismos como el IEO, el IDAE o la AICA a Andalucía los acercaría a territorios con gran peso marítimo, energético y agroalimentario.",
+      "arguments_against": "El propio marco del Real Decreto 209/2022 prioriza las entidades de nueva creación mediante concurrencia competitiva entre territorios; reubicar organismos ya consolidados en Madrid implica costes logísticos, posibles fricciones de coordinación ministerial y oposición laboral de las plantillas.",
+      "sources_for": [
+        {
+          "title": "Desconcentración de las sedes físicas del sector público institucional estatal (Real Decreto 209/2022)",
+          "publisher": "Ministerio de Política Territorial y Memoria Democrática",
+          "url": "https://mptmd.gob.es/portal/politica-territorial/desconcentracion-sector-publico-institucional-estatal",
+          "date": "2022"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Cómo funciona el procedimiento para descentralizar sedes estatales fuera de Madrid",
+          "publisher": "Newtral",
+          "url": "https://www.newtral.es/sedes-estatales-fuera-madrid/20220913/",
+          "date": "2022"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Corregido argumento en contra erróneo sobre LOFCA; contrastado con el procedimiento y alcance del Real Decreto 209/2022."
+    },
+    "adelante-andalucia-365": {
+      "status": "corregida",
+      "arguments_for": "Empresas del Grupo SEPI como Navantia (con astilleros estratégicos en la Bahía de Cádiz) tienen un peso industrial y de empleo relevante en Andalucía, por lo que articular mecanismos de participación autonómica en su planificación ayudaría a coordinar políticas industriales, formación y proveedores locales.",
+      "arguments_against": "La SEPI es una entidad pública empresarial adscrita al Ministerio de Hacienda cuya gobernanza societaria responde al interés estratégico estatal y al derecho mercantil; introducir representación política autonómica en sus órganos de decisión podría fragmentar la dirección de grupos con centros en varias comunidades.",
+      "sources_for": [
+        {
+          "title": "Informe de Sostenibilidad y Cuentas Anuales de Navantia 2024",
+          "publisher": "Navantia",
+          "url": "https://www.navantia.es/media2/pdf/20250612%20-%20ISC%20Navantia%202024_v10-Clean.pdf",
+          "date": "2025"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Empresas participadas por el Grupo SEPI",
+          "publisher": "Sociedad Estatal de Participaciones Industriales (SEPI)",
+          "url": "https://sepi.es/es/sectores/empresas?title=All&tid=10&field_participacion_target_id=All"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Eliminadas afirmaciones ajenas a la medida sobre estrés hídrico en el Guadalquivir, LOFCA y pequeñas empresas; contrastado con estructura y presencia industrial de SEPI y Navantia."
+    },
+    "adelante-andalucia-366": {
+      "status": "corregida",
+      "arguments_for": "Según la Encuesta de Población Activa (INE e IECA), Andalucía mantiene históricamente tasas de paro superiores a la media nacional (en torno al 14,5 %-15 %) y una fuerte estacionalidad agrícola, por lo que reforzar de forma estable el PFEA contribuye a sostener rentas e infraestructuras rurales en periodos sin campaña.",
+      "arguments_against": "Distintos análisis económicos advierten de que los planes públicos de empleo temporal agrario pueden generar dependencia de contrataciones municipales de corta duración sin mejorar de forma duradera la cualificación ni la inserción en el sector privado, además de suponer mayor gasto presupuestario en los PGE.",
+      "sources_for": [
+        {
+          "title": "Encuesta de Población Activa (EPA). Nota divulgativa de Andalucía",
+          "publisher": "Instituto de Estadística y Cartografía de Andalucía (IECA)",
+          "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/dega/index.php/encuesta-de-poblacion-activa-epa/nota-divulgativa-datos-segundo-trimestre-2026",
+          "date": "2026"
+        },
+        {
+          "title": "Real Decreto 939/1997, Programa de Fomento de Empleo Agrario (PFEA)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-13567"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Encuesta de Población Activa (EPA)",
+          "publisher": "Instituto Nacional de Estadística (INE)",
+          "url": "https://www.ine.es/dyngs/Prensa/EPA2T26.htm",
+          "date": "2026"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Reemplazado argumento erróneo sobre LOFCA y cesiones patrimoniales; verificados datos de paro EPA (INE/IECA) y funcionamiento del PFEA (MITES)."
+    },
+    "adelante-andalucia-367": {
+      "status": "corregida",
+      "arguments_for": "Las estadísticas territoriales de empleo muestran brechas acusadas entre comarcas andaluzas —con zonas como el Campo de Gibraltar o la Sierra de Cádiz con mayor vulnerabilidad y desempleo—, por lo que planes focalizados permiten dirigir inversión pública y políticas activas hacia los territorios más rezagados.",
+      "arguments_against": "Crear planes comarcales estatales extraordinarios puede solaparse con las competencias autonómicas en políticas activas de empleo, sufrir retrasos de ejecución si falta coordinación administrativa y suscitar agravios comparativos con otras comarcas de alto desempleo.",
+      "sources_for": [
+        {
+          "title": "Encuesta de Población Activa (EPA). Nota divulgativa de Andalucía",
+          "publisher": "Instituto de Estadística y Cartografía de Andalucía (IECA)",
+          "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/dega/index.php/encuesta-de-poblacion-activa-epa/nota-divulgativa-datos-segundo-trimestre-2026",
+          "date": "2026"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Previsiones económicas para las comunidades autónomas 2025-2026",
+          "publisher": "Funcas",
+          "url": "https://www.funcas.es/textointegro/previsiones-economicas-para-las-comunidades-autonomas-2025-2026/",
+          "date": "2025"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Sustituidos argumentos genéricos sobre LOFCA y cesiones patrimoniales por consideraciones reales de focalización territorial y riesgo de solapamiento competencial."
+    },
+    "adelante-andalucia-368": {
+      "status": "corregida",
+      "arguments_for": "La FEMP reclama una reforma integral del sistema de financiación local —pendiente de revisión global desde hace más de dos décadas— para actualizar la Participación en los Ingresos del Estado (PIE) y cubrir el coste de los denominados «gastos impropios» que prestan los ayuntamientos.",
+      "arguments_against": "Elevar las transferencias incondicionadas a las entidades locales exige reequilibrar los recursos del Estado y negociar simultáneamente la reforma de la financiación autonómica y local, además de abrir el debate sobre el grado de corresponsabilidad fiscal de los municipios.",
+      "sources_for": [
+        {
+          "title": "Resoluciones y comunicaciones sobre Haciendas Locales",
+          "publisher": "Federación Española de Municipios y Provincias (FEMP)",
+          "url": "https://www.femp.es/wp-content/uploads/2025/12/RESOLUCIONES-Y-COMUNICACIONES-HACIENDAS-X-ASAMBLEA-1.pdf",
+          "date": "2025"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "La FEMP propone reformar la financiación local para impulsar el desarrollo rural y la equidad territorial",
+          "publisher": "Federación Española de Municipios y Provincias (FEMP)",
+          "url": "https://www.femp.es/noticias/2024/11/07/la-femp-propone-reformar-la-financiacion-local-para-impulsar-el-desarrollo-rural-y-la-equidad-territorial",
+          "date": "2024"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Eliminada afirmación errónea sobre acuerdos internacionales de seguridad y fronteras; contrastado con reivindicaciones de la FEMP sobre reforma de la PIE."
+    },
+    "adelante-andalucia-369": {
+      "status": "corregida",
+      "arguments_for": "Los municipios pequeños con elevada proporción de suelo en Red Natura 2000 o espacios protegidos afrontan restricciones urbanísticas y de ingresos sin un fondo europeo específico y exclusivo, y la FEMP ha reclamado suprimir la tasa de reposición para que las entidades locales puedan planificar sus plantillas.",
+      "arguments_against": "Crear compensaciones permanentes y eximir selectivamente de la tasa de reposición eleva el gasto corriente estructural sujeto al marco fiscal europeo (Reglamento UE 2024/1263) y exige fijar criterios objetivos de reparto para evitar agravios entre municipios rurales.",
+      "sources_for": [
+        {
+          "title": "Marco de Acción Prioritaria de la Red Natura 2000",
+          "publisher": "Ministerio para la Transición Ecológica y el Reto Demográfico (MITECO)",
+          "url": "https://www.miteco.gob.es/es/biodiversidad/temas/espacios-protegidos/red-natura-2000/rn_cons_marco_accion_prioritaria.html"
+        },
+        {
+          "title": "La Comisión de Función Pública incide en la necesidad de eliminar la tasa de reposición en los gobiernos locales",
+          "publisher": "Federación Española de Municipios y Provincias (FEMP)",
+          "url": "https://www.femp.es/noticias/2026/09/21/la-comision-de-funcion-publica-incide-en-la-necesidad-de-eliminar-la-tasa-de-reposicion-para-facilitar-a-los-gobiernos-locales-la-planificacion-adecuada-de-sus-recursos",
+          "date": "2026"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Reglamento (UE) 2024/1263 sobre coordinación eficaz de las políticas económicas",
+          "publisher": "EUR-Lex (Unión Europea)",
+          "url": "https://eur-lex.europa.eu/eli/reg/2024/1263/oj?locale=es",
+          "date": "2024"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Eliminada mención ajena a tributación del trabajo/capital de la OCDE y a la LOFCA; contrastado con MITECO (Red Natura 2000), FEMP (tasa de reposición) y Reglamento UE 2024/1263."
+    },
+    "adelante-andalucia-370": {
+      "status": "corregida",
+      "arguments_for": "La Ley 27/2013 (LRSAL) limitó el ejercicio de competencias distintas de las propias en los municipios, y la Ley Orgánica 2/2012 (LOEPSF) restringe el crecimiento del gasto computable y el destino del superávit; flexibilizar estas reglas permitiría a los ayuntamientos destinar remanentes a servicios locales y vivienda (art. 47 CE).",
+      "arguments_against": "Aunque la LRSAL es ley ordinaria, flexibilizar la regla de gasto requiere reformar la Ley Orgánica 2/2012 (mayoría absoluta en el Congreso) dentro de los límites del artículo 135 CE y del Reglamento (UE) 2024/1263, y la aplicación del superávit a gasto corriente puede generar desequilibrios estructurales futuros y duplicidades competenciales.",
+      "sources_for": [
+        {
+          "title": "Ley 27/2013, de racionalización y sostenibilidad de la Administración Local",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://boe.es/buscar/act.php?id=BOE-A-2013-13756&tn=6&p=20161115",
+          "date": "2013"
+        },
+        {
+          "title": "Regulación del destino del superávit de las Entidades Locales",
+          "publisher": "Senado de España",
+          "url": "https://www.senado.es/web/expedientdocblobservlet?legis=14&id=38526"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Ley Orgánica 2/2012, de Estabilidad Presupuestaria y Sostenibilidad Financiera",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/pdf/2012/BOE-A-2012-5730-consolidado.pdf",
+          "date": "2012"
+        },
+        {
+          "title": "Reglamento (UE) 2024/1263 sobre coordinación eficaz de las políticas económicas",
+          "publisher": "EUR-Lex (Unión Europea)",
+          "url": "https://eur-lex.europa.eu/eli/reg/2024/1263/oj?locale=es",
+          "date": "2024"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Corregidas referencias imprecisas a LOFCA y mayorías cualificadas genéricas; contrastado con BOE (Ley 27/2013 y LO 2/2012), Senado y Reglamento UE 2024/1263."
+    }
+  }
+}

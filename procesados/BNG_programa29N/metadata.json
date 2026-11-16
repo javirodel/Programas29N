@@ -1,0 +1,14 @@
+{
+  "archivo_original": "26_bng_xerais_documentos_programa_electoral.pdf",
+  "nombre": "BNG_programa29N",
+  "sha256": "FD5AEF260B9C66D030B57B7B0E18914C8AD79384E2C46B2346D9FB4F6514A97D",
+  "fecha_procesamiento": "2026-11-11T14:48:17.6520631+01:00",
+  "herramienta": "Docling",
+  "formatos": [
+    "md",
+    "json",
+    "txt"
+  ],
+  "codigo_salida": 0,
+  "archivo_estandar": "BNG_programa29N.pdf"
+}

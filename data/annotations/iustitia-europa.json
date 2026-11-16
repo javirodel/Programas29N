@@ -1,0 +1,305 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "iustitia-europa",
+  "entries": {
+    "iustitia-europa-001": {
+      "status": "corregida",
+      "arguments_for": "Según sucesivas ediciones del Eurobarómetro de la Comisión Europea, en torno al 90% de los ciudadanos españoles declara desconfiar de los partidos políticos, coincidiendo con los barómetros del CIS que los sitúan de forma recurrente entre los actores institucionales peor valorados y entre los principales problemas percibidos en España. Estudios de ciencia política comparada sobre cumplimiento de programas (como el Comparative Party Pledges Project) analizan la relación entre el incumplimiento de promesas electorales clave y la desafección institucional, en un contexto donde la abstención en elecciones generales españolas ha oscilado entre el 28% y el 34% en convocatorias recientes (2019-2023).",
+      "sources_for": [
+        {
+          "title": "Participación y abstención en elecciones generales 2023 (23-J)",
+          "publisher": "RTVE / Ministerio del Interior",
+          "url": "https://www.rtve.es/noticias/20230724/participacion-elecciones-generales-2023-23j/2452191.shtml",
+          "date": "2023-07-24"
+        },
+        {
+          "title": "Comparative Party Pledges Project",
+          "publisher": "Comparative Party Pledges Network",
+          "url": "https://comparativepledges.net/"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Constitución Española (art. 67.2)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/biblioteca_juridica/codigos/pdf/151_Constitucion_Espanola.pdf",
+          "date": "1978"
+        },
+        {
+          "title": "STC 5/1983, de 4 de febrero (prohibición del mandato imperativo)",
+          "publisher": "Tribunal Constitucional de España",
+          "url": "https://hj.tribunalconstitucional.es/es/Resolucion/Show/133",
+          "date": "1983-02-04"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Corregida la atribución del proyecto comparado (Comparative Party Pledges Project en lugar de Comparative Manifestos Project) y precisados los datos de Eurobarómetro/CIS y abstención 2019-2023; fuentes comprobadas."
+    },
+    "iustitia-europa-002": {
+      "status": "corregida",
+      "arguments_against": "Los defensores constitucionales de la inmunidad parlamentaria (art. 71.2 CE) y del aforamiento ante el Tribunal Supremo (arts. 71.3 y 102.1 CE) sostienen que estas prerrogativas no constituyen privilegios personales sino garantías institucionales frente al uso instrumental de querellas políticas (lawfare) para alterar mayorías parlamentarias. En sentido contrario al diseño actual, el enjuiciamiento en única instancia ante la Sala Segunda del Tribunal Supremo priva al aforado del derecho ordinario al doble grado de jurisdicción penal, como ha señalado el Comité de Derechos Humanos de la ONU al amparo del artículo 14.5 del Pacto Internacional de Derechos Civiles y Políticos.",
+      "sources_for": [
+        {
+          "title": "Cuántos aforados hay en España y quiénes son",
+          "publisher": "infoLibre (datos CGPJ)",
+          "url": "https://www.infolibre.es/politica/250-000-aforados-hay-espana-son-son-prerrogativas_1_1138471.html"
+        },
+        {
+          "title": "Informes de evaluación sobre España (GRECO)",
+          "publisher": "Consejo de Europa (GRECO)",
+          "url": "https://search.coe.int/human_rights_and_rule_of_law?i=09125948800fdb6b"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Constitución Española (arts. 71 y 102)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/biblioteca_juridica/codigos/pdf/151_Constitucion_Espanola.pdf",
+          "date": "1978"
+        },
+        {
+          "title": "Dictamen del Comité de Derechos Humanos de la ONU sobre la doble instancia penal de aforados",
+          "publisher": "elDiario.es",
+          "url": "https://www.eldiario.es/politica/dictamen-comite-onu-garzon-abre-debate-derecho-aforados-segunda-instancia_1_8249776.html",
+          "date": "2021-08-26"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Precisada la referencia internacional sobre doble instancia penal al Comité de Derechos Humanos de la ONU (art. 14.5 PIDCP), dado que España no ha ratificado el Protocolo 7 del CEDH ante el TEDH."
+    },
+    "iustitia-europa-003": {
+      "status": "contrastada",
+      "sources_for": [
+        {
+          "title": "Participación y bloqueos electorales en España",
+          "publisher": "RTVE",
+          "url": "https://www.rtve.es/noticias/20230724/participacion-elecciones-generales-2023-23j/2452191.shtml",
+          "date": "2023-07-24"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Constitución Española (arts. 1.3 y 168)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/biblioteca_juridica/codigos/pdf/151_Constitucion_Espanola.pdf",
+          "date": "1978"
+        },
+        {
+          "title": "The Perils of Presidentialism (Juan J. Linz)",
+          "publisher": "Journal of Democracy",
+          "url": "https://www.journalofdemocracy.org/articles/the-perils-of-presidentialism/",
+          "date": "1990"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Contrastados los bloqueos de investidura (2015-2016 y 2019), el art. 1.3 y 168 CE y la tesis de Juan J. Linz; fuentes primarias añadidas."
+    },
+    "iustitia-europa-004": {
+      "status": "contrastada",
+      "sources_for": [
+        {
+          "title": "Articolo 75 della Costituzione Italiana (referendum abrogativo)",
+          "publisher": "Costituzione Italiana",
+          "url": "https://costituzioneitaliana.it/articolo-75-il-parlamento"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Constitución Española (arts. 87.3 y 92)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/biblioteca_juridica/codigos/pdf/151_Constitucion_Espanola.pdf",
+          "date": "1978"
+        },
+        {
+          "title": "STC 103/2008, de 11 de septiembre (límites constitucionales al referéndum)",
+          "publisher": "Boletín Oficial del Estado (BOE) / Tribunal Constitucional",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-T-2008-16292",
+          "date": "2008-09-11"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Verificados los referéndums nacionales del art. 92 CE (1986 y 2005), el escaso éxito de las ILP, los modelos suizo e italiano (art. 75) y la STC 103/2008."
+    },
+    "iustitia-europa-005": {
+      "status": "corregida",
+      "arguments_against": "Los sistemas mayoritarios en distritos uninominales (first-past-the-post o doble vuelta) producen una elevada desproporcionalidad entre el porcentaje nacional de votos y el porcentaje de escaños: por ejemplo, en las elecciones británicas de 2024 el Partido Laborista obtuvo el 63,2% de los escaños con solo el 33,7% de los votos, mientras que partidos de implantación nacional dispersa (como Reform UK con el 14,3% de los votos) lograron apenas el 0,8% de los escaños (5 de 650), y fuerzas con apoyo concentrado territorialmente (como ocurrió históricamente con el SNP escocés en comicios como los de 2015) pueden resultar fuertemente sobrerrepresentadas.",
+      "sources_for": [
+        {
+          "title": "Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General (LOREG)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1985-11672",
+          "date": "1985-06-19"
+        },
+        {
+          "title": "La mayoría de españoles desconoce el nombre de la mitad de los ministros (CIS)",
+          "publisher": "Europa Press",
+          "url": "https://www.europapress.es/nacional/noticia-mayoria-espanoles-desconoce-mitad-ministros-cis-fin-legislatura-20261018105048.html"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "UK General Election 2024: voting results and disproportionality",
+          "publisher": "Electoral Reform Society",
+          "url": "https://election2024.electoral-reform.org.uk/",
+          "date": "2024"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Contrastados los resultados del Reino Unido 2024 (63,2% escaños con 33,7% votos para Labour; 0,8% escaños con 14,3% votos para Reform UK) y matizado el ejemplo del SNP respecto a comicios previos como 2015."
+    },
+    "iustitia-europa-006": {
+      "status": "corregida",
+      "summary": "Concreta la propuesta de reforma de la circunscripción electoral (regulada actualmente en el artículo 68.2 de la Constitución Española) para sustituir las circunscripciones provinciales plurinominales por distritos uninominales con elección nominal de diputados, eliminando las listas cerradas de partido (lo que en un Congreso de 350 escaños equivaldría aproximadamente a un diputado por cada 105.000-110.000 electores).",
+      "arguments_against": "Eliminar la provincia como circunscripción electoral requiere reformar el artículo 68.2 de la Constitución Española (cuyo blindaje fue uno de los pilares del consenso constitucional de 1978 para garantizar la representación de la España interior y rural). Con distritos uninominales estrictamente poblacionales, provincias enteras como Soria quedarían reducidas a menos de un distrito (debiendo agruparse con provincias limítrofes), y existiría el riesgo político de manipulación cartográfica de los límites de los distritos electorales (gerrymandering) en cada revisión censal.",
+      "sources_for": [
+        {
+          "title": "Ley Orgánica 5/1985, del Régimen Electoral General (art. 162 LOREG)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1985-11672",
+          "date": "1985-06-19"
+        },
+        {
+          "title": "Circunscripciones electorales del Congreso de los Diputados",
+          "publisher": "Wikipedia / LOREG",
+          "url": "https://es.wikipedia.org/wiki/Circunscripciones_electorales_del_Congreso_de_los_Diputados"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Constitución Española (art. 68.2)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/biblioteca_juridica/codigos/pdf/151_Constitucion_Espanola.pdf",
+          "date": "1978"
+        },
+        {
+          "title": "El sistema electoral de las Cortes Generales",
+          "publisher": "Junta de Castilla y León",
+          "url": "https://www.educa.jcyl.es/educacyl/cm/gallery/Recursos%20constituci%C3%B3n/Bloque_B_web/Cortes_generales/2_sistema_electoral.html"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Aclarado en summary que la cifra de 350 escaños corresponde al Congreso actual (el texto literal no fija número de distritos) y corregida errata tipográfica ('biendo' -> 'debiendo') en arguments_against."
+    },
+    "iustitia-europa-007": {
+      "status": "contrastada",
+      "sources_for": [
+        {
+          "title": "Informe de fiscalización de los estados contables de los partidos políticos",
+          "publisher": "Tribunal de Cuentas de España",
+          "url": "https://www.tcu.es/es/Comunicacion-y-Espacio-Divulgativo/APROBADO-EL-INFORME-DE-FISCALIZACION-DE-LOS-ESTADOS-CONTABLES-DE-LOS-PARTIDOS-POLITICOS-Y-DE-LAS-APORTACIONES-PERCIBIDAS-POR-LAS-FUNDACIONES-Y-DEMAS-ENTIDADES-VINCULADAS-O-DEPENDIENTES-DE-ELLOS-EJERCICIOS-2014-Y-2015/"
+        },
+        {
+          "title": "Ley Orgánica 8/2007, sobre financiación de los partidos políticos",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13022",
+          "date": "2007-07-04"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Constitución Española (art. 6)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/biblioteca_juridica/codigos/pdf/151_Constitucion_Espanola.pdf",
+          "date": "1978"
+        },
+        {
+          "title": "Citizens United v. Federal Election Commission",
+          "publisher": "Wikipedia / U.S. Supreme Court",
+          "url": "https://en.wikipedia.org/wiki/Citizens_United_v._FEC",
+          "date": "2010"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Verificada la dependencia de subvenciones públicas (en torno al 75%-85% y 52,7 millones anuales ordinarios), la LO 8/2007, el art. 6 CE y Citizens United v. FEC."
+    },
+    "iustitia-europa-008": {
+      "status": "contrastada",
+      "sources_for": [
+        {
+          "title": "Limitar los mandatos a dos: ¿qué dice la evidencia?",
+          "publisher": "Radical Centre",
+          "url": "https://www.radicalcentre.eu/es/articulos/limitar-los-mandatos-a-dos-que-dice-la-evidencia"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Constitución Española (art. 23.2)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/biblioteca_juridica/codigos/pdf/151_Constitucion_Espanola.pdf",
+          "date": "1978"
+        },
+        {
+          "title": "Coping with Term Limits: A Practical Guide",
+          "publisher": "National Conference of State Legislatures (NCSL)",
+          "url": "https://documents.ncsl.org/wwwncsl/About-State-Legislatures/coping_with_term_limits.pdf"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Contrastados los antecedentes de limitación de mandatos en CCAA (CLM, Murcia, Extremadura, posteriormente derogados) y estudios empíricos sobre límites legislativos en EE. UU."
+    },
+    "iustitia-europa-009": {
+      "status": "corregida",
+      "arguments_for": "El artículo 159.4 CE únicamente declara incompatible la condición de magistrado del Tribunal Constitucional con el desempeño de funciones directivas en partidos políticos o sindicatos (sin prohibir la simple afiliación ni establecer un periodo previo de enfriamiento), lo que ha permitido el nombramiento inmediato de exministros, ex altos cargos del Ejecutivo o juristas vinculados a partidos, erosionando la percepción de imparcialidad del intérprete supremo de la Constitución en votaciones divididas sobre leyes de alta carga política.",
+      "sources_for": [
+        {
+          "title": "Constitución Española (art. 159.4)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/biblioteca_juridica/codigos/pdf/151_Constitucion_Espanola.pdf",
+          "date": "1978"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Constitución Española (arts. 35 y 159)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/biblioteca_juridica/codigos/pdf/151_Constitucion_Espanola.pdf",
+          "date": "1978"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Corregida la precisión jurídica sobre el art. 159.4 CE: no prohíbe la simple afiliación sino las funciones directivas durante el mandato, y carece de periodo previo de incompatibilidad."
+    },
+    "iustitia-europa-010": {
+      "status": "corregida",
+      "arguments_for": "Desde la Ley Orgánica 6/1985 (que modificó el sistema de la LO 1/1980 para que las Cortes eligieran a los 20 vocales del CGPJ), la renovación del órgano de gobierno de los jueces ha dado lugar a bloqueos por falta de acuerdo partidista, destacando el producido entre diciembre de 2018 y julio de 2024 (cinco años y siete meses), que dejó más de un centenar de vacantes judiciales sin cubrir en el Tribunal Supremo y otros altos tribunales. Tanto la Comisión Europea (en sus Informes anuales sobre el Estado de Derecho) como el GRECO y la Comisión de Venecia recomiendan que al menos la mitad de los miembros de los consejos judiciales sean elegidos directamente por sus pares sin intervención política.",
+      "sources_for": [
+        {
+          "title": "Informe sobre el Estado de Derecho: capítulo sobre España",
+          "publisher": "Comisión Europea",
+          "url": "https://commission.europa.eu/document/download/3457bf3b-e321-49af-80fd-de0617ef5b28_es?filename=13_2_63946_coun_chap_spain_es.pdf"
+        },
+        {
+          "title": "Informes de evaluación sobre España (GRECO)",
+          "publisher": "Consejo de Europa (GRECO)",
+          "url": "https://search.coe.int/human_rights_and_rule_of_law?i=09125948800fdb6b"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "STC 108/1986, de 29 de julio (sobre la LOPJ y el CGPJ)",
+          "publisher": "Tribunal Constitucional de España",
+          "url": "https://hj.tribunalconstitucional.es/es-ES/Resolucion/Show/SENTENCIA/1986/108",
+          "date": "1986-07-29"
+        },
+        {
+          "title": "Constitución Española (arts. 117.1 y 122)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/biblioteca_juridica/codigos/pdf/151_Constitucion_Espanola.pdf",
+          "date": "1978"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Precisada la fecha de cierre del bloqueo del CGPJ (julio de 2024, 5 años y 7 meses); verificada la STC 108/1986 y las recomendaciones de la Comisión Europea y GRECO."
+    }
+  }
+}

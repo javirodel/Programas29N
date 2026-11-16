@@ -1,0 +1,120 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "vox",
+  "entries": {
+    "vox-002": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial VOX_programa29N.pdf (p. 9) como evidencia para la encuesta 29N (fiscalidad y apoyo a la familia)."
+    },
+    "vox-007": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial VOX_programa29N.pdf (p. 10) como evidencia para la encuesta 29N (sostenibilidad del sistema de pensiones)."
+    },
+    "vox-008": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial VOX_programa29N.pdf (p. 11) como evidencia para la encuesta 29N (plan nuclear y energía)."
+    },
+    "vox-009": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial VOX_programa29N.pdf (p. 15) como evidencia para la encuesta 29N (control de fronteras e inmigración)."
+    },
+    "vox-012": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial VOX_programa29N.pdf (p. 15) como evidencia para la encuesta 29N (expulsión de inmigración irregular)."
+    },
+    "vox-030": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial VOX_programa29N.pdf (p. 23) como evidencia para la encuesta 29N (derogación de la Ley de Vivienda y liberalización)."
+    },
+    "vox-042": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial VOX_programa29N.pdf (p. 28) como evidencia para la encuesta 29N (Ley de Unidad de Mercado y modelo territorial)."
+    },
+    "vox-044": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial VOX_programa29N.pdf (p. 29) como evidencia para la encuesta 29N (oposición al Pacto Verde Europeo en el sector primario)."
+    },
+    "vox-048": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial VOX_programa29N.pdf (p. 33) como evidencia para la encuesta 29N (derogación de imposiciones climáticas de Agenda 2030)."
+    },
+    "vox-062": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial VOX_programa29N.pdf (p. 37) como evidencia para la encuesta 29N (colaboración público-privada en sanidad)."
+    },
+    "vox-066": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial VOX_programa29N.pdf (p. 41) como evidencia para la encuesta 29N (competencias educativas nacionales)."
+    },
+    "vox-067": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial VOX_programa29N.pdf (p. 41) como evidencia para la encuesta 29N (libre elección de centro educativo)."
+    },
+    "vox-079": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial VOX_programa29N.pdf (p. 45) como evidencia para la encuesta 29N (incremento del presupuesto y medios de defensa)."
+    },
+    "vox-081": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial VOX_programa29N.pdf (p. 45) como evidencia para la encuesta 29N (ampliación de la prisión permanente revisable)."
+    },
+    "vox-083": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial VOX_programa29N.pdf (p. 45) como evidencia para la encuesta 29N (modernización y refuerzo de las Fuerzas Armadas)."
+    },
+    "vox-089": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial VOX_programa29N.pdf (p. 47) como evidencia para la encuesta 29N (soberanía nacional en seguridad y defensa)."
+    },
+    "vox-094": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial VOX_programa29N.pdf (p. 51) como evidencia para la encuesta 29N (apoyo a familias, natalidad y conciliación)."
+    },
+    "vox-103": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial VOX_programa29N.pdf (p. 55) como evidencia para la encuesta 29N (prohibición de indultos por corrupción e integridad territorial)."
+    },
+    "vox-113": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial VOX_programa29N.pdf (p. 61) como evidencia para la encuesta 29N (auditoría de Cercanías y Media Distancia rural)."
+    }
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "adelante-andalucia",
+  "entries": {
+    "adelante-andalucia-002": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 36) como evidencia para la encuesta 29N (derogación de Ley 15/1997 y desprivatización sanitaria)."
+    },
+    "adelante-andalucia-003": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 36) como evidencia para la encuesta 29N (internalización de servicios sanitarios públicos)."
+    },
+    "adelante-andalucia-071": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 42) como evidencia para la encuesta 29N (supresión progresiva de conciertos educativos)."
+    },
+    "adelante-andalucia-072": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 42) como evidencia para la encuesta 29N (integración en una red educativa pública única)."
+    },
+    "adelante-andalucia-118": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [45],
+          "snippet": "Educación afectivo-sexual obligatoria En todas las etapas, con competencias afectivas y de cuidados y prevención de la violencia sexual y el acoso. Porque la educación sexual protege frente a la violencia y el acoso.",
+          "docling_refs": []
+        }
+      ],
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Remediar coincidencia parcial Docling por salto de dígito flotante '118' en PDF oficial (p. 45)."
+    },
+    "adelante-andalucia-156": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [48],
+          "snippet": "El conocimiento, para enseñar e investigar Ampliar las excepciones de la propiedad intelectual para usos docentes, científicos y culturales sin ánimo de lucro. Porque compartir conocimiento para enseñar e investigar no puede ser un delito.",
+          "docling_refs": []
+        }
+      ],
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Remediar coincidencia parcial Docling por salto de dígito flotante '156' en PDF oficial (p. 48)."
+    },
+    "adelante-andalucia-161": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 49) como evidencia para la encuesta 29N (índice estatal de alquileres al 20% del salario)."
+    },
+    "adelante-andalucia-163": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [49],
+          "snippet": "Temporada y habitaciones con derechos Los mismos límites y garantías que el alquiler de vivienda habitual. Porque los alquileres de temporada y por habitaciones se usan para saltarse la ley.",
+          "docling_refs": []
+        }
+      ],
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Remediar coincidencia parcial Docling por salto de dígito flotante '163' en PDF oficial (p. 49)."
+    },
+    "adelante-andalucia-164": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 49) como evidencia para la encuesta 29N (declaración automática de zonas tensionadas)."
+    },
+    "adelante-andalucia-165": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [49],
+          "snippet": "Gran tenedor desde cinco viviendas En todo el Estado, con límites a sus nuevas compras en zonas tensionadas. Porque con el límite actual muchos grandes tenedores quedan fuera de las obligaciones.",
+          "docling_refs": []
+        }
+      ],
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Remediar coincidencia parcial Docling por salto de dígito flotante '165' en PDF oficial (p. 49)."
+    },
+    "adelante-andalucia-166": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [49],
+          "snippet": "Fin de los privilegios fiscales del rentismo Sin exenciones a SOCIMI y fondos, y fiscalidad del alquiler según su precio: exento el asequible y gravado el caro. Porque los fondos pagan menos impuestos que una familia que alquila su único piso.",
+          "docling_refs": []
+        }
+      ],
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Remediar coincidencia parcial Docling por salto de dígito flotante '166' en PDF oficial (p. 49)."
+    },
+    "adelante-andalucia-212": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 54) como evidencia para la encuesta 29N (prestación universal por crianza)."
+    },
+    "adelante-andalucia-213": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 54) como evidencia para la encuesta 29N (equiparación de familias monoparentales)."
+    },
+    "adelante-andalucia-216": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 55) como evidencia para la encuesta 29N (revalorización garantizada de pensiones con IPC real)."
+    },
+    "adelante-andalucia-233": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 58) como evidencia para la encuesta 29N (impuesto a grandes fortunas y latifundios)."
+    },
+    "adelante-andalucia-235": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 58) como evidencia para la encuesta 29N (reforma progresiva del Impuesto de Sociedades)."
+    },
+    "adelante-andalucia-236": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 58) como evidencia para la encuesta 29N (tributos permanentes a banca y energéticas)."
+    },
+    "adelante-andalucia-268": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 63) como evidencia para la encuesta 29N (jornada laboral de 32 horas semanales sin recorte salarial)."
+    },
+    "adelante-andalucia-288": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 64) como evidencia para la encuesta 29N (ampliación de permisos retribuidos por cuidados)."
+    },
+    "adelante-andalucia-316": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 68) como evidencia para la encuesta 29N (transición agroecológica y soberanía alimentaria)."
+    },
+    "adelante-andalucia-323": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 68) como evidencia para la encuesta 29N (asesoramiento técnico público en reducción de fitosanitarios)."
+    },
+    "adelante-andalucia-327": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 68) como evidencia para la encuesta 29N (reforma de la PAC ligada al empleo rural)."
+    },
+    "adelante-andalucia-337": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 72) como evidencia para la encuesta 29N (máximo autogobierno andaluz)."
+    },
+    "adelante-andalucia-345": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 73) como evidencia para la encuesta 29N (ampliación competencial en horizonte confederal)."
+    },
+    "adelante-andalucia-346": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 73) como evidencia para la encuesta 29N (financiación autonómica solidaria sin principio de ordinalidad)."
+    },
+    "adelante-andalucia-389": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 80) como evidencia para la encuesta 29N (billete único de transporte público asequible)."
+    },
+    "adelante-andalucia-390": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 80) como evidencia para la encuesta 29N (gratuidad del transporte para colectivos vulnerables y menores)."
+    },
+    "adelante-andalucia-391": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 80) como evidencia para la encuesta 29N (refuerzo del ferrocarril regional y Cercanías)."
+    },
+    "adelante-andalucia-405": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 82) como evidencia para la encuesta 29N (exclusión nuclear de la taxonomía verde)."
+    },
+    "adelante-andalucia-407": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 82) como evidencia para la encuesta 29N (cierre del almacén nuclear de El Cabril)."
+    },
+    "adelante-andalucia-455": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 90) como evidencia para la encuesta 29N (supresión constitucional de aforamientos políticos)."
+    },
+    "adelante-andalucia-468": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 91) como evidencia para la encuesta 29N (prohibición de indultos por delitos de corrupción)."
+    },
+    "adelante-andalucia-496": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 94) como evidencia para la encuesta 29N (derogación de la prisión permanente revisable)."
+    },
+    "adelante-andalucia-548": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 106) como evidencia para la encuesta 29N (regularización extraordinaria de personas migrantes)."
+    },
+    "adelante-andalucia-549": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 106) como evidencia para la encuesta 29N (vías legales y seguras de migración)."
+    },
+    "adelante-andalucia-553": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 106) como evidencia para la encuesta 29N (cierre definitivo de los CIE)."
+    },
+    "adelante-andalucia-578": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 109) como evidencia para la encuesta 29N (rechazo al 5% OTAN y al rearme)."
+    },
+    "adelante-andalucia-579": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 109) como evidencia para la encuesta 29N (reducción del presupuesto militar)."
+    },
+    "adelante-andalucia-580": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial AdelanteAndalucia_programa29N.pdf (p. 109) como evidencia para la encuesta 29N (referéndum sobre la OTAN y cierre de bases)."
+    },
+    "adelante-andalucia-700": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [131],
+          "snippet": "La A-7 urbana en Puerto de la Torre Humanización y seguridad peatonal del tramo entre Junta de Caminos y Puerto de la Torre. Porque ese tramo de la A-7 atraviesa barrios y es peligroso para los peatones.",
+          "docling_refs": []
+        }
+      ],
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Remediar coincidencia parcial Docling por salto de dígito flotante '700' en PDF oficial (p. 131)."
+    }
+  }
+}

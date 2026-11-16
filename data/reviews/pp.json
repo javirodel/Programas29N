@@ -1,0 +1,274 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "pp",
+  "entries": {
+    "pp-083": {
+      "kind": "reservada",
+      "status": "rechazada",
+      "note": "El PDF oficial (p. 34) muestra únicamente 'Permanezca atento a la campaña para conocer esta nueva medida', sin propuesta formulada (Hallazgo H-3, ADR D-008).",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12"
+    },
+    "pp-109": {
+      "kind": "reservada",
+      "status": "rechazada",
+      "note": "El PDF oficial (p. 43) muestra únicamente 'Permanezca atento a la campaña para conocer esta nueva medida', sin propuesta formulada (Hallazgo H-3, ADR D-008).",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12"
+    },
+    "pp-132": {
+      "kind": "reservada",
+      "status": "rechazada",
+      "note": "El PDF oficial (p. 48) muestra únicamente 'Permanezca atento a la campaña para conocer esta nueva medida', sin propuesta formulada (Hallazgo H-3, ADR D-008).",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12"
+    },
+    "pp-164": {
+      "kind": "reservada",
+      "status": "rechazada",
+      "note": "El PDF oficial (p. 57) muestra únicamente 'Permanezca atento a la campaña para conocer esta nueva medida', sin propuesta formulada (Hallazgo H-3, ADR D-008).",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12"
+    },
+    "pp-167": {
+      "kind": "reservada",
+      "status": "rechazada",
+      "note": "El PDF oficial (p. 58) muestra únicamente 'Permanezca atento a la campaña para conocer esta nueva medida', sin propuesta formulada (Hallazgo H-3, ADR D-008).",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12"
+    },
+    "pp-173": {
+      "kind": "reservada",
+      "status": "rechazada",
+      "note": "El PDF oficial (p. 59) muestra únicamente 'Permanezca atento a la campaña para conocer esta nueva medida', sin propuesta formulada (Hallazgo H-3, ADR D-008).",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12"
+    },
+    "pp-200": {
+      "kind": "reservada",
+      "status": "rechazada",
+      "note": "El PDF oficial (p. 65) muestra únicamente 'Permanezca atento a la campaña para conocer esta nueva medida', sin propuesta formulada (Hallazgo H-3, ADR D-008).",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12"
+    },
+    "pp-210": {
+      "kind": "reservada",
+      "status": "rechazada",
+      "note": "El PDF oficial (p. 67) muestra únicamente 'Permanezca atento a la campaña para conocer esta nueva medida', sin propuesta formulada (Hallazgo H-3, ADR D-008).",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12"
+    },
+    "pp-016": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/83, p. 16) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pp-042": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/143, p. 22) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pp-045": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/149, p. 23) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pp-052": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/167, p. 26) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pp-054": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/170, p. 26) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pp-059": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/189, p. 29) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pp-060": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/190, p. 29) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pp-061": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/191, p. 29) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pp-108": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/303, p. 42) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pp-117": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/324, p. 45) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pp-120": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/331, p. 45) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pp-145": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/389, p. 53) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pp-158": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/421, p. 56) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pp-159": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/423, p. 56) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pp-162": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/430, p. 57) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pp-177": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/465, p. 60) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pp-178": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/466, p. 60) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pp-195": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/506, p. 64) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pp-212": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/538, p. 67) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pp-232": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/585, p. 72) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pp-228": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/576, p. 71) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pp-030": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/116, p. 20) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "pp-093": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [38],
+          "snippet": "La cohesión del sistema sanitario y social empieza por que nada falle cuando un español cruza de comunidad. En coordinación con las Comunidades Autónomas, garantizaremos que la historia clínica y la historia social puedan consultarse desde cualquier servicio asistencial, con todas las garantías de privacidad y seguridad. Un paciente que se desplace será atendido con su historia clínica y social completa en toda España.",
+          "docling_refs": ["#/texts/263", "#/texts/264"]
+        }
+      ],
+      "clear_flags": ["texto_no_literal"],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-16",
+      "note": "Medida 93 verificada literalmente en la página 38 del PDF oficial (Docling entremezcló las dos columnas en #/texts/263-264)."
+    },
+    "pp-106": {
+      "status": "corregida",
+      "official_number": "106",
+      "official_text": {
+        "text": "Compensaremos las desventajas de la insularidad y la ultraperiferia y tendremos en cuenta sus costes en las leyes, los planes y las inversiones del Estado. Aseguraremos conexiones marítimas y aéreas regulares y suficientes para Canarias, Baleares, Ceuta y Melilla, tanto para viajeros como para mercancías, con obligaciones de servicio público en las rutas justificadas y alternativas ante interrupciones. Adecuaremos los aeropuertos insulares a la demanda e impulsaremos mejoras en las infraestructuras de agua, energía y telecomunicaciones para garantizar los suministros. Estableceremos incentivos para atraer y retener empleados públicos en destinos insulares y ultraperiféricos de difícil cobertura, atendiendo al coste de la vida y la lejanía.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [42],
+          "snippet": "Compensaremos las desventajas de la insularidad y la ultraperiferia y tendremos en cuenta sus costes en las leyes, los planes y las inversiones del Estado.",
+          "docling_refs": ["#/texts/297", "#/texts/298"]
+        }
+      ],
+      "clear_flags": ["texto_no_literal"],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-16",
+      "note": "Recortada la entradilla posterior ('Una sociedad no puede sostenerse... Reconstruiremos el pacto entre generaciones') que pertenece al bloque previo a la medida 107 en la p. 42."
+    },
+    "pp-218": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [68],
+          "snippet": "La beca será un derecho por ley para quien la necesite y apruebe, con los mismos umbrales en la universidad que en la FP. Quien elija un ciclo de FP de alta demanda de empleo no pagará matrícula. Los mejores expedientes tendrán una beca de excelencia, y los jóvenes con más talento tendrán facilidades para estudiar en la universidad que deseen.",
+          "docling_refs": ["#/texts/550", "#/texts/551", "#/texts/552"]
+        }
+      ],
+      "clear_flags": ["texto_no_literal"],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-16",
+      "note": "Medida 218 verificada literalmente en la página 68 del PDF oficial (Docling entremezcló columnas en #/texts/550-552)."
+    },
+    "pp-219": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [68, 69],
+          "snippet": "Impulsaremos un gran Pacto de Estado por la Sanidad Pública con las Comunidades Autónomas. El Estado ejercerá sus competencias de coordinación sanitaria para garantizar la cohesión del sistema y la igualdad de acceso a sus prestaciones.",
+          "docling_refs": ["#/texts/554", "#/texts/556"]
+        }
+      ],
+      "clear_flags": ["texto_no_literal"],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-16",
+      "note": "Medida 219 verificada literalmente entre las páginas 68 y 69 del PDF oficial (salto de página con número 69 intermedio)."
+    },
+    "pp-249": {
+      "status": "corregida",
+      "official_number": "249",
+      "official_text": {
+        "text": "Es imprescindible que los medios de la Red Consular estén en consonancia con las tareas que se le exigen. Ampliaremos plantilla y mejoraremos los medios, incluyendo la digitalización del registro civil consular y el aumento de los procedimientos telemáticos. Revisaremos todos los contratos de externalización de servicios existentes. Fortaleceremos la Unidad de Emergencia Consular del Ministerio de Asuntos Exteriores, mediante la creación de una centralita operativa las 24 horas con número único para canalizar llamadas de emergencia consular desde cualquier lugar del mundo.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [76],
+          "snippet": "Es imprescindible que los medios de la Red Consular estén en consonancia con las tareas que se le exigen. Ampliaremos plantilla y mejoraremos los medios, incluyendo la digitalización del registro civil consular y el aumento de los procedimientos telemáticos.",
+          "docling_refs": ["#/texts/617", "#/texts/618"]
+        }
+      ],
+      "clear_flags": ["texto_no_literal"],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-16",
+      "note": "Eliminado el pie de página editorial ('EL CAMBIO NECESARIO 2026...') que se había pegado al final de la medida 249 en la p. 76."
+    }
+  }
+}

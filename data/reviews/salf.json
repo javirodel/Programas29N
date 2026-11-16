@@ -1,0 +1,2778 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "salf",
+  "entries": {
+    "salf-001": {
+      "status": "corregida",
+      "official_number": "I · Medida 1",
+      "official_text": {
+        "text": "Cero impuestos (ITP y AJD al 0 %; IVA al 4 % devuelto íntegro en la renta), licencia en plazo y suelo público sin coste. Resultado garantizado por ley: el comprador de primera vivienda paga, como mínimo, un 35 % menos que hoy. Coste: ≈ 5.000 M€/año. Lo paga el sobrecoste autonómico.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            5
+          ],
+          "snippet": "Cero impuestos (ITP y AJD al 0 %; IVA al 4 % devuelto íntegro en la renta), licencia en plazo y suelo público sin coste. Resultado garantizado por ley: el comprador de primera vivienda paga, como mínimo, un 35 % menos que hoy. Coste: ≈ 5.000 M€/año. Lo paga el sobrecoste autonómico.",
+          "docling_refs": [
+            "#/texts/137",
+            "#/texts/138",
+            "#/texts/139"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (I · 1) (Remediación E-3, ADR D-015)."
+    },
+    "salf-002": {
+      "status": "corregida",
+      "official_number": "I · Medida 2",
+      "official_text": {
+        "text": "La vivienda deja 52.000 millones al año a las administraciones; cada subida del 10 % del precio son 1.200 millones más para ellos. Ley de neutralidad: la recaudación por vivienda no puede crecer más que el IPC y el exceso se devuelve bajando tipos. Y nadie legisla sobre vivienda sin publicar sus pisos: 19 miembros del Gobierno suman 39 viviendas.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            5
+          ],
+          "snippet": "La vivienda deja 52.000 millones al año a las administraciones; cada subida del 10 % del precio son 1.200 millones más para ellos. Ley de neutralidad: la recaudación por vivienda no puede crecer más que el IPC y el exceso se devuelve bajando tipos. Y nadie legisla sobre vivienda sin publicar sus pisos: 19 miembros del Gobierno suman 39 viviendas.",
+          "docling_refs": [
+            "#/texts/140",
+            "#/texts/141"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (I · 2) (Remediación E-3, ADR D-015)."
+    },
+    "salf-003": {
+      "status": "corregida",
+      "official_number": "I · Medida 3",
+      "official_text": {
+        "text": "Con denuncia y título de propiedad, la Policía desaloja en 48 horas. Al que deja de pagar, juicio verbal y lanzamiento en 30 días, sin excusas de 'vulnerabilidad': a los vulnerables los atiende el Estado, no tu casa.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            5
+          ],
+          "snippet": "Con denuncia y título de propiedad, la Policía desaloja en 48 horas. Al que deja de pagar, juicio verbal y lanzamiento en 30 días, sin excusas de 'vulnerabilidad': a los vulnerables los atiende el Estado, no tu casa.",
+          "docling_refs": [
+            "#/texts/142",
+            "#/texts/143"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (I · 3) (Remediación E-3, ADR D-015)."
+    },
+    "salf-004": {
+      "status": "corregida",
+      "official_number": "I · Medida 4",
+      "official_text": {
+        "text": "Todo el suelo de la Sareb y del Estado, en 12 meses, a concurso para construir vivienda protegida en propiedad a precio tasado. El joven que compra es dueño, no inquilino del Ayuntamiento.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            6
+          ],
+          "snippet": "Todo el suelo de la Sareb y del Estado, en 12 meses, a concurso para construir vivienda protegida en propiedad a precio tasado. El joven que compra es dueño, no inquilino del Ayuntamiento.",
+          "docling_refs": [
+            "#/texts/156",
+            "#/texts/157"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (I · 4) (Remediación E-3, ADR D-015)."
+    },
+    "salf-005": {
+      "status": "corregida",
+      "official_number": "I · Medida 5",
+      "official_text": {
+        "text": "Un mes obra menor, dos obra mayor, tres grandes desarrollos. Pasado el plazo, licencia concedida y el ayuntamiento paga el retraso. Las reformas no requerirán declaración responsable.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            6
+          ],
+          "snippet": "Un mes obra menor, dos obra mayor, tres grandes desarrollos. Pasado el plazo, licencia concedida y el ayuntamiento paga el retraso. Las reformas no requerirán declaración responsable.",
+          "docling_refs": [
+            "#/texts/158",
+            "#/texts/159"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (I · 5) (Remediación E-3, ADR D-015)."
+    },
+    "salf-006": {
+      "status": "corregida",
+      "official_number": "I · Medida 6",
+      "official_text": {
+        "text": "Las SOCIMI con más de 100 viviendas en alquiler tributan al 25 %, como cualquier empresa. Y el Estado deja de contratar a los fondos que dice combatir.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            6
+          ],
+          "snippet": "Las SOCIMI con más de 100 viviendas en alquiler tributan al 25 %, como cualquier empresa. Y el Estado deja de contratar a los fondos que dice combatir.",
+          "docling_refs": [
+            "#/texts/160",
+            "#/texts/161"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (I · 6) (Remediación E-3, ADR D-015)."
+    },
+    "salf-007": {
+      "status": "corregida",
+      "official_number": "I · Medida 7",
+      "official_text": {
+        "text": "Aval público del 20 % de entrada para menores de 40 en su primera vivienda. Con un 35 % de ahorro y la entrada avalada, comprar vuelve a ser posible con un sueldo normal.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            6
+          ],
+          "snippet": "Aval público del 20 % de entrada para menores de 40 en su primera vivienda. Con un 35 % de ahorro y la entrada avalada, comprar vuelve a ser posible con un sueldo normal.",
+          "docling_refs": [
+            "#/texts/162",
+            "#/texts/163"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (I · 7) (Remediación E-3, ADR D-015)."
+    },
+    "salf-008": {
+      "status": "corregida",
+      "official_number": "I · Medida 8",
+      "official_text": {
+        "text": "Seguro público de impago: doce meses de renta y daños garantizados; después, el Estado persigue al moroso. A cambio, se alquila sin exigir tres nóminas y un aval bancario. Prioridad a menores de 45 y familias con hijos. Coste: ≈ 150 M€/año.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            7
+          ],
+          "snippet": "Seguro público de impago: doce meses de renta y daños garantizados; después, el Estado persigue al moroso. A cambio, se alquila sin exigir tres nóminas y un aval bancario. Prioridad a menores de 45 y familias con hijos. Coste: ≈ 150 M€/año.",
+          "docling_refs": [
+            "#/texts/177",
+            "#/texts/178",
+            "#/texts/179"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (I · 8) (Remediación E-3, ADR D-015)."
+    },
+    "salf-009": {
+      "status": "corregida",
+      "official_number": "I · Medida 9",
+      "official_text": {
+        "text": "Vivienda industrializada en suelo público y urbano consolidado con licencia automática y estándar técnico único: lo que vale en Sevilla vale en Bilbao. Registro único de alquiler turístico con cumplimiento fiscal, sin prohibiciones.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            7
+          ],
+          "snippet": "Vivienda industrializada en suelo público y urbano consolidado con licencia automática y estándar técnico único: lo que vale en Sevilla vale en Bilbao. Registro único de alquiler turístico con cumplimiento fiscal, sin prohibiciones.",
+          "docling_refs": [
+            "#/texts/180",
+            "#/texts/181"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (I · 9) (Remediación E-3, ADR D-015)."
+    },
+    "salf-010": {
+      "status": "corregida",
+      "official_number": "I · Medida 10",
+      "official_text": {
+        "text": "El IBI se elimina por completo, para todos. Sin compensaciones a nadie: el impuesto desaparece y punto. Un tributo aberrante no se parchea, se quita.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            7
+          ],
+          "snippet": "El IBI se elimina por completo, para todos. Sin compensaciones a nadie: el impuesto desaparece y punto. Un tributo aberrante no se parchea, se quita.",
+          "docling_refs": [
+            "#/texts/182",
+            "#/texts/183"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (I · 10) (Remediación E-3, ADR D-015)."
+    },
+    "salf-011": {
+      "status": "corregida",
+      "official_number": "II · Medida 1",
+      "official_text": {
+        "text": "105 1 Máxima seguridad para asesinos, agresores sexuales, narcotraficantes, crimen organizado, terroristas, multirreincidentes violentos y políticos corruptos. Sin permisos, sin tercer grado, sin teléfono. Donde se ha hecho, los homicidios cayeron de 105 a 1 por 100.000 habitantes.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            8
+          ],
+          "snippet": "105 1 Máxima seguridad para asesinos, agresores sexuales, narcotraficantes, crimen organizado, terroristas, multirreincidentes violentos y políticos corruptos. Sin permisos, sin tercer grado, sin teléfono. Donde se ha hecho, los homicidios cayeron de 105 a 1 por 100.000 habitantes.",
+          "docling_refs": [
+            "#/texts/204",
+            "#/texts/205",
+            "#/texts/206"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (II · 1) (Remediación E-3, ADR D-015)."
+    },
+    "salf-012": {
+      "status": "corregida",
+      "official_number": "II · Medida 2",
+      "official_text": {
+        "text": "Violadores, asesinos, narcos y corruptos: cumplimiento íntegro, sin reducción ninguna ni permisos. Prisión permanente revisable por violación a menores o con lesiones graves. Tres condenas: prisión sin suspensión.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            8
+          ],
+          "snippet": "Violadores, asesinos, narcos y corruptos: cumplimiento íntegro, sin reducción ninguna ni permisos. Prisión permanente revisable por violación a menores o con lesiones graves. Tres condenas: prisión sin suspensión.",
+          "docling_refs": [
+            "#/texts/208",
+            "#/texts/209"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (II · 2) (Remediación E-3, ADR D-015)."
+    },
+    "salf-013": {
+      "status": "corregida",
+      "official_number": "II · Medida 3",
+      "official_text": {
+        "text": "Registro público de reincidentes, pulsera telemática de por vida y castración química voluntaria como condición de cualquier beneficio penitenciario.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            8
+          ],
+          "snippet": "Registro público de reincidentes, pulsera telemática de por vida y castración química voluntaria como condición de cualquier beneficio penitenciario.",
+          "docling_refs": [
+            "#/texts/210",
+            "#/texts/211"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (II · 3) (Remediación E-3, ADR D-015)."
+    },
+    "salf-014": {
+      "status": "corregida",
+      "official_number": "II · Medida 4",
+      "official_text": {
+        "text": "Convenios con terceros países para que los extranjeros condenados cumplan la pena allí, en prisiones de máxima dureza, no en una celda con televisión y permisos. Después, veto de por vida del acceso a España.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            9
+          ],
+          "snippet": "Convenios con terceros países para que los extranjeros condenados cumplan la pena allí, en prisiones de máxima dureza, no en una celda con televisión y permisos. Después, veto de por vida del acceso a España.",
+          "docling_refs": [
+            "#/texts/222",
+            "#/texts/223"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (II · 4) (Remediación E-3, ADR D-015)."
+    },
+    "salf-015": {
+      "status": "corregida",
+      "official_number": "II · Medida 5",
+      "official_text": {
+        "text": "Equiparación salarial real en dos años, jubilación a los 60 sin penalización y reconocimiento de profesión de riesgo. Hoy cobran 7.500 euros menos al año y trabajan 130 horas más.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            9
+          ],
+          "snippet": "Equiparación salarial real en dos años, jubilación a los 60 sin penalización y reconocimiento de profesión de riesgo. Hoy cobran 7.500 euros menos al año y trabajan 130 horas más.",
+          "docling_refs": [
+            "#/texts/225",
+            "#/texts/226"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (II · 5) (Remediación E-3, ADR D-015)."
+    },
+    "salf-016": {
+      "status": "corregida",
+      "official_number": "II · Medida 6",
+      "official_text": {
+        "text": "Apoyo permanente de la Armada y el Ejército del Aire, 180 millones en lanchas, drones y medios aéreos, y decomiso civil de todo bien del narcotráfico. Cuatro guardias civiles muertos por narcolanchas desde 2024.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            9
+          ],
+          "snippet": "Apoyo permanente de la Armada y el Ejército del Aire, 180 millones en lanchas, drones y medios aéreos, y decomiso civil de todo bien del narcotráfico. Cuatro guardias civiles muertos por narcolanchas desde 2024.",
+          "docling_refs": [
+            "#/texts/227"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (II · 6) (Remediación E-3, ADR D-015)."
+    },
+    "salf-017": {
+      "status": "corregida",
+      "official_number": "II · Medida 7",
+      "official_text": {
+        "text": "De seis a doce meses, militar o civil, entre 18 y 30 años: 1.600 euros netos, formación oficial, puntos en todas las oposiciones, vivienda protegida preferente y 5.000 euros al terminar. Coste: ≈ 1.200 M€/año.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            9
+          ],
+          "snippet": "De seis a doce meses, militar o civil, entre 18 y 30 años: 1.600 euros netos, formación oficial, puntos en todas las oposiciones, vivienda protegida preferente y 5.000 euros al terminar. Coste: ≈ 1.200 M€/año.",
+          "docling_refs": [
+            "#/texts/228",
+            "#/texts/229",
+            "#/texts/230"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (II · 7) (Remediación E-3, ADR D-015)."
+    },
+    "salf-018": {
+      "status": "corregida",
+      "official_number": "II · Medida 8",
+      "official_text": {
+        "text": "Quien complete la mili voluntaria tendrá un mínimo exento de IRPF de 50.000 euros durante diez años (15.000 más que el resto), cero cotización del trabajador en sus tres primeros años de contrato y matrícula gratuita en universidad y FP. Servir a España tiene que notarse en la nómina. Coste: ≈ 250 M€/año con 30.000 plazas anuales.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            9
+          ],
+          "snippet": "Quien complete la mili voluntaria tendrá un mínimo exento de IRPF de 50.000 euros durante diez años (15.000 más que el resto), cero cotización del trabajador en sus tres primeros años de contrato y matrícula gratuita en universidad y FP. Servir a España tiene que notarse en la nómina. Coste: ≈ 250 M€/año con 30.000 plazas anuales.",
+          "docling_refs": [
+            "#/texts/231",
+            "#/texts/232",
+            "#/texts/233"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (II · 8) (Remediación E-3, ADR D-015)."
+    },
+    "salf-019": {
+      "status": "corregida",
+      "official_number": "II · Medida 9",
+      "official_text": {
+        "text": "2.000 jueces y 1.500 fiscales más. Juicios rápidos en 72 horas para multirreincidentes y delitos flagrantes. Expediente digital único en toda España. Coste: ≈ 400 M€/año.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            10
+          ],
+          "snippet": "2.000 jueces y 1.500 fiscales más. Juicios rápidos en 72 horas para multirreincidentes y delitos flagrantes. Expediente digital único en toda España. Coste: ≈ 400 M€/año.",
+          "docling_refs": [
+            "#/texts/248",
+            "#/texts/249",
+            "#/texts/250"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (II · 9) (Remediación E-3, ADR D-015)."
+    },
+    "salf-020": {
+      "status": "corregida",
+      "official_number": "II · Medida 10",
+      "official_text": {
+        "text": "Presunción legal de legítima defensa en tu vivienda o negocio, incluido el uso de armas de fuego legalmente tenidas: quien irrumpe por la fuerza o de noche asume las consecuencias. La acusación tiene que probar el exceso, no la víctima. Licencia de arma para defensa del domicilio sin trabas para ciudadanos sin antecedentes.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            10
+          ],
+          "snippet": "Presunción legal de legítima defensa en tu vivienda o negocio, incluido el uso de armas de fuego legalmente tenidas: quien irrumpe por la fuerza o de noche asume las consecuencias. La acusación tiene que probar el exceso, no la víctima. Licencia de arma para defensa del domicilio sin trabas para ciudadanos sin antecedentes.",
+          "docling_refs": [
+            "#/texts/251",
+            "#/texts/252"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (II · 10) (Remediación E-3, ADR D-015)."
+    },
+    "salf-021": {
+      "status": "corregida",
+      "official_number": "II · Medida 11",
+      "official_text": {
+        "text": "El agente que investiga a un político obedece al juez, no al ministro. La injerencia política es delito. Ningún policía vuelve a fichar periodistas por encargo.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            10
+          ],
+          "snippet": "El agente que investiga a un político obedece al juez, no al ministro. La injerencia política es delito. Ningún policía vuelve a fichar periodistas por encargo.",
+          "docling_refs": [
+            "#/texts/253",
+            "#/texts/254"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (II · 11) (Remediación E-3, ADR D-015)."
+    },
+    "salf-022": {
+      "status": "corregida",
+      "official_number": "II · Medida 12",
+      "official_text": {
+        "text": "La UCO tiene 580 plazas y 3,5 millones de presupuesto propio; la UDEF ha perdido la mitad de sus agentes desde 2022. Resultado: 600 cuentas bancarias y 300 móviles sin analizar, informes con meses de retraso y causas que prescriben por falta de manos. Plan 2027-2029: UCO de 580 a 1.800 agentes, UDEF de 320 a 1.000, 1.200 más en UDYCO y Vigilancia Aduanera, peritos contables y laboratorio forense propio. Partida finalista blindada por ley: ningún ministro puede recortarla ni apartar a un investigador. Coste: ≈ 400 M€/año. Lo paga el decomiso al narco y al corrupto.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            10
+          ],
+          "snippet": "La UCO tiene 580 plazas y 3,5 millones de presupuesto propio; la UDEF ha perdido la mitad de sus agentes desde 2022. Resultado: 600 cuentas bancarias y 300 móviles sin analizar, informes con meses de retraso y causas que prescriben por falta de manos. Plan 2027-2029: UCO de 580 a 1.800 agentes, UDEF de 320 a 1.000, 1.200 más en UDYCO y Vigilancia Aduanera, peritos contables y laboratorio forense propio. Partida finalista blindada por ley: ningún ministro puede recortarla ni apartar a un investigador. Coste: ≈ 400 M€/año. Lo paga el decomiso al narco y al corrupto.",
+          "docling_refs": [
+            "#/texts/255",
+            "#/texts/256",
+            "#/texts/257"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (II · 12) (Remediación E-3, ADR D-015)."
+    },
+    "salf-023": {
+      "status": "corregida",
+      "official_number": "II · Medida 13",
+      "official_text": {
+        "text": "94.400 vigilantes cobran 1.161 euros de salario base y 24 euros de plus de peligrosidad, y seis de cada diez han sido agredidos. Reforma de la Ley de Seguridad Privada: estatuto de colaborador de la seguridad pública, con la misma protección penal que bomberos y personal sanitario: agredirlos es atentado, sin ser agentes de la autoridad ni invadir una sola competencia de la Policía y la Guardia Civil. Chaleco, guantes anticorte y defensa a cargo de la empresa; binomio obligatorio en transporte, hospitales y centros de menores; TIP en 30 días, no en nueve meses; título oficial de FP y reglamento nuevo en seis meses: el vigente es de 1994.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            11
+          ],
+          "snippet": "94.400 vigilantes cobran 1.161 euros de salario base y 24 euros de plus de peligrosidad, y seis de cada diez han sido agredidos. Reforma de la Ley de Seguridad Privada: estatuto de colaborador de la seguridad pública, con la misma protección penal que bomberos y personal sanitario: agredirlos es atentado, sin ser agentes de la autoridad ni invadir una sola competencia de la Policía y la Guardia Civil. Chaleco, guantes anticorte y defensa a cargo de la empresa; binomio obligatorio en transporte, hospitales y centros de menores; TIP en 30 días, no en nueve meses; título of...",
+          "docling_refs": [
+            "#/texts/270",
+            "#/texts/271"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (II · 13) (Remediación E-3, ADR D-015)."
+    },
+    "salf-024": {
+      "status": "corregida",
+      "official_number": "II · Medida 14",
+      "official_text": {
+        "text": "El Estado no vuelve a adjudicar vigilancia a precio de nómina impagada: precio mínimo de licitación igual al coste del convenio más estructura, pago directo al trabajador si la empresa no paga y exclusión de la contratación pública a quien incumpla. Plus de peligrosidad de 150 euros en todo contrato público. Coeficientes reductores para jubilarse a los 60 con 35 años cotizados, financiados con cotización adicional, como la policía local.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            11
+          ],
+          "snippet": "El Estado no vuelve a adjudicar vigilancia a precio de nómina impagada: precio mínimo de licitación igual al coste del convenio más estructura, pago directo al trabajador si la empresa no paga y exclusión de la contratación pública a quien incumpla. Plus de peligrosidad de 150 euros en todo contrato público. Coeficientes reductores para jubilarse a los 60 con 35 años cotizados, financiados con cotización adicional, como la policía local.",
+          "docling_refs": [
+            "#/texts/272",
+            "#/texts/273"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (II · 14) (Remediación E-3, ADR D-015)."
+    },
+    "salf-025": {
+      "status": "corregida",
+      "official_number": "III · Medida 1",
+      "official_text": {
+        "text": "Mínimo exento de 35.000 euros (hoy, 5.550), con reducción gradual hasta 50.000 para que ganar un euro más nunca cueste dinero. Calendario: 15.000 en 2027, 22.000 en 2028, 28.000 en 2029 y 35.000 en 2030. Coste: ≈ 43.000 M€/año en 2030. Ver 'Cómo se paga'.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            12
+          ],
+          "snippet": "Mínimo exento de 35.000 euros (hoy, 5.550), con reducción gradual hasta 50.000 para que ganar un euro más nunca cueste dinero. Calendario: 15.000 en 2027, 22.000 en 2028, 28.000 en 2029 y 35.000 en 2030. Coste: ≈ 43.000 M€/año en 2030. Ver 'Cómo se paga'.",
+          "docling_refs": [
+            "#/texts/290",
+            "#/texts/291",
+            "#/texts/292"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (III · 1) (Remediación E-3, ADR D-015)."
+    },
+    "salf-026": {
+      "status": "corregida",
+      "official_number": "III · Medida 2",
+      "official_text": {
+        "text": "Cada hijo suma 5.000 euros al mínimo exento de cada progenitor: ni el padre ni la madre pagan IRPF por esa parte. Una pareja con dos hijos no paga hasta 45.000 euros cada uno. El Estado que cobra por tener hijos no puede hablar de natalidad. Coste: ≈ 5.500 M€/año.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            12
+          ],
+          "snippet": "Cada hijo suma 5.000 euros al mínimo exento de cada progenitor: ni el padre ni la madre pagan IRPF por esa parte. Una pareja con dos hijos no paga hasta 45.000 euros cada uno. El Estado que cobra por tener hijos no puede hablar de natalidad. Coste: ≈ 5.500 M€/año.",
+          "docling_refs": [
+            "#/texts/293",
+            "#/texts/294",
+            "#/texts/295"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (III · 2) (Remediación E-3, ADR D-015)."
+    },
+    "salf-027": {
+      "status": "corregida",
+      "official_number": "III · Medida 3",
+      "official_text": {
+        "text": "Tarifa, mínimos y deducciones del IRPF actualizados cada año con el IPC, por ley. La recaudación subió un 10 % en 2025 sin tocar un tipo: eso es una subida encubierta y se acaba.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            12
+          ],
+          "snippet": "Tarifa, mínimos y deducciones del IRPF actualizados cada año con el IPC, por ley. La recaudación subió un 10 % en 2025 sin tocar un tipo: eso es una subida encubierta y se acaba.",
+          "docling_refs": [
+            "#/texts/296",
+            "#/texts/297"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (III · 3) (Remediación E-3, ADR D-015)."
+    },
+    "salf-028": {
+      "status": "corregida",
+      "official_number": "III · Medida 4",
+      "official_text": {
+        "text": "Cuota cero, total y para siempre: ningún autónomo vuelve a pagar cuota. IVA de caja: si no cobras, no adelantas. Coste: ≈ 12.000 M€/año, lo que hoy recauda el RETA.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            12
+          ],
+          "snippet": "Cuota cero, total y para siempre: ningún autónomo vuelve a pagar cuota. IVA de caja: si no cobras, no adelantas. Coste: ≈ 12.000 M€/año, lo que hoy recauda el RETA.",
+          "docling_refs": [
+            "#/texts/298",
+            "#/texts/299",
+            "#/texts/300"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (III · 4) (Remediación E-3, ADR D-015)."
+    },
+    "salf-029": {
+      "status": "corregida",
+      "official_number": "III · Medida 5",
+      "official_text": {
+        "text": "Del 25 al 20 % en dos años; 15 % sobre el beneficio reinvertido; 10 % los tres primeros años de una empresa nueva. Coste: ≈ 6.000 M€/año.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            13
+          ],
+          "snippet": "Del 25 al 20 % en dos años; 15 % sobre el beneficio reinvertido; 10 % los tres primeros años de una empresa nueva. Coste: ≈ 6.000 M€/año.",
+          "docling_refs": [
+            "#/texts/316",
+            "#/texts/317",
+            "#/texts/318"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (III · 5) (Remediación E-3, ADR D-015)."
+    },
+    "salf-030": {
+      "status": "corregida",
+      "official_number": "III · Medida 6",
+      "official_text": {
+        "text": "Heredar la casa de tus padres no es un hecho imponible. Es un duelo. Fuera también el impuesto a las grandes fortunas. Coste: ≈ 3.500 M€/año.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            13
+          ],
+          "snippet": "Heredar la casa de tus padres no es un hecho imponible. Es un duelo. Fuera también el impuesto a las grandes fortunas. Coste: ≈ 3.500 M€/año.",
+          "docling_refs": [
+            "#/texts/319",
+            "#/texts/320",
+            "#/texts/321"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (III · 6) (Remediación E-3, ADR D-015)."
+    },
+    "salf-031": {
+      "status": "corregida",
+      "official_number": "III · Medida 7",
+      "official_text": {
+        "text": "La luz, del 21 al 4 %; el agua, del 10 al 4 %. Y fuera el impuesto a la producción eléctrica que va directo a tu factura. Coste: ≈ 2.600 M€/año.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            13
+          ],
+          "snippet": "La luz, del 21 al 4 %; el agua, del 10 al 4 %. Y fuera el impuesto a la producción eléctrica que va directo a tu factura. Coste: ≈ 2.600 M€/año.",
+          "docling_refs": [
+            "#/texts/322",
+            "#/texts/323",
+            "#/texts/324"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (III · 7) (Remediación E-3, ADR D-015)."
+    },
+    "salf-032": {
+      "status": "corregida",
+      "official_number": "III · Medida 8",
+      "official_text": {
+        "text": "Ninguna bajada entra en vigor sin ahorro estructural certificado por la AIReF. Techo de gasto real. Déficit cero en 2030.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            13
+          ],
+          "snippet": "Ninguna bajada entra en vigor sin ahorro estructural certificado por la AIReF. Techo de gasto real. Déficit cero en 2030.",
+          "docling_refs": [
+            "#/texts/325",
+            "#/texts/326"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (III · 8) (Remediación E-3, ADR D-015)."
+    },
+    "salf-033": {
+      "status": "corregida",
+      "official_number": "III · Medida 9",
+      "official_text": {
+        "text": "Renta en una página, liquidación en 30 días, carga de la prueba para la Administración e intereses de demora simétricos: Hacienda devuelve con el mismo interés con el que cobra. Eliminación inmediata de incentivos a la persecución fiscal; el 50 % de los inspectores fiscales se dedicarán en exclusiva a la investigación de políticos, cargos públicos y empresas subvencionadas directa o indirectamente.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            13
+          ],
+          "snippet": "Renta en una página, liquidación en 30 días, carga de la prueba para la Administración e intereses de demora simétricos: Hacienda devuelve con el mismo interés con el que cobra. Eliminación inmediata de incentivos a la persecución fiscal; el 50 % de los inspectores fiscales se dedicarán en exclusiva a la investigación de políticos, cargos públicos y empresas subvencionadas directa o indirectamente.",
+          "docling_refs": [
+            "#/texts/327",
+            "#/texts/328"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (III · 9) (Remediación E-3, ADR D-015)."
+    },
+    "salf-034": {
+      "status": "corregida",
+      "official_number": "III · Medida 10",
+      "official_text": {
+        "text": "Toda subida de impuestos exigirá tres quintos del Congreso (reforma constitucional). Cada contribuyente recibirá cada año cuánto pagó en total y en qué se gastó, euro a euro.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            13
+          ],
+          "snippet": "Toda subida de impuestos exigirá tres quintos del Congreso (reforma constitucional). Cada contribuyente recibirá cada año cuánto pagó en total y en qué se gastó, euro a euro.",
+          "docling_refs": [
+            "#/texts/329",
+            "#/texts/330"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (III · 10) (Remediación E-3, ADR D-015)."
+    },
+    "salf-035": {
+      "status": "corregida",
+      "official_number": "III · Medida 11",
+      "official_text": {
+        "text": "Nos batiremos por una financiación interterritorial justa, solidaria y responsable. Frente a modelos de financiación improvisados ad hoc por el sanchismo para contentar a sus socios separatistas y mantenerse un día más en el poder, defenderemos un sistema justo, solidario y responsable, regido por criterios objetivos y transparentes, iguales para todas las Comunidades Autónomas. Presionaremos con firmeza en esta dirección y denunciaremos incansablemente la utilización de la financiación autonómica, y por tanto de la riqueza, las necesidades y el futuro de los españoles, como moneda de cambio al servicio de intereses políticos. Nos opondremos a las condonaciones de deuda entre administraciones, salvo en caso de catástrofe.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            14
+          ],
+          "snippet": "Nos batiremos por una financiación interterritorial justa, solidaria y responsable. Frente a modelos de financiación improvisados ad hoc por el sanchismo para contentar a sus socios separatistas y mantenerse un día más en el poder, defenderemos un sistema justo, solidario y responsable, regido por criterios objetivos y transparentes, iguales para todas las Comunidades Autónomas. Presionaremos con firmeza en esta dirección y denunciaremos incansablemente la utilización de la financiación autonómica, y por tanto de la riqueza, las necesidades y el futuro de los españoles, ...",
+          "docling_refs": [
+            "#/texts/348",
+            "#/texts/349"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (III · 11) (Remediación E-3, ADR D-015)."
+    },
+    "salf-036": {
+      "status": "corregida",
+      "official_number": "III · Medida 12",
+      "official_text": {
+        "text": "Reforma constitucional para establecer límites claramente definidos a la presión fiscal y al endeudamiento. Creación de tipos penales constitucionalmente blindados para castigar su vulneración. El umbral de confiscatoriedad será individualmente invocable por cualquier persona física o jurídica ante la Administración tributaria, los Tribunales Económico-Administrativos y la jurisdicción competente.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            14
+          ],
+          "snippet": "Reforma constitucional para establecer límites claramente definidos a la presión fiscal y al endeudamiento. Creación de tipos penales constitucionalmente blindados para castigar su vulneración. El umbral de confiscatoriedad será individualmente invocable por cualquier persona física o jurídica ante la Administración tributaria, los Tribunales Económico-Administrativos y la jurisdicción competente.",
+          "docling_refs": [
+            "#/texts/350",
+            "#/texts/351"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (III · 12) (Remediación E-3, ADR D-015)."
+    },
+    "salf-037": {
+      "status": "corregida",
+      "official_number": "III · Medida 13",
+      "official_text": {
+        "text": "Derecho a pagar y cobrar en efectivo sin límite de importe: se deroga el tope de 1.000 euros y España vetará el de 10.000 que impone Bruselas desde 2027. Comercios, bancos y administraciones estarán obligados a aceptarlo. El euro digital nunca sustituirá ni condicionará al efectivo: tu dinero no es un permiso que alguien pueda apagar. Negarse a aceptar u obstaculizar el pago en efectivo será penado por ley.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            15
+          ],
+          "snippet": "Derecho a pagar y cobrar en efectivo sin límite de importe: se deroga el tope de 1.000 euros y España vetará el de 10.000 que impone Bruselas desde 2027. Comercios, bancos y administraciones estarán obligados a aceptarlo. El euro digital nunca sustituirá ni condicionará al efectivo: tu dinero no es un permiso que alguien pueda apagar. Negarse a aceptar u obstaculizar el pago en efectivo será penado por ley.",
+          "docling_refs": [
+            "#/texts/361",
+            "#/texts/362"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (III · 13) (Remediación E-3, ADR D-015)."
+    },
+    "salf-038": {
+      "status": "corregida",
+      "official_number": "III · Medida 14",
+      "official_text": {
+        "text": "El rescate de las cajas ha costado 66.617 millones según el Tribunal de Cuentas; sumando lo que falta por recuperar, los intereses y el agujero de la Sareb, la factura real del contribuyente ronda los 70.000. La banca ha devuelto el 11 %. Ley de Devolución del Rescate: las entidades que se quedaron con las cajas rescatadas (CaixaBank, BBVA, Sabadell, Unicaja y Abanca) pagan 4.700 millones al año durante 15 años, en proporción a las ayudas que absorbieron, con tope del 40 % de su beneficio anual y el exceso aplazado con interés. No deducible, prohibido repercutirlo al cliente (multa del triple) y heredable por quien compre la entidad. Ganan 20.000 millones al año: pueden.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            15
+          ],
+          "snippet": "El rescate de las cajas ha costado 66.617 millones según el Tribunal de Cuentas; sumando lo que falta por recuperar, los intereses y el agujero de la Sareb, la factura real del contribuyente ronda los 70.000. La banca ha devuelto el 11 %. Ley de Devolución del Rescate: las entidades que se quedaron con las cajas rescatadas (CaixaBank, BBVA, Sabadell, Unicaja y Abanca) pagan 4.700 millones al año durante 15 años, en proporción a las ayudas que absorbieron, con tope del 40 % de su beneficio anual y el exceso aplazado con interés. No deducible, prohibido repercutirlo al cli...",
+          "docling_refs": [
+            "#/texts/363",
+            "#/texts/364"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (III · 14) (Remediación E-3, ADR D-015)."
+    },
+    "salf-039": {
+      "status": "corregida",
+      "official_number": "IV · Medida 1",
+      "official_text": {
+        "text": "48 horas. Identificación, orden y salida en 48 horas. El 100 % de las órdenes ejecutadas en 90 días. Internamiento hasta la expulsión. Coste: ≈ 300 M€/año; se recupera en acogida.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            17
+          ],
+          "snippet": "48 horas. Identificación, orden y salida en 48 horas. El 100 % de las órdenes ejecutadas en 90 días. Internamiento hasta la expulsión. Coste: ≈ 300 M€/año; se recupera en acogida.",
+          "docling_refs": [
+            "#/texts/388",
+            "#/texts/389",
+            "#/texts/390",
+            "#/texts/391"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (IV · 1) (Remediación E-3, ADR D-015)."
+    },
+    "salf-040": {
+      "status": "corregida",
+      "official_number": "IV · Medida 2",
+      "official_text": {
+        "text": "Derogación de la regularización de 2026, revisión una por una de las concesiones y prohibición por ley orgánica de cualquier regularización masiva. Cada regularización es una invitación.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            17
+          ],
+          "snippet": "Derogación de la regularización de 2026, revisión una por una de las concesiones y prohibición por ley orgánica de cualquier regularización masiva. Cada regularización es una invitación.",
+          "docling_refs": [
+            "#/texts/392",
+            "#/texts/393"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (IV · 2) (Remediación E-3, ADR D-015)."
+    },
+    "salf-041": {
+      "status": "corregida",
+      "official_number": "IV · Medida 3",
+      "official_text": {
+        "text": "Ni un euro, ni un visado, ni una preferencia comercial a Marruecos, Argelia, Senegal o Mauritania si no readmiten a sus nacionales en 72 horas. Veto español a cualquier acuerdo europeo que no lo exija.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            17
+          ],
+          "snippet": "Ni un euro, ni un visado, ni una preferencia comercial a Marruecos, Argelia, Senegal o Mauritania si no readmiten a sus nacionales en 72 horas. Veto español a cualquier acuerdo europeo que no lo exija.",
+          "docling_refs": [
+            "#/texts/394",
+            "#/texts/395"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (IV · 3) (Remediación E-3, ADR D-015)."
+    },
+    "salf-042": {
+      "status": "corregida",
+      "official_number": "IV · Medida 4",
+      "official_text": {
+        "text": "Moratoria total, durante toda la legislatura, a la inmigración procedente de países que no colaboran contra las mafias de trata de personas ni readmiten a sus nacionales. Para el resto, solo visados con contrato previo y cupo anual votado en el Congreso. Primero integramos a los que ya están.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            18
+          ],
+          "snippet": "Moratoria total, durante toda la legislatura, a la inmigración procedente de países que no colaboran contra las mafias de trata de personas ni readmiten a sus nacionales. Para el resto, solo visados con contrato previo y cupo anual votado en el Congreso. Primero integramos a los que ya están.",
+          "docling_refs": [
+            "#/texts/409",
+            "#/texts/410"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (IV · 4) (Remediación E-3, ADR D-015)."
+    },
+    "salf-043": {
+      "status": "corregida",
+      "official_number": "IV · Medida 5",
+      "official_text": {
+        "text": "Cupos preferentes para Hispanoamérica. Nacionalidad: diez años de residencia legal, examen de cultura y Constitución, sin antecedentes y sin depender de ayudas. Revisión de todas las obtenidas con fraude.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            18
+          ],
+          "snippet": "Cupos preferentes para Hispanoamérica. Nacionalidad: diez años de residencia legal, examen de cultura y Constitución, sin antecedentes y sin depender de ayudas. Revisión de todas las obtenidas con fraude.",
+          "docling_refs": [
+            "#/texts/411",
+            "#/texts/412"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (IV · 5) (Remediación E-3, ADR D-015)."
+    },
+    "salf-044": {
+      "status": "corregida",
+      "official_number": "IV · Medida 6",
+      "official_text": {
+        "text": "Condena de más de un año: pérdida de la residencia. Terrorismo, crimen organizado o delitos sexuales graves: pérdida de la nacionalidad para dobles nacionales.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            18
+          ],
+          "snippet": "Condena de más de un año: pérdida de la residencia. Terrorismo, crimen organizado o delitos sexuales graves: pérdida de la nacionalidad para dobles nacionales.",
+          "docling_refs": [
+            "#/texts/413",
+            "#/texts/414"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (IV · 6) (Remediación E-3, ADR D-015)."
+    },
+    "salf-045": {
+      "status": "corregida",
+      "official_number": "IV · Medida 7",
+      "official_text": {
+        "text": "Prueba radiológica y dental obligatoria antes de entrar en un centro de menores. Repatriación con la familia como primera opción. Ni un adulto en un centro con niños.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            18
+          ],
+          "snippet": "Prueba radiológica y dental obligatoria antes de entrar en un centro de menores. Repatriación con la familia como primera opción. Ni un adulto en un centro con niños.",
+          "docling_refs": [
+            "#/texts/415",
+            "#/texts/416"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (IV · 7) (Remediación E-3, ADR D-015)."
+    },
+    "salf-046": {
+      "status": "corregida",
+      "official_number": "IV · Medida 8",
+      "official_text": {
+        "text": "Ilegalización e inclusión en la lista terrorista: Hamás, su rama, ya está. Prohibición de la financiación extranjera del culto, registro público de donaciones y cierre de quien no cumpla. Imanes que prediquen contra la Constitución, expulsados.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            19
+          ],
+          "snippet": "Ilegalización e inclusión en la lista terrorista: Hamás, su rama, ya está. Prohibición de la financiación extranjera del culto, registro público de donaciones y cierre de quien no cumpla. Imanes que prediquen contra la Constitución, expulsados.",
+          "docling_refs": [
+            "#/texts/429",
+            "#/texts/430"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (IV · 8) (Remediación E-3, ADR D-015)."
+    },
+    "salf-047": {
+      "status": "corregida",
+      "official_number": "IV · Medida 9",
+      "official_text": {
+        "text": "Burka y niqab fuera del espacio público, como en Francia, Bélgica, Austria, Dinamarca, Países Bajos y Suiza. Una mujer sin rostro no es diversidad: es sumisión.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            19
+          ],
+          "snippet": "Burka y niqab fuera del espacio público, como en Francia, Bélgica, Austria, Dinamarca, Países Bajos y Suiza. Una mujer sin rostro no es diversidad: es sumisión.",
+          "docling_refs": [
+            "#/texts/431",
+            "#/texts/432"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (IV · 9) (Remediación E-3, ADR D-015)."
+    },
+    "salf-048": {
+      "status": "corregida",
+      "official_number": "IV · Medida 10",
+      "official_text": {
+        "text": "Ninguna prestación no contributiva, ayuda al alquiler ni vivienda pública sin cinco años de residencia legal y cotización. Tasa del 2 % a las remesas hacia países que no readmiten.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            19
+          ],
+          "snippet": "Ninguna prestación no contributiva, ayuda al alquiler ni vivienda pública sin cinco años de residencia legal y cotización. Tasa del 2 % a las remesas hacia países que no readmiten.",
+          "docling_refs": [
+            "#/texts/433",
+            "#/texts/434"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (IV · 10) (Remediación E-3, ADR D-015)."
+    },
+    "salf-049": {
+      "status": "corregida",
+      "official_number": "V · Medida 1",
+      "official_text": {
+        "text": "Revalorización con el IPC y prohibición de recortes, con rango constitucional. A quien ya cobra no se le toca un euro.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            20
+          ],
+          "snippet": "Revalorización con el IPC y prohibición de recortes, con rango constitucional. A quien ya cobra no se le toca un euro.",
+          "docling_refs": [
+            "#/texts/453",
+            "#/texts/454"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (V · 1) (Remediación E-3, ADR D-015)."
+    },
+    "salf-050": {
+      "status": "corregida",
+      "official_number": "V · Medida 2",
+      "official_text": {
+        "text": "Cada año recibes tu pensión estimada y el saldo de tu cuenta individual. Fin de la mentira institucional: sabrás lo que vas a cobrar y quién se lo está gastando.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            20
+          ],
+          "snippet": "Cada año recibes tu pensión estimada y el saldo de tu cuenta individual. Fin de la mentira institucional: sabrás lo que vas a cobrar y quién se lo está gastando.",
+          "docling_refs": [
+            "#/texts/455"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (V · 2) (Remediación E-3, ADR D-015)."
+    },
+    "salf-051": {
+      "status": "corregida",
+      "official_number": "V · Medida 3",
+      "official_text": {
+        "text": "Menores de 45 años: el 2 % del salario a una cuenta individual obligatoria, tuya, heredable, con comisión máxima del 0,3 %. El 0,9 % ya lo pagas y hoy va a una hucha común.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            20
+          ],
+          "snippet": "Menores de 45 años: el 2 % del salario a una cuenta individual obligatoria, tuya, heredable, con comisión máxima del 0,3 %. El 0,9 % ya lo pagas y hoy va a una hucha común.",
+          "docling_refs": [
+            "#/texts/456",
+            "#/texts/457"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (V · 3) (Remediación E-3, ADR D-015)."
+    },
+    "salf-052": {
+      "status": "corregida",
+      "official_number": "V · Medida 4",
+      "official_text": {
+        "text": "El 1,53 % del salario, a cargo de la empresa, a tu cuenta desde el primer día. Te la llevas al cambiar de trabajo y la cobras al jubilarte si no la usas.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            20
+          ],
+          "snippet": "El 1,53 % del salario, a cargo de la empresa, a tu cuenta desde el primer día. Te la llevas al cambiar de trabajo y la cobras al jubilarte si no la usas.",
+          "docling_refs": [
+            "#/texts/459",
+            "#/texts/460"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (V · 4) (Remediación E-3, ADR D-015)."
+    },
+    "salf-053": {
+      "status": "corregida",
+      "official_number": "V · Medida 5",
+      "official_text": {
+        "text": "Cobra el 100 % de la pensión y sigue trabajando sin recortes ni cotizaciones extra. Con 40 años cotizados te jubilas cuando quieras, sin penalización.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            20
+          ],
+          "snippet": "Cobra el 100 % de la pensión y sigue trabajando sin recortes ni cotizaciones extra. Con 40 años cotizados te jubilas cuando quieras, sin penalización.",
+          "docling_refs": [
+            "#/texts/461",
+            "#/texts/462"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (V · 5) (Remediación E-3, ADR D-015)."
+    },
+    "salf-054": {
+      "status": "corregida",
+      "official_number": "V · Medida 6",
+      "official_text": {
+        "text": "Nadie que haya cotizado 35 años cobrará menos de 1.000 euros en 14 pagas. Coste: ≈ 2.000 M€/año.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            21
+          ],
+          "snippet": "Nadie que haya cotizado 35 años cobrará menos de 1.000 euros en 14 pagas. Coste: ≈ 2.000 M€/año.",
+          "docling_refs": [
+            "#/texts/480",
+            "#/texts/481",
+            "#/texts/482"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (V · 6) (Remediación E-3, ADR D-015)."
+    },
+    "salf-055": {
+      "status": "corregida",
+      "official_number": "V · Medida 7",
+      "official_text": {
+        "text": "Sin complemento parlamentario (la pensión máxima con siete años de escaño), sin cesantías, sin oficinas, coches y escoltas vitalicios para expresidentes.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            21
+          ],
+          "snippet": "Sin complemento parlamentario (la pensión máxima con siete años de escaño), sin cesantías, sin oficinas, coches y escoltas vitalicios para expresidentes.",
+          "docling_refs": [
+            "#/texts/483"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (V · 7) (Remediación E-3, ADR D-015)."
+    },
+    "salf-056": {
+      "status": "corregida",
+      "official_number": "V · Medida 8",
+      "official_text": {
+        "text": "Fondo soberano con gestión profesional independiente y mandato de rentabilidad. Ningún ministro vuelve a usar la hucha para cuadrar un presupuesto.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            21
+          ],
+          "snippet": "Fondo soberano con gestión profesional independiente y mandato de rentabilidad. Ningún ministro vuelve a usar la hucha para cuadrar un presupuesto.",
+          "docling_refs": [
+            "#/texts/484"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (V · 8) (Remediación E-3, ADR D-015)."
+    },
+    "salf-057": {
+      "status": "corregida",
+      "official_number": "V · Medida 9",
+      "official_text": {
+        "text": "Libertad de base de cotización. Quien quiera más pensión, cotiza más, sin tramos impuestos.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            21
+          ],
+          "snippet": "Libertad de base de cotización. Quien quiera más pensión, cotiza más, sin tramos impuestos.",
+          "docling_refs": [
+            "#/texts/485",
+            "#/texts/486"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (V · 9) (Remediación E-3, ADR D-015)."
+    },
+    "salf-058": {
+      "status": "corregida",
+      "official_number": "V · Medida 10",
+      "official_text": {
+        "text": "Cotizaciones por un lado, transferencias del Estado por otro, publicadas con cada nómina. La deuda de la Seguridad Social, reconocida y con calendario de pago.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            21
+          ],
+          "snippet": "Cotizaciones por un lado, transferencias del Estado por otro, publicadas con cada nómina. La deuda de la Seguridad Social, reconocida y con calendario de pago.",
+          "docling_refs": [
+            "#/texts/487",
+            "#/texts/488"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (V · 10) (Remediación E-3, ADR D-015)."
+    },
+    "salf-059": {
+      "status": "corregida",
+      "official_number": "VI · Medida 1",
+      "official_text": {
+        "text": "El 40 % del gasto sanitario son compras: 41.000 millones. Diecisiete servicios compran lo mismo a precios distintos. Central única obligatoria con precios netos públicos: 15 % de ahorro, íntegro para sueldos y plazas.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            22
+          ],
+          "snippet": "El 40 % del gasto sanitario son compras: 41.000 millones. Diecisiete servicios compran lo mismo a precios distintos. Central única obligatoria con precios netos públicos: 15 % de ahorro, íntegro para sueldos y plazas.",
+          "docling_refs": [
+            "#/texts/512",
+            "#/texts/513"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VI · 1) (Remediación E-3, ADR D-015)."
+    },
+    "salf-060": {
+      "status": "corregida",
+      "official_number": "VI · Medida 2",
+      "official_text": {
+        "text": "60 días para cirugía, 30 para especialista, 7 para pruebas prioritarias. Superado el plazo, eliges centro, público o privado, y lo paga la sanidad pública. Coste: ≈ 1.500 M€/año.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            22
+          ],
+          "snippet": "60 días para cirugía, 30 para especialista, 7 para pruebas prioritarias. Superado el plazo, eliges centro, público o privado, y lo paga la sanidad pública. Coste: ≈ 1.500 M€/año.",
+          "docling_refs": [
+            "#/texts/514",
+            "#/texts/515",
+            "#/texts/516"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VI · 2) (Remediación E-3, ADR D-015)."
+    },
+    "salf-061": {
+      "status": "corregida",
+      "official_number": "VI · Medida 3",
+      "official_text": {
+        "text": "Un médico de familia cobra aquí 79.000 euros; en Países Bajos, 135.000. Subida del 20 % a médicos y del 10 % a enfermería y al resto de profesionales sanitarios en cuatro años, 30.000 euros de complemento en plazas rurales y contratos estables desde el primer día. Coste: ≈ 5.500 M€/año; lo paga la central de compras.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            22
+          ],
+          "snippet": "Un médico de familia cobra aquí 79.000 euros; en Países Bajos, 135.000. Subida del 20 % a médicos y del 10 % a enfermería y al resto de profesionales sanitarios en cuatro años, 30.000 euros de complemento en plazas rurales y contratos estables desde el primer día. Coste: ≈ 5.500 M€/año; lo paga la central de compras.",
+          "docling_refs": [
+            "#/texts/517",
+            "#/texts/518",
+            "#/texts/519"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VI · 3) (Remediación E-3, ADR D-015)."
+    },
+    "salf-062": {
+      "status": "corregida",
+      "official_number": "VI · Medida 4",
+      "official_text": {
+        "text": "Válidas en toda España. Tu analítica de Sevilla se ve en Bilbao. Coste: 300 M€, una sola vez.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            23
+          ],
+          "snippet": "Válidas en toda España. Tu analítica de Sevilla se ve en Bilbao. Coste: 300 M€, una sola vez.",
+          "docling_refs": [
+            "#/texts/530",
+            "#/texts/531",
+            "#/texts/532"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VI · 4) (Remediación E-3, ADR D-015)."
+    },
+    "salf-063": {
+      "status": "corregida",
+      "official_number": "VI · Medida 5",
+      "official_text": {
+        "text": "España tiene 2,8 camas por cada 1.000 habitantes; Europa, 5,1. Inversión: ≈ 3.000 M€ en la legislatura.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            23
+          ],
+          "snippet": "España tiene 2,8 camas por cada 1.000 habitantes; Europa, 5,1. Inversión: ≈ 3.000 M€ en la legislatura.",
+          "docling_refs": [
+            "#/texts/533",
+            "#/texts/534",
+            "#/texts/535"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VI · 5) (Remediación E-3, ADR D-015)."
+    },
+    "salf-064": {
+      "status": "corregida",
+      "official_number": "VI · Medida 6",
+      "official_text": {
+        "text": "Si no la hay, consulta privada pagada por el Sistema. Telemedicina para crónicos, enfermería que prescribe y administrativos para que el médico no rellene papeles. Coste: ≈ 800 M€/año.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            23
+          ],
+          "snippet": "Si no la hay, consulta privada pagada por el Sistema. Telemedicina para crónicos, enfermería que prescribe y administrativos para que el médico no rellene papeles. Coste: ≈ 800 M€/año.",
+          "docling_refs": [
+            "#/texts/536",
+            "#/texts/537",
+            "#/texts/538"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VI · 6) (Remediación E-3, ADR D-015)."
+    },
+    "salf-065": {
+      "status": "corregida",
+      "official_number": "VI · Medida 7",
+      "official_text": {
+        "text": "Tarjeta para españoles y residentes legales con cotización o cobertura. Urgencias para todos, siempre. Facturación real a los países y aseguradoras de terceros.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            23
+          ],
+          "snippet": "Tarjeta para españoles y residentes legales con cotización o cobertura. Urgencias para todos, siempre. Facturación real a los países y aseguradoras de terceros.",
+          "docling_refs": [
+            "#/texts/539",
+            "#/texts/540"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VI · 7) (Remediación E-3, ADR D-015)."
+    },
+    "salf-066": {
+      "status": "corregida",
+      "official_number": "VI · Medida 8",
+      "official_text": {
+        "text": "Subasta nacional de genéricos y biosimilares. Copago cero para pensiones mínimas y enfermos crónicos. Coste: ≈ 200 M€/año.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            23
+          ],
+          "snippet": "Subasta nacional de genéricos y biosimilares. Copago cero para pensiones mínimas y enfermos crónicos. Coste: ≈ 200 M€/año.",
+          "docling_refs": [
+            "#/texts/541",
+            "#/texts/542",
+            "#/texts/543"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VI · 8) (Remediación E-3, ADR D-015)."
+    },
+    "salf-067": {
+      "status": "corregida",
+      "official_number": "VI · Medida 9",
+      "official_text": {
+        "text": "Copago cero en farmacia para todos los menores de 3 años, en toda España. Hoy, en muchas comunidades, la gratuidad se acaba al cumplir un año. Un niño enfermo no es un hecho imponible. Coste: ≈ 30 M€/año.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            23
+          ],
+          "snippet": "Copago cero en farmacia para todos los menores de 3 años, en toda España. Hoy, en muchas comunidades, la gratuidad se acaba al cumplir un año. Un niño enfermo no es un hecho imponible. Coste: ≈ 30 M€/año.",
+          "docling_refs": [
+            "#/texts/544",
+            "#/texts/545",
+            "#/texts/546"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VI · 9) (Remediación E-3, ADR D-015)."
+    },
+    "salf-068": {
+      "status": "corregida",
+      "official_number": "VI · Medida 10",
+      "official_text": {
+        "text": "Un psicólogo clínico por cada 10.000 habitantes en los centros de salud y atención en 15 días. Coste: ≈ 500 M€/año.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            24
+          ],
+          "snippet": "Un psicólogo clínico por cada 10.000 habitantes en los centros de salud y atención en 15 días. Coste: ≈ 500 M€/año.",
+          "docling_refs": [
+            "#/texts/563",
+            "#/texts/564",
+            "#/texts/565"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VI · 10) (Remediación E-3, ADR D-015)."
+    },
+    "salf-069": {
+      "status": "corregida",
+      "official_number": "VI · Medida 11",
+      "official_text": {
+        "text": "Dirección de hospitales por méritos con mandato de cinco años. Cuentas, listas de espera y resultados de cada hospital, públicos en tiempo real.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            24
+          ],
+          "snippet": "Dirección de hospitales por méritos con mandato de cinco años. Cuentas, listas de espera y resultados de cada hospital, públicos en tiempo real.",
+          "docling_refs": [
+            "#/texts/566",
+            "#/texts/567"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VI · 11) (Remediación E-3, ADR D-015)."
+    },
+    "salf-070": {
+      "status": "corregida",
+      "official_number": "VI · Medida 12",
+      "official_text": {
+        "text": "Derecho a una prueba de paternidad gratuita e inmediata en el propio hospital, al nacer, salvo renuncia expresa de ambos progenitores. Coste: ≈ 30 M€/año.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            24
+          ],
+          "snippet": "Derecho a una prueba de paternidad gratuita e inmediata en el propio hospital, al nacer, salvo renuncia expresa de ambos progenitores. Coste: ≈ 30 M€/año.",
+          "docling_refs": [
+            "#/texts/568",
+            "#/texts/569",
+            "#/texts/570"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VI · 12) (Remediación E-3, ADR D-015)."
+    },
+    "salf-071": {
+      "status": "corregida",
+      "official_number": "VII · Medida 1",
+      "official_text": {
+        "text": "Cohecho, malversación, prevaricación, tráfico de influencias y financiación ilegal cometidos por cargos públicos: imprescriptibles. Hoy prescriben entre 5 y 15 años: el ladrón solo tiene que esperar. no hay reloj para el corrupto Modelo de macrocárcel SALF. Régimen cerrado de máxima seguridad para asesinos, violadores, narcos y corruptos: sin permisos, sin tercer grado, sin piscinas ni gimnasios. Cero ocio y 100 % trabajo, compensación del daño causado y reinserción obligatoria.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            25
+          ],
+          "snippet": "Cohecho, malversación, prevaricación, tráfico de influencias y financiación ilegal cometidos por cargos públicos: imprescriptibles. Hoy prescriben entre 5 y 15 años: el ladrón solo tiene que esperar. no hay reloj para el corrupto Modelo de macrocárcel SALF. Régimen cerrado de máxima seguridad para asesinos, violadores, narcos y corruptos: sin permisos, sin tercer grado, sin piscinas ni gimnasios. Cero ocio y 100 % trabajo, compensación del daño causado y reinserción obligatoria.",
+          "docling_refs": [
+            "#/texts/590",
+            "#/texts/591",
+            "#/texts/592"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VII · 1) (Remediación E-3, ADR D-015)."
+    },
+    "salf-072": {
+      "status": "corregida",
+      "official_number": "VII · Medida 2",
+      "official_text": {
+        "text": "Cumplimiento íntegro para condenados por corrupción y prohibición legal de indulto. El poder no puede perdonar a los que robaron para el poder.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            25
+          ],
+          "snippet": "Cumplimiento íntegro para condenados por corrupción y prohibición legal de indulto. El poder no puede perdonar a los que robaron para el poder.",
+          "docling_refs": [
+            "#/texts/594"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VII · 2) (Remediación E-3, ADR D-015)."
+    },
+    "salf-073": {
+      "status": "corregida",
+      "official_number": "VII · Medida 3",
+      "official_text": {
+        "text": "Reforma de la Constitución para prohibir expresamente las amnistías y condicionar los indultos a requisitos que impidan su utilización política: solicitud por el órgano jurisdiccional en la misma sentencia condenatoria e informe favorable del CGPJ o de un órgano ad hoc sin influencia política en su composición. Prohibición, en todo caso, de los indultos a políticos corruptos, sin excepciones. La propia Constitución exigirá tipos penales que castiguen la aprobación de amnistías o indultos generales y la utilización política del indulto, con pena mínima de prisión. Antes de esta reforma, una única excepción: indultaremos a José Manuel Lomas, el librero de 82 años condenado por defender su finca, y le concederemos la Orden del Mérito Civil.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            26
+          ],
+          "snippet": "Reforma de la Constitución para prohibir expresamente las amnistías y condicionar los indultos a requisitos que impidan su utilización política: solicitud por el órgano jurisdiccional en la misma sentencia condenatoria e informe favorable del CGPJ o de un órgano ad hoc sin influencia política en su composición. Prohibición, en todo caso, de los indultos a políticos corruptos, sin excepciones. La propia Constitución exigirá tipos penales que castiguen la aprobación de amnistías o indultos generales y la utilización política del indulto, con pena mínima de prisión. Antes d...",
+          "docling_refs": [
+            "#/texts/600",
+            "#/texts/601"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VII · 3) (Remediación E-3, ADR D-015)."
+    },
+    "salf-074": {
+      "status": "corregida",
+      "official_number": "VII · Medida 4",
+      "official_text": {
+        "text": "Responsabilidad civil del triple, decomiso de todo patrimonio no justificado y ningún beneficio hasta restituir. El funcionario condenado pierde la plaza para siempre; la empresa corruptora, quince años sin contratar con el Estado.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            26
+          ],
+          "snippet": "Responsabilidad civil del triple, decomiso de todo patrimonio no justificado y ningún beneficio hasta restituir. El funcionario condenado pierde la plaza para siempre; la empresa corruptora, quince años sin contratar con el Estado.",
+          "docling_refs": [
+            "#/texts/602",
+            "#/texts/603"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VII · 4) (Remediación E-3, ADR D-015)."
+    },
+    "salf-075": {
+      "status": "corregida",
+      "official_number": "VII · Medida 5",
+      "official_text": {
+        "text": "El 15 % de lo recuperado, libre de impuestos, con anonimato, protección laboral y una autoridad independiente con capacidad de sancionar.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            26
+          ],
+          "snippet": "El 15 % de lo recuperado, libre de impuestos, con anonimato, protección laboral y una autoridad independiente con capacidad de sancionar.",
+          "docling_refs": [
+            "#/texts/604",
+            "#/texts/605"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VII · 5) (Remediación E-3, ADR D-015)."
+    },
+    "salf-076": {
+      "status": "corregida",
+      "official_number": "VII · Medida 6",
+      "official_text": {
+        "text": "Elegido por tres quintos del Congreso entre fiscales con 25 años de carrera, mandato de seis años no coincidente con la legislatura. El último nombrado por el Gobierno acabó condenado por el Supremo.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            27
+          ],
+          "snippet": "Elegido por tres quintos del Congreso entre fiscales con 25 años de carrera, mandato de seis años no coincidente con la legislatura. El último nombrado por el Gobierno acabó condenado por el Supremo.",
+          "docling_refs": [
+            "#/texts/614",
+            "#/texts/615"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VII · 6) (Remediación E-3, ADR D-015)."
+    },
+    "salf-077": {
+      "status": "corregida",
+      "official_number": "VII · Medida 7",
+      "official_text": {
+        "text": "La Fiscalía Anticorrupción tiene 29 fiscales y 31 funcionarios para toda España; la Antidroga, 15; Vigilancia Aduanera tiene el 54 % de sus plazas sin cubrir y el SEPBLAC recibió un 76 % más de alertas con la misma plantilla. Anticorrupción pasa a 100 fiscales con unidad propia de peritos y auditores; Antidroga, a 40; Vigilancia Aduanera cubre todas sus vacantes en dos años y el SEPBLAC duplica su plantilla. Presupuesto propio por ley, fuera del alcance del ministro. Coste: ≈ 120 M€/año, dentro del fondo de 400 M€ de la UCO, la UDEF y la UDYCO.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            27
+          ],
+          "snippet": "La Fiscalía Anticorrupción tiene 29 fiscales y 31 funcionarios para toda España; la Antidroga, 15; Vigilancia Aduanera tiene el 54 % de sus plazas sin cubrir y el SEPBLAC recibió un 76 % más de alertas con la misma plantilla. Anticorrupción pasa a 100 fiscales con unidad propia de peritos y auditores; Antidroga, a 40; Vigilancia Aduanera cubre todas sus vacantes en dos años y el SEPBLAC duplica su plantilla. Presupuesto propio por ley, fuera del alcance del ministro. Coste: ≈ 120 M€/año, dentro del fondo de 400 M€ de la UCO, la UDEF y la UDYCO.",
+          "docling_refs": [
+            "#/texts/616",
+            "#/texts/617",
+            "#/texts/618"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VII · 7) (Remediación E-3, ADR D-015)."
+    },
+    "salf-078": {
+      "status": "corregida",
+      "official_number": "VII · Medida 8",
+      "official_text": {
+        "text": "Reforma de la Constitución para suprimir el Tribunal Constitucional y atribuir la potestad de control de constitucionalidad de las leyes y de las actuaciones de los poderes públicos a una sala especial del Tribunal Supremo. Su composición vendrá determinada por criterios estrictamente excluyentes de cualquier influencia política: elección por jueces y magistrados, antigüedad y/o sorteo.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            27
+          ],
+          "snippet": "Reforma de la Constitución para suprimir el Tribunal Constitucional y atribuir la potestad de control de constitucionalidad de las leyes y de las actuaciones de los poderes públicos a una sala especial del Tribunal Supremo. Su composición vendrá determinada por criterios estrictamente excluyentes de cualquier influencia política: elección por jueces y magistrados, antigüedad y/o sorteo.",
+          "docling_refs": [
+            "#/texts/619",
+            "#/texts/620"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VII · 8) (Remediación E-3, ADR D-015)."
+    },
+    "salf-079": {
+      "status": "corregida",
+      "official_number": "VII · Medida 9",
+      "official_text": {
+        "text": "Reforma de la Constitución para garantizar la independencia del Consejo General del Poder Judicial, con composición determinada por criterios excluyentes de cualquier influencia política: elección por jueces y magistrados, antigüedad y/o sorteo. Tipos penales específicos, y endurecimiento de los existentes, para cualquier actuación política o judicial que comprometa la independencia judicial, como transmitir o recibir instrucciones. Las becas públicas para preparar oposiciones se concederán únicamente por mérito y capacidad.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            28
+          ],
+          "snippet": "Reforma de la Constitución para garantizar la independencia del Consejo General del Poder Judicial, con composición determinada por criterios excluyentes de cualquier influencia política: elección por jueces y magistrados, antigüedad y/o sorteo. Tipos penales específicos, y endurecimiento de los existentes, para cualquier actuación política o judicial que comprometa la independencia judicial, como transmitir o recibir instrucciones. Las becas públicas para preparar oposiciones se concederán únicamente por mérito y capacidad.",
+          "docling_refs": [
+            "#/texts/630",
+            "#/texts/631"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VII · 9) (Remediación E-3, ADR D-015)."
+    },
+    "salf-080": {
+      "status": "corregida",
+      "official_number": "VII · Medida 10",
+      "official_text": {
+        "text": "La ley no podrá vetar ni restringir el ejercicio de la acción popular a ninguna persona física o jurídica, y podrá extender la posibilidad de ejercerla a entes sin personalidad. Nadie volverá a cerrar la puerta de los tribunales a quien denuncia a un corrupto.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            28
+          ],
+          "snippet": "La ley no podrá vetar ni restringir el ejercicio de la acción popular a ninguna persona física o jurídica, y podrá extender la posibilidad de ejercerla a entes sin personalidad. Nadie volverá a cerrar la puerta de los tribunales a quien denuncia a un corrupto.",
+          "docling_refs": [
+            "#/texts/632",
+            "#/texts/633"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VII · 10) (Remediación E-3, ADR D-015)."
+    },
+    "salf-081": {
+      "status": "corregida",
+      "official_number": "VII · Medida 11",
+      "official_text": {
+        "text": "Los 17.621 aforados, juzgados por el mismo juez que tú. Reforma constitucional presentada el primer día.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            28
+          ],
+          "snippet": "Los 17.621 aforados, juzgados por el mismo juez que tú. Reforma constitucional presentada el primer día.",
+          "docling_refs": [
+            "#/texts/634",
+            "#/texts/635"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VII · 11) (Remediación E-3, ADR D-015)."
+    },
+    "salf-082": {
+      "status": "corregida",
+      "official_number": "VII · Medida 12",
+      "official_text": {
+        "text": "Cinco años de incompatibilidad para pasar a empresas reguladas y cinco para que un exministro o dirigente de partido presida el Poder Judicial, la sala constitucional del Supremo, el Banco de España, la CNMC o el Defensor del Pueblo.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            28
+          ],
+          "snippet": "Cinco años de incompatibilidad para pasar a empresas reguladas y cinco para que un exministro o dirigente de partido presida el Poder Judicial, la sala constitucional del Supremo, el Banco de España, la CNMC o el Defensor del Pueblo.",
+          "docling_refs": [
+            "#/texts/636",
+            "#/texts/637"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VII · 12) (Remediación E-3, ADR D-015)."
+    },
+    "salf-083": {
+      "status": "corregida",
+      "official_number": "VII · Medida 13",
+      "official_text": {
+        "text": "Plataforma única, subasta inversa y precios de referencia en tiempo real. Toda emergencia auditada en 30 días y publicada íntegra en 24 horas con los beneficiarios reales.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            29
+          ],
+          "snippet": "Plataforma única, subasta inversa y precios de referencia en tiempo real. Toda emergencia auditada en 30 días y publicada íntegra en 24 horas con los beneficiarios reales.",
+          "docling_refs": [
+            "#/texts/649",
+            "#/texts/650"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VII · 13) (Remediación E-3, ADR D-015)."
+    },
+    "salf-084": {
+      "status": "corregida",
+      "official_number": "VII · Medida 14",
+      "official_text": {
+        "text": "Portal único de todas las administraciones: pagos, contratos, subvenciones, nóminas de altos cargos y asesores, agendas y regalos. Hoy: 1.255 puestos de confianza en el Gobierno.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            29
+          ],
+          "snippet": "Portal único de todas las administraciones: pagos, contratos, subvenciones, nóminas de altos cargos y asesores, agendas y regalos. Hoy: 1.255 puestos de confianza en el Gobierno.",
+          "docling_refs": [
+            "#/texts/651",
+            "#/texts/652"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VII · 14) (Remediación E-3, ADR D-015)."
+    },
+    "salf-085": {
+      "status": "corregida",
+      "official_number": "VII · Medida 15",
+      "official_text": {
+        "text": "Límite de 15 años en cargos públicos remunerados. Fuera el Senado, el Consejo de Estado, los Consejos Económicos y Sociales, la publicidad institucional y las subvenciones a sindicatos y patronal. Partidos: 50 % menos. Asesores: de 1.255 a 400.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            29
+          ],
+          "snippet": "Límite de 15 años en cargos públicos remunerados. Fuera el Senado, el Consejo de Estado, los Consejos Económicos y Sociales, la publicidad institucional y las subvenciones a sindicatos y patronal. Partidos: 50 % menos. Asesores: de 1.255 a 400.",
+          "docling_refs": [
+            "#/texts/653",
+            "#/texts/654"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VII · 15) (Remediación E-3, ADR D-015)."
+    },
+    "salf-086": {
+      "status": "corregida",
+      "official_number": "VIII · Medida 1",
+      "official_text": {
+        "text": "1,6 M ausencias al trabajo cada día: 59.000 M€ al año Mínimo exento de 35.000, deflactación, el 0,9 % a tu cuenta y cero cotización del trabajador en el salario mínimo. La diferencia entre lo que cuestas y lo que cobras, doce puntos menos. Coste: ≈ 2.600 M€/año.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            30
+          ],
+          "snippet": "1,6 M ausencias al trabajo cada día: 59.000 M€ al año Mínimo exento de 35.000, deflactación, el 0,9 % a tu cuenta y cero cotización del trabajador en el salario mínimo. La diferencia entre lo que cuestas y lo que cobras, doce puntos menos. Coste: ≈ 2.600 M€/año.",
+          "docling_refs": [
+            "#/texts/673",
+            "#/texts/674",
+            "#/texts/675",
+            "#/texts/676",
+            "#/texts/677"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VIII · 1) (Remediación E-3, ADR D-015)."
+    },
+    "salf-087": {
+      "status": "corregida",
+      "official_number": "VIII · Medida 2",
+      "official_text": {
+        "text": "Un solo contrato indefinido con indemnización creciente de 12 a 33 días, más la mochila del 1,53 %. Fin de la dualidad y del miedo a cambiar de trabajo.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            30
+          ],
+          "snippet": "Un solo contrato indefinido con indemnización creciente de 12 a 33 días, más la mochila del 1,53 %. Fin de la dualidad y del miedo a cambiar de trabajo.",
+          "docling_refs": [
+            "#/texts/678",
+            "#/texts/679"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VIII · 2) (Remediación E-3, ADR D-015)."
+    },
+    "salf-088": {
+      "status": "corregida",
+      "official_number": "VIII · Medida 3",
+      "official_text": {
+        "text": "Cuota cero, total y para siempre. Licencia de actividad en 24 horas por declaración responsable.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            30
+          ],
+          "snippet": "Cuota cero, total y para siempre. Licencia de actividad en 24 horas por declaración responsable.",
+          "docling_refs": [
+            "#/texts/680",
+            "#/texts/681"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VIII · 3) (Remediación E-3, ADR D-015)."
+    },
+    "salf-089": {
+      "status": "corregida",
+      "official_number": "VIII · Medida 4",
+      "official_text": {
+        "text": "Las mutuas dan el alta en contingencias comunes a los 15 días, con revisión del INSS en 72 horas. Protección total al enfermo de verdad, que es la primera víctima del que finge.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            30
+          ],
+          "snippet": "Las mutuas dan el alta en contingencias comunes a los 15 días, con revisión del INSS en 72 horas. Protección total al enfermo de verdad, que es la primera víctima del que finge.",
+          "docling_refs": [
+            "#/texts/682",
+            "#/texts/683"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VIII · 4) (Remediación E-3, ADR D-015)."
+    },
+    "salf-090": {
+      "status": "corregida",
+      "official_number": "VIII · Medida 5",
+      "official_text": {
+        "text": "FP dual con contrato y salario del 50 % del convenio, pagado a medias por empresa y Estado. Cotización cero durante dos años por contratar a menores de 30 y mayores de 50. Coste: ≈ 1.500 M€/año.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            31
+          ],
+          "snippet": "FP dual con contrato y salario del 50 % del convenio, pagado a medias por empresa y Estado. Cotización cero durante dos años por contratar a menores de 30 y mayores de 50. Coste: ≈ 1.500 M€/año.",
+          "docling_refs": [
+            "#/texts/697",
+            "#/texts/698",
+            "#/texts/699"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VIII · 5) (Remediación E-3, ADR D-015)."
+    },
+    "salf-091": {
+      "status": "corregida",
+      "official_number": "VIII · Medida 6",
+      "official_text": {
+        "text": "Por cada regulación nueva que afecte a empresas, dos derogadas. Unidad de mercado real: lo que vale en una comunidad vale en todas.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            31
+          ],
+          "snippet": "Por cada regulación nueva que afecte a empresas, dos derogadas. Unidad de mercado real: lo que vale en una comunidad vale en todas.",
+          "docling_refs": [
+            "#/texts/700",
+            "#/texts/701"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VIII · 6) (Remediación E-3, ADR D-015)."
+    },
+    "salf-092": {
+      "status": "corregida",
+      "official_number": "VIII · Medida 7",
+      "official_text": {
+        "text": "Las bajas por enfermedad las paga la Seguridad Social desde el primer día, no la empresa, que hoy carga con los quince primeros. Indemnización garantizada por la mochila aunque la empresa quiebre, salario asegurado por un fondo público de impago y persecución real de los falsos autónomos. Proteger al trabajador no puede ser un impuesto a contratarlo. Coste: ≈ 3.000 M€/año; lo compensa la reducción del absentismo.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            31
+          ],
+          "snippet": "Las bajas por enfermedad las paga la Seguridad Social desde el primer día, no la empresa, que hoy carga con los quince primeros. Indemnización garantizada por la mochila aunque la empresa quiebre, salario asegurado por un fondo público de impago y persecución real de los falsos autónomos. Proteger al trabajador no puede ser un impuesto a contratarlo. Coste: ≈ 3.000 M€/año; lo compensa la reducción del absentismo.",
+          "docling_refs": [
+            "#/texts/702",
+            "#/texts/703",
+            "#/texts/704"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VIII · 7) (Remediación E-3, ADR D-015)."
+    },
+    "salf-093": {
+      "status": "corregida",
+      "official_number": "VIII · Medida 8",
+      "official_text": {
+        "text": "Los fijos discontinuos se usan para reducir falsamente las cifras del paro: 640.900 personas sin actividad que no aparecen como paradas. Un fijo discontinuo cuenta como trabajador solo cuando trabaja; el resto del tiempo, como lo que es: un parado. Se acabó la trampa estadística.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            32
+          ],
+          "snippet": "Los fijos discontinuos se usan para reducir falsamente las cifras del paro: 640.900 personas sin actividad que no aparecen como paradas. Un fijo discontinuo cuenta como trabajador solo cuando trabaja; el resto del tiempo, como lo que es: un parado. Se acabó la trampa estadística.",
+          "docling_refs": [
+            "#/texts/715",
+            "#/texts/716"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VIII · 8) (Remediación E-3, ADR D-015)."
+    },
+    "salf-094": {
+      "status": "corregida",
+      "official_number": "VIII · Medida 9",
+      "official_text": {
+        "text": "Todas las oposiciones y concursos 100 % anónimos y digitales, con tribunales sorteados y grabados. Mérito, no carné.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            32
+          ],
+          "snippet": "Todas las oposiciones y concursos 100 % anónimos y digitales, con tribunales sorteados y grabados. Mérito, no carné.",
+          "docling_refs": [
+            "#/texts/717",
+            "#/texts/718"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VIII · 9) (Remediación E-3, ADR D-015)."
+    },
+    "salf-095": {
+      "status": "corregida",
+      "official_number": "VIII · Medida 10",
+      "official_text": {
+        "text": "Rechazar dos ofertas adecuadas: fin de la prestación. Y complemento salarial para que el Ingreso Mínimo baje 50 céntimos por cada euro ganado, no uno a uno. Sin dejar a nadie atrás, sin dejar a nadie en el sofá.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            32
+          ],
+          "snippet": "Rechazar dos ofertas adecuadas: fin de la prestación. Y complemento salarial para que el Ingreso Mínimo baje 50 céntimos por cada euro ganado, no uno a uno. Sin dejar a nadie atrás, sin dejar a nadie en el sofá.",
+          "docling_refs": [
+            "#/texts/719",
+            "#/texts/720"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (VIII · 10) (Remediación E-3, ADR D-015)."
+    },
+    "salf-096": {
+      "status": "corregida",
+      "official_number": "IX · Medida 1",
+      "official_text": {
+        "text": "Aprobada por dos tercios y blindada: no se cambia sin la misma mayoría. Contenidos mínimos comunes al 100 %, evaluaciones externas al final de cada etapa y selectividad única y en castellano en toda España.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            33
+          ],
+          "snippet": "Aprobada por dos tercios y blindada: no se cambia sin la misma mayoría. Contenidos mínimos comunes al 100 %, evaluaciones externas al final de cada etapa y selectividad única y en castellano en toda España.",
+          "docling_refs": [
+            "#/texts/738",
+            "#/texts/739"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (IX · 1) (Remediación E-3, ADR D-015)."
+    },
+    "salf-097": {
+      "status": "corregida",
+      "official_number": "IX · Medida 2",
+      "official_text": {
+        "text": "Derecho a la enseñanza en castellano en toda España, exigible por la familia, con Alta Inspección estatal que sanciona.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            33
+          ],
+          "snippet": "Derecho a la enseñanza en castellano en toda España, exigible por la familia, con Alta Inspección estatal que sanciona.",
+          "docling_refs": [
+            "#/texts/740"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (IX · 2) (Remediación E-3, ADR D-015)."
+    },
+    "salf-098": {
+      "status": "corregida",
+      "official_number": "IX · Medida 3",
+      "official_text": {
+        "text": "Dos años de prácticas remuneradas con tutor y examen nacional de acceso. El mejor profesor de España enseña donde quiera. Coste: ≈ 400 M€/año.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            33
+          ],
+          "snippet": "Dos años de prácticas remuneradas con tutor y examen nacional de acceso. El mejor profesor de España enseña donde quiera. Coste: ≈ 400 M€/año.",
+          "docling_refs": [
+            "#/texts/741",
+            "#/texts/742",
+            "#/texts/743"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (IX · 3) (Remediación E-3, ADR D-015)."
+    },
+    "salf-099": {
+      "status": "corregida",
+      "official_number": "IX · Medida 4",
+      "official_text": {
+        "text": "Autoridad pública en toda España, 10 % más de sueldo en la legislatura y menos burocracia: un profesor está para enseñar. Coste: ≈ 2.500 M€/año.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            33
+          ],
+          "snippet": "Autoridad pública en toda España, 10 % más de sueldo en la legislatura y menos burocracia: un profesor está para enseñar. Coste: ≈ 2.500 M€/año.",
+          "docling_refs": [
+            "#/texts/744",
+            "#/texts/745",
+            "#/texts/746"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (IX · 4) (Remediación E-3, ADR D-015)."
+    },
+    "salf-100": {
+      "status": "corregida",
+      "official_number": "IX · Medida 5",
+      "official_text": {
+        "text": "Aprendizaje remunerado desde los 15, tutor individual y fin del aprobado automático: se titula cuando se ha aprendido.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            33
+          ],
+          "snippet": "Aprendizaje remunerado desde los 15, tutor individual y fin del aprobado automático: se titula cuando se ha aprendido.",
+          "docling_refs": [
+            "#/texts/747",
+            "#/texts/748"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (IX · 5) (Remediación E-3, ADR D-015)."
+    },
+    "salf-101": {
+      "status": "corregida",
+      "official_number": "IX · Medida 6",
+      "official_text": {
+        "text": "Cheque escolar válido en pública, concertada y privada, con el mismo importe por alumno y resultados públicos de cada centro. Elegir colegio no puede ser un lujo.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            34
+          ],
+          "snippet": "Cheque escolar válido en pública, concertada y privada, con el mismo importe por alumno y resultados públicos de cada centro. Elegir colegio no puede ser un lujo.",
+          "docling_refs": [
+            "#/texts/766",
+            "#/texts/767"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (IX · 6) (Remediación E-3, ADR D-015)."
+    },
+    "salf-102": {
+      "status": "corregida",
+      "official_number": "IX · Medida 7",
+      "official_text": {
+        "text": "Los contenidos los fija un Consejo Académico independiente, no el Gobierno de turno. Neutralidad ideológica obligatoria en el aula, prohibición de propaganda de partidos y sindicatos en horario lectivo, libros de texto revisados por académicos, inspección y sanción. El aula es para enseñar, no para reclutar.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            34
+          ],
+          "snippet": "Los contenidos los fija un Consejo Académico independiente, no el Gobierno de turno. Neutralidad ideológica obligatoria en el aula, prohibición de propaganda de partidos y sindicatos en horario lectivo, libros de texto revisados por académicos, inspección y sanción. El aula es para enseñar, no para reclutar.",
+          "docling_refs": [
+            "#/texts/768",
+            "#/texts/769"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (IX · 7) (Remediación E-3, ADR D-015)."
+    },
+    "salf-103": {
+      "status": "corregida",
+      "official_number": "IX · Medida 8",
+      "official_text": {
+        "text": "El mismo temario de Historia en toda España. Economía y Constitución obligatorias en Secundaria: qué es un impuesto, una hipoteca, una pensión.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            34
+          ],
+          "snippet": "El mismo temario de Historia en toda España. Economía y Constitución obligatorias en Secundaria: qué es un impuesto, una hipoteca, una pensión.",
+          "docling_refs": [
+            "#/texts/770",
+            "#/texts/771"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (IX · 8) (Remediación E-3, ADR D-015)."
+    },
+    "salf-104": {
+      "status": "corregida",
+      "official_number": "IX · Medida 9",
+      "official_text": {
+        "text": "Industria, construcción, energía, sanidad, digital. Universidades financiadas en parte por la inserción laboral de sus titulados. Coste: ≈ 400 M€/año.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            34
+          ],
+          "snippet": "Industria, construcción, energía, sanidad, digital. Universidades financiadas en parte por la inserción laboral de sus titulados. Coste: ≈ 400 M€/año.",
+          "docling_refs": [
+            "#/texts/772",
+            "#/texts/773",
+            "#/texts/774"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (IX · 9) (Remediación E-3, ADR D-015)."
+    },
+    "salf-105": {
+      "status": "corregida",
+      "official_number": "IX · Medida 10",
+      "official_text": {
+        "text": "5.000 auxiliares nativos más, certificación B2 al terminar Bachillerato pagada por el Estado y versión original en la televisión pública infantil. Coste: ≈ 250 M€/año.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            34
+          ],
+          "snippet": "5.000 auxiliares nativos más, certificación B2 al terminar Bachillerato pagada por el Estado y versión original en la televisión pública infantil. Coste: ≈ 250 M€/año.",
+          "docling_refs": [
+            "#/texts/775",
+            "#/texts/776",
+            "#/texts/777"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (IX · 10) (Remediación E-3, ADR D-015)."
+    },
+    "salf-106": {
+      "status": "corregida",
+      "official_number": "X · Medida 1",
+      "official_text": {
+        "text": "Que el eje franco-alemán quiera arruinar nuestro sector primario, bloquear medidas contra la inmigración ilegal, use el endeudamiento español para extorsionar el legítimo interés nacional o coarte derechos fundamentales como la libertad de expresión o la no injerencia política extranjera justifica un referéndum de renegociación. Si Bruselas rechaza renegociar, segundo referéndum: la salida.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            35
+          ],
+          "snippet": "Que el eje franco-alemán quiera arruinar nuestro sector primario, bloquear medidas contra la inmigración ilegal, use el endeudamiento español para extorsionar el legítimo interés nacional o coarte derechos fundamentales como la libertad de expresión o la no injerencia política extranjera justifica un referéndum de renegociación. Si Bruselas rechaza renegociar, segundo referéndum: la salida.",
+          "docling_refs": [
+            "#/texts/801",
+            "#/texts/802"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (X · 1) (Remediación E-3, ADR D-015)."
+    },
+    "salf-107": {
+      "status": "corregida",
+      "official_number": "X · Medida 2",
+      "official_text": {
+        "text": "Mercosur se aplica desde mayo de 2026 contra el voto de Francia; el recorte del 20 % de la PAC quita 877 millones al año al campo español; la Ley de Restauración deja improductivo hasta el 40 % de la Red Natura. España lo veta en el Consejo: lo que se come en España se produce en España.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            35
+          ],
+          "snippet": "Mercosur se aplica desde mayo de 2026 contra el voto de Francia; el recorte del 20 % de la PAC quita 877 millones al año al campo español; la Ley de Restauración deja improductivo hasta el 40 % de la Red Natura. España lo veta en el Consejo: lo que se come en España se produce en España.",
+          "docling_refs": [
+            "#/texts/803",
+            "#/texts/804"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (X · 2) (Remediación E-3, ADR D-015)."
+    },
+    "salf-108": {
+      "status": "corregida",
+      "official_number": "X · Medida 3",
+      "official_text": {
+        "text": "Son la organización responsable del terrorismo en Europa. Persecución total contra sus miembros, bloqueo económico total y aplicación de la ley del terrorismo, con sus penas máximas, por la mera pertenencia a esta y otras redes de radicalización islámica. Egipto, Arabia Saudí, Emiratos y Jordania ya los prohíben; Estados Unidos los designa terroristas y el Parlamento Europeo pidió en octubre estudiar su inclusión en la lista terrorista.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            35
+          ],
+          "snippet": "Son la organización responsable del terrorismo en Europa. Persecución total contra sus miembros, bloqueo económico total y aplicación de la ley del terrorismo, con sus penas máximas, por la mera pertenencia a esta y otras redes de radicalización islámica. Egipto, Arabia Saudí, Emiratos y Jordania ya los prohíben; Estados Unidos los designa terroristas y el Parlamento Europeo pidió en octubre estudiar su inclusión en la lista terrorista.",
+          "docling_refs": [
+            "#/texts/805",
+            "#/texts/806"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (X · 3) (Remediación E-3, ADR D-015)."
+    },
+    "salf-109": {
+      "status": "corregida",
+      "official_number": "X · Medida 4",
+      "official_text": {
+        "text": "Bloqueo comercial total a todo puerto marroquí si el país alauí sigue bloqueando un solo puerto español. Reivindicación de los territorios del Rif si el Parlamento marroquí no rechaza la exigencia de soberanía sobre Ceuta, Melilla, las Islas Canarias y cualquier otro territorio español. Bloqueo comercial total si Marruecos utiliza la inmigración como ataque híbrido en nuestra frontera sur. Denuncia internacional del soporte marroquí a las estructuras del narcotráfico activas en España.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            36
+          ],
+          "snippet": "Bloqueo comercial total a todo puerto marroquí si el país alauí sigue bloqueando un solo puerto español. Reivindicación de los territorios del Rif si el Parlamento marroquí no rechaza la exigencia de soberanía sobre Ceuta, Melilla, las Islas Canarias y cualquier otro territorio español. Bloqueo comercial total si Marruecos utiliza la inmigración como ataque híbrido en nuestra frontera sur. Denuncia internacional del soporte marroquí a las estructuras del narcotráfico activas en España.",
+          "docling_refs": [
+            "#/texts/817",
+            "#/texts/818"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (X · 4) (Remediación E-3, ADR D-015)."
+    },
+    "salf-110": {
+      "status": "corregida",
+      "official_number": "X · Medida 5",
+      "official_text": {
+        "text": "Hoy la bonificación es del 60 % en IRPF y Sociedades y del 75 % en cotizaciones; aun así, Melilla y Ceuta tienen el PIB por habitante más bajo de España (un 35 % y un 28 % por debajo de la media) y un paro del 18,5 %. Con SALF, el residente no paga IRPF, la empresa que crea empleo allí no paga Sociedades durante diez años y la cotización empresarial queda al 0 %. Puerto franco y aduana comercial abierta por España, con o sin Marruecos. Quien invierta en las dos ciudades más castigadas de España no paga por hacerlo. Coste: ≈ 280 M€/año (156 de IRPF, 44 de Sociedades, 73 de cotizaciones): menos de lo que España regala en ayuda exterior en un mes.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            36
+          ],
+          "snippet": "Hoy la bonificación es del 60 % en IRPF y Sociedades y del 75 % en cotizaciones; aun así, Melilla y Ceuta tienen el PIB por habitante más bajo de España (un 35 % y un 28 % por debajo de la media) y un paro del 18,5 %. Con SALF, el residente no paga IRPF, la empresa que crea empleo allí no paga Sociedades durante diez años y la cotización empresarial queda al 0 %. Puerto franco y aduana comercial abierta por España, con o sin Marruecos. Quien invierta en las dos ciudades más castigadas de España no paga por hacerlo. Coste: ≈ 280 M€/año (156 de IRPF, 44 de Sociedades, 73 d...",
+          "docling_refs": [
+            "#/texts/819",
+            "#/texts/820",
+            "#/texts/821"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (X · 5) (Remediación E-3, ADR D-015)."
+    },
+    "salf-111": {
+      "status": "corregida",
+      "official_number": "X · Medida 6",
+      "official_text": {
+        "text": "Deducción de 1.000 euros en la cuota del IRPF para cada contribuyente residente en Canarias desde la renta de 2027: 1,09 millones de canarios. Zona Especial Canaria al 0 % de Sociedades (hoy, 4 %) para la empresa que cree cinco empleos en las islas. Y el 75 % de residente en avión y barco, pagado a las compañías en 30 días: el Estado debe hoy 810 millones y pone en riesgo las rutas. La distancia a la Península no puede ser también una factura fiscal. Coste: ≈ 880 M€/año (870 de IRPF, 11 de la ZEC).",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            36
+          ],
+          "snippet": "Deducción de 1.000 euros en la cuota del IRPF para cada contribuyente residente en Canarias desde la renta de 2027: 1,09 millones de canarios. Zona Especial Canaria al 0 % de Sociedades (hoy, 4 %) para la empresa que cree cinco empleos en las islas. Y el 75 % de residente en avión y barco, pagado a las compañías en 30 días: el Estado debe hoy 810 millones y pone en riesgo las rutas. La distancia a la Península no puede ser también una factura fiscal. Coste: ≈ 880 M€/año (870 de IRPF, 11 de la ZEC).",
+          "docling_refs": [
+            "#/texts/822",
+            "#/texts/823",
+            "#/texts/824"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (X · 6) (Remediación E-3, ADR D-015)."
+    },
+    "salf-112": {
+      "status": "corregida",
+      "official_number": "X · Medida 7",
+      "official_text": {
+        "text": "El 30 de julio de 2026 había 243 guardias civiles en Ceuta frente a 27.550 entradas en un solo día. Se acabó: brigada completa en cada ciudad, con la V Bandera de la Legión recuperada, 5.000 militares y 1.000 guardias civiles más en las dos plazas; baterías NASAMS y red antidrón en Ceuta, Melilla y cada isla canaria (hoy, una sola batería en Gran Canaria); dos buques más en Las Palmas y escuadrón de drones en Lanzarote. Doctrina pública y escrita: toda agresión a Ceuta, Melilla o Canarias se responde con toda la fuerza del Estado. Coste: ≈ 500 M€/año, dentro del 2 % del PIB de Defensa.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            37
+          ],
+          "snippet": "El 30 de julio de 2026 había 243 guardias civiles en Ceuta frente a 27.550 entradas en un solo día. Se acabó: brigada completa en cada ciudad, con la V Bandera de la Legión recuperada, 5.000 militares y 1.000 guardias civiles más en las dos plazas; baterías NASAMS y red antidrón en Ceuta, Melilla y cada isla canaria (hoy, una sola batería en Gran Canaria); dos buques más en Las Palmas y escuadrón de drones en Lanzarote. Doctrina pública y escrita: toda agresión a Ceuta, Melilla o Canarias se responde con toda la fuerza del Estado. Coste: ≈ 500 M€/año, dentro del 2 % del ...",
+          "docling_refs": [
+            "#/texts/834",
+            "#/texts/835",
+            "#/texts/836"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (X · 7) (Remediación E-3, ADR D-015)."
+    },
+    "salf-113": {
+      "status": "corregida",
+      "official_number": "X · Medida 8",
+      "official_text": {
+        "text": "La indemnización por residencia no se revisa de fondo desde 2007: 435 euros al mes para un soldado en Ceuta, 117 en Gran Canaria. Baleares la subió en 2026; a Canarias, Ceuta y Melilla las dejaron fuera. Se duplica para militares, guardias civiles, policías y funcionarios del Estado destinados en los tres territorios, exenta de IRPF y con vivienda militar o alquiler pagado en Ceuta y Melilla. El destino más duro de España no puede ser el peor pagado. Coste: ≈ 150 M€/año.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            37
+          ],
+          "snippet": "La indemnización por residencia no se revisa de fondo desde 2007: 435 euros al mes para un soldado en Ceuta, 117 en Gran Canaria. Baleares la subió en 2026; a Canarias, Ceuta y Melilla las dejaron fuera. Se duplica para militares, guardias civiles, policías y funcionarios del Estado destinados en los tres territorios, exenta de IRPF y con vivienda militar o alquiler pagado en Ceuta y Melilla. El destino más duro de España no puede ser el peor pagado. Coste: ≈ 150 M€/año.",
+          "docling_refs": [
+            "#/texts/837",
+            "#/texts/838",
+            "#/texts/839"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (X · 8) (Remediación E-3, ADR D-015)."
+    },
+    "salf-114": {
+      "status": "corregida",
+      "official_number": "X · Medida 9",
+      "official_text": {
+        "text": "El tratado de 2026 abre la Verja sin tocar la soberanía ni el privilegio fiscal: sociedades al 15 % y contrabando de tabaco a diario. 15.509 trabajadores cruzan cada día, 10.859 españoles. Negociación bilateral con Londres con la cosoberanía como primer paso y fin del paraíso fiscal, como pide la ONU desde 1965.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            37
+          ],
+          "snippet": "El tratado de 2026 abre la Verja sin tocar la soberanía ni el privilegio fiscal: sociedades al 15 % y contrabando de tabaco a diario. 15.509 trabajadores cruzan cada día, 10.859 españoles. Negociación bilateral con Londres con la cosoberanía como primer paso y fin del paraíso fiscal, como pide la ONU desde 1965.",
+          "docling_refs": [
+            "#/texts/840",
+            "#/texts/841"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (X · 9) (Remediación E-3, ADR D-015)."
+    },
+    "salf-115": {
+      "status": "corregida",
+      "official_number": "X · Medida 10",
+      "official_text": {
+        "text": "El giro unilateral de 2022 a favor de Rabat costó 32 meses de bloqueo argelino: las exportaciones cayeron de 2.900 a 332 millones. Vuelta a la posición de la ONU, tratado de amistad con Argelia y contratos de gas a largo plazo: Argelia aporta el 38,5 % del gas que importamos.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            38
+          ],
+          "snippet": "El giro unilateral de 2022 a favor de Rabat costó 32 meses de bloqueo argelino: las exportaciones cayeron de 2.900 a 332 millones. Vuelta a la posición de la ONU, tratado de amistad con Argelia y contratos de gas a largo plazo: Argelia aporta el 38,5 % del gas que importamos.",
+          "docling_refs": [
+            "#/texts/851",
+            "#/texts/852"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (X · 10) (Remediación E-3, ADR D-015)."
+    },
+    "salf-116": {
+      "status": "corregida",
+      "official_number": "X · Medida 11",
+      "official_text": {
+        "text": "Libre comercio, reconocimiento de títulos y cupos preferentes con las naciones hispanas que lo quieran; cumbre anual en Madrid; cámaras y embajadas reforzadas donde invierte España, segundo inversor del continente. 2,4 millones de hispanoamericanos viven aquí: un activo, no un problema.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            38
+          ],
+          "snippet": "Libre comercio, reconocimiento de títulos y cupos preferentes con las naciones hispanas que lo quieran; cumbre anual en Madrid; cámaras y embajadas reforzadas donde invierte España, segundo inversor del continente. 2,4 millones de hispanoamericanos viven aquí: un activo, no un problema.",
+          "docling_refs": [
+            "#/texts/853",
+            "#/texts/854"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (X · 11) (Remediación E-3, ADR D-015)."
+    },
+    "salf-117": {
+      "status": "corregida",
+      "official_number": "X · Medida 12",
+      "official_text": {
+        "text": "33.123 millones en 2025, con prioridad a la industria nacional: 260.050 empleos. Y para quien viste el uniforme: retribuciones equiparadas a la Guardia Civil (un soldado cobra hoy 1.300 euros netos); profesión de riesgo para todos los militares, también los de Clases Pasivas, con jubilación anticipada; nueva Ley de derechos y deberes, con libertad de expresión y asociaciones profesionales con capacidad de negociar; y nueva Ley de la carrera militar: nadie es expulsado a los 45 años con 600 euros al mes, carrera hasta la jubilación y ascensos por mérito. Coste: ≈ 1.200 M€/año en retribuciones, dentro del 2 % del PIB.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            38
+          ],
+          "snippet": "33.123 millones en 2025, con prioridad a la industria nacional: 260.050 empleos. Y para quien viste el uniforme: retribuciones equiparadas a la Guardia Civil (un soldado cobra hoy 1.300 euros netos); profesión de riesgo para todos los militares, también los de Clases Pasivas, con jubilación anticipada; nueva Ley de derechos y deberes, con libertad de expresión y asociaciones profesionales con capacidad de negociar; y nueva Ley de la carrera militar: nadie es expulsado a los 45 años con 600 euros al mes, carrera hasta la jubilación y ascensos por mérito. Coste: ≈ 1.200 M€...",
+          "docling_refs": [
+            "#/texts/855",
+            "#/texts/856",
+            "#/texts/857"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (X · 12) (Remediación E-3, ADR D-015)."
+    },
+    "salf-118": {
+      "status": "corregida",
+      "official_number": "X · Medida 13",
+      "official_text": {
+        "text": "Ley de agentes extranjeros: quien trabaje para un gobierno, fundación o empresa extranjera se inscribe o comete delito. Prohibida la financiación extranjera de partidos, fundaciones políticas, medios y ONG que hagan política. El CNI contabilizó 108 actuaciones de espionaje extranjero en 2025 y España no tiene registro: lo tendrá.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            39
+          ],
+          "snippet": "Ley de agentes extranjeros: quien trabaje para un gobierno, fundación o empresa extranjera se inscribe o comete delito. Prohibida la financiación extranjera de partidos, fundaciones políticas, medios y ONG que hagan política. El CNI contabilizó 108 actuaciones de espionaje extranjero en 2025 y España no tiene registro: lo tendrá.",
+          "docling_refs": [
+            "#/texts/867",
+            "#/texts/868"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (X · 13) (Remediación E-3, ADR D-015)."
+    },
+    "salf-119": {
+      "status": "corregida",
+      "official_number": "X · Medida 14",
+      "official_text": {
+        "text": "4.550 millones al año de ayuda oficial al desarrollo. Se cortan salvo emergencias humanitarias y programas con retorno para España: readmisión de nacionales en 72 horas, respeto a la soberanía (quien reclame Ceuta, Melilla o Canarias no cobra) y cooperación contra el narcotráfico y el yihadismo. La ayuda es una herramienta, no una limosna.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            39
+          ],
+          "snippet": "4.550 millones al año de ayuda oficial al desarrollo. Se cortan salvo emergencias humanitarias y programas con retorno para España: readmisión de nacionales en 72 horas, respeto a la soberanía (quien reclame Ceuta, Melilla o Canarias no cobra) y cooperación contra el narcotráfico y el yihadismo. La ayuda es una herramienta, no una limosna.",
+          "docling_refs": [
+            "#/texts/869",
+            "#/texts/870"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial cotejado contra Docling (N1) y numeración original consignada (X · 14) (Remediación E-3, ADR D-015)."
+    }
+  }
+}

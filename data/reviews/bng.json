@@ -1,0 +1,211 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "bng",
+  "entries": {
+    "bng-001": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/109, p. 8) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "bng-004": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/122, p. 9) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "bng-017": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/166, p. 12) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "bng-045": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/234, p. 15) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "bng-069": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/307, p. 18) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "bng-106": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/404, p. 23) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "bng-122": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/474, p. 27) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "bng-141": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/529, p. 30) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "bng-160": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/607, p. 35) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "bng-174": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/644, p. 37) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "bng-200": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/723, p. 41) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "bng-201": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/724, p. 41) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "bng-208": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/759, p. 43) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "bng-220": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/783, p. 44) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "bng-238": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/854, p. 48) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "bng-307": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/1080, p. 60) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "bng-434": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/1440, p. 82) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "bng-476": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/1566, p. 89) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "bng-481": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/1583, p. 90) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "bng-374": {
+      "status": "extraida",
+      "title": "Aceptación oficial da documentación en galego en calquera xestión coa Administración Xeral do Estado",
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "El título original en N2 estaba truncado en la cláusula introductoria ('...ferramentas tecnolóxicas hoxe dispoñíbeis') sin recoger el objeto de la medida; se sustituye por un título completo fiel al texto en gallego."
+    },
+    "bng-377": {
+      "status": "extraida",
+      "title": "Garantir o funcionamento pleno en galego dos sistemas de IA, atención automatizada e administración dixital do Estado",
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "El título original en N2 estaba truncado a mitad de paréntesis ('...(chatbots'); se completa de forma fiel al texto oficial en gallego."
+    },
+    "bng-378": {
+      "status": "extraida",
+      "title": "Promover liñas de financiamento para a actualización en galego de tecnoloxías da fala, modelos de lingua e ferramentas educativas dixitais",
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "El título original en N2 quedaba cortado a mitad de la enumeración; se completa fielmente recogiendo las herramientas educativas digitales."
+    },
+    "bng-009": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [9, 10],
+          "snippet": "Transferencia das competencias en materia de costas e do dominio público marítimo-terrestre, tanto as normativas en materia de protección do litoral como aquelas de intervención e xestión (autorizacións de instalacións na costa galega). Tamén se afrontará o traspaso das competencias sobre as bacías hidrográficas (transferencia plena da Confederación Hidrográfica Miño-Sil).",
+          "docling_refs": ["#/texts/127"]
+        }
+      ],
+      "clear_flags": ["texto_no_literal"],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-16",
+      "note": "Texto verificado literalmente contra la capa de texto del PDF oficial entre las páginas 9 y 10 (salto de página con cabecera gráfica intermedia)."
+    },
+    "bng-126": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [27, 28],
+          "snippet": "Promover un maior control e vixilancia no cumprimento dos convenios colectivos das traballadoras de atención as persoas maiores e dependentes así como no ámbito do traballo no fogar.",
+          "docling_refs": ["#/texts/478"]
+        }
+      ],
+      "clear_flags": ["texto_no_literal"],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-16",
+      "note": "Texto verificado literalmente contra la capa de texto del PDF oficial entre las páginas 27 y 28."
+    },
+    "bng-327": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [63, 64],
+          "snippet": "Dotar os distintos portos galegos dunha intermodalidade real e de conexión de transporte ferroviario e de autoestradas viarias para lograr un transporte de mercadorías moderno, acelerando actuacións como a renovación do acceso ferroviario ao porto de Ferrol e a conexión do porto de Langosteira.",
+          "docling_refs": ["#/texts/1129"]
+        }
+      ],
+      "clear_flags": ["texto_no_literal"],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-16",
+      "note": "Texto verificado literalmente contra la capa de texto del PDF oficial entre las páginas 63 y 64."
+    },
+    "bng-479": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [89, 90],
+          "snippet": "O status internacional de neutralidade activa do Estado español, que incluirá: 4. Eliminación de calquera venda de armamento a estados con réximes ditatoriais e/ou que agridan militarmente outros pobos. Reforzo do control parlamentar neste ámbito.",
+          "docling_refs": ["#/texts/1566", "#/texts/1570", "#/texts/1581"]
+        }
+      ],
+      "clear_flags": ["texto_no_literal"],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-16",
+      "note": "Punto 4 verificado literalmente entre las páginas 89 y 90 del PDF oficial manteniendo el epígrafe común de neutralidad activa."
+    },
+    "bng-480": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [89, 90],
+          "snippet": "O status internacional de neutralidade activa do Estado español, que incluirá: 5. Cancelación dos acordos bilaterais España-USA e instar á retirada dos efectivos militares no Estado español.",
+          "docling_refs": ["#/texts/1566", "#/texts/1582"]
+        }
+      ],
+      "clear_flags": ["texto_no_literal"],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-16",
+      "note": "Punto 5 verificado literalmente entre las páginas 89 y 90 del PDF oficial manteniendo el epígrafe común de neutralidad activa."
+    }
+  }
+}

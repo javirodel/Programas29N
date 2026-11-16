@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "vox",
+  "entries": {
+    "vox-002": {
+      "status": "corregida",
+      "summary": "Plantea una rebaja fiscal generalizada: simplificar y bajar el IRPF con tipos menores según el número de hijos, rebajar los tipos reducido y general del IVA priorizando productos esenciales, reducir el tipo del Impuesto sobre Sociedades, fijar una cuota de autónomos de cero euros para ingresos inferiores al SMI (y progresiva desde 50 euros por encima) y revisar a la baja el resto de impuestos y tasas.",
+      "arguments_for": "Según el informe Taxing Wages de la OCDE, la cuña fiscal sobre un asalariado soltero con salario medio en España (41,4 %) supera la media de la OCDE (35,1 %); reducir IRPF e IVA aumenta la renta disponible de los hogares y una cuota de autónomos ligada a ingresos alivia a quienes facturan por debajo del SMI.",
+      "arguments_against": "IRPF, IVA y Sociedades concentran cerca del 87 % de la recaudación gestionada por la AEAT (43,8 %, 30,6 % y 13,0 % en 2025), por lo que una rebaja simultánea de los tres reduciría de forma significativa los ingresos públicos en un contexto de reglas fiscales europeas vigentes, obligando a recortar gasto o elevar la deuda si el crecimiento inducido no compensa la pérdida recaudatoria.",
+      "sources_for": [
+        {
+          "title": "Taxing Wages 2026 — Spain",
+          "publisher": "OCDE",
+          "url": "https://www.oecd.org/en/publications/taxing-wages-2026_3a5169ef-en/full-report/spain_96c2f5c9.html",
+          "date": "2026"
+        },
+        {
+          "title": "Los españoles destinaron el 41,4% de su salario bruto a impuestos y cotizaciones, frente al 35,1% de la OCDE",
+          "publisher": "Europa Press",
+          "url": "https://www.europapress.es/economia/fiscal-00347/noticia-espanoles-destinaron-414-salario-bruto-impuestos-cotizaciones-frente-351-ocde-20260422113406.html",
+          "date": "2026-04-22"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Informe Anual de Recaudación Tributaria 2025 — Infografía",
+          "publisher": "Agencia Estatal de Administración Tributaria",
+          "url": "https://sede.agenciatributaria.gob.es/static_files/AEAT/Estudios/Estadisticas/Informes_Estadisticos/Informes_Anuales_de_Recaudacion_Tributaria/Ejercicio_2025/Infografia_2025_es_es.pdf",
+          "date": "2026"
+        },
+        {
+          "title": "Stability and Growth Pact",
+          "publisher": "Comisión Europea (DG ECFIN)",
+          "url": "https://economy-finance.ec.europa.eu/economic-and-fiscal-governance/stability-and-growth-pact_en"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles al PDF (p. 9). La explicación original solo describía el IRPF y omitía IVA, Sociedades, cuota de autónomos y revisión de tasas: corregida. Argumentos reformulados con cifras verificadas en las fuentes enlazadas."
+    }
+  }
+}

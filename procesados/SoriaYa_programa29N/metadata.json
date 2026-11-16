@@ -1,0 +1,20 @@
+{
+  "archivo_original": "SoriaYa_programa29N.pdf",
+  "nombre": "SoriaYa_programa29N",
+  "sha256": "042e8da39561d2008db48e78a6b72fb9309f334038a1d0af67791ceb983c3e9d",
+  "fecha_procesamiento": "2026-11-15T22:29:52+0100",
+  "herramienta": "Docling (PyPdfiumBackend)",
+  "formatos": [
+    "md",
+    "json",
+    "txt"
+  ],
+  "paginas": 1,
+  "duracion_segundos": 37.22,
+  "tamano_bytes": {
+    "pdf": 405932,
+    "md": 5487,
+    "json": 41447,
+    "txt": 5394
+  }
+}

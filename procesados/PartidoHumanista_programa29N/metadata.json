@@ -1,0 +1,14 @@
+{
+  "archivo_original": "Programa Generales 2026.pdf",
+  "nombre": "PartidoHumanista_programa29N",
+  "sha256": "C53AB576B0C57A091665795CB8676269B85CC6F9B7E22C9D65CE11D86502086F",
+  "fecha_procesamiento": "2026-11-11T14:51:13.6031968+01:00",
+  "herramienta": "Docling",
+  "formatos": [
+    "md",
+    "json",
+    "txt"
+  ],
+  "codigo_salida": 0,
+  "archivo_estandar": "PartidoHumanista_programa29N.pdf"
+}

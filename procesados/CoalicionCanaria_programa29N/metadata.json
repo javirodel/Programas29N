@@ -1,0 +1,14 @@
+{
+  "archivo_original": "CCA-26-Programa_Electoral-29NOV.pdf",
+  "nombre": "CoalicionCanaria_programa29N",
+  "sha256": "3C40C0A6E38D8DD80AE1061D94B614F4E3F1B6492EC8C801834FB497F337044E",
+  "fecha_procesamiento": "2026-11-11T14:49:38.6132907+01:00",
+  "herramienta": "Docling",
+  "formatos": [
+    "md",
+    "json",
+    "txt"
+  ],
+  "codigo_salida": 0,
+  "archivo_estandar": "CoalicionCanaria_programa29N.pdf"
+}

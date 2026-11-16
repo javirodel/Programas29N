@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.generated/
+out/
+build/
+dist/
+coverage/
+pdfs_originales/
+procesados/
+logs/
+docs/audit/
+package-lock.json

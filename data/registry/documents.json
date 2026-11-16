@@ -1,0 +1,1489 @@
+{
+  "schema_version": "1.0.0",
+  "election_id": "generales-2026-11-29",
+  "election_name": "Elecciones Generales 29 de noviembre de 2026 (29N)",
+  "election_date": "2026-11-29",
+  "entries": [
+    {
+      "party": {
+        "id": "bng",
+        "name": {
+          "value": "Bloque Nacionalista Galego",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "BNG",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "BNG",
+        "website": {
+          "value": "https://www.bng.gal",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "bng-29n-2026",
+        "party_id": "bng",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "Programa Electoral Eleccións Xerais 29N - Máis Forza para Galiza",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-11-03",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "BNG_programa29N",
+        "languages": [
+          "gl"
+        ]
+      },
+      "document": {
+        "id": "BNG_programa29N",
+        "pdf_path": "pdfs_originales/BNG_programa29N.pdf",
+        "expected_sha256": "fd5aef260b9c66d030b57b7b0e18914c8ad79384e2c46b2346d9fb4f6514a97d",
+        "page_count": 91,
+        "expected_extracted_count": 492,
+        "requires_editorial_remediation": false,
+        "original_filename": "26_bng_xerais_documentos_programa_electoral.pdf",
+        "official_url": {
+          "value": "https://www.bng.gal/media/bnggaliza/files/2026/11/03/26_bng_xerais_documentos_programa_electoral.pdf",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling",
+          "processed_at": "2026-11-11T14:48:17.6520631+01:00",
+          "artifacts": {
+            "md": "procesados/BNG_programa29N/BNG_programa29N.md",
+            "json": "procesados/BNG_programa29N/BNG_programa29N.json",
+            "txt": "procesados/BNG_programa29N/BNG_programa29N.txt",
+            "metadata": "procesados/BNG_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/BNG_programa29N/BNG_programa29N_492medidas_detallado.json",
+            "md": "procesados/BNG_programa29N/BNG_programa29N_492medidas_detallado.md"
+          }
+        }
+      }
+    },
+    {
+      "party": {
+        "id": "coalicion-canaria",
+        "name": {
+          "value": "Coalición Canaria - Municipalistas Primero Canarias",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "CCa",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "CCa",
+        "website": {
+          "value": "https://coalicioncanaria.org",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "coalicion-canaria-29n-2026",
+        "party_id": "coalicion-canaria",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "Defiende Canarias. Diez causas y cien acciones",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-11-08",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "CoalicionCanaria_programa29N",
+        "languages": [
+          "es"
+        ]
+      },
+      "document": {
+        "id": "CoalicionCanaria_programa29N",
+        "pdf_path": "pdfs_originales/CoalicionCanaria_programa29N.pdf",
+        "expected_sha256": "3c40c0a6e38d8dd80ae1061d94b614f4e3f1b6492ec8c801834fb497f337044e",
+        "page_count": 23,
+        "expected_extracted_count": 100,
+        "requires_editorial_remediation": false,
+        "original_filename": "CCA-26-Programa_Electoral-29NOV.pdf",
+        "official_url": {
+          "value": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling",
+          "processed_at": "2026-11-11T14:49:38.6132907+01:00",
+          "artifacts": {
+            "md": "procesados/CoalicionCanaria_programa29N/CoalicionCanaria_programa29N.md",
+            "json": "procesados/CoalicionCanaria_programa29N/CoalicionCanaria_programa29N.json",
+            "txt": "procesados/CoalicionCanaria_programa29N/CoalicionCanaria_programa29N.txt",
+            "metadata": "procesados/CoalicionCanaria_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/CoalicionCanaria_programa29N/CoalicionCanaria_programa29N_100medidas_detallado.json",
+            "md": "procesados/CoalicionCanaria_programa29N/CoalicionCanaria_programa29N_100medidas_detallado.md"
+          }
+        }
+      }
+    },
+    {
+      "party": {
+        "id": "frente-obrero",
+        "name": {
+          "value": "Frente Obrero",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "FO",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "FO",
+        "website": {
+          "value": "https://frenteobrero.es",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "frente-obrero-29n-2026",
+        "party_id": "frente-obrero",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "Recuperar España. Programa Político",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-10-06",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "FrenteObrero_programa29N",
+        "languages": [
+          "es"
+        ]
+      },
+      "document": {
+        "id": "FrenteObrero_programa29N",
+        "pdf_path": "pdfs_originales/FrenteObrero_programa29N.pdf",
+        "expected_sha256": "7b9f423f2c1ada187b6f42ed8dbf4e025356254d7a6b81830e114b818ef2e282",
+        "page_count": 64,
+        "expected_extracted_count": 135,
+        "requires_editorial_remediation": false,
+        "original_filename": "Programa.pdf",
+        "official_url": {
+          "value": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling (PyPdfiumBackend)",
+          "processed_at": "2026-11-11T15:48:07+0100",
+          "artifacts": {
+            "md": "procesados/FrenteObrero_programa29N/FrenteObrero_programa29N.md",
+            "json": "procesados/FrenteObrero_programa29N/FrenteObrero_programa29N.json",
+            "txt": "procesados/FrenteObrero_programa29N/FrenteObrero_programa29N.txt",
+            "metadata": "procesados/FrenteObrero_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/FrenteObrero_programa29N/FrenteObrero_programa29N_135medidas_detallado.json",
+            "md": "procesados/FrenteObrero_programa29N/FrenteObrero_programa29N_135medidas_detallado.md"
+          }
+        }
+      }
+    },
+    {
+      "party": {
+        "id": "iustitia-europa",
+        "name": {
+          "value": "Iustitia Europa",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "IE",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "IE",
+        "website": {
+          "value": "https://iustitiaeuropa.es",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "iustitia-europa-29n-2026",
+        "party_id": "iustitia-europa",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "Contrato Electoral de Iustitia Europa. Por un reinicio moral en España",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2025-12-07",
+          "verification": "no_verificado",
+          "origin": "detallado_ia",
+          "note": "Fecha procedente del análisis derivado; pendiente de corroborar contra registro oficial."
+        },
+        "source_document_id": "IustitiaEuropa_programa29N",
+        "languages": [
+          "es"
+        ]
+      },
+      "document": {
+        "id": "IustitiaEuropa_programa29N",
+        "pdf_path": "pdfs_originales/IustitiaEuropa_programa29N.pdf",
+        "expected_sha256": "03740dc25a9e94599f7b3e085a5f24fefe8ad8aa796740dccd0dfc1b2facb5dd",
+        "page_count": 28,
+        "expected_extracted_count": 101,
+        "requires_editorial_remediation": false,
+        "original_filename": "descarga-aqui-tu-contrato-00030.pdf",
+        "official_url": {
+          "value": "https://iustitiaeuropa.es/img/bloques/documentos/descarga-aqui-tu-contrato-00030.pdf",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling",
+          "processed_at": "2026-11-11T14:49:42.6443622+01:00",
+          "artifacts": {
+            "md": "procesados/IustitiaEuropa_programa29N/IustitiaEuropa_programa29N.md",
+            "json": "procesados/IustitiaEuropa_programa29N/IustitiaEuropa_programa29N.json",
+            "txt": "procesados/IustitiaEuropa_programa29N/IustitiaEuropa_programa29N.txt",
+            "metadata": "procesados/IustitiaEuropa_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/IustitiaEuropa_programa29N/IustitiaEuropa_programa29N_101medidas_detallado.json",
+            "md": "procesados/IustitiaEuropa_programa29N/IustitiaEuropa_programa29N_101medidas_detallado.md"
+          }
+        }
+      }
+    },
+    {
+      "party": {
+        "id": "pnv",
+        "name": {
+          "value": "Euzko Alderdi Jeltzalea - Partido Nacionalista Vasco",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "EAJ-PNV",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "EAJ-PNV",
+        "website": {
+          "value": "https://www.eaj-pnv.eus",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "pnv-29n-2026",
+        "party_id": "pnv",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "Euskadi Zaindu. Defender. Acordar. Exigir. Programa Elecciones Generales 2026",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-11-06",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "PNV_programa29N",
+        "languages": [
+          "es"
+        ]
+      },
+      "document": {
+        "id": "PNV_programa29N",
+        "pdf_path": "pdfs_originales/PNV_programa29N.pdf",
+        "expected_sha256": "5af7a5b6f67c26bad87ef6c3ca01ae38aa1f1d7d9029efb32fc52482de0c1314",
+        "page_count": 43,
+        "expected_extracted_count": 225,
+        "requires_editorial_remediation": false,
+        "original_filename": "programa-electoral-29n.pdf",
+        "official_url": {
+          "value": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling",
+          "processed_at": "2026-11-11T14:51:46.1722836+01:00",
+          "artifacts": {
+            "md": "procesados/PNV_programa29N/PNV_programa29N.md",
+            "json": "procesados/PNV_programa29N/PNV_programa29N.json",
+            "txt": "procesados/PNV_programa29N/PNV_programa29N.txt",
+            "metadata": "procesados/PNV_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/PNV_programa29N/PNV_programa29N_225medidas_detallado.json",
+            "md": "procesados/PNV_programa29N/PNV_programa29N_225medidas_detallado.md"
+          }
+        }
+      }
+    },
+    {
+      "party": {
+        "id": "pp",
+        "name": {
+          "value": "Partido Popular",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "PP",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "PP",
+        "website": {
+          "value": "https://www.pp.es",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "pp-29n-2026",
+        "party_id": "pp",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "La Reconstrucción Nacional. El programa del cambio necesario para España",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-11-09",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "PP_programa29N",
+        "languages": [
+          "es"
+        ]
+      },
+      "document": {
+        "id": "PP_programa29N",
+        "pdf_path": "pdfs_originales/PP_programa29N.pdf",
+        "expected_sha256": "cea8f2a052278e51ad682d19444eb0e9089997adbde8df76babf7f236bb5ffbe",
+        "page_count": 82,
+        "expected_extracted_count": 249,
+        "requires_editorial_remediation": false,
+        "original_filename": "LA-RECONSTRUCCION-NACIONAL.pdf",
+        "official_url": {
+          "value": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling (PyPdfiumBackend)",
+          "processed_at": "2026-11-11T15:49:41+0100",
+          "artifacts": {
+            "md": "procesados/PP_programa29N/PP_programa29N.md",
+            "json": "procesados/PP_programa29N/PP_programa29N.json",
+            "txt": "procesados/PP_programa29N/PP_programa29N.txt",
+            "metadata": "procesados/PP_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/PP_programa29N/PP_programa29N_249medidas_detallado.json",
+            "md": "procesados/PP_programa29N/PP_programa29N_249medidas_detallado.md"
+          }
+        }
+      }
+    },
+    {
+      "party": {
+        "id": "partido-humanista",
+        "name": {
+          "value": "Partido Humanista",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "PH",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "PH",
+        "website": {
+          "value": "https://www.partidohumanista.es",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "partido-humanista-29n-2026",
+        "party_id": "partido-humanista",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "Elecciones Generales 2026. Hay futuro si lo primero es la gente",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-11-09",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "PartidoHumanista_programa29N",
+        "languages": [
+          "es"
+        ]
+      },
+      "document": {
+        "id": "PartidoHumanista_programa29N",
+        "pdf_path": "pdfs_originales/PartidoHumanista_programa29N.pdf",
+        "expected_sha256": "c53ab576b0c57a091665795cb8676269b85cc6f9b7e22c9d65ce11d86502086f",
+        "page_count": 31,
+        "expected_extracted_count": 40,
+        "requires_editorial_remediation": true,
+        "original_filename": "Programa Generales 2026.pdf",
+        "official_url": {
+          "value": "https://www.partidohumanista.es/Documentos/Programas/Programa%20Generales%202026.pdf",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling",
+          "processed_at": "2026-11-11T14:51:13.6031968+01:00",
+          "artifacts": {
+            "md": "procesados/PartidoHumanista_programa29N/PartidoHumanista_programa29N.md",
+            "json": "procesados/PartidoHumanista_programa29N/PartidoHumanista_programa29N.json",
+            "txt": "procesados/PartidoHumanista_programa29N/PartidoHumanista_programa29N.txt",
+            "metadata": "procesados/PartidoHumanista_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/PartidoHumanista_programa29N/PartidoHumanista_programa29N_40medidas_detallado.json",
+            "md": "procesados/PartidoHumanista_programa29N/PartidoHumanista_programa29N_40medidas_detallado.md"
+          }
+        }
+      }
+    },
+    {
+      "party": {
+        "id": "por-un-mundo-mas-justo",
+        "name": {
+          "value": "Por Un Mundo Más Justo",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "M+J",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "M+J",
+        "website": {
+          "value": "https://www.porunmundomasjusto.es",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "por-un-mundo-mas-justo-29n-2026",
+        "party_id": "por-un-mundo-mas-justo",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "Si no es justo, cámbialo. Programa Electoral 29N 2026",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-11-10",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "PorUnMundoMasJusto_programa29N",
+        "languages": [
+          "es"
+        ]
+      },
+      "document": {
+        "id": "PorUnMundoMasJusto_programa29N",
+        "pdf_path": "pdfs_originales/PorUnMundoMasJusto_programa29N.pdf",
+        "expected_sha256": "a3c7c807411d8565b310a9b566c6fa2cbe643e99c91f3f9f4e7d8712d949c613",
+        "page_count": 95,
+        "expected_extracted_count": 191,
+        "requires_editorial_remediation": false,
+        "original_filename": "Castellano.pdf",
+        "official_url": {
+          "value": "https://www.porunmundomasjusto.es/wp-content/uploads/2026/11/Castellano.pdf",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling",
+          "processed_at": "2026-11-11T14:48:22.4274537+01:00",
+          "artifacts": {
+            "md": "procesados/PorUnMundoMasJusto_programa29N/PorUnMundoMasJusto_programa29N.md",
+            "json": "procesados/PorUnMundoMasJusto_programa29N/PorUnMundoMasJusto_programa29N.json",
+            "txt": "procesados/PorUnMundoMasJusto_programa29N/PorUnMundoMasJusto_programa29N.txt",
+            "metadata": "procesados/PorUnMundoMasJusto_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/PorUnMundoMasJusto_programa29N/PorUnMundoMasJusto_programa29N_191medidas_detallado.json",
+            "md": "procesados/PorUnMundoMasJusto_programa29N/PorUnMundoMasJusto_programa29N_191medidas_detallado.md"
+          }
+        }
+      }
+    },
+    {
+      "party": {
+        "id": "salf",
+        "name": {
+          "value": "Se Acabó La Fiesta",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "SALF",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "SALF",
+        "website": {
+          "value": "https://www.seacabolafiesta.com",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "salf-29n-2026",
+        "party_id": "salf",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "Contrato Electoral Simplificado - Generales 2026 (29N)",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-11-11",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "SALF_programa29N",
+        "languages": [
+          "es"
+        ]
+      },
+      "document": {
+        "id": "SALF_programa29N",
+        "pdf_path": "pdfs_originales/SALF_programa29N.pdf",
+        "expected_sha256": "073425b9522da77608a0399923c2e0d3b9153776e8a0436ac8f0aea794b7893b",
+        "page_count": 40,
+        "expected_extracted_count": 119,
+        "requires_editorial_remediation": true,
+        "original_filename": "SALF_Contrato_Electoral_29N.pdf",
+        "official_url": {
+          "value": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling",
+          "processed_at": "2026-11-11T14:52:46.3010371+01:00",
+          "artifacts": {
+            "md": "procesados/SALF_programa29N/SALF_programa29N.md",
+            "json": "procesados/SALF_programa29N/SALF_programa29N.json",
+            "txt": "procesados/SALF_programa29N/SALF_programa29N.txt",
+            "metadata": "procesados/SALF_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/SALF_programa29N/SALF_programa29N_119medidas_detallado.json",
+            "md": "procesados/SALF_programa29N/SALF_programa29N_119medidas_detallado.md"
+          }
+        }
+      }
+    },
+    {
+      "party": {
+        "id": "vox",
+        "name": {
+          "value": "VOX",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "VOX",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "VOX",
+        "website": {
+          "value": "https://www.voxespana.es",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "vox-29n-2026",
+        "party_id": "vox",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "Es sentido común · Programa Electoral Elecciones Generales 29N",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-11-01",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "VOX_programa29N",
+        "languages": [
+          "es"
+        ]
+      },
+      "document": {
+        "id": "VOX_programa29N",
+        "pdf_path": "pdfs_originales/VOX_programa29N.pdf",
+        "expected_sha256": "065abf6720be2f7b19b8e911920c2ee2ce5c2059d0ae8bf09770bc790ed11b65",
+        "page_count": 66,
+        "expected_extracted_count": 115,
+        "requires_editorial_remediation": false,
+        "original_filename": "Programa-completo-A5-1.pdf",
+        "official_url": {
+          "value": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling",
+          "processed_at": "2026-11-13T13:20:46+01:00",
+          "artifacts": {
+            "md": "procesados/VOX_programa29N/VOX_programa29N.md",
+            "json": "procesados/VOX_programa29N/VOX_programa29N.json",
+            "txt": "procesados/VOX_programa29N/VOX_programa29N.txt",
+            "metadata": "procesados/VOX_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/VOX_programa29N/VOX_programa29N_115medidas_detallado.json",
+            "md": "procesados/VOX_programa29N/VOX_programa29N_115medidas_detallado.md"
+          }
+        }
+      }
+    },
+    {
+      "party": {
+        "id": "erc",
+        "name": {
+          "value": "Esquerra Republicana de Catalunya",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "ERC",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "ERC",
+        "website": {
+          "value": "https://www.esquerrarepublicana.cat",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "erc-29n-2026",
+        "party_id": "erc",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "Programa electoral. Eleccions al Congrés 2026 · Pel país. Per la gent. Pel futur.",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-11-10",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "ERC_programa29N",
+        "languages": [
+          "ca"
+        ]
+      },
+      "document": {
+        "id": "ERC_programa29N",
+        "pdf_path": "pdfs_originales/ERC_programa29N.pdf",
+        "expected_sha256": "61728d162a6e88d492d44a0b0994effb31f9e4abb85ebf8aea715d870a9b2e04",
+        "page_count": 48,
+        "expected_extracted_count": 227,
+        "requires_editorial_remediation": false,
+        "original_filename": "e2026-programa.pdf",
+        "official_url": {
+          "value": "https://esquerrarepublicana.cat/documents/e2026-programa.pdf",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling",
+          "processed_at": "2026-11-13T13:21:55+01:00",
+          "artifacts": {
+            "md": "procesados/ERC_programa29N/ERC_programa29N.md",
+            "json": "procesados/ERC_programa29N/ERC_programa29N.json",
+            "txt": "procesados/ERC_programa29N/ERC_programa29N.txt",
+            "metadata": "procesados/ERC_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/ERC_programa29N/ERC_programa29N_227medidas_detallado.json",
+            "md": "procesados/ERC_programa29N/ERC_programa29N_227medidas_detallado.md"
+          }
+        }
+      }
+    },
+    {
+      "party": {
+        "id": "adelante-andalucia",
+        "name": {
+          "value": "Adelante Andalucía",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "Adelante",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "AA",
+        "website": {
+          "value": "https://adelanteandalucia.org",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "adelante-andalucia-29n-2026",
+        "party_id": "adelante-andalucia",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "Programa Electoral Generales 29N · Un programa para frenar a las derechas",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-11-10",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "AdelanteAndalucia_programa29N",
+        "languages": [
+          "es"
+        ]
+      },
+      "document": {
+        "id": "AdelanteAndalucia_programa29N",
+        "pdf_path": "pdfs_originales/AdelanteAndalucia_programa29N.pdf",
+        "expected_sha256": "fde1fe024f94a698e2110c0e25cc569b4d9f3f7272342bdb13dc0c1e7a2d7b43",
+        "page_count": 134,
+        "expected_extracted_count": 719,
+        "requires_editorial_remediation": false,
+        "original_filename": "programa-29n-adelante-andalucia.pdf",
+        "official_url": {
+          "value": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling",
+          "processed_at": "2026-11-13T13:25:11+01:00",
+          "artifacts": {
+            "md": "procesados/AdelanteAndalucia_programa29N/AdelanteAndalucia_programa29N.md",
+            "json": "procesados/AdelanteAndalucia_programa29N/AdelanteAndalucia_programa29N.json",
+            "txt": "procesados/AdelanteAndalucia_programa29N/AdelanteAndalucia_programa29N.txt",
+            "metadata": "procesados/AdelanteAndalucia_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/AdelanteAndalucia_programa29N/AdelanteAndalucia_programa29N_719medidas_detallado.json",
+            "md": "procesados/AdelanteAndalucia_programa29N/AdelanteAndalucia_programa29N_719medidas_detallado.md"
+          }
+        }
+      }
+    },
+    {
+      "party": {
+        "id": "soria-ya",
+        "name": {
+          "value": "Soria ¡YA!",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "Soria ¡YA!",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "SY",
+        "website": {
+          "value": "https://soriaya.org",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "soria-ya-29n-2026",
+        "party_id": "soria-ya",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "Del Olvido al Futuro · Programa Electoral 29N",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-11-15",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "SoriaYa_programa29N",
+        "languages": [
+          "es"
+        ]
+      },
+      "document": {
+        "id": "SoriaYa_programa29N",
+        "pdf_path": "pdfs_originales/SoriaYa_programa29N.pdf",
+        "expected_sha256": "042e8da39561d2008db48e78a6b72fb9309f334038a1d0af67791ceb983c3e9d",
+        "page_count": 1,
+        "expected_extracted_count": 22,
+        "requires_editorial_remediation": false,
+        "original_filename": "SoriaYa_programa29N.pdf",
+        "official_url": {
+          "value": "https://soriaya.org",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling",
+          "processed_at": "2026-11-15T22:29:52+01:00",
+          "artifacts": {
+            "md": "procesados/SoriaYa_programa29N/SoriaYa_programa29N.md",
+            "json": "procesados/SoriaYa_programa29N/SoriaYa_programa29N.json",
+            "txt": "procesados/SoriaYa_programa29N/SoriaYa_programa29N.txt",
+            "metadata": "procesados/SoriaYa_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/SoriaYa_programa29N/SoriaYa_programa29N_22medidas_detallado.json",
+            "md": "procesados/SoriaYa_programa29N/SoriaYa_programa29N_22medidas_detallado.md"
+          }
+        }
+      }
+    },
+    {
+      "party": {
+        "id": "teruel-existe",
+        "name": {
+          "value": "Teruel Existe",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "Teruel Existe",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "TE",
+        "website": {
+          "value": "https://teruelexiste.info",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "teruel-existe-29n-2026",
+        "party_id": "teruel-existe",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "Un programa para transformar Teruel · Elecciones Generales 29N",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-11-15",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "TeruelExiste_programa29N",
+        "languages": [
+          "es"
+        ]
+      },
+      "document": {
+        "id": "TeruelExiste_programa29N",
+        "pdf_path": "pdfs_originales/TeruelExiste_programa29N.pdf",
+        "expected_sha256": "f93342d6c9d0f17eaa53fa68ff714bfa0981ca9c10605401b71801cf1870e190",
+        "page_count": 15,
+        "expected_extracted_count": 140,
+        "requires_editorial_remediation": false,
+        "original_filename": "TeruelExiste_programa29N.pdf",
+        "official_url": {
+          "value": "https://teruelexiste.info/partido/programa-elecciones-generales-2026/",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling",
+          "processed_at": "2026-11-15T22:31:41+01:00",
+          "artifacts": {
+            "md": "procesados/TeruelExiste_programa29N/TeruelExiste_programa29N.md",
+            "json": "procesados/TeruelExiste_programa29N/TeruelExiste_programa29N.json",
+            "txt": "procesados/TeruelExiste_programa29N/TeruelExiste_programa29N.txt",
+            "metadata": "procesados/TeruelExiste_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/TeruelExiste_programa29N/TeruelExiste_programa29N_140medidas_detallado.json",
+            "md": "procesados/TeruelExiste_programa29N/TeruelExiste_programa29N_140medidas_detallado.md"
+          }
+        }
+      }
+    },
+    {
+      "party": {
+        "id": "falange",
+        "name": {
+          "value": "Falange Española de las JONS",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "FE de las JONS",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "FEJONS",
+        "website": {
+          "value": "https://falange.es",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "falange-29n-2026",
+        "party_id": "falange",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "Programa Electoral Elecciones Generales 29 de noviembre de 2026",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-11-15",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "Falange_programa29N",
+        "languages": [
+          "es"
+        ]
+      },
+      "document": {
+        "id": "Falange_programa29N",
+        "pdf_path": "pdfs_originales/Falange_programa29N.pdf",
+        "expected_sha256": "46edb0c2db121b8da6a05b9adb65b990086e5e4173fef7bd1b39d1d3757a1026",
+        "page_count": 60,
+        "expected_extracted_count": 260,
+        "requires_editorial_remediation": false,
+        "original_filename": "Falange_programa29N.pdf",
+        "official_url": {
+          "value": "https://falange.es",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling",
+          "processed_at": "2026-11-15T22:32:10+01:00",
+          "artifacts": {
+            "md": "procesados/Falange_programa29N/Falange_programa29N.md",
+            "json": "procesados/Falange_programa29N/Falange_programa29N.json",
+            "txt": "procesados/Falange_programa29N/Falange_programa29N.txt",
+            "metadata": "procesados/Falange_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/Falange_programa29N/Falange_programa29N_260medidas_detallado.json",
+            "md": "procesados/Falange_programa29N/Falange_programa29N_260medidas_detallado.md"
+          }
+        }
+      }
+    },
+    {
+      "party": {
+        "id": "pacma",
+        "name": {
+          "value": "Partido Animalista Con el Medio Ambiente",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "PACMA",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "PACMA",
+        "website": {
+          "value": "https://pacma.es",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "pacma-29n-2026",
+        "party_id": "pacma",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "Programa Electoral Elecciones Generales 29N",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-11-15",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "PACMA_programa29N",
+        "languages": [
+          "es"
+        ]
+      },
+      "document": {
+        "id": "PACMA_programa29N",
+        "pdf_path": "pdfs_originales/PACMA_programa29N.pdf",
+        "expected_sha256": "6009e569e3bfd4f607b8831ade1d1ef33cbbda6033805e3ebc331d4dd0e30a1d",
+        "page_count": 82,
+        "expected_extracted_count": 400,
+        "requires_editorial_remediation": false,
+        "original_filename": "PACMA_programa29N.pdf",
+        "official_url": {
+          "value": "https://pacma.es/programa-electoral/",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling",
+          "processed_at": "2026-11-15T22:35:03+01:00",
+          "artifacts": {
+            "md": "procesados/PACMA_programa29N/PACMA_programa29N.md",
+            "json": "procesados/PACMA_programa29N/PACMA_programa29N.json",
+            "txt": "procesados/PACMA_programa29N/PACMA_programa29N.txt",
+            "metadata": "procesados/PACMA_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/PACMA_programa29N/PACMA_programa29N_400medidas_detallado.json",
+            "md": "procesados/PACMA_programa29N/PACMA_programa29N_400medidas_detallado.md"
+          }
+        }
+      }
+    },
+    {
+      "party": {
+        "id": "compromis",
+        "name": {
+          "value": "Compromís - Front Valencià",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "Compromís",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "COMPROMIS",
+        "website": {
+          "value": "https://compromis.net",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "compromis-29n-2026",
+        "party_id": "compromis",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "Programa Electoral 29N · Compromís-Front Valencià",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-11-15",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "Compromis_programa29N",
+        "languages": [
+          "ca"
+        ]
+      },
+      "document": {
+        "id": "Compromis_programa29N",
+        "pdf_path": "pdfs_originales/Compromis_programa29N.pdf",
+        "expected_sha256": "37b569d6ac31a21a8f972dcfd5be3740c32f50fe1c6f3e87c9a1f68027ee6b55",
+        "page_count": 64,
+        "expected_extracted_count": 561,
+        "requires_editorial_remediation": false,
+        "original_filename": "Compromis_programa29N.pdf",
+        "official_url": {
+          "value": "https://compromis.net",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling",
+          "processed_at": "2026-11-15T22:31:44+01:00",
+          "artifacts": {
+            "md": "procesados/Compromis_programa29N/Compromis_programa29N.md",
+            "json": "procesados/Compromis_programa29N/Compromis_programa29N.json",
+            "txt": "procesados/Compromis_programa29N/Compromis_programa29N.txt",
+            "metadata": "procesados/Compromis_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/Compromis_programa29N/Compromis_programa29N_561medidas_detallado.json",
+            "md": "procesados/Compromis_programa29N/Compromis_programa29N_561medidas_detallado.md"
+          }
+        }
+      }
+    },
+    {
+      "party": {
+        "id": "psoe",
+        "name": {
+          "value": "Partido Socialista Obrero Español",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "PSOE",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "PSOE",
+        "website": {
+          "value": "https://www.psoe.es",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "psoe-29n-2026",
+        "party_id": "psoe",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "La fuerza de seguir avanzando · Programa Elecciones Generales 29 de noviembre de 2026",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-11-15",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "PSOE_programa29N",
+        "languages": [
+          "es"
+        ]
+      },
+      "document": {
+        "id": "PSOE_programa29N",
+        "pdf_path": "pdfs_originales/PSOE_programa29N.pdf",
+        "expected_sha256": "e9c8341339538b550641b6ddb1c3fdfeef7fda6a8a1a4be9e8d6a44cbc229bf5",
+        "page_count": 114,
+        "expected_extracted_count": 500,
+        "requires_editorial_remediation": false,
+        "original_filename": "PSOE_programa29N.pdf",
+        "official_url": {
+          "value": "https://www.psoe.es/transparencia/informacion-politica-organizativa/programa/",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling",
+          "processed_at": "2026-11-15T22:37:36+01:00",
+          "artifacts": {
+            "md": "procesados/PSOE_programa29N/PSOE_programa29N.md",
+            "json": "procesados/PSOE_programa29N/PSOE_programa29N.json",
+            "txt": "procesados/PSOE_programa29N/PSOE_programa29N.txt",
+            "metadata": "procesados/PSOE_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/PSOE_programa29N/PSOE_programa29N_500medidas_detallado.json",
+            "md": "procesados/PSOE_programa29N/PSOE_programa29N_500medidas_detallado.md"
+          }
+        }
+      }
+    },
+    {
+      "party": {
+        "id": "frente-amplio",
+        "name": {
+          "value": "Movimiento Sumar · Frente Amplio",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "Sumar / Frente Amplio",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "FA",
+        "website": {
+          "value": "https://frenteamplio.info",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "frente-amplio-29n-2026",
+        "party_id": "frente-amplio",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "Programa del Frente Amplio · Elecciones Generales 2026",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-11-16",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "FrenteAmplio_programa29N",
+        "languages": [
+          "es"
+        ]
+      },
+      "document": {
+        "id": "FrenteAmplio_programa29N",
+        "pdf_path": "pdfs_originales/FrenteAmplio_programa29N.pdf",
+        "expected_sha256": "df6e4d967a3a41386656273c32c2df3edc6681b6ee047b190b2ebb91f1a36f04",
+        "page_count": 151,
+        "expected_extracted_count": 908,
+        "requires_editorial_remediation": false,
+        "original_filename": "ProgramaFrenteAmplio.pdf",
+        "official_url": {
+          "value": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling",
+          "processed_at": "2026-11-16T19:36:07+01:00",
+          "artifacts": {
+            "md": "procesados/FrenteAmplio_programa29N/FrenteAmplio_programa29N.md",
+            "json": "procesados/FrenteAmplio_programa29N/FrenteAmplio_programa29N.json",
+            "txt": "procesados/FrenteAmplio_programa29N/FrenteAmplio_programa29N.txt",
+            "metadata": "procesados/FrenteAmplio_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/FrenteAmplio_programa29N/FrenteAmplio_programa29N_908medidas_detallado.json",
+            "md": "procesados/FrenteAmplio_programa29N/FrenteAmplio_programa29N_908medidas_detallado.md"
+          }
+        }
+      }
+    },
+    {
+      "party": {
+        "id": "eh-bildu",
+        "name": {
+          "value": "Euskal Herria Bildu",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "EH Bildu",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "EHB",
+        "website": {
+          "value": "https://ehbildu.eus",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "eh-bildu-29n-2026",
+        "party_id": "eh-bildu",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "Programa Electoral Elecciones Generales 29N · Garantía y derechos",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-11-16",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "EHBildu_programa29N",
+        "languages": [
+          "es"
+        ]
+      },
+      "document": {
+        "id": "EHBildu_programa29N",
+        "pdf_path": "pdfs_originales/EHBildu_programa29N.pdf",
+        "expected_sha256": "ceb655c9c8ebb036a15fa7829865d6e2d178525eb7db92629d702ac5e8d16047",
+        "page_count": 30,
+        "expected_extracted_count": 185,
+        "requires_editorial_remediation": false,
+        "original_filename": "posibleegin-programa-cas.pdf",
+        "official_url": {
+          "value": "https://ehbildu.eus/media/dokumentuak/posibleegin-programa-cas.pdf",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling",
+          "processed_at": "2026-11-16T19:33:29+01:00",
+          "artifacts": {
+            "md": "procesados/EHBildu_programa29N/EHBildu_programa29N.md",
+            "json": "procesados/EHBildu_programa29N/EHBildu_programa29N.json",
+            "txt": "procesados/EHBildu_programa29N/EHBildu_programa29N.txt",
+            "metadata": "procesados/EHBildu_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/EHBildu_programa29N/EHBildu_programa29N_185medidas_detallado.json",
+            "md": "procesados/EHBildu_programa29N/EHBildu_programa29N_185medidas_detallado.md"
+          }
+        }
+      }
+    }
+  ]
+}

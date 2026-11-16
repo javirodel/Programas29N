@@ -1,0 +1,20 @@
+{
+  "archivo_original": "FrenteAmplio_programa29N.pdf",
+  "nombre": "FrenteAmplio_programa29N",
+  "sha256": "df6e4d967a3a41386656273c32c2df3edc6681b6ee047b190b2ebb91f1a36f04",
+  "fecha_procesamiento": "2026-11-16T19:36:07+0100",
+  "herramienta": "Docling (PyPdfiumBackend)",
+  "formatos": [
+    "md",
+    "json",
+    "txt"
+  ],
+  "paginas": 151,
+  "duracion_segundos": 148.01,
+  "tamano_bytes": {
+    "pdf": 1139608,
+    "md": 356266,
+    "json": 2201965,
+    "txt": 354892
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "archivo_original": "LA-RECONSTRUCCION-NACIONAL.pdf",
+  "nombre": "PP_programa29N",
+  "sha256": "cea8f2a052278e51ad682d19444eb0e9089997adbde8df76babf7f236bb5ffbe",
+  "fecha_procesamiento": "2026-11-11T15:49:41+0100",
+  "herramienta": "Docling (PyPdfiumBackend)",
+  "formatos": [
+    "md",
+    "json",
+    "txt"
+  ],
+  "paginas": 82,
+  "duracion_segundos": 82.39,
+  "tamano_bytes": {
+    "pdf": 12279932,
+    "md": 163177,
+    "json": 877648,
+    "txt": 162169
+  }
+}

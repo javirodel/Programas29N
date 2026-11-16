@@ -1,0 +1,305 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "bng",
+  "entries": {
+    "bng-247": {
+      "status": "corregida",
+      "summary": "Propone reducir el IVA aplicable a los productos pesqueros.",
+      "arguments_for": "Según datos del MAPA citados por el sector pesquero (Fedepesca), el consumo per cápita de productos pesqueros en los hogares españoles ha descendido por debajo de los 18,5 kilos por persona y año y alrededor de siete de cada diez hogares han reducido su compra por la subida de precios; además, mientras otros alimentos básicos disfrutaron de rebajas temporales de IVA, el pescado se mantuvo en el 10 %.",
+      "arguments_against": "El sector estima la recaudación anual del IVA del pescado en torno a 928 millones de euros (y unos 557 millones de merma si bajara al 4 %); por su parte, el Ministerio de Hacienda ha rechazado extender las rebajas fiscales a carnes, pescados y conservas argumentando un elevado coste recaudatorio conjunto y la AIReF ha advertido del impacto de estas exenciones sobre el déficit público.",
+      "sources_for": [
+        {
+          "title": "El sector pesquero arranca una campaña para lograr el respaldo de los consumidores en su reivindicación de reducción del IVA",
+          "publisher": "Fedepesca",
+          "url": "https://fedepesca.org/el-sector-pesquero-arranca-una-campana-para-lograr-el-respaldo-de-los-consumidores-en-su-reivindicacion-de-reduccion-del-iva/"
+        },
+        {
+          "title": "El Congreso aprueba rebajar al 4 % el IVA de la carne, el pescado y las conservas",
+          "publisher": "La Voz de Galicia",
+          "url": "https://www.lavozdegalicia.es/noticia/somosmar/2025/12/11/congreso-aprueba-rebajar-4-iva-carne-pescado-conservas/00031765474463103495117.htm",
+          "date": "2025-12-11"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "El sector del pescado cifra en 928 millones el coste de la eliminación del IVA",
+          "publisher": "Interempresas",
+          "url": "https://www.interempresas.net/Industria-Pescado/576744-sector-del-pescado-cifra-en-928-millones-coste-y-ganancia-de-eliminacion-del-IVA.html"
+        },
+        {
+          "title": "La AIReF calcula en unos 660 millones el impacto de la rebaja del IVA a los alimentos básicos",
+          "publisher": "Cinco Días (El País)",
+          "url": "https://cincodias.elpais.com/cincodias/2022/12/28/economia/1672254801_393084.html",
+          "date": "2022-12-28"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles a N1 (p. 49). Explicación original sobreinterpretada (añadía tipo cero, mariscos, conservas y ultraprocesados ausentes en el programa); corregida y argumentos contrastados con cifras verificadas."
+    },
+    "bng-248": {
+      "status": "corregida",
+      "summary": "Reclama que Galicia quede libre de eólica marina —que, en todo caso, debería situarse siempre fuera de la plataforma continental gallega— y de minería submarina, especialmente en Áreas Marinas Protegidas y Áreas Marinas de Importancia Ecológica o Biológica, incluido el Banco de Galicia.",
+      "arguments_for": "Organizaciones ecologistas, cofradías y entidades científicas gallegas advierten de que las zonas de alto potencial de los POEM (RD 150/2023) en la demarcación noratlántica se aproximan a corredores migratorios de aves marinas, caladeros tradicionales y espacios protegidos de la Red Natura 2000 como el Banco de Galicia (ZEC y ZEPA).",
+      "arguments_against": "El Real Decreto 150/2023 (POEM) reserva áreas específicas para eólica marina flotante compatibles con los objetivos de descarbonización y el PNIEC, y el Tribunal Supremo desestimó los recursos contra los POEM al señalar que el impacto ambiental concreto sobre ecosistemas y pesca se evalúa en la tramitación individual de cada proyecto.",
+      "sources_for": [
+        {
+          "title": "Manifesto por unha transición enerxética respectuosa co medio mariño e a pesca",
+          "publisher": "Grupo Naturalista Hábitat",
+          "url": "https://gnhabitat.org/manifesto-eolica-marina/"
+        },
+        {
+          "title": "Estudio Ambiental Estratégico de los Planes de Ordenación del Espacio Marítimo (Anexo I)",
+          "publisher": "MITECO",
+          "url": "https://www.miteco.gob.es/content/dam/miteco/es/costas/participacion-publica/def_esae_poem_anexo1_tcm30-529069.pdf"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Ordenación del espacio marítimo (POEM)",
+          "publisher": "MITECO",
+          "url": "https://www.miteco.gob.es/es/costas/temas/proteccion-medio-marino/ordenacion-del-espacio-maritimo.html"
+        },
+        {
+          "title": "El Tribunal Supremo desestima el recurso de la Plataforma en Defensa de la Pesca contra el Real Decreto de los POEM",
+          "publisher": "Consejo General del Poder Judicial",
+          "url": "https://www.poderjudicial.es/cgpj/eu/Botere-Judiziala/Auzitegi-Gorena/Auzi-Berriak/El-Tribunal-Supremo-desestima-el-recurso-de-la-Plataforma-en-Defensa-de-la-Pesca-contra-el-Real-Decreto-que-aprobo-los-planes-de-ordenacion-del-espacio-maritimo"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial fiel a N1 (p. 50; el título está truncado al final pero no inventa nada). El análisis IA original correspondía a otra medida (presencia en Consejo de Pesca de la UE); reescrito por completo según el texto oficial sobre eólica marina y minería submarina."
+    },
+    "bng-249": {
+      "status": "corregida",
+      "summary": "Propone establecer un espacio gallego de libre decisión en materia marítima, pesquera y de aprovechamiento energético, junto con la transferencia a Galicia de los puertos de interés general del Estado, Salvamento Marítimo, navegación marítima y marina mercante, IEO, inspección de buques, ISM, dominio público marítimo y marítimo-terrestre, mar territorial y el traspaso de funciones en ordenación y gestión del litoral.",
+      "arguments_for": "La STC 68/2024 avaló que la competencia autonómica de ordenación del litoral permite gestionar títulos y autorizaciones sobre usos costeros sin reforma estatutaria previa, facilitando el traspaso de funciones de ordenación y gestión del litoral y una gestión más cercana de recursos marítimos clave para Galicia.",
+      "arguments_against": "La Constitución atribuye al Estado la competencia exclusiva sobre pesca marítima en aguas exteriores (art. 149.1.19ª CE), marina mercante y puertos de interés general (art. 149.1.20ª CE), así como la titularidad del dominio público marítimo-terrestre (art. 132.2 CE), por lo que el traspaso íntegro de estas competencias exigiría reformas constitucionales o estatutarias y podría fragmentar la seguridad marítima estatal.",
+      "sources_for": [
+        {
+          "title": "STC 68/2024 sobre la Ley de ordenación y gestión integrada del litoral de Galicia (BOE-A-2024-10946)",
+          "publisher": "Boletín Oficial del Estado / Tribunal Constitucional",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10946",
+          "date": "2024"
+        },
+        {
+          "title": "Recursos de inconstitucionalidade — Lei do litoral",
+          "publisher": "Xunta de Galicia",
+          "url": "https://conselleriadepresidencia.xunta.gal/es/relacions-institucionais-e-parlamentarias/recursos-de-inconstitucionalidade"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Sentencia 68/2024 del Tribunal Constitucional (resolución íntegra)",
+          "publisher": "Tribunal Constitucional",
+          "url": "https://hj.tribunalconstitucional.es/HJ/en/Resolucion/Show/30174",
+          "date": "2024-04-23"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles a N1 (p. 50). Explicación y argumentos corregidos porque omitían la mayor parte de las transferencias solicitadas (puertos, Salvamento, marina mercante, IEO, ISM, dominio público y litoral)."
+    },
+    "bng-250": {
+      "status": "corregida",
+      "summary": "Propone realizar un estudio para modificar la depuración de aguas residuales de Galicia hacia un sistema separativo, al considerar demostrada la ineficacia del sistema unitario actual, con el fin de lograr el saneamiento integral y la regeneración ambiental y productiva de las rías gallegas.",
+      "arguments_for": "En zonas con lluvias intensas como las rías gallegas, las redes unitarias mezclan aguas residuales y pluviales y sufren alivios y desbordamientos en episodios de lluvia que afectan a los bancos marisqueros; tanto la planificación autonómica como la Directiva (UE) 2024/3019 impulsan redes separativas y planes contra desbordamientos pluviales.",
+      "arguments_against": "Desdoblar las redes de saneamiento existentes en cascos urbanos consolidados para convertir sistemas unitarios en separativos requiere inversiones públicas elevadas, obras complejas en vía pública y plazos largos de ejecución municipal, además de exigir en muchos casos inversiones paralelas en las redes privadas de los edificios.",
+      "sources_for": [
+        {
+          "title": "Augas de Galicia adjudica la red separativa y mejora de saneamiento de A Illa por 1,1 millones",
+          "publisher": "Diario de Arousa (El Ideal Gallego)",
+          "url": "https://diariodearousa.elidealgallego.com/o-salnes/a-illa/2026-10-05/augas-de-galicia-adjudica-la-red-separativa-y-mejora-de-saneamiento-de-a-illa-por-1-1-millones-883275.html",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "Directiva (UE) 2024/3019 sobre el tratamiento de las aguas residuales urbanas",
+          "publisher": "Diario Oficial de la Unión Europea (BOE)",
+          "url": "https://www.boe.es/doue/2024/3019/L00001-00059.pdf",
+          "date": "2024"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Transposición de la Directiva (UE) 2024/3019 de tratamiento de las aguas residuales en España",
+          "publisher": "Retema",
+          "url": "https://www.retema.es/blog/transposicion-de-la-directiva-ue-20243019-de-tratamiento-de-las-aguas-residuales-en-espana"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles a N1 (p. 50). El análisis IA original correspondía a otra medida (cofradías de pescadores); reescrito por completo para reflejar el paso a un sistema separativo de aguas residuales."
+    },
+    "bng-251": {
+      "status": "corregida",
+      "summary": "Propone evitar la presión inspectora que sufre el sector del mar por la actuación simultánea de cuatro cuerpos (Gardacostas de Galicia, funcionarios del Ministerio, Guardia Civil y funcionarios de la UE), concentrando la función inspectora en el Servizo de Gardacostas de Galicia.",
+      "arguments_for": "El Servizo de Gardacostas de Galicia (Ley 2/2004) ya cuenta con competencias de inspección pesquera en aguas interiores, marisqueo y acuicultura, embarcaciones y medios aéreos propios, por lo que centralizar en un único cuerpo evitaría duplicidades y solapamientos de controles denunciados por parte de la flota y el marisqueo.",
+      "arguments_against": "La legislación española y europea atribuye al Estado la inspección en aguas exteriores y el control de fronteras y seguridad ciudadana —donde interviene la Guardia Civil y la Secretaría General de Pesca—, así como competencias de verificación comunitaria; además, iniciativas previas para retirar competencias a la Guardia Civil fueron rechazadas por el resto de grupos en el Parlamento gallego.",
+      "sources_for": [
+        {
+          "title": "Ley 2/2004, de 21 de abril, por la que se crea el Servicio de Guardacostas de Galicia",
+          "publisher": "Boletín Oficial del Estado",
+          "url": "https://www.boe.es/buscar/pdf/2004/BOE-A-2004-8719-consolidado.pdf",
+          "date": "2004"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Solo el BNG defendió retirar competencias en materia de inspección pesquera a la Guardia Civil",
+          "publisher": "La Voz de Galicia",
+          "url": "https://www.lavozdegalicia.es/noticia/somosmar/2021/02/19/solo-bng-defendio-retirar-competencias-materia-inspeccion-pesquera-guardia-civil/0003_202102G19P32994.htm",
+          "date": "2021-02-19"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial fiel a N1 (p. 50; título truncado antes de cerrar paréntesis sin inventar datos). El análisis IA original trataba sobre importaciones de China y Vietnam; reescrito por completo según el texto oficial."
+    },
+    "bng-252": {
+      "status": "corregida",
+      "summary": "Reclama la implantación inmediata de las medidas derivadas de las enmiendas del BNG a la Ley 5/2023 de Pesca Sostenible e Investigación Pesquera: elaborar un catálogo de enfermedades profesionales propias del sector del mar (mejilloneros, mariscadoras/es, percebeiros y buceadores de recursos específicos), garantizar el voto de los tripulantes embarcados en altura y gran altura, y promover convenios colectivos con condiciones laborales dignas en altura, gran altura y litoral.",
+      "arguments_for": "La Ley 5/2023 (BOE-A-2023-7052) incorporó mandatos específicos como la Disposición adicional séptima, que dio tres meses al Gobierno para proponer un procedimiento telemático o electrónico de voto para tripulantes embarcados en altura y gran altura, además de impulsar el reconocimiento de patologías profesionales y coeficientes reductores en oficios penosos del mar.",
+      "arguments_against": "El despliegue del voto telemático o electrónico para tripulantes embarcados ha encontrado dificultades técnicas y jurídicas en su regulación electoral (sin haberse culminado en el plazo legal de tres meses), mientras que la ampliación de enfermedades profesionales y mejoras salariales en convenios implica mayores costes de cotización y de explotación para armadores y mutuas.",
+      "sources_for": [
+        {
+          "title": "Ley 5/2023, de 17 de marzo, de pesca sostenible e investigación pesquera (BOE-A-2023-7052)",
+          "publisher": "Boletín Oficial del Estado",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-7052",
+          "date": "2023-03-18"
+        },
+        {
+          "title": "La Ley de Pesca Sostenible incluye mejoras sociales para los trabajadores del mar",
+          "publisher": "Revista de la Seguridad Social",
+          "url": "https://revista.seg-social.es/-/ley-pesca-sostenible"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Iniciativa parlamentaria sobre el incumplimiento del mandato de la Ley 5/2023 relativo al voto de tripulantes embarcados",
+          "publisher": "Congreso de los Diputados",
+          "url": "https://www.congreso.es/entradap/l15p/e2/e_0026167_n_000.pdf"
+        },
+        {
+          "title": "La Ley de Pesca Sostenible promoverá el catálogo de enfermedades profesionales del mar y garantizará el voto de los marineros",
+          "publisher": "La Voz de Galicia",
+          "url": "https://www.lavozdegalicia.es/noticia/somosmar/pesca-marisqueo/2022/12/19/ley-pesca-sostenible-promovera-catalogo-enfermedades-profesionales-mar-garantizara-voto-marineros/00031671476633121852991.htm",
+          "date": "2022-12-19"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial fiel a N1 (p. 50; título truncado en «sobre»). Explicación original inexacta (mencionaba rederas y cese por temporales y omitía el voto de tripulantes y los convenios colectivos); corregida y contrastada con BOE y Congreso."
+    },
+    "bng-253": {
+      "status": "corregida",
+      "summary": "Propone transferir los espacios portuarios de titularidad estatal en desuso para destinarlos a usos dotacionales ciudadanos, optimizando y reorganizando los recintos portuarios para devolver a la ciudadanía el esfuerzo social de su creación.",
+      "arguments_for": "Tanto en dársenas autonómicas mediante declaraciones de innecesariedad como en frentes urbanos portuarios como el de A Coruña, liberar muelles que ya no tienen actividad logística permite recuperar suelo público para zonas verdes, equipamientos y cohesión urbana.",
+      "arguments_against": "Puertos del Estado y las autoridades portuarias suelen rechazar la cesión gratuita de muelles urbanos cuando arrastran deuda por grandes obras portuarias (como Punta Langosteira en A Coruña) y requieren ingresos patrimoniales o convenios de cofinanciación para preservar su equilibrio financiero.",
+      "sources_for": [
+        {
+          "title": "El Consello Reitor de Portos de Galicia aprueba la declaración de innecesariedad de terrenos portuarios en desuso",
+          "publisher": "Xunta de Galicia",
+          "url": "https://www.xunta.gal/es/notas-de-prensa/-/nova/029804/consello-reitor-portos-galicia-aprueba-declaracion-innecesariedad-terrenos-portuarios"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "El acuerdo de 2004 para construir los muelles sigue vigente y condiciona la cesión de terrenos portuarios",
+          "publisher": "La Voz de Galicia",
+          "url": "https://www.lavozdegalicia.es/noticia/coruna/coruna/2021/04/15/acuerdo-2004-construir-muelles-vigente/0003_202104H15C1991.htm",
+          "date": "2021-04-15"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles a N1 (p. 50). El análisis IA original correspondía a otra medida (eólica marina flotante); reescrito por completo sobre la transferencia de espacios portuarios en desuso."
+    },
+    "bng-254": {
+      "status": "corregida",
+      "summary": "Propone transferir a Galicia los inmuebles del Instituto Social de la Marina (ISM) y recuperar las casas do mar que han ido desapareciendo, destacando su valor como servicio esencial de duchas y descanso para la gente del mar fuera de su domicilio.",
+      "arguments_for": "Sindicatos marítimos y cofradías denuncian el cierre o deterioro de hospederías y Casas del Mar tras los traspasos parciales de los años noventa, lo que priva a tripulantes desplazados y marineros de servicios básicos de alojamiento y aseo próximos a los puertos.",
+      "arguments_against": "La titularidad patrimonial de numerosos edificios recae en la Tesorería General de la Seguridad Social y varios inmuebles han quedado infrautilizados o con elevados costes de rehabilitación por el descenso de demanda tras la reorganización asistencial, lo que exige desafectaciones y financiación autonómica o municipal para sostenerlos.",
+      "sources_for": [
+        {
+          "title": "Hospederías para los trabajadores del mar: reivindicación frente al cierre de Casas del Mar",
+          "publisher": "FeSMC-UGT",
+          "url": "https://www.fesmcugt.org/sectores/maritimo-portuario/noticias/actualidad/hospederias-trabajadores-del-mar"
+        },
+        {
+          "title": "Situación y cambio de uso de la Casa do Mar de Pontevedra",
+          "publisher": "La Voz de Galicia",
+          "url": "https://www.lavozdegalicia.es/noticia/pontevedra/pontevedra/2023/10/31/casa-do-mar/00031698754262550909701.htm",
+          "date": "2023-10-31"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Real Decreto 212/1996, de 9 de febrero, sobre traspaso de funciones y servicios del ISM a Galicia en asistencia sanitaria",
+          "publisher": "Boletín Oficial del Estado",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1996-5284",
+          "date": "1996"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles a N1 (pp. 50-51, fragmentado solo por salto de página). El análisis IA original correspondía a otra medida (cese por temporales); reescrito por completo."
+    },
+    "bng-255": {
+      "status": "corregida",
+      "summary": "Exige excluir la pesca artesanal del ámbito de aplicación del Reglamento (UE) del Control de la Pesca.",
+      "arguments_for": "Cofradías y asociaciones de bajura advierten de que el Reglamento (UE) 2023/2842 extiende la geolocalización y el diario electrónico de capturas a buques menores de 12 metros, generando cargas administrativas y costes tecnológicos desproporcionados para embarcaciones familiares con mareas diarias.",
+      "arguments_against": "La Unión Europea aprobó el Reglamento (UE) 2023/2842 precisamente para eliminar vacíos de trazabilidad, combatir la pesca ilegal y homogeneizar el control de capturas en toda la flota, previendo aplicaciones simplificadas y plazos transitorios hasta 2028-2029 para la flota de menor eslora.",
+      "sources_for": [
+        {
+          "title": "Circular sobre la modificación del Reglamento de Control de la Pesca y su impacto en la flota artesanal",
+          "publisher": "Cofradía de Pescadores de Celeiro",
+          "url": "http://www.cofradiaceleiro.com/noticias/847/CIR%202%20-%20MOIFICACI%C3%93N%20REGLAMENTO%20CONTROL%20.pdf"
+        },
+        {
+          "title": "Guía del Reglamento (UE) 2023/2842 y el cuaderno de pesca electrónico para la flota menor de 12 metros",
+          "publisher": "Pescalog",
+          "url": "https://pescalog.app/en/blog/cuaderno-pesca-electronico-guia-reglamento-ue-2023-2842"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Reglamento (UE) 2023/2842 del Parlamento Europeo y del Consejo por el que se modifica el sistema de control de la pesca",
+          "publisher": "Diario Oficial de la Unión Europea (BOE)",
+          "url": "https://www.boe.es/doue/2023/2842/L00001-00105.pdf",
+          "date": "2023"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles a N1 (p. 51). El análisis IA original correspondía a otra medida (acuicultura); reescrito por completo sobre el Reglamento europeo de Control de la Pesca."
+    },
+    "bng-256": {
+      "status": "corregida",
+      "summary": "Propone impulsar un sistema fiscal más sencillo, transparente y adaptado a la capacidad económica real de las personas trabajadoras autónomas.",
+      "arguments_for": "Las obligaciones trimestrales de IVA e IRPF imponen una elevada carga burocrática a los microautónomos, mientras España ha declinado aplicar la franquicia nacional del IVA de la Directiva (UE) 2020/285 (hasta 85.000 euros de facturación) ya adoptada en otros países europeos.",
+      "arguments_against": "Estudios fiscales del Instituto de Estudios Fiscales y expertos tributarios señalan que los regímenes simplificados desligados de la facturación real, como la estimación objetiva (módulos) en el IRPF, reducen la transparencia, debilitan la progresividad según la capacidad económica real y pueden facilitar el fraude fiscal.",
+      "sources_for": [
+        {
+          "title": "El IVA franquiciado para autónomos y la Directiva (UE) 2020/285",
+          "publisher": "YouAsesoría",
+          "url": "https://www.youasesoria.com/iva-franquiciado-autonomos/"
+        },
+        {
+          "title": "España renuncia al régimen de franquicia de IVA para autónomos y pymes en operaciones interiores",
+          "publisher": "Supercontable",
+          "url": "https://www.supercontable.com/boletin/G/articulos/adios_defintivo_franquicia_iva_espana_autonomos_pymes_otros_estados_miembros.html"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Estimación objetiva (módulos), tributación y fraude fiscal en España",
+          "publisher": "Instituto de Estudios Fiscales — Crónica Tributaria",
+          "url": "https://www.ief.es/docs/destacados/publicaciones/revistas/ct/172_04.pdf"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles a N1 (p. 51). El análisis IA original confundía la reforma fiscal con el Estatuto del Trabajo Autónomo y las cuotas al RETA; reescrito sobre simplificación y capacidad económica fiscal."
+    }
+  }
+}

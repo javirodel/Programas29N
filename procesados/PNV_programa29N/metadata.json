@@ -1,0 +1,14 @@
+{
+  "archivo_original": "programa-electoral-29n.pdf",
+  "nombre": "PNV_programa29N",
+  "sha256": "5AF7A5B6F67C26BAD87EF6C3CA01AE38AA1F1D7D9029EFB32FC52482DE0C1314",
+  "fecha_procesamiento": "2026-11-11T14:51:46.1722836+01:00",
+  "herramienta": "Docling",
+  "formatos": [
+    "md",
+    "json",
+    "txt"
+  ],
+  "codigo_salida": 0,
+  "archivo_estandar": "PNV_programa29N.pdf"
+}

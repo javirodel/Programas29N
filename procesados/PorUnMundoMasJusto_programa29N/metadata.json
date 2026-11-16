@@ -1,0 +1,14 @@
+{
+  "archivo_original": "Castellano.pdf",
+  "nombre": "PorUnMundoMasJusto_programa29N",
+  "sha256": "A3C7C807411D8565B310A9B566C6FA2CBE643E99C91F3F9F4E7D8712D949C613",
+  "fecha_procesamiento": "2026-11-11T14:48:22.4274537+01:00",
+  "herramienta": "Docling",
+  "formatos": [
+    "md",
+    "json",
+    "txt"
+  ],
+  "codigo_salida": 0,
+  "archivo_estandar": "PorUnMundoMasJusto_programa29N.pdf"
+}

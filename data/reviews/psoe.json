@@ -1,0 +1,3537 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "psoe",
+  "entries": {
+    "psoe-001": {
+      "official_number": "1",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-002": {
+      "official_number": "2",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-003": {
+      "official_number": "3",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-004": {
+      "official_number": "4",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-005": {
+      "official_number": "5",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-006": {
+      "official_number": "6",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-007": {
+      "official_number": "7",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-008": {
+      "official_number": "8",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-009": {
+      "official_number": "9",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-010": {
+      "official_number": "10",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-011": {
+      "official_number": "11",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-012": {
+      "official_number": "12",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-013": {
+      "official_number": "13",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-014": {
+      "official_number": "14",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-015": {
+      "official_number": "15",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-016": {
+      "official_number": "16",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-017": {
+      "official_number": "17",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-018": {
+      "official_number": "18",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-019": {
+      "official_number": "19",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-020": {
+      "official_number": "20",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-021": {
+      "official_number": "21",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-022": {
+      "official_number": "22",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-023": {
+      "official_number": "23",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-024": {
+      "official_number": "24",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-025": {
+      "official_number": "25",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-026": {
+      "official_number": "26",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-027": {
+      "official_number": "27",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-028": {
+      "official_number": "28",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-029": {
+      "official_number": "29",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-030": {
+      "official_number": "30",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-031": {
+      "official_number": "31",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-032": {
+      "official_number": "32",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-033": {
+      "official_number": "33",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-034": {
+      "official_number": "34",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-035": {
+      "official_number": "35",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-036": {
+      "official_number": "36",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-037": {
+      "official_number": "37",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-038": {
+      "official_number": "38",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-039": {
+      "official_number": "39",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-040": {
+      "official_number": "40",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-041": {
+      "official_number": "41",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-042": {
+      "official_number": "42",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-043": {
+      "official_number": "43",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-044": {
+      "official_number": "44",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-045": {
+      "official_number": "45",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-046": {
+      "official_number": "46",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-047": {
+      "official_number": "47",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-048": {
+      "official_number": "48",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-049": {
+      "official_number": "49",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-050": {
+      "official_number": "50",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-051": {
+      "official_number": "51",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-052": {
+      "official_number": "52",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-053": {
+      "official_number": "53",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-054": {
+      "official_number": "54",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-055": {
+      "official_number": "55",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-056": {
+      "official_number": "56",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-057": {
+      "official_number": "57",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-058": {
+      "official_number": "58",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-059": {
+      "official_number": "59",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-060": {
+      "official_number": "60",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-061": {
+      "official_number": "61",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-062": {
+      "official_number": "62",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-063": {
+      "official_number": "63",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-064": {
+      "official_number": "64",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-065": {
+      "official_number": "65",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-066": {
+      "official_number": "66",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-067": {
+      "official_number": "67",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-068": {
+      "official_number": "68",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-069": {
+      "official_number": "69",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-070": {
+      "official_number": "70",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-071": {
+      "official_number": "71",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-072": {
+      "official_number": "72",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-073": {
+      "official_number": "73",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-074": {
+      "official_number": "74",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-075": {
+      "official_number": "75",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-076": {
+      "official_number": "76",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-077": {
+      "official_number": "77",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-078": {
+      "official_number": "78",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-079": {
+      "official_number": "79",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-080": {
+      "official_number": "80",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-081": {
+      "official_number": "81",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-082": {
+      "official_number": "82",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-083": {
+      "official_number": "83",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-084": {
+      "official_number": "84",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-085": {
+      "official_number": "85",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-086": {
+      "official_number": "86",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-087": {
+      "official_number": "87",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-088": {
+      "official_number": "88",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-089": {
+      "official_number": "89",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-090": {
+      "official_number": "90",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-091": {
+      "official_number": "91",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-092": {
+      "official_number": "92",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-093": {
+      "official_number": "93",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-094": {
+      "official_number": "94",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-095": {
+      "official_number": "95",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-096": {
+      "official_number": "96",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-097": {
+      "official_number": "97",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-098": {
+      "official_number": "98",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-099": {
+      "official_number": "99",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-100": {
+      "official_number": "100",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-101": {
+      "official_number": "101",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-102": {
+      "official_number": "102",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-103": {
+      "official_number": "103",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-104": {
+      "official_number": "104",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-105": {
+      "official_number": "105",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-106": {
+      "official_number": "106",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-107": {
+      "official_number": "107",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-108": {
+      "official_number": "108",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-109": {
+      "official_number": "109",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-110": {
+      "official_number": "110",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-111": {
+      "official_number": "111",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-112": {
+      "official_number": "112",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-113": {
+      "official_number": "113",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-114": {
+      "official_number": "114",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-115": {
+      "official_number": "115",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-116": {
+      "official_number": "116",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-117": {
+      "official_number": "117",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-118": {
+      "official_number": "118",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-119": {
+      "official_number": "119",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-120": {
+      "official_number": "120",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-121": {
+      "official_number": "121",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-122": {
+      "official_number": "122",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-123": {
+      "official_number": "123",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-124": {
+      "official_number": "124",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-125": {
+      "official_number": "125",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-126": {
+      "official_number": "126",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-127": {
+      "official_number": "127",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-128": {
+      "official_number": "128",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-129": {
+      "official_number": "129",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-130": {
+      "official_number": "130",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-131": {
+      "official_number": "131",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-132": {
+      "official_number": "132",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-133": {
+      "official_number": "133",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-134": {
+      "official_number": "134",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-135": {
+      "official_number": "135",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-136": {
+      "official_number": "136",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-137": {
+      "official_number": "137",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-138": {
+      "official_number": "138",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-139": {
+      "official_number": "139",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-140": {
+      "official_number": "140",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-141": {
+      "official_number": "141",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-142": {
+      "official_number": "142",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-143": {
+      "official_number": "143",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-144": {
+      "official_number": "144",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-145": {
+      "official_number": "145",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-146": {
+      "official_number": "146",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-147": {
+      "official_number": "147",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-148": {
+      "official_number": "148",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-149": {
+      "official_number": "149",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-150": {
+      "official_number": "150",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-151": {
+      "official_number": "151",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-152": {
+      "official_number": "152",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-153": {
+      "official_number": "153",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-154": {
+      "official_number": "154",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-155": {
+      "official_number": "155",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-156": {
+      "official_number": "156",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-157": {
+      "official_number": "157",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-158": {
+      "official_number": "158",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-159": {
+      "official_number": "159",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-160": {
+      "official_number": "160",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-161": {
+      "official_number": "161",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-162": {
+      "official_number": "162",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-163": {
+      "official_number": "163",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-164": {
+      "official_number": "164",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-165": {
+      "official_number": "165",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-166": {
+      "official_number": "166",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-167": {
+      "official_number": "167",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-168": {
+      "official_number": "168",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-169": {
+      "official_number": "169",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-170": {
+      "official_number": "170",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-171": {
+      "official_number": "171",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-172": {
+      "official_number": "172",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-173": {
+      "official_number": "173",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-174": {
+      "official_number": "174",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-175": {
+      "official_number": "175",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-176": {
+      "official_number": "176",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-177": {
+      "official_number": "177",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-178": {
+      "official_number": "178",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-179": {
+      "official_number": "179",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-180": {
+      "official_number": "180",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-181": {
+      "official_number": "181",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-182": {
+      "official_number": "182",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-183": {
+      "official_number": "183",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-184": {
+      "official_number": "184",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-185": {
+      "official_number": "185",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-186": {
+      "official_number": "186",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-187": {
+      "official_number": "187",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-188": {
+      "official_number": "188",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-189": {
+      "official_number": "189",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-190": {
+      "official_number": "190",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-191": {
+      "official_number": "191",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-192": {
+      "official_number": "192",
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            56,
+            57
+          ],
+          "snippet": "Prestación estatal por crianza para todos los hogares con menores de edad, con un diseño fiscal redistributivo y una protección adicional para los hogares de renta baja integrada en el CAPI ya existente: un nuevo derecho para los 8 millones de niñas, niños y adolescentes de nuestro país. Será una prestación progresiva para apoyar la crianza y proteger de forma más eficaz a los hogares de menor renta. Su implementación contará con financiará procedente de la nueva tributación de los grandes patrimonios y rentas del capital.",
+          "docling_refs": [
+            "#/texts/620"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 56; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "psoe-193": {
+      "official_number": "193",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-194": {
+      "official_number": "194",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-195": {
+      "official_number": "195",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-196": {
+      "official_number": "196",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-197": {
+      "official_number": "197",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-198": {
+      "official_number": "198",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-199": {
+      "official_number": "199",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-200": {
+      "official_number": "200",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-201": {
+      "official_number": "201",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-202": {
+      "official_number": "202",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-203": {
+      "official_number": "203",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-204": {
+      "official_number": "204",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-205": {
+      "official_number": "205",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-206": {
+      "official_number": "206",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-207": {
+      "official_number": "207",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-208": {
+      "official_number": "208",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-209": {
+      "official_number": "209",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-210": {
+      "official_number": "210",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-211": {
+      "official_number": "211",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-212": {
+      "official_number": "212",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-213": {
+      "official_number": "213",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-214": {
+      "official_number": "214",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-215": {
+      "official_number": "215",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-216": {
+      "official_number": "216",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-217": {
+      "official_number": "217",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-218": {
+      "official_number": "218",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-219": {
+      "official_number": "219",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-220": {
+      "official_number": "220",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-221": {
+      "official_number": "221",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-222": {
+      "official_number": "222",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-223": {
+      "official_number": "223",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-224": {
+      "official_number": "224",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-225": {
+      "official_number": "225",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-226": {
+      "official_number": "226",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-227": {
+      "official_number": "227",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-228": {
+      "official_number": "228",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-229": {
+      "official_number": "229",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-230": {
+      "official_number": "230",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-231": {
+      "official_number": "231",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-232": {
+      "official_number": "232",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-233": {
+      "official_number": "233",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-234": {
+      "official_number": "234",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-235": {
+      "official_number": "235",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-236": {
+      "official_number": "236",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-237": {
+      "official_number": "237",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-238": {
+      "official_number": "238",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-239": {
+      "official_number": "239",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-240": {
+      "official_number": "240",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-241": {
+      "official_number": "241",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-242": {
+      "official_number": "242",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-243": {
+      "official_number": "243",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-244": {
+      "official_number": "244",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-245": {
+      "official_number": "245",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-246": {
+      "official_number": "246",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-247": {
+      "official_number": "247",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-248": {
+      "official_number": "248",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-249": {
+      "official_number": "249",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-250": {
+      "official_number": "250",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-251": {
+      "official_number": "251",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-252": {
+      "official_number": "252",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-253": {
+      "official_number": "253",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-254": {
+      "official_number": "254",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-255": {
+      "official_number": "255",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-256": {
+      "official_number": "256",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-257": {
+      "official_number": "257",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-258": {
+      "official_number": "258",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-259": {
+      "official_number": "259",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-260": {
+      "official_number": "260",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-261": {
+      "official_number": "261",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-262": {
+      "official_number": "262",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-263": {
+      "official_number": "263",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-264": {
+      "official_number": "264",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-265": {
+      "official_number": "265",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-266": {
+      "official_number": "266",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-267": {
+      "official_number": "267",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-268": {
+      "official_number": "268",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-269": {
+      "official_number": "269",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-270": {
+      "official_number": "270",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-271": {
+      "official_number": "271",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-272": {
+      "official_number": "272",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-273": {
+      "official_number": "273",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-274": {
+      "official_number": "274",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-275": {
+      "official_number": "275",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-276": {
+      "official_number": "276",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-277": {
+      "official_number": "277",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-278": {
+      "official_number": "278",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-279": {
+      "official_number": "279",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-280": {
+      "official_number": "280",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-281": {
+      "official_number": "281",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-282": {
+      "official_number": "282",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-283": {
+      "official_number": "283",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-284": {
+      "official_number": "284",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-285": {
+      "official_number": "285",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-286": {
+      "official_number": "286",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-287": {
+      "official_number": "287",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-288": {
+      "official_number": "288",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-289": {
+      "official_number": "289",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-290": {
+      "official_number": "290",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-291": {
+      "official_number": "291",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-292": {
+      "official_number": "292",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-293": {
+      "official_number": "293",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-294": {
+      "official_number": "294",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-295": {
+      "official_number": "295",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-296": {
+      "official_number": "296",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-297": {
+      "official_number": "297",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-298": {
+      "official_number": "298",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-299": {
+      "official_number": "299",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-300": {
+      "official_number": "300",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-301": {
+      "official_number": "301",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-302": {
+      "official_number": "302",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-303": {
+      "official_number": "303",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-304": {
+      "official_number": "304",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-305": {
+      "official_number": "305",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-306": {
+      "official_number": "306",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-307": {
+      "official_number": "307",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-308": {
+      "official_number": "308",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-309": {
+      "official_number": "309",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-310": {
+      "official_number": "310",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-311": {
+      "official_number": "311",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-312": {
+      "official_number": "312",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-313": {
+      "official_number": "313",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-314": {
+      "official_number": "314",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-315": {
+      "official_number": "315",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-316": {
+      "official_number": "316",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-317": {
+      "official_number": "317",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-318": {
+      "official_number": "318",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-319": {
+      "official_number": "319",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-320": {
+      "official_number": "320",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-321": {
+      "official_number": "321",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-322": {
+      "official_number": "322",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-323": {
+      "official_number": "323",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-324": {
+      "official_number": "324",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-325": {
+      "official_number": "325",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-326": {
+      "official_number": "326",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-327": {
+      "official_number": "327",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-328": {
+      "official_number": "328",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-329": {
+      "official_number": "329",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-330": {
+      "official_number": "330",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-331": {
+      "official_number": "331",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-332": {
+      "official_number": "332",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-333": {
+      "official_number": "333",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-334": {
+      "official_number": "334",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-335": {
+      "official_number": "335",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-336": {
+      "official_number": "336",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-337": {
+      "official_number": "337",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-338": {
+      "official_number": "338",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-339": {
+      "official_number": "339",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-340": {
+      "official_number": "340",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-341": {
+      "official_number": "341",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-342": {
+      "official_number": "342",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-343": {
+      "official_number": "343",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-344": {
+      "official_number": "344",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-345": {
+      "official_number": "345",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-346": {
+      "official_number": "346",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-347": {
+      "official_number": "347",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-348": {
+      "official_number": "348",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-349": {
+      "official_number": "349",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-350": {
+      "official_number": "350",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-351": {
+      "official_number": "351",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-352": {
+      "official_number": "352",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-353": {
+      "official_number": "353",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-354": {
+      "official_number": "354",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-355": {
+      "official_number": "355",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-356": {
+      "official_number": "356",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-357": {
+      "official_number": "357",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-358": {
+      "official_number": "358",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-359": {
+      "official_number": "359",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-360": {
+      "official_number": "360",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-361": {
+      "official_number": "361",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-362": {
+      "official_number": "362",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-363": {
+      "official_number": "363",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-364": {
+      "official_number": "364",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-365": {
+      "official_number": "365",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-366": {
+      "official_number": "366",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-367": {
+      "official_number": "367",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-368": {
+      "official_number": "368",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-369": {
+      "official_number": "369",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-370": {
+      "official_number": "370",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-371": {
+      "official_number": "371",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-372": {
+      "official_number": "372",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-373": {
+      "official_number": "373",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-374": {
+      "official_number": "374",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-375": {
+      "official_number": "375",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-376": {
+      "official_number": "376",
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            90,
+            91
+          ],
+          "snippet": "Regular por ley el Consejo de la Juventud de España y establecer un marco jurídico para los consejos de juventud autonómicos y locales que garantice su personalidad jurídica, independencia, autonomía, autogestión, pluralidad y financiación estable, reconociéndolos como interlocutores institucionales de la juventud y vinculando a este sistema de participación la figura del Defensor de las Generaciones Futuras.",
+          "docling_refs": [
+            "#/texts/1056",
+            "#/texts/1061"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 90; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "psoe-377": {
+      "official_number": "377",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-378": {
+      "official_number": "378",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-379": {
+      "official_number": "379",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-380": {
+      "official_number": "380",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-381": {
+      "official_number": "381",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-382": {
+      "official_number": "382",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-383": {
+      "official_number": "383",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-384": {
+      "official_number": "384",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-385": {
+      "official_number": "385",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-386": {
+      "official_number": "386",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-387": {
+      "official_number": "387",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-388": {
+      "official_number": "388",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-389": {
+      "official_number": "389",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-390": {
+      "official_number": "390",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-391": {
+      "official_number": "391",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-392": {
+      "official_number": "392",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-393": {
+      "official_number": "393",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-394": {
+      "official_number": "394",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-395": {
+      "official_number": "395",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-396": {
+      "official_number": "396",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-397": {
+      "official_number": "397",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-398": {
+      "official_number": "398",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-399": {
+      "official_number": "399",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-400": {
+      "official_number": "400",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-401": {
+      "official_number": "401",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-402": {
+      "official_number": "402",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-403": {
+      "official_number": "403",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-404": {
+      "official_number": "404",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-405": {
+      "official_number": "405",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-406": {
+      "official_number": "406",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-407": {
+      "official_number": "407",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-408": {
+      "official_number": "408",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-409": {
+      "official_number": "409",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-410": {
+      "official_number": "410",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-411": {
+      "official_number": "411",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-412": {
+      "official_number": "412",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-413": {
+      "official_number": "413",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-414": {
+      "official_number": "414",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-415": {
+      "official_number": "415",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-416": {
+      "official_number": "416",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-417": {
+      "official_number": "417",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-418": {
+      "official_number": "418",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-419": {
+      "official_number": "419",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-420": {
+      "official_number": "420",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-421": {
+      "official_number": "421",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-422": {
+      "official_number": "422",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-423": {
+      "official_number": "423",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-424": {
+      "official_number": "424",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-425": {
+      "official_number": "425",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-426": {
+      "official_number": "426",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-427": {
+      "official_number": "427",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-428": {
+      "official_number": "428",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-429": {
+      "official_number": "429",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-430": {
+      "official_number": "430",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-431": {
+      "official_number": "431",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-432": {
+      "official_number": "432",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-433": {
+      "official_number": "433",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-434": {
+      "official_number": "434",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-435": {
+      "official_number": "435",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-436": {
+      "official_number": "436",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-437": {
+      "official_number": "437",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-438": {
+      "official_number": "438",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-439": {
+      "official_number": "439",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-440": {
+      "official_number": "440",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-441": {
+      "official_number": "441",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-442": {
+      "official_number": "442",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-443": {
+      "official_number": "443",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-444": {
+      "official_number": "444",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-445": {
+      "official_number": "445",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-446": {
+      "official_number": "446",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-447": {
+      "official_number": "447",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-448": {
+      "official_number": "448",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-449": {
+      "official_number": "449",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-450": {
+      "official_number": "450",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-451": {
+      "official_number": "451",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-452": {
+      "official_number": "452",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-453": {
+      "official_number": "453",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-454": {
+      "official_number": "454",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-455": {
+      "official_number": "455",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-456": {
+      "official_number": "456",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-457": {
+      "official_number": "457",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-458": {
+      "official_number": "458",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-459": {
+      "official_number": "459",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-460": {
+      "official_number": "460",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-461": {
+      "official_number": "461",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-462": {
+      "official_number": "462",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-463": {
+      "official_number": "463",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-464": {
+      "official_number": "464",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-465": {
+      "official_number": "465",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-466": {
+      "official_number": "466",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-467": {
+      "official_number": "467",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-468": {
+      "official_number": "468",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-469": {
+      "official_number": "469",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-470": {
+      "official_number": "470",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-471": {
+      "official_number": "471",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-472": {
+      "official_number": "472",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-473": {
+      "official_number": "473",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-474": {
+      "official_number": "474",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-475": {
+      "official_number": "475",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-476": {
+      "official_number": "476",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-477": {
+      "official_number": "477",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-478": {
+      "official_number": "478",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-479": {
+      "official_number": "479",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-480": {
+      "official_number": "480",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-481": {
+      "official_number": "481",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-482": {
+      "official_number": "482",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-483": {
+      "official_number": "483",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-484": {
+      "official_number": "484",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-485": {
+      "official_number": "485",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-486": {
+      "official_number": "486",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-487": {
+      "official_number": "487",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-488": {
+      "official_number": "488",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-489": {
+      "official_number": "489",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-490": {
+      "official_number": "490",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-491": {
+      "official_number": "491",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-492": {
+      "official_number": "492",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-493": {
+      "official_number": "493",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-494": {
+      "official_number": "494",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-495": {
+      "official_number": "495",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-496": {
+      "official_number": "496",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "psoe-497": {
+      "official_number": "497",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-498": {
+      "official_number": "498",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-499": {
+      "official_number": "499",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    },
+    "psoe-500": {
+      "official_number": "500",
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Numeración y redacción verificadas frente al compromiso numerado del PDF oficial."
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "coalicion-canaria",
+  "entries": {
+    "coalicion-canaria-001": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/99, p. 8) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "coalicion-canaria-002": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/100, p. 8) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "coalicion-canaria-009": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/119, p. 9) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "coalicion-canaria-014": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/126, p. 9) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "coalicion-canaria-015": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/127, p. 9) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "coalicion-canaria-019": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/138, p. 10) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "coalicion-canaria-024": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/153, p. 11) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "coalicion-canaria-038": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/183, p. 13) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "coalicion-canaria-040": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/185, p. 13) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "coalicion-canaria-078": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/267, p. 18) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "coalicion-canaria-082": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/273, p. 18) para trazabilidad del banco de encuesta (T3.6)."
+    }
+  }
+}

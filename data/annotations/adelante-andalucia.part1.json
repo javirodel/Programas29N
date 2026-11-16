@@ -1,0 +1,286 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "adelante-andalucia",
+  "entries": {
+    "adelante-andalucia-001": {
+      "status": "corregida",
+      "arguments_for": "Según la Estadística de Gasto Sanitario Público del Ministerio de Sanidad (ejercicio 2024), el gasto sanitario público en España fue de 101.739 millones de euros, equivalente al 6,4 % del PIB y a 2.084 euros por habitante, con fuertes diferencias territoriales (de 2.332 euros en el País Vasco a 1.658 en Andalucía). Fijar un suelo legal del 8 % y equiparar el gasto per cápita a la media de la UE persigue cerrar esa brecha financiera y blindar la inversión frente a ajustes presupuestarios.",
+      "arguments_against": "El 93,6 % del gasto sanitario público lo gestionan las comunidades autónomas al amparo de sus competencias estatutarias y de la Ley General de Sanidad (art. 148.1.21ª CE y Ley 14/1986), por lo que un suelo estatal rígido del 8 % del PIB —más de 1,5 puntos por encima del 6,4 % actual— condicionaría de forma permanente los Presupuestos Generales y autonómicos dentro de las reglas fiscales de la Unión Europea.",
+      "sources_for": [
+        {
+          "title": "El gasto sanitario público alcanzó los 101.739 millones de euros en 2024, un 6,4% del PIB",
+          "publisher": "Ministerio de Sanidad",
+          "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6908",
+          "date": "2026-05-13"
+        },
+        {
+          "title": "Gasto sanitario público: millones de euros, porcentaje sobre el PIB y euros por habitante según los países de la UE-27",
+          "publisher": "Ministerio de Sanidad (Portal Estadístico del SNS)",
+          "url": "https://www.sanidad.gob.es/estadEstudios/sanidadDatos/tablas/tabla30_1.htm"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Distribución de competencias en materia sanitaria (CE y Ley 14/1986 General de Sanidad)",
+          "publisher": "Ministerio de Sanidad",
+          "url": "https://www.sanidad.gob.es/organizacion/sns/docs/proteccion08.pdf"
+        },
+        {
+          "title": "Fiscal surveillance for Spain",
+          "publisher": "Comisión Europea (DG ECFIN)",
+          "url": "https://economy-finance.ec.europa.eu/economic-surveillance-eu-member-states/country-pages-including-country-reports/spain/fiscal-surveillance-spain_en"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y explicación fieles al PDF (p. 36). Eliminadas afirmaciones ajenas de plantilla sobre cartera bucodental/óptica/farmacia en datos_a_favor y reformulados ambos argumentos con datos oficiales de gasto (6,4 % PIB, 2024), reparto competencial y marco fiscal europeo."
+    },
+    "adelante-andalucia-002": {
+      "status": "corregida",
+      "arguments_for": "La Ley 15/1997 habilitó las formas de gestión indirecta y conciertos con entidades privadas en el Sistema Nacional de Salud. Quienes defienden su derogación —en la línea del Proyecto de Ley de Gestión Pública e Integridad del SNS— sostienen que priorizar la gestión directa evita el desvío de recursos públicos hacia márgenes empresariales y refuerza la rendición de cuentas del sistema público.",
+      "arguments_against": "La reversión de servicios ya externalizados o concertados exige asumir directamente plantillas, infraestructuras y costes de personal estatutario por parte de los servicios autonómicos de salud, que gestionan el 93,6 % del gasto público sanitario; además, puede elevar temporalmente las demoras asistenciales si no se dimensiona antes la capacidad propia del SNS.",
+      "sources_for": [
+        {
+          "title": "Ley 15/1997, de 25 de abril, sobre habilitación de nuevas formas de gestión del Sistema Nacional de Salud",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1997-9021",
+          "date": "1997-04-26"
+        },
+        {
+          "title": "Aprobado el Proyecto de Ley de Gestión Pública e Integridad del Sistema Nacional de Salud",
+          "publisher": "Ministerio de Sanidad",
+          "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6906",
+          "date": "2026-05-12"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "El gasto sanitario público alcanzó los 101.739 millones de euros en 2024, un 6,4% del PIB",
+          "publisher": "Ministerio de Sanidad",
+          "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6908",
+          "date": "2026-05-13"
+        },
+        {
+          "title": "Distribución de competencias en materia sanitaria (CE y Ley 14/1986 General de Sanidad)",
+          "publisher": "Ministerio de Sanidad",
+          "url": "https://www.sanidad.gob.es/organizacion/sns/docs/proteccion08.pdf"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y explicación fieles al PDF (p. 36; ya verificada en reviews). Eliminada la frase ajena sobre tributación OCDE en datos_a_favor y reformulados los argumentos en torno a la Ley 15/1997 y la capacidad de gestión autonómica."
+    },
+    "adelante-andalucia-003": {
+      "status": "corregida",
+      "arguments_for": "Internalizar limpieza, mantenimiento, gestión telefónica y transporte sanitario urgente permite someter estos servicios críticos al control directo de los hospitales públicos y homogenizar estándares laborales y de prevención de infecciones. Informes de fiscalización del Tribunal de Cuentas han advertido de debilidades de planificación y control en el gasto derivado a medios ajenos.",
+      "arguments_against": "La subrogación masiva de personal de contratas y la asunción de flotas y servicios técnicos incrementan de forma permanente el capítulo de personal y gastos corrientes de las comunidades autónomas, al tiempo que reducen la flexibilidad para cubrir picos estacionales o servicios especializados mediante contratación pública regulada.",
+      "sources_for": [
+        {
+          "title": "Resolución sobre el Informe de fiscalización de los gastos derivados de la actividad asistencial prestada por medios ajenos",
+          "publisher": "Boletín Oficial del Estado (Cortes Generales / Tribunal de Cuentas)",
+          "url": "https://www.boe.es/boe/dias/2025/03/31/pdfs/BOE-A-2025-6462.pdf",
+          "date": "2025-03-31"
+        },
+        {
+          "title": "Aprobado el Proyecto de Ley de Gestión Pública e Integridad del Sistema Nacional de Salud",
+          "publisher": "Ministerio de Sanidad",
+          "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6906",
+          "date": "2026-05-12"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "El gasto sanitario público alcanzó los 101.739 millones de euros en 2024, un 6,4% del PIB",
+          "publisher": "Ministerio de Sanidad",
+          "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6908",
+          "date": "2026-05-13"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y explicación fieles al PDF (p. 36; ya verificada en reviews). Eliminadas las frases ajenas sobre renta básica y fronteras de plantilla."
+    },
+    "adelante-andalucia-004": {
+      "status": "corregida",
+      "arguments_for": "El estudio de la AIReF sobre mutualismo administrativo (MUFACE, ISFAS y MUGEJU) constató que el gasto per cápita creció más en las mutualidades que en el SNS entre 2010 y 2022 (53 % frente a 40 %), que existen duplicidades operativas y que más del 66 % de las hospitalizaciones de severidad alta de mutualistas de opción privada acaban atendiéndose en centros públicos, proponiendo integrar a los nuevos funcionarios en el SNS.",
+      "arguments_against": "Según estimaciones citadas en el debate sobre el informe de la AIReF y organizaciones del sector sanitario privado como la Fundación IDIS, absorber en el SNS a alrededor de 1,6 millones de mutualistas con opción privada sin un refuerzo proporcional previo de recursos incrementaría en torno a un 7 % las listas de espera quirúrgicas y hasta un 30 % las de consultas de especialista.",
+      "sources_for": [
+        {
+          "title": "La AIReF plantea integrar a los nuevos funcionarios al Sistema Nacional de Salud",
+          "publisher": "Valencia Plaza (sobre estudio Spending Review AIReF)",
+          "url": "https://valenciaplaza.com/valenciaplaza/nacional/airef-plantea-integrar-a-los-nuevos-funcionarios-al-sistema-nacional-de-salud"
+        },
+        {
+          "title": "Estudio de la AIReF sobre la asistencia sanitaria en el mutualismo administrativo",
+          "publisher": "MUFACE",
+          "url": "https://muface.es/actualidad/noticias/2024/septiembre-2024/encuesta-airef",
+          "date": "2024-09"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Comunicado oficial: Informe de la AIReF sobre el mutualismo administrativo",
+          "publisher": "Fundación IDIS",
+          "url": "https://www.fundacionidis.com/sala-prensa/comunicados/comunicado-oficial-informe-de-la-airef-sobre-el-mutualismo-administrativo"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y explicación fieles al PDF (p. 36). Eliminadas frases ajenas sobre bucodental/tributación OCDE y sustituidas por datos del estudio Spending Review de la AIReF sobre MUFACE/ISFAS/MUGEJU."
+    },
+    "adelante-andalucia-005": {
+      "status": "corregida",
+      "arguments_for": "Las auditorías sobre conciertos y externalizaciones permiten conocer el coste real por proceso y evaluar si la contratación externa resulta más eficiente que la producción propia. El Tribunal de Cuentas ha detectado en fiscalizaciones autonómicas deficiencias en la planificación, el control del gasto en medios ajenos y las prórrogas de conciertos.",
+      "arguments_against": "Realizar auditorías retrospectivas de tres legislaturas completas —alrededor de una década de contratos en diecisiete servicios autonómicos de salud— supone una carga administrativa considerable para los órganos de intervención y control y no resuelve por sí sola las listas de espera si no se acompaña de reformas de gestión.",
+      "sources_for": [
+        {
+          "title": "Resolución sobre el Informe de fiscalización de los gastos derivados de la actividad asistencial prestada por medios ajenos",
+          "publisher": "Boletín Oficial del Estado (Cortes Generales / Tribunal de Cuentas)",
+          "url": "https://www.boe.es/boe/dias/2025/03/31/pdfs/BOE-A-2025-6462.pdf",
+          "date": "2025-03-31"
+        },
+        {
+          "title": "El Consejo de Ministros aprueba el Anteproyecto de Ley de Gestión Pública e Integridad del Sistema Nacional de Salud",
+          "publisher": "Ministerio de Sanidad",
+          "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6850"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Distribución de competencias en materia sanitaria (CE y Ley 14/1986 General de Sanidad)",
+          "publisher": "Ministerio de Sanidad",
+          "url": "https://www.sanidad.gob.es/organizacion/sns/docs/proteccion08.pdf"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y explicación fieles al PDF (p. 36). Eliminadas frases ajenas de plantilla sobre tributación OCDE y competitividad empresarial."
+    },
+    "adelante-andalucia-006": {
+      "status": "corregida",
+      "arguments_for": "La Ley 53/1984 de Incompatibilidades prohíbe al personal sanitario con complemento de dedicación exclusiva ejercer en el sector privado y veta en todo caso atender en la privada a pacientes de su centro público. Reforzar la inspección y generalizar la exclusividad busca evitar conflictos de intereses y garantizar la plena dedicación de quienes tienen plaza fija a tiempo completo en el SNS.",
+      "arguments_against": "Exigir dedicación exclusiva obligatoria a todo el personal fijo —incluso mejorando retribuciones— puede reducir el atractivo de la sanidad pública para determinados especialistas y agravar el déficit de facultativos ya diagnosticado por el Ministerio de Sanidad (estimado en torno a 6.000 médicos especialistas en el conjunto del sistema).",
+      "sources_for": [
+        {
+          "title": "Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1985-151",
+          "date": "1985-01-04"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Sanidad propone diez recomendaciones para atraer y fidelizar profesionales y facilitar su retorno a Atención Primaria",
+          "publisher": "Ministerio de Sanidad",
+          "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6999",
+          "date": "2026-11-04"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y explicación fieles al PDF (p. 36). Eliminada la frase ajena sobre tributación OCDE y reformulados los argumentos con la Ley 53/1984 y el reto de retención de profesionales."
+    },
+    "adelante-andalucia-007": {
+      "status": "corregida",
+      "arguments_for": "Los sistemas actuales del Ministerio de Sanidad, como los Indicadores Clave del SNS (INCLASNS), ofrecen datos comparables principalmente a nivel autonómico. Ampliar la desagregación pública a escala provincial y municipal con criterios de gasto transparentes facilitaría detectar desigualdades territoriales y evaluar el rendimiento asistencial cercano al ciudadano.",
+      "arguments_against": "La elaboración y armonización de datos homogéneos por municipio requiere integrar diecisiete sistemas de información autonómicos heterogéneos y proteger el anonimato estadístico en municipios pequeños; además, la gestión y publicación detallada corresponde en gran parte a las comunidades autónomas competentes.",
+      "sources_for": [
+        {
+          "title": "Metodología de los Indicadores Clave del Sistema Nacional de Salud (INCLASNS)",
+          "publisher": "Ministerio de Sanidad",
+          "url": "https://inclasns.sanidad.gob.es/doc/Metodologia_INCLASNS_V2.pdf?v=2.3"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Distribución de competencias en materia sanitaria (CE y Ley 14/1986 General de Sanidad)",
+          "publisher": "Ministerio de Sanidad",
+          "url": "https://www.sanidad.gob.es/organizacion/sns/docs/proteccion08.pdf"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y explicación fieles al PDF (p. 36; el gap de 134 caracteres corresponde únicamente al epígrafe introductorio previo a la medida 8). Reformulados argumentos en torno a INCLASNS y desagregación territorial."
+    },
+    "adelante-andalucia-008": {
+      "status": "corregida",
+      "arguments_for": "Según el Barómetro Sanitario del CIS, solo en torno al 21 %-22 % de los pacientes que piden cita en atención primaria son atendidos en las primeras 48 horas, mientras que la espera media ronda los 10 días y más del 50 % de la población considera poco o nada aceptables las demoras. Fijar garantías legales de cita en 48 horas, 10 minutos por consulta y cupos de 1.500 pacientes ataca directamente esa saturación.",
+      "arguments_against": "Garantizar por ley cita en 48 horas, cupos máximos de 1.500 tarjetas y urgencias rurales 24 horas requiere un notable aumento de plantillas médicas y de enfermería en un contexto en el que el Ministerio de Sanidad ya identifica déficit de especialistas en Medicina Familiar y Comunitaria y dificultades para cubrir plazas rurales.",
+      "sources_for": [
+        {
+          "title": "Nota de prensa: Barómetro Sanitario (tercera oleada)",
+          "publisher": "Centro de Investigaciones Sociológicas (CIS) / Ministerio de Sanidad",
+          "url": "https://www.cis.es/documents/20117/13702113/NP_Bar%C3%B3metroSanitario+%28III%29.pdf/e27dcbff-d3eb-2961-00bb-4d6c2e18faf8?t=1765969229351"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Plan de Acción de Atención Primaria y Comunitaria 2025-2027",
+          "publisher": "Ministerio de Sanidad",
+          "url": "https://www.sanidad.gob.es/areas/calidadAsistencial/estrategias/atencionPrimaria/docs/Plan_de_Accion_de_Atencion_Primaria_y_Comunitaria_2025-2027.pdf"
+        },
+        {
+          "title": "Sanidad propone diez recomendaciones para atraer y fidelizar profesionales y facilitar su retorno a Atención Primaria",
+          "publisher": "Ministerio de Sanidad",
+          "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6999",
+          "date": "2026-11-04"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y explicación fieles al PDF (p. 36). Eliminada la frase ajena sobre acuerdos de fronteras y sustituidos los argumentos por datos del Barómetro Sanitario del CIS y del Plan de Atención Primaria."
+    },
+    "adelante-andalucia-009": {
+      "status": "corregida",
+      "arguments_for": "De acuerdo con la Estadística de Gasto Sanitario Público del Ministerio de Sanidad y el Plan de Acción de Atención Primaria, España destina en torno al 14 % de su gasto sanitario público a atención primaria, lejos del objetivo del 25 % defendido por la OMS y sociedades científicas para reforzar la prevención y descongestionar los hospitales.",
+      "arguments_against": "Dado que los servicios hospitalarios y especializados absorben más del 62 % del gasto sanitario público actual, elevar por ley la atención primaria al 25 % y salud pública al 2 % obliga bien a aumentar de forma sustancial el presupuesto sanitario total, bien a reasignar fondos desde el ámbito hospitalario en comunidades con márgenes fiscales ajustados.",
+      "sources_for": [
+        {
+          "title": "Plan de Acción de Atención Primaria y Comunitaria 2025-2027",
+          "publisher": "Ministerio de Sanidad",
+          "url": "https://www.sanidad.gob.es/areas/calidadAsistencial/estrategias/atencionPrimaria/docs/Plan_de_Accion_de_Atencion_Primaria_y_Comunitaria_2025-2027.pdf"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "El gasto sanitario público alcanzó los 101.739 millones de euros en 2024, un 6,4% del PIB",
+          "publisher": "Ministerio de Sanidad",
+          "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6908",
+          "date": "2026-05-13"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y explicación fieles al PDF (p. 36). Argumentos reformulados con los porcentajes reales de gasto en atención primaria (~14 %) y hospitalaria (>62 %)."
+    },
+    "adelante-andalucia-010": {
+      "status": "corregida",
+      "arguments_for": "Según los Indicadores Urbanos del INE, España cuenta con más de 400 municipios de más de 20.000 habitantes; implantar centros de especialidades en todos ellos acercaría las consultas ambulatorias a ciudades medias y comarcas periféricas, reduciendo desplazamientos a hospitales de referencia y mejorando la accesibilidad.",
+      "arguments_against": "Desplegar centros de especialidades en todos los municipios de más de 20.000 habitantes —independientemente de su cercanía a hospitales comarcales o áreas metropolitanas— fragmentaría recursos diagnósticos y agravaría la escasez de médicos especialistas ya documentada en el SNS, además de depender de la planificación sanitaria autonómica.",
+      "sources_for": [
+        {
+          "title": "Indicadores Urbanos 2025 (municipios mayores de 20.000 habitantes)",
+          "publisher": "Instituto Nacional de Estadística (INE)",
+          "url": "https://www.ine.es/dyngs/Prensa/UA2025.pdf",
+          "date": "2025"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Sanidad propone diez recomendaciones para atraer y fidelizar profesionales y facilitar su retorno a Atención Primaria",
+          "publisher": "Ministerio de Sanidad",
+          "url": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6999",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "Distribución de competencias en materia sanitaria (CE y Ley 14/1986 General de Sanidad)",
+          "publisher": "Ministerio de Sanidad",
+          "url": "https://www.sanidad.gob.es/organizacion/sns/docs/proteccion08.pdf"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y explicación fieles al PDF (p. 37). Argumentos reformulados con datos de municipios >20.000 hab. del INE y criterios de planificación de especialistas y competencias autonómicas."
+    }
+  }
+}

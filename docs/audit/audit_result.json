@@ -1,0 +1,3209 @@
+{
+ "partidos": [
+  {
+   "id": "AdelanteAndalucia_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 1916883,
+    "sha256": "fde1fe024f94a698e2110c0e25cc569b4d9f3f7272342bdb13dc0c1e7a2d7b43",
+    "paginas": 134
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 218591
+    },
+    "json": {
+     "existe": true,
+     "bytes": 2969195
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 214547
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 134,
+    "n_texts": 3094,
+    "n_tables": 14,
+    "n_pictures": 77,
+    "paginas_con_texto": 130,
+    "paginas_texto_escaso_lt200": [
+     2,
+     7,
+     33,
+     34,
+     70,
+     103,
+     112,
+     122
+    ],
+    "texts_con_prov": 3094,
+    "md_imagenes_embebidas_base64": 0,
+    "md_placeholders_image": 77,
+    "md_headings": 884,
+    "md_chars_texto_aprox": 209542,
+    "txt_chars": 205652,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "fde1fe024f94a698e2110c0e25cc569b4d9f3f7272342bdb13dc0c1e7a2d7b43",
+    "herramienta": "Docling (PyPdfiumBackend)",
+    "fecha": "2026-11-13T13:25:11+0100",
+    "archivo_original": "AdelanteAndalucia_programa29N.pdf",
+    "paginas_meta": 134,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "paginas",
+     "duracion_segundos",
+     "tamano_bytes"
+    ],
+    "sha_coincide": true,
+    "tamanos_coinciden": true
+   },
+   "detallado": {
+    "json": [
+     "AdelanteAndalucia_programa29N_719medidas_detallado.json"
+    ],
+    "md": [
+     "AdelanteAndalucia_programa29N_719medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Adelante Andalucía",
+    "siglas": "Adelante Andalucía",
+    "titulo_programa": "Programa Electoral Generales 29N · Un programa para frenar a las derechas",
+    "fecha_publicacion": "2026-11-10",
+    "url_programa_oficial": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf",
+    "web_oficial": "https://adelanteandalucia.org",
+    "total_medidas_declarado": 719,
+    "total_en_nombre_archivo": 719,
+    "total_real": 719,
+    "n_bloques": 19,
+    "n_otros_bloques": 0,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     719
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 37,
+     "bloque_02": 15,
+     "bloque_03": 23,
+     "bloque_04": 40,
+     "bloque_05": 57,
+     "bloque_06": 12,
+     "bloque_07": 72,
+     "bloque_08": 88,
+     "bloque_09": 20,
+     "bloque_10": 68,
+     "bloque_11": 78,
+     "bloque_12": 11,
+     "bloque_13": 41,
+     "bloque_14": 20,
+     "bloque_15": 22,
+     "bloque_16": 45,
+     "bloque_17": 55,
+     "bloque_18": 2,
+     "bloque_19": 13
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [
+     "AA-157",
+     "AA-158",
+     "AA-159",
+     "AA-160",
+     "AA-161",
+     "AA-162",
+     "AA-163",
+     "AA-164",
+     "AA-165",
+     "AA-166",
+     "AA-167",
+     "AA-168",
+     "AA-169",
+     "AA-170",
+     "AA-171",
+     "AA-172",
+     "AA-173",
+     "AA-174",
+     "AA-175",
+     "AA-176"
+    ],
+    "md_n_ids_ausentes": 719
+   },
+   "trazabilidad": {
+    "resultado": {
+     "literal": 712,
+     "parcial": 6,
+     "fragmentado": 1
+    },
+    "con_pagina_localizable": 719,
+    "muestras_no_encontradas": []
+   }
+  },
+  {
+   "id": "BNG_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 1387491,
+    "sha256": "fd5aef260b9c66d030b57b7b0e18914c8ad79384e2c46b2346d9fb4f6514a97d",
+    "paginas": 91
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 2110738
+    },
+    "json": {
+     "existe": true,
+     "bytes": 61115552
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 185178
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 91,
+    "n_texts": 1607,
+    "n_tables": 5,
+    "n_pictures": 183,
+    "paginas_con_texto": 91,
+    "paginas_texto_escaso_lt200": [
+     1,
+     3,
+     10,
+     64
+    ],
+    "texts_con_prov": 1607,
+    "md_imagenes_embebidas_base64": 183,
+    "md_placeholders_image": 0,
+    "md_headings": 68,
+    "md_chars_texto_aprox": 204995,
+    "txt_chars": 179937,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "FD5AEF260B9C66D030B57B7B0E18914C8AD79384E2C46B2346D9FB4F6514A97D",
+    "herramienta": "Docling",
+    "fecha": "2026-11-11T14:48:17.6520631+01:00",
+    "archivo_original": "26_bng_xerais_documentos_programa_electoral.pdf",
+    "paginas_meta": null,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "codigo_salida",
+     "archivo_estandar"
+    ],
+    "sha_coincide": true
+   },
+   "detallado": {
+    "json": [
+     "BNG_programa29N_492medidas_detallado.json"
+    ],
+    "md": [
+     "BNG_programa29N_492medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Bloque Nacionalista Galego",
+    "siglas": "BNG",
+    "titulo_programa": "Programa Electoral Eleccións Xerais 29N - Máis Forza para Galiza",
+    "fecha_publicacion": "2026-11-03",
+    "url_programa_oficial": "https://www.bng.gal/media/bnggaliza/files/2026/11/03/26_bng_xerais_documentos_programa_electoral.pdf",
+    "web_oficial": "https://www.bng.gal",
+    "total_medidas_declarado": 492,
+    "total_en_nombre_archivo": 492,
+    "total_real": 492,
+    "n_bloques": 19,
+    "n_otros_bloques": 0,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     492
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 24,
+     "bloque_02": 51,
+     "bloque_03": 22,
+     "bloque_04": 35,
+     "bloque_05": 54,
+     "bloque_06": 26,
+     "bloque_07": 29,
+     "bloque_08": 25,
+     "bloque_09": 71,
+     "bloque_10": 27,
+     "bloque_11": 24,
+     "bloque_12": 3,
+     "bloque_13": 8,
+     "bloque_14": 12,
+     "bloque_15": 7,
+     "bloque_16": 6,
+     "bloque_17": 48,
+     "bloque_18": 2,
+     "bloque_19": 18
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [
+     "BNG-015",
+     "BNG-017",
+     "BNG-018",
+     "BNG-019",
+     "BNG-020",
+     "BNG-021",
+     "BNG-022",
+     "BNG-023",
+     "BNG-024",
+     "BNG-025",
+     "BNG-026",
+     "BNG-027",
+     "BNG-028",
+     "BNG-029",
+     "BNG-030",
+     "BNG-031",
+     "BNG-032",
+     "BNG-033",
+     "BNG-034",
+     "BNG-035"
+    ],
+    "md_n_ids_ausentes": 492
+   },
+   "trazabilidad": {
+    "resultado": {
+     "literal": 451,
+     "fragmentado": 36,
+     "parcial": 5
+    },
+    "con_pagina_localizable": 492,
+    "muestras_no_encontradas": []
+   }
+  },
+  {
+   "id": "CoalicionCanaria_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 69215587,
+    "sha256": "3c40c0a6e38d8dd80ae1061d94b614f4e3f1b6492ec8c801834fb497f337044e",
+    "paginas": 23
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 1353498
+    },
+    "json": {
+     "existe": true,
+     "bytes": 17736893
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 64458
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 23,
+    "n_texts": 351,
+    "n_tables": 0,
+    "n_pictures": 77,
+    "paginas_con_texto": 23,
+    "paginas_texto_escaso_lt200": [
+     1,
+     23
+    ],
+    "texts_con_prov": 351,
+    "md_imagenes_embebidas_base64": 77,
+    "md_placeholders_image": 0,
+    "md_headings": 24,
+    "md_chars_texto_aprox": 63349,
+    "txt_chars": 63123,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "3C40C0A6E38D8DD80AE1061D94B614F4E3F1B6492EC8C801834FB497F337044E",
+    "herramienta": "Docling",
+    "fecha": "2026-11-11T14:49:38.6132907+01:00",
+    "archivo_original": "CCA-26-Programa_Electoral-29NOV.pdf",
+    "paginas_meta": null,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "codigo_salida",
+     "archivo_estandar"
+    ],
+    "sha_coincide": true
+   },
+   "detallado": {
+    "json": [
+     "CoalicionCanaria_programa29N_100medidas_detallado.json"
+    ],
+    "md": [
+     "CoalicionCanaria_programa29N_100medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Coalición Canaria - Municipalistas Primero Canarias",
+    "siglas": "CCa",
+    "titulo_programa": "Defiende Canarias. Diez causas y cien acciones",
+    "fecha_publicacion": "2026-11-08",
+    "url_programa_oficial": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf",
+    "web_oficial": "https://coalicioncanaria.org",
+    "total_medidas_declarado": 100,
+    "total_en_nombre_archivo": 100,
+    "total_real": 100,
+    "n_bloques": 19,
+    "n_otros_bloques": 0,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     100
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 8,
+     "bloque_02": 8,
+     "bloque_03": 3,
+     "bloque_04": 3,
+     "bloque_05": 4,
+     "bloque_06": 2,
+     "bloque_07": 4,
+     "bloque_08": 6,
+     "bloque_09": 17,
+     "bloque_10": 7,
+     "bloque_11": 8,
+     "bloque_12": 1,
+     "bloque_13": 1,
+     "bloque_14": 5,
+     "bloque_15": 1,
+     "bloque_16": 12,
+     "bloque_17": 2,
+     "bloque_18": 3,
+     "bloque_19": 5
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [
+     "CCa-022",
+     "CCa-023",
+     "CCa-024",
+     "CCa-025",
+     "CCa-026",
+     "CCa-027",
+     "CCa-028",
+     "CCa-029",
+     "CCa-030",
+     "CCa-033",
+     "CCa-034",
+     "CCa-037",
+     "CCa-044",
+     "CCa-049",
+     "CCa-050",
+     "CCa-051",
+     "CCa-035",
+     "CCa-038",
+     "CCa-098",
+     "CCa-031"
+    ],
+    "md_n_ids_ausentes": 100
+   },
+   "trazabilidad": {
+    "resultado": {
+     "fragmentado": 6,
+     "literal": 94
+    },
+    "con_pagina_localizable": 100,
+    "muestras_no_encontradas": []
+   }
+  },
+  {
+   "id": "Compromis_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 325329,
+    "sha256": "37b569d6ac31a21a8f972dcfd5be3740c32f50fe1c6f3e87c9a1f68027ee6b55",
+    "paginas": 64
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 131833
+    },
+    "json": {
+     "existe": true,
+     "bytes": 890906
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 131653
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 64,
+    "n_texts": 641,
+    "n_tables": 2,
+    "n_pictures": 0,
+    "paginas_con_texto": 63,
+    "paginas_texto_escaso_lt200": [
+     1,
+     2
+    ],
+    "texts_con_prov": 641,
+    "md_imagenes_embebidas_base64": 0,
+    "md_placeholders_image": 0,
+    "md_headings": 60,
+    "md_chars_texto_aprox": 128512,
+    "txt_chars": 128332,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "37b569d6ac31a21a8f972dcfd5be3740c32f50fe1c6f3e87c9a1f68027ee6b55",
+    "herramienta": "Docling (PyPdfiumBackend)",
+    "fecha": "2026-11-15T22:31:44+0100",
+    "archivo_original": "Compromis_programa29N.pdf",
+    "paginas_meta": 64,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "paginas",
+     "duracion_segundos",
+     "tamano_bytes"
+    ],
+    "sha_coincide": true,
+    "tamanos_coinciden": true
+   },
+   "detallado": {
+    "json": [
+     "Compromis_programa29N_561medidas_detallado.json"
+    ],
+    "md": [
+     "Compromis_programa29N_561medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Compromís - Front Valencià",
+    "siglas": "Compromís",
+    "titulo_programa": "Programa Electoral 29N · Compromís-Front Valencià",
+    "fecha_publicacion": "2026-11-15",
+    "url_programa_oficial": "https://compromis.net",
+    "web_oficial": "https://compromis.net",
+    "total_medidas_declarado": 561,
+    "total_en_nombre_archivo": 561,
+    "total_real": 561,
+    "n_bloques": 19,
+    "n_otros_bloques": 0,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     561
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 28,
+     "bloque_02": 39,
+     "bloque_03": 22,
+     "bloque_04": 25,
+     "bloque_05": 37,
+     "bloque_06": 27,
+     "bloque_07": 25,
+     "bloque_08": 33,
+     "bloque_09": 48,
+     "bloque_10": 38,
+     "bloque_11": 44,
+     "bloque_12": 17,
+     "bloque_13": 34,
+     "bloque_14": 5,
+     "bloque_15": 31,
+     "bloque_16": 21,
+     "bloque_17": 44,
+     "bloque_18": 12,
+     "bloque_19": 31
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [],
+    "md_n_ids_ausentes": 0
+   },
+   "trazabilidad": {
+    "resultado": {
+     "literal": 561
+    },
+    "con_pagina_localizable": 561,
+    "muestras_no_encontradas": []
+   }
+  },
+  {
+   "id": "EHBildu_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 571442,
+    "sha256": "ceb655c9c8ebb036a15fa7829865d6e2d178525eb7db92629d702ac5e8d16047",
+    "paginas": 30
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 101279
+    },
+    "json": {
+     "existe": true,
+     "bytes": 567399
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 101108
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 30,
+    "n_texts": 400,
+    "n_tables": 2,
+    "n_pictures": 1,
+    "paginas_con_texto": 29,
+    "paginas_texto_escaso_lt200": [
+     1,
+     2,
+     3,
+     30
+    ],
+    "texts_con_prov": 400,
+    "md_imagenes_embebidas_base64": 0,
+    "md_placeholders_image": 1,
+    "md_headings": 51,
+    "md_chars_texto_aprox": 99382,
+    "txt_chars": 99213,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "ceb655c9c8ebb036a15fa7829865d6e2d178525eb7db92629d702ac5e8d16047",
+    "herramienta": "Docling (PyPdfiumBackend)",
+    "fecha": "2026-11-16T19:33:29+0100",
+    "archivo_original": "EHBildu_programa29N.pdf",
+    "paginas_meta": 30,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "paginas",
+     "duracion_segundos",
+     "tamano_bytes"
+    ],
+    "sha_coincide": true,
+    "tamanos_coinciden": true
+   },
+   "detallado": {
+    "json": [
+     "EHBildu_programa29N_185medidas_detallado.json"
+    ],
+    "md": [
+     "EHBildu_programa29N_185medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Euskal Herria Bildu",
+    "siglas": "EH Bildu",
+    "titulo_programa": "Programa Electoral Elecciones Generales 29N · Garantía y derechos",
+    "fecha_publicacion": "2026-11-16",
+    "url_programa_oficial": "https://ehbildu.eus/media/dokumentuak/posibleegin-programa-cas.pdf",
+    "web_oficial": "https://ehbildu.eus",
+    "total_medidas_declarado": 185,
+    "total_en_nombre_archivo": 185,
+    "total_real": 185,
+    "n_bloques": 19,
+    "n_otros_bloques": 0,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     185
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 13,
+     "bloque_02": 16,
+     "bloque_03": 8,
+     "bloque_04": 8,
+     "bloque_05": 26,
+     "bloque_06": 5,
+     "bloque_07": 23,
+     "bloque_08": 4,
+     "bloque_09": 9,
+     "bloque_10": 6,
+     "bloque_11": 7,
+     "bloque_12": 3,
+     "bloque_13": 1,
+     "bloque_14": 6,
+     "bloque_15": 3,
+     "bloque_16": 25,
+     "bloque_17": 9,
+     "bloque_18": 3,
+     "bloque_19": 10
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [],
+    "md_n_ids_ausentes": 0
+   },
+   "trazabilidad": {
+    "resultado": {
+     "literal": 183,
+     "fragmentado": 2
+    },
+    "con_pagina_localizable": 185,
+    "muestras_no_encontradas": []
+   }
+  },
+  {
+   "id": "ERC_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 300308,
+    "sha256": "61728d162a6e88d492d44a0b0994effb31f9e4abb85ebf8aea715d870a9b2e04",
+    "paginas": 48
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 181371
+    },
+    "json": {
+     "existe": true,
+     "bytes": 791173
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 181233
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 48,
+    "n_texts": 488,
+    "n_tables": 1,
+    "n_pictures": 2,
+    "paginas_con_texto": 46,
+    "paginas_texto_escaso_lt200": [
+     1,
+     2,
+     3,
+     4,
+     6,
+     47,
+     48
+    ],
+    "texts_con_prov": 488,
+    "md_imagenes_embebidas_base64": 0,
+    "md_placeholders_image": 2,
+    "md_headings": 34,
+    "md_chars_texto_aprox": 177157,
+    "txt_chars": 177023,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "61728d162a6e88d492d44a0b0994effb31f9e4abb85ebf8aea715d870a9b2e04",
+    "herramienta": "Docling (PyPdfiumBackend)",
+    "fecha": "2026-11-13T13:21:55+0100",
+    "archivo_original": "ERC_programa29N.pdf",
+    "paginas_meta": 48,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "paginas",
+     "duracion_segundos",
+     "tamano_bytes"
+    ],
+    "sha_coincide": true,
+    "tamanos_coinciden": true
+   },
+   "detallado": {
+    "json": [
+     "ERC_programa29N_227medidas_detallado.json"
+    ],
+    "md": [
+     "ERC_programa29N_227medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Esquerra Republicana de Catalunya",
+    "siglas": "ERC",
+    "titulo_programa": "Programa electoral. Eleccions al Congrés 2026 · Pel país. Per la gent. Pel futur.",
+    "fecha_publicacion": "2026-11-10",
+    "url_programa_oficial": "https://esquerrarepublicana.cat/documents/e2026-programa.pdf",
+    "web_oficial": "https://www.esquerrarepublicana.cat",
+    "total_medidas_declarado": 227,
+    "total_en_nombre_archivo": 227,
+    "total_real": 227,
+    "n_bloques": 19,
+    "n_otros_bloques": 0,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     258
+    ],
+    "huecos_numeracion": [
+     168,
+     169,
+     170,
+     171,
+     172,
+     173,
+     174,
+     175,
+     176,
+     177,
+     178,
+     179,
+     180,
+     181,
+     182,
+     183,
+     184,
+     185,
+     186,
+     187,
+     188,
+     189,
+     190,
+     191,
+     192,
+     193,
+     194,
+     195,
+     196,
+     197,
+     251
+    ],
+    "bloques_vacios": [],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 11,
+     "bloque_02": 12,
+     "bloque_03": 13,
+     "bloque_04": 15,
+     "bloque_05": 11,
+     "bloque_06": 9,
+     "bloque_07": 6,
+     "bloque_08": 19,
+     "bloque_09": 21,
+     "bloque_10": 18,
+     "bloque_11": 23,
+     "bloque_12": 3,
+     "bloque_13": 21,
+     "bloque_14": 2,
+     "bloque_15": 2,
+     "bloque_16": 7,
+     "bloque_17": 23,
+     "bloque_18": 1,
+     "bloque_19": 10
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [
+     "ERC-55",
+     "ERC-56",
+     "ERC-57",
+     "ERC-58",
+     "ERC-59",
+     "ERC-60",
+     "ERC-61",
+     "ERC-62",
+     "ERC-63",
+     "ERC-64",
+     "ERC-65",
+     "ERC-26",
+     "ERC-72",
+     "ERC-79",
+     "ERC-80",
+     "ERC-81",
+     "ERC-82",
+     "ERC-86",
+     "ERC-126",
+     "ERC-127"
+    ],
+    "md_n_ids_ausentes": 227
+   },
+   "trazabilidad": {
+    "resultado": {
+     "literal": 216,
+     "fragmentado": 11
+    },
+    "con_pagina_localizable": 227,
+    "muestras_no_encontradas": []
+   }
+  },
+  {
+   "id": "Falange_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 19170481,
+    "sha256": "46edb0c2db121b8da6a05b9adb65b990086e5e4173fef7bd1b39d1d3757a1026",
+    "paginas": 60
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 71951
+    },
+    "json": {
+     "existe": true,
+     "bytes": 1008928
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 69722
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 60,
+    "n_texts": 974,
+    "n_tables": 2,
+    "n_pictures": 118,
+    "paginas_con_texto": 60,
+    "paginas_texto_escaso_lt200": [
+     2,
+     3,
+     4,
+     5,
+     16,
+     21,
+     27,
+     35,
+     40,
+     45,
+     57,
+     59,
+     60
+    ],
+    "texts_con_prov": 974,
+    "md_imagenes_embebidas_base64": 0,
+    "md_placeholders_image": 118,
+    "md_headings": 35,
+    "md_chars_texto_aprox": 69976,
+    "txt_chars": 67983,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "46edb0c2db121b8da6a05b9adb65b990086e5e4173fef7bd1b39d1d3757a1026",
+    "herramienta": "Docling (PyPdfiumBackend)",
+    "fecha": "2026-11-15T22:32:10+0100",
+    "archivo_original": "Falange_programa29N.pdf",
+    "paginas_meta": 60,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "paginas",
+     "duracion_segundos",
+     "tamano_bytes"
+    ],
+    "sha_coincide": true,
+    "tamanos_coinciden": true
+   },
+   "detallado": {
+    "json": [
+     "Falange_programa29N_260medidas_detallado.json"
+    ],
+    "md": [
+     "Falange_programa29N_260medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Falange Española de las JONS",
+    "siglas": "FE de las JONS",
+    "titulo_programa": "Programa Electoral Elecciones Generales 29 de noviembre de 2026",
+    "fecha_publicacion": "2026-11-15",
+    "url_programa_oficial": "https://falange.es",
+    "web_oficial": "https://falange.es",
+    "total_medidas_declarado": 260,
+    "total_en_nombre_archivo": 260,
+    "total_real": 260,
+    "n_bloques": 19,
+    "n_otros_bloques": 0,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     260
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 13,
+     "bloque_02": 25,
+     "bloque_03": 9,
+     "bloque_04": 19,
+     "bloque_05": 7,
+     "bloque_06": 6,
+     "bloque_07": 9,
+     "bloque_08": 28,
+     "bloque_09": 16,
+     "bloque_10": 13,
+     "bloque_11": 10,
+     "bloque_12": 7,
+     "bloque_13": 16,
+     "bloque_14": 30,
+     "bloque_15": 12,
+     "bloque_16": 8,
+     "bloque_17": 9,
+     "bloque_18": 3,
+     "bloque_19": 20
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [],
+    "md_n_ids_ausentes": 0
+   },
+   "trazabilidad": {
+    "resultado": {
+     "literal": 253,
+     "fragmentado": 7
+    },
+    "con_pagina_localizable": 260,
+    "muestras_no_encontradas": []
+   }
+  },
+  {
+   "id": "FrenteAmplio_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 1139608,
+    "sha256": "df6e4d967a3a41386656273c32c2df3edc6681b6ee047b190b2ebb91f1a36f04",
+    "paginas": 151
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 356266
+    },
+    "json": {
+     "existe": true,
+     "bytes": 2201965
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 354892
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 151,
+    "n_texts": 1424,
+    "n_tables": 3,
+    "n_pictures": 38,
+    "paginas_con_texto": 151,
+    "paginas_texto_escaso_lt200": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     9,
+     20,
+     43,
+     50,
+     59,
+     79,
+     86,
+     91,
+     96,
+     99,
+     102,
+     108,
+     114,
+     118,
+     122,
+     125,
+     129,
+     139,
+     151
+    ],
+    "texts_con_prov": 1424,
+    "md_imagenes_embebidas_base64": 0,
+    "md_placeholders_image": 38,
+    "md_headings": 228,
+    "md_chars_texto_aprox": 347979,
+    "txt_chars": 346681,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "df6e4d967a3a41386656273c32c2df3edc6681b6ee047b190b2ebb91f1a36f04",
+    "herramienta": "Docling (PyPdfiumBackend)",
+    "fecha": "2026-11-16T19:36:07+0100",
+    "archivo_original": "FrenteAmplio_programa29N.pdf",
+    "paginas_meta": 151,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "paginas",
+     "duracion_segundos",
+     "tamano_bytes"
+    ],
+    "sha_coincide": true,
+    "tamanos_coinciden": true
+   },
+   "detallado": {
+    "json": [
+     "FrenteAmplio_programa29N_908medidas_detallado.json"
+    ],
+    "md": [
+     "FrenteAmplio_programa29N_908medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Movimiento Sumar · Frente Amplio",
+    "siglas": "Frente Amplio",
+    "titulo_programa": "Programa del Frente Amplio · Elecciones Generales 2026",
+    "fecha_publicacion": "2026-11-16",
+    "url_programa_oficial": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+    "web_oficial": "https://frenteamplio.info",
+    "total_medidas_declarado": 908,
+    "total_en_nombre_archivo": 908,
+    "total_real": 908,
+    "n_bloques": 19,
+    "n_otros_bloques": 1,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     908
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 69,
+     "bloque_02": 99,
+     "bloque_03": 53,
+     "bloque_04": 47,
+     "bloque_05": 68,
+     "bloque_06": 31,
+     "bloque_07": 54,
+     "bloque_08": 37,
+     "bloque_09": 75,
+     "bloque_10": 31,
+     "bloque_11": 49,
+     "bloque_12": 15,
+     "bloque_13": 43,
+     "bloque_14": 23,
+     "bloque_15": 35,
+     "bloque_16": 33,
+     "bloque_17": 37,
+     "bloque_18": 26,
+     "bloque_19": 47,
+     "otro_bloque_01": 36
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [],
+    "md_n_ids_ausentes": 0
+   },
+   "trazabilidad": {
+    "resultado": {
+     "literal": 871,
+     "fragmentado": 37
+    },
+    "con_pagina_localizable": 908,
+    "muestras_no_encontradas": []
+   }
+  },
+  {
+   "id": "FrenteObrero_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 1202338,
+    "sha256": "7b9f423f2c1ada187b6f42ed8dbf4e025356254d7a6b81830e114b818ef2e282",
+    "paginas": 64
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 85602
+    },
+    "json": {
+     "existe": true,
+     "bytes": 633708
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 84124
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 64,
+    "n_texts": 493,
+    "n_tables": 1,
+    "n_pictures": 77,
+    "paginas_con_texto": 63,
+    "paginas_texto_escaso_lt200": [
+     1,
+     2,
+     3,
+     4,
+     7,
+     10,
+     12,
+     14,
+     17,
+     20,
+     23,
+     27,
+     30,
+     33,
+     36,
+     39,
+     41,
+     44,
+     47,
+     50,
+     55,
+     57,
+     60,
+     62,
+     64
+    ],
+    "texts_con_prov": 493,
+    "md_imagenes_embebidas_base64": 0,
+    "md_placeholders_image": 77,
+    "md_headings": 31,
+    "md_chars_texto_aprox": 83416,
+    "txt_chars": 82091,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "7b9f423f2c1ada187b6f42ed8dbf4e025356254d7a6b81830e114b818ef2e282",
+    "herramienta": "Docling (PyPdfiumBackend)",
+    "fecha": "2026-11-11T15:48:07+0100",
+    "archivo_original": "Programa.pdf",
+    "paginas_meta": 64,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "paginas",
+     "duracion_segundos",
+     "tamano_bytes"
+    ],
+    "sha_coincide": true,
+    "tamanos_coinciden": true
+   },
+   "detallado": {
+    "json": [
+     "FrenteObrero_programa29N_135medidas_detallado.json"
+    ],
+    "md": [
+     "FrenteObrero_programa29N_135medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Frente Obrero",
+    "siglas": "FO",
+    "titulo_programa": "Recuperar España. Programa Político",
+    "fecha_publicacion": "2026-10-06",
+    "url_programa_oficial": "https://frenteobrero.es/wp-content/uploads/2026/10/Programa.pdf",
+    "web_oficial": "https://frenteobrero.es",
+    "total_medidas_declarado": 135,
+    "total_en_nombre_archivo": 135,
+    "total_real": 135,
+    "n_bloques": 19,
+    "n_otros_bloques": 0,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     135
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [
+     "bloque_11",
+     "bloque_18"
+    ],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 5,
+     "bloque_02": 4,
+     "bloque_03": 7,
+     "bloque_04": 12,
+     "bloque_05": 11,
+     "bloque_06": 10,
+     "bloque_07": 10,
+     "bloque_08": 12,
+     "bloque_09": 7,
+     "bloque_10": 9,
+     "bloque_11": 0,
+     "bloque_12": 2,
+     "bloque_13": 7,
+     "bloque_14": 13,
+     "bloque_15": 7,
+     "bloque_16": 2,
+     "bloque_17": 7,
+     "bloque_18": 0,
+     "bloque_19": 10
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [
+     "FO-094",
+     "FO-095",
+     "FO-096",
+     "FO-097",
+     "FO-098",
+     "FO-016",
+     "FO-017",
+     "FO-018",
+     "FO-019",
+     "FO-026",
+     "FO-027",
+     "FO-028",
+     "FO-029",
+     "FO-030",
+     "FO-031",
+     "FO-032",
+     "FO-001",
+     "FO-002",
+     "FO-003",
+     "FO-004"
+    ],
+    "md_n_ids_ausentes": 135
+   },
+   "trazabilidad": {
+    "resultado": {
+     "literal": 129,
+     "parcial": 4,
+     "no_encontrado": 2
+    },
+    "con_pagina_localizable": 133,
+    "muestras_no_encontradas": [
+     {
+      "id": "FO-006",
+      "texto": "Acabar con los falsos autónomos. [Medida 6 del Capítulo 02 «Los trabajadores primero» del programa oficial del Frente Obrero]"
+     },
+     {
+      "id": "FO-015",
+      "texto": "Delimitación de las aguas archipelágicas. [Medida 5 del Capítulo 03 «Soberanía nacional» del programa oficial del Frente Obrero]"
+     }
+    ]
+   }
+  },
+  {
+   "id": "IustitiaEuropa_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 4962917,
+    "sha256": "03740dc25a9e94599f7b3e085a5f24fefe8ad8aa796740dccd0dfc1b2facb5dd",
+    "paginas": 28
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 724171
+    },
+    "json": {
+     "existe": true,
+     "bytes": 7753185
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 30235
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 28,
+    "n_texts": 227,
+    "n_tables": 0,
+    "n_pictures": 5,
+    "paginas_con_texto": 26,
+    "paginas_texto_escaso_lt200": [
+     1,
+     2,
+     4,
+     27,
+     28
+    ],
+    "texts_con_prov": 227,
+    "md_imagenes_embebidas_base64": 5,
+    "md_placeholders_image": 0,
+    "md_headings": 36,
+    "md_chars_texto_aprox": 29135,
+    "txt_chars": 29017,
+    "txt_replacement_chars": 154,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "03740DC25A9E94599F7B3E085A5F24FEFE8AD8AA796740DCCD0DFC1B2FACB5DD",
+    "herramienta": "Docling",
+    "fecha": "2026-11-11T14:49:42.6443622+01:00",
+    "archivo_original": "descarga-aqui-tu-contrato-00030.pdf",
+    "paginas_meta": null,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "codigo_salida",
+     "archivo_estandar"
+    ],
+    "sha_coincide": true
+   },
+   "detallado": {
+    "json": [
+     "IustitiaEuropa_programa29N_101medidas_detallado.json"
+    ],
+    "md": [
+     "IustitiaEuropa_programa29N_101medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Iustitia Europa",
+    "siglas": "IE",
+    "titulo_programa": "Contrato Electoral de Iustitia Europa. Por un reinicio moral en España",
+    "fecha_publicacion": "2025-12-07",
+    "url_programa_oficial": "https://iustitiaeuropa.es/img/bloques/documentos/descarga-aqui-tu-contrato-00030.pdf",
+    "web_oficial": "https://iustitiaeuropa.es",
+    "total_medidas_declarado": 101,
+    "total_en_nombre_archivo": 101,
+    "total_real": 101,
+    "n_bloques": 19,
+    "n_otros_bloques": 0,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     101
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [
+     "bloque_06",
+     "bloque_11",
+     "bloque_18"
+    ],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 4,
+     "bloque_02": 6,
+     "bloque_03": 3,
+     "bloque_04": 5,
+     "bloque_05": 3,
+     "bloque_06": 0,
+     "bloque_07": 4,
+     "bloque_08": 6,
+     "bloque_09": 4,
+     "bloque_10": 10,
+     "bloque_11": 0,
+     "bloque_12": 13,
+     "bloque_13": 7,
+     "bloque_14": 9,
+     "bloque_15": 21,
+     "bloque_16": 1,
+     "bloque_17": 1,
+     "bloque_18": 0,
+     "bloque_19": 4
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [
+     "IE-044",
+     "IE-045",
+     "IE-046",
+     "IE-047",
+     "IE-041",
+     "IE-043",
+     "IE-048",
+     "IE-049",
+     "IE-050",
+     "IE-082",
+     "IE-039",
+     "IE-040",
+     "IE-073",
+     "IE-022",
+     "IE-030",
+     "IE-037",
+     "IE-038",
+     "IE-042",
+     "IE-034",
+     "IE-035"
+    ],
+    "md_n_ids_ausentes": 101
+   },
+   "trazabilidad": {
+    "resultado": {
+     "literal": 95,
+     "fragmentado": 6
+    },
+    "con_pagina_localizable": 101,
+    "muestras_no_encontradas": []
+   }
+  },
+  {
+   "id": "PACMA_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 1153511,
+    "sha256": "6009e569e3bfd4f607b8831ade1d1ef33cbbda6033805e3ebc331d4dd0e30a1d",
+    "paginas": 82
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 307337
+    },
+    "json": {
+     "existe": true,
+     "bytes": 1555073
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 306929
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 82,
+    "n_texts": 1171,
+    "n_tables": 3,
+    "n_pictures": 3,
+    "paginas_con_texto": 82,
+    "paginas_texto_escaso_lt200": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "texts_con_prov": 1171,
+    "md_imagenes_embebidas_base64": 0,
+    "md_placeholders_image": 3,
+    "md_headings": 118,
+    "md_chars_texto_aprox": 300591,
+    "txt_chars": 300189,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "6009e569e3bfd4f607b8831ade1d1ef33cbbda6033805e3ebc331d4dd0e30a1d",
+    "herramienta": "Docling (PyPdfiumBackend)",
+    "fecha": "2026-11-15T22:35:03+0100",
+    "archivo_original": "PACMA_programa29N.pdf",
+    "paginas_meta": 82,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "paginas",
+     "duracion_segundos",
+     "tamano_bytes"
+    ],
+    "sha_coincide": true,
+    "tamanos_coinciden": true
+   },
+   "detallado": {
+    "json": [
+     "PACMA_programa29N_400medidas_detallado.json"
+    ],
+    "md": [
+     "PACMA_programa29N_400medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Partido Animalista Con el Medio Ambiente",
+    "siglas": "PACMA",
+    "titulo_programa": "Programa Electoral Elecciones Generales 29N",
+    "fecha_publicacion": "2026-11-15",
+    "url_programa_oficial": "https://pacma.es/programa-electoral/",
+    "web_oficial": "https://pacma.es",
+    "total_medidas_declarado": 400,
+    "total_en_nombre_archivo": 400,
+    "total_real": 400,
+    "n_bloques": 17,
+    "n_otros_bloques": 1,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     400
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 9,
+     "bloque_02": 26,
+     "bloque_03": 4,
+     "bloque_04": 21,
+     "bloque_05": 43,
+     "bloque_06": 10,
+     "bloque_07": 29,
+     "bloque_08": 37,
+     "bloque_09": 33,
+     "bloque_10": 34,
+     "bloque_11": 2,
+     "bloque_12": 2,
+     "bloque_13": 9,
+     "bloque_14": 6,
+     "bloque_15": 25,
+     "bloque_17": 15,
+     "bloque_18": 7,
+     "otro_bloque_01": 88
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [],
+    "md_n_ids_ausentes": 0
+   },
+   "trazabilidad": {
+    "resultado": {
+     "literal": 398,
+     "fragmentado": 2
+    },
+    "con_pagina_localizable": 400,
+    "muestras_no_encontradas": []
+   }
+  },
+  {
+   "id": "PNV_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 509986,
+    "sha256": "5af7a5b6f67c26bad87ef6c3ca01ae38aa1f1d7d9029efb32fc52482de0c1314",
+    "paginas": 43
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 319256
+    },
+    "json": {
+     "existe": true,
+     "bytes": 20134558
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 87548
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 43,
+    "n_texts": 705,
+    "n_tables": 2,
+    "n_pictures": 12,
+    "paginas_con_texto": 43,
+    "paginas_texto_escaso_lt200": [
+     1,
+     2,
+     5,
+     43
+    ],
+    "texts_con_prov": 705,
+    "md_imagenes_embebidas_base64": 12,
+    "md_placeholders_image": 0,
+    "md_headings": 160,
+    "md_chars_texto_aprox": 85951,
+    "txt_chars": 85447,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "5AF7A5B6F67C26BAD87EF6C3CA01AE38AA1F1D7D9029EFB32FC52482DE0C1314",
+    "herramienta": "Docling",
+    "fecha": "2026-11-11T14:51:46.1722836+01:00",
+    "archivo_original": "programa-electoral-29n.pdf",
+    "paginas_meta": null,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "codigo_salida",
+     "archivo_estandar"
+    ],
+    "sha_coincide": true
+   },
+   "detallado": {
+    "json": [
+     "PNV_programa29N_225medidas_detallado.json"
+    ],
+    "md": [
+     "PNV_programa29N_225medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Euzko Alderdi Jeltzalea - Partido Nacionalista Vasco",
+    "siglas": "EAJ-PNV",
+    "titulo_programa": "Euskadi Zaindu. Defender. Acordar. Exigir. Programa Elecciones Generales 2026",
+    "fecha_publicacion": "2026-11-06",
+    "url_programa_oficial": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n",
+    "web_oficial": "https://www.eaj-pnv.eus",
+    "total_medidas_declarado": 225,
+    "total_en_nombre_archivo": 225,
+    "total_real": 225,
+    "n_bloques": 19,
+    "n_otros_bloques": 0,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     225
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 9,
+     "bloque_02": 11,
+     "bloque_03": 7,
+     "bloque_04": 18,
+     "bloque_05": 17,
+     "bloque_06": 10,
+     "bloque_07": 18,
+     "bloque_08": 8,
+     "bloque_09": 17,
+     "bloque_10": 15,
+     "bloque_11": 20,
+     "bloque_12": 4,
+     "bloque_13": 20,
+     "bloque_14": 14,
+     "bloque_15": 5,
+     "bloque_16": 21,
+     "bloque_17": 7,
+     "bloque_18": 1,
+     "bloque_19": 3
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [
+     "EAJ-PNV-001",
+     "EAJ-PNV-002",
+     "EAJ-PNV-003",
+     "EAJ-PNV-004",
+     "EAJ-PNV-005",
+     "EAJ-PNV-006",
+     "EAJ-PNV-007",
+     "EAJ-PNV-009",
+     "EAJ-PNV-061",
+     "EAJ-PNV-035",
+     "EAJ-PNV-036",
+     "EAJ-PNV-037",
+     "EAJ-PNV-038",
+     "EAJ-PNV-039",
+     "EAJ-PNV-040",
+     "EAJ-PNV-041",
+     "EAJ-PNV-044",
+     "EAJ-PNV-065",
+     "EAJ-PNV-219",
+     "EAJ-PNV-225"
+    ],
+    "md_n_ids_ausentes": 225
+   },
+   "trazabilidad": {
+    "resultado": {
+     "literal": 225
+    },
+    "con_pagina_localizable": 225,
+    "muestras_no_encontradas": []
+   }
+  },
+  {
+   "id": "PP_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 12279932,
+    "sha256": "cea8f2a052278e51ad682d19444eb0e9089997adbde8df76babf7f236bb5ffbe",
+    "paginas": 82
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 163177
+    },
+    "json": {
+     "existe": true,
+     "bytes": 877648
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 162169
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 82,
+    "n_texts": 630,
+    "n_tables": 4,
+    "n_pictures": 20,
+    "paginas_con_texto": 82,
+    "paginas_texto_escaso_lt200": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     7,
+     10,
+     11,
+     27,
+     37,
+     51,
+     77,
+     78,
+     79,
+     80,
+     81,
+     82
+    ],
+    "texts_con_prov": 630,
+    "md_imagenes_embebidas_base64": 0,
+    "md_placeholders_image": 20,
+    "md_headings": 216,
+    "md_chars_texto_aprox": 159041,
+    "txt_chars": 158073,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "cea8f2a052278e51ad682d19444eb0e9089997adbde8df76babf7f236bb5ffbe",
+    "herramienta": "Docling (PyPdfiumBackend)",
+    "fecha": "2026-11-11T15:49:41+0100",
+    "archivo_original": "LA-RECONSTRUCCION-NACIONAL.pdf",
+    "paginas_meta": 82,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "paginas",
+     "duracion_segundos",
+     "tamano_bytes"
+    ],
+    "sha_coincide": true,
+    "tamanos_coinciden": true
+   },
+   "detallado": {
+    "json": [
+     "PP_programa29N_249medidas_detallado.json"
+    ],
+    "md": [
+     "PP_programa29N_249medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Partido Popular",
+    "siglas": "PP",
+    "titulo_programa": "La Reconstrucción Nacional. El programa del cambio necesario para España",
+    "fecha_publicacion": "2026-11-09",
+    "url_programa_oficial": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+    "web_oficial": "https://www.pp.es",
+    "total_medidas_declarado": 249,
+    "total_en_nombre_archivo": 249,
+    "total_real": 249,
+    "n_bloques": 19,
+    "n_otros_bloques": 0,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     249
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 18,
+     "bloque_02": 9,
+     "bloque_03": 9,
+     "bloque_04": 8,
+     "bloque_05": 16,
+     "bloque_06": 7,
+     "bloque_07": 9,
+     "bloque_08": 10,
+     "bloque_09": 6,
+     "bloque_10": 14,
+     "bloque_11": 11,
+     "bloque_12": 12,
+     "bloque_13": 16,
+     "bloque_14": 16,
+     "bloque_15": 36,
+     "bloque_16": 14,
+     "bloque_17": 13,
+     "bloque_18": 5,
+     "bloque_19": 20
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [
+     "PP-144",
+     "PP-145",
+     "PP-146",
+     "PP-147",
+     "PP-148",
+     "PP-149",
+     "PP-150",
+     "PP-151",
+     "PP-152",
+     "PP-153",
+     "PP-154",
+     "PP-155",
+     "PP-156",
+     "PP-157",
+     "PP-158",
+     "PP-159",
+     "PP-160",
+     "PP-161",
+     "PP-186",
+     "PP-187"
+    ],
+    "md_n_ids_ausentes": 249
+   },
+   "trazabilidad": {
+    "resultado": {
+     "literal": 230,
+     "fragmentado": 6,
+     "no_encontrado": 8,
+     "parcial": 5
+    },
+    "con_pagina_localizable": 241,
+    "muestras_no_encontradas": [
+     {
+      "id": "PP-173",
+      "texto": "(Medida reservada en el documento oficial del programa electoral del PP para su anuncio durante la campaña electoral del 29N)."
+     },
+     {
+      "id": "PP-109",
+      "texto": "(Medida reservada en el documento oficial del programa electoral del PP para su anuncio durante la campaña electoral del 29N)."
+     },
+     {
+      "id": "PP-164",
+      "texto": "(Medida reservada en el documento oficial del programa electoral del PP para su anuncio durante la campaña electoral del 29N)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "PSOE_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 11983706,
+    "sha256": "e9c8341339538b550641b6ddb1c3fdfeef7fda6a8a1a4be9e8d6a44cbc229bf5",
+    "paginas": 114
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 269152
+    },
+    "json": {
+     "existe": true,
+     "bytes": 1726579
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 266102
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 114,
+    "n_texts": 1359,
+    "n_tables": 4,
+    "n_pictures": 118,
+    "paginas_con_texto": 114,
+    "paginas_texto_escaso_lt200": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     10,
+     23,
+     34,
+     44,
+     62,
+     75,
+     87,
+     104,
+     114
+    ],
+    "texts_con_prov": 1359,
+    "md_imagenes_embebidas_base64": 0,
+    "md_placeholders_image": 118,
+    "md_headings": 253,
+    "md_chars_texto_aprox": 262812,
+    "txt_chars": 259996,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "e9c8341339538b550641b6ddb1c3fdfeef7fda6a8a1a4be9e8d6a44cbc229bf5",
+    "herramienta": "Docling (PyPdfiumBackend)",
+    "fecha": "2026-11-15T22:37:36+0100",
+    "archivo_original": "PSOE_programa29N.pdf",
+    "paginas_meta": 114,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "paginas",
+     "duracion_segundos",
+     "tamano_bytes"
+    ],
+    "sha_coincide": true,
+    "tamanos_coinciden": true
+   },
+   "detallado": {
+    "json": [
+     "PSOE_programa29N_500medidas_detallado.json"
+    ],
+    "md": [
+     "PSOE_programa29N_500medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Partido Socialista Obrero Español",
+    "siglas": "PSOE",
+    "titulo_programa": "La fuerza de seguir avanzando · Programa Elecciones Generales 29 de noviembre de 2026",
+    "fecha_publicacion": "2026-11-15",
+    "url_programa_oficial": "https://www.psoe.es/transparencia/informacion-politica-organizativa/programa/",
+    "web_oficial": "https://www.psoe.es",
+    "total_medidas_declarado": 500,
+    "total_en_nombre_archivo": 500,
+    "total_real": 500,
+    "n_bloques": 19,
+    "n_otros_bloques": 0,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     500
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 54,
+     "bloque_02": 27,
+     "bloque_03": 14,
+     "bloque_04": 33,
+     "bloque_05": 68,
+     "bloque_06": 27,
+     "bloque_07": 35,
+     "bloque_08": 37,
+     "bloque_09": 39,
+     "bloque_10": 19,
+     "bloque_11": 19,
+     "bloque_12": 9,
+     "bloque_13": 23,
+     "bloque_14": 6,
+     "bloque_15": 14,
+     "bloque_16": 10,
+     "bloque_17": 24,
+     "bloque_18": 9,
+     "bloque_19": 33
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [],
+    "md_n_ids_ausentes": 0
+   },
+   "trazabilidad": {
+    "resultado": {
+     "literal": 471,
+     "fragmentado": 27,
+     "parcial": 2
+    },
+    "con_pagina_localizable": 500,
+    "muestras_no_encontradas": []
+   }
+  },
+  {
+   "id": "PartidoHumanista_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 461126,
+    "sha256": "c53ab576b0c57a091665795cb8676269b85cc6f9b7e22c9d65ce11d86502086f",
+    "paginas": 31
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 419774
+    },
+    "json": {
+     "existe": true,
+     "bytes": 12811573
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 54683
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 31,
+    "n_texts": 210,
+    "n_tables": 2,
+    "n_pictures": 11,
+    "paginas_con_texto": 31,
+    "paginas_texto_escaso_lt200": [
+     1,
+     29,
+     30
+    ],
+    "texts_con_prov": 210,
+    "md_imagenes_embebidas_base64": 11,
+    "md_placeholders_image": 0,
+    "md_headings": 97,
+    "md_chars_texto_aprox": 53550,
+    "txt_chars": 53237,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "C53AB576B0C57A091665795CB8676269B85CC6F9B7E22C9D65CE11D86502086F",
+    "herramienta": "Docling",
+    "fecha": "2026-11-11T14:51:13.6031968+01:00",
+    "archivo_original": "Programa Generales 2026.pdf",
+    "paginas_meta": null,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "codigo_salida",
+     "archivo_estandar"
+    ],
+    "sha_coincide": true
+   },
+   "detallado": {
+    "json": [
+     "PartidoHumanista_programa29N_40medidas_detallado.json"
+    ],
+    "md": [
+     "PartidoHumanista_programa29N_40medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Partido Humanista",
+    "siglas": "PH",
+    "titulo_programa": "Elecciones Generales 2026. Hay futuro si lo primero es la gente",
+    "fecha_publicacion": "2026-11-09",
+    "url_programa_oficial": "https://www.partidohumanista.es/Documentos/Programas/Programa%20Generales%202026.pdf",
+    "web_oficial": "https://www.partidohumanista.es",
+    "total_medidas_declarado": 40,
+    "total_en_nombre_archivo": 40,
+    "total_real": 40,
+    "n_bloques": 19,
+    "n_otros_bloques": 0,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     40
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [
+     "bloque_03",
+     "bloque_06",
+     "bloque_12",
+     "bloque_13",
+     "bloque_18"
+    ],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 5,
+     "bloque_02": 2,
+     "bloque_03": 0,
+     "bloque_04": 3,
+     "bloque_05": 3,
+     "bloque_06": 0,
+     "bloque_07": 5,
+     "bloque_08": 5,
+     "bloque_09": 1,
+     "bloque_10": 1,
+     "bloque_11": 1,
+     "bloque_12": 0,
+     "bloque_13": 0,
+     "bloque_14": 3,
+     "bloque_15": 5,
+     "bloque_16": 1,
+     "bloque_17": 1,
+     "bloque_18": 0,
+     "bloque_19": 4
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [
+     "PH-005",
+     "PH-006",
+     "PH-007",
+     "PH-008",
+     "PH-009",
+     "PH-004",
+     "PH-035",
+     "PH-001",
+     "PH-003",
+     "PH-036",
+     "PH-002",
+     "PH-014",
+     "PH-028",
+     "PH-010",
+     "PH-011",
+     "PH-012",
+     "PH-013",
+     "PH-040",
+     "PH-015",
+     "PH-016"
+    ],
+    "md_n_ids_ausentes": 40
+   },
+   "trazabilidad": {
+    "resultado": {
+     "literal": 7,
+     "parcial": 5,
+     "no_encontrado": 28
+    },
+    "con_pagina_localizable": 12,
+    "muestras_no_encontradas": [
+     {
+      "id": "PH-036",
+      "texto": "Transformación del modelo productivo para que el avance de la sustitución del trabajo humano por trabajo mecánico permita hacer realidad la aspiración humanista"
+     },
+     {
+      "id": "PH-002",
+      "texto": "Implantación progresiva de una Renta Básica Universal e Incondicional (RBUI) para toda persona residente en el territorio del Estado, con una cuantía inicial de"
+     },
+     {
+      "id": "PH-014",
+      "texto": "Creación del Sistema Nacional Público de Cuidados y Atención a la Dependencia, de gestión 100% pública y financiado con cargo a los Presupuestos Generales del E"
+     }
+    ]
+   }
+  },
+  {
+   "id": "PorUnMundoMasJusto_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 4952507,
+    "sha256": "a3c7c807411d8565b310a9b566c6fa2cbe643e99c91f3f9f4e7d8712d949c613",
+    "paginas": 95
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 1235034
+    },
+    "json": {
+     "existe": true,
+     "bytes": 44868958
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 150548
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 95,
+    "n_texts": 943,
+    "n_tables": 34,
+    "n_pictures": 76,
+    "paginas_con_texto": 95,
+    "paginas_texto_escaso_lt200": [
+     1,
+     15,
+     36,
+     40,
+     49,
+     57,
+     60,
+     82,
+     85,
+     95
+    ],
+    "texts_con_prov": 943,
+    "md_imagenes_embebidas_base64": 76,
+    "md_placeholders_image": 0,
+    "md_headings": 136,
+    "md_chars_texto_aprox": 147697,
+    "txt_chars": 146863,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "A3C7C807411D8565B310A9B566C6FA2CBE643E99C91F3F9F4E7D8712D949C613",
+    "herramienta": "Docling",
+    "fecha": "2026-11-11T14:48:22.4274537+01:00",
+    "archivo_original": "Castellano.pdf",
+    "paginas_meta": null,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "codigo_salida",
+     "archivo_estandar"
+    ],
+    "sha_coincide": true
+   },
+   "detallado": {
+    "json": [
+     "PorUnMundoMasJusto_programa29N_191medidas_detallado.json"
+    ],
+    "md": [
+     "PorUnMundoMasJusto_programa29N_191medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Por Un Mundo Más Justo",
+    "siglas": "M+J",
+    "titulo_programa": "Si no es justo, cámbialo. Programa Electoral 29N 2026",
+    "fecha_publicacion": "2026-11-10",
+    "url_programa_oficial": "https://www.porunmundomasjusto.es/wp-content/uploads/2026/11/Castellano.pdf",
+    "web_oficial": "https://www.porunmundomasjusto.es",
+    "total_medidas_declarado": 191,
+    "total_en_nombre_archivo": 191,
+    "total_real": 191,
+    "n_bloques": 19,
+    "n_otros_bloques": 1,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     191
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 17,
+     "bloque_02": 7,
+     "bloque_03": 7,
+     "bloque_04": 12,
+     "bloque_05": 27,
+     "bloque_06": 15,
+     "bloque_07": 15,
+     "bloque_08": 9,
+     "bloque_09": 13,
+     "bloque_10": 2,
+     "bloque_11": 1,
+     "bloque_12": 7,
+     "bloque_13": 6,
+     "bloque_14": 7,
+     "bloque_15": 13,
+     "bloque_16": 1,
+     "bloque_17": 10,
+     "bloque_18": 1,
+     "bloque_19": 17,
+     "otro_bloque_01": 4
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [
+     "M+J-001",
+     "M+J-002",
+     "M+J-003",
+     "M+J-004",
+     "M+J-005",
+     "M+J-006",
+     "M+J-007",
+     "M+J-008",
+     "M+J-009",
+     "M+J-010",
+     "M+J-011",
+     "M+J-168",
+     "M+J-169",
+     "M+J-170",
+     "M+J-171",
+     "M+J-172",
+     "M+J-173",
+     "M+J-062",
+     "M+J-063",
+     "M+J-064"
+    ],
+    "md_n_ids_ausentes": 191
+   },
+   "trazabilidad": {
+    "resultado": {
+     "fragmentado": 27,
+     "literal": 157,
+     "parcial": 7
+    },
+    "con_pagina_localizable": 191,
+    "muestras_no_encontradas": []
+   }
+  },
+  {
+   "id": "SALF_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 19063086,
+    "sha256": "073425b9522da77608a0399923c2e0d3b9153776e8a0436ac8f0aea794b7893b",
+    "paginas": 40
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 2027428
+    },
+    "json": {
+     "existe": true,
+     "bytes": 23866671
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 55450
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 40,
+    "n_texts": 886,
+    "n_tables": 2,
+    "n_pictures": 91,
+    "paginas_con_texto": 40,
+    "paginas_texto_escaso_lt200": [
+     1,
+     40
+    ],
+    "texts_con_prov": 886,
+    "md_imagenes_embebidas_base64": 91,
+    "md_placeholders_image": 0,
+    "md_headings": 183,
+    "md_chars_texto_aprox": 73012,
+    "txt_chars": 52872,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "073425B9522DA77608A0399923C2E0D3B9153776E8A0436AC8F0AEA794B7893B",
+    "herramienta": "Docling",
+    "fecha": "2026-11-11T14:52:46.3010371+01:00",
+    "archivo_original": "SALF_Contrato_Electoral_29N.pdf",
+    "paginas_meta": null,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "codigo_salida",
+     "archivo_estandar"
+    ],
+    "sha_coincide": true
+   },
+   "detallado": {
+    "json": [
+     "SALF_programa29N_119medidas_detallado.json"
+    ],
+    "md": [
+     "SALF_programa29N_119medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Se Acabó La Fiesta",
+    "siglas": "SALF",
+    "titulo_programa": "Contrato Electoral Simplificado - Generales 2026 (29N)",
+    "fecha_publicacion": "2026-11-11",
+    "url_programa_oficial": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf",
+    "web_oficial": "https://www.seacabolafiesta.com",
+    "total_medidas_declarado": 119,
+    "total_en_nombre_archivo": 119,
+    "total_real": 119,
+    "n_bloques": 19,
+    "n_otros_bloques": 0,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     119
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [
+     "bloque_09",
+     "bloque_11",
+     "bloque_17",
+     "bloque_18"
+    ],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 10,
+     "bloque_02": 2,
+     "bloque_03": 7,
+     "bloque_04": 11,
+     "bloque_05": 7,
+     "bloque_06": 3,
+     "bloque_07": 10,
+     "bloque_08": 10,
+     "bloque_09": 0,
+     "bloque_10": 1,
+     "bloque_11": 0,
+     "bloque_12": 6,
+     "bloque_13": 15,
+     "bloque_14": 8,
+     "bloque_15": 15,
+     "bloque_16": 3,
+     "bloque_17": 0,
+     "bloque_18": 0,
+     "bloque_19": 11
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [
+     "SALF-001",
+     "SALF-002",
+     "SALF-003",
+     "SALF-004",
+     "SALF-005",
+     "SALF-006",
+     "SALF-007",
+     "SALF-008",
+     "SALF-009",
+     "SALF-010",
+     "SALF-037",
+     "SALF-038",
+     "SALF-025",
+     "SALF-027",
+     "SALF-029",
+     "SALF-030",
+     "SALF-031",
+     "SALF-033",
+     "SALF-034",
+     "SALF-028"
+    ],
+    "md_n_ids_ausentes": 119
+   },
+   "trazabilidad": {
+    "resultado": {
+     "literal": 51,
+     "no_encontrado": 46,
+     "parcial": 22
+    },
+    "con_pagina_localizable": 73,
+    "muestras_no_encontradas": [
+     {
+      "id": "SALF-037",
+      "texto": "El uso de dinero en efectivo, blindado en la Constitución como derecho fundamental. Prohibido limitar los pagos en metálico entre particulares y empresas (hoy, "
+     },
+     {
+      "id": "SALF-038",
+      "texto": "Fondo de Recuperación Bancaria: los bancos que recibieron ayudas públicas o absorbieron entidades rescatadas devuelven lo que España puso. 4.600 millones al año"
+     },
+     {
+      "id": "SALF-029",
+      "texto": "Tipo general al 20 % (hoy, 25 %); 15 % para el beneficio que se reinvierta en la empresa (empleo, maquinaria, I+D) y 10 % durante cinco años para empresas de nu"
+     }
+    ]
+   }
+  },
+  {
+   "id": "SoriaYa_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 405932,
+    "sha256": "042e8da39561d2008db48e78a6b72fb9309f334038a1d0af67791ceb983c3e9d",
+    "paginas": 1
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 5487
+    },
+    "json": {
+     "existe": true,
+     "bytes": 41447
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 5394
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 1,
+    "n_texts": 42,
+    "n_tables": 0,
+    "n_pictures": 3,
+    "paginas_con_texto": 1,
+    "paginas_texto_escaso_lt200": [],
+    "texts_con_prov": 42,
+    "md_imagenes_embebidas_base64": 0,
+    "md_placeholders_image": 3,
+    "md_headings": 13,
+    "md_chars_texto_aprox": 5310,
+    "txt_chars": 5223,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "042e8da39561d2008db48e78a6b72fb9309f334038a1d0af67791ceb983c3e9d",
+    "herramienta": "Docling (PyPdfiumBackend)",
+    "fecha": "2026-11-15T22:29:52+0100",
+    "archivo_original": "SoriaYa_programa29N.pdf",
+    "paginas_meta": 1,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "paginas",
+     "duracion_segundos",
+     "tamano_bytes"
+    ],
+    "sha_coincide": true,
+    "tamanos_coinciden": true
+   },
+   "detallado": {
+    "json": [
+     "SoriaYa_programa29N_22medidas_detallado.json"
+    ],
+    "md": [
+     "SoriaYa_programa29N_22medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Soria ¡YA!",
+    "siglas": "Soria ¡YA!",
+    "titulo_programa": "Del Olvido al Futuro · Programa Electoral 29N",
+    "fecha_publicacion": "2026-11-15",
+    "url_programa_oficial": "https://soriaya.org",
+    "web_oficial": "https://soriaya.org",
+    "total_medidas_declarado": 22,
+    "total_en_nombre_archivo": 22,
+    "total_real": 22,
+    "n_bloques": 9,
+    "n_otros_bloques": 0,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     22
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 1,
+     "bloque_02": 1,
+     "bloque_04": 2,
+     "bloque_05": 2,
+     "bloque_08": 1,
+     "bloque_09": 1,
+     "bloque_10": 2,
+     "bloque_11": 10,
+     "bloque_16": 2
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [],
+    "md_n_ids_ausentes": 0
+   },
+   "trazabilidad": {
+    "resultado": {
+     "literal": 22
+    },
+    "con_pagina_localizable": 22,
+    "muestras_no_encontradas": []
+   }
+  },
+  {
+   "id": "TeruelExiste_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 179097,
+    "sha256": "f93342d6c9d0f17eaa53fa68ff714bfa0981ca9c10605401b71801cf1870e190",
+    "paginas": 15
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 123555
+    },
+    "json": {
+     "existe": true,
+     "bytes": 609466
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 120964
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 15,
+    "n_texts": 467,
+    "n_tables": 0,
+    "n_pictures": 16,
+    "paginas_con_texto": 15,
+    "paginas_texto_escaso_lt200": [
+     1
+    ],
+    "texts_con_prov": 467,
+    "md_imagenes_embebidas_base64": 0,
+    "md_placeholders_image": 16,
+    "md_headings": 44,
+    "md_chars_texto_aprox": 119344,
+    "txt_chars": 116692,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "f93342d6c9d0f17eaa53fa68ff714bfa0981ca9c10605401b71801cf1870e190",
+    "herramienta": "Docling (PyPdfiumBackend)",
+    "fecha": "2026-11-15T22:31:41+0100",
+    "archivo_original": "TeruelExiste_programa29N.pdf",
+    "paginas_meta": 15,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "paginas",
+     "duracion_segundos",
+     "tamano_bytes"
+    ],
+    "sha_coincide": true,
+    "tamanos_coinciden": true
+   },
+   "detallado": {
+    "json": [
+     "TeruelExiste_programa29N_140medidas_detallado.json"
+    ],
+    "md": [
+     "TeruelExiste_programa29N_140medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Teruel Existe",
+    "siglas": "TE",
+    "titulo_programa": "Un programa para transformar Teruel · Elecciones Generales 29N",
+    "fecha_publicacion": "2026-11-15",
+    "url_programa_oficial": "https://teruelexiste.info/partido/programa-elecciones-generales-2026/",
+    "web_oficial": "https://teruelexiste.info",
+    "total_medidas_declarado": 140,
+    "total_en_nombre_archivo": 140,
+    "total_real": 140,
+    "n_bloques": 17,
+    "n_otros_bloques": 0,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     140
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 9,
+     "bloque_02": 15,
+     "bloque_03": 3,
+     "bloque_04": 5,
+     "bloque_05": 6,
+     "bloque_06": 2,
+     "bloque_07": 9,
+     "bloque_08": 2,
+     "bloque_09": 20,
+     "bloque_10": 23,
+     "bloque_11": 19,
+     "bloque_12": 1,
+     "bloque_13": 1,
+     "bloque_15": 6,
+     "bloque_16": 12,
+     "bloque_17": 6,
+     "bloque_18": 1
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [],
+    "md_n_ids_ausentes": 0
+   },
+   "trazabilidad": {
+    "resultado": {
+     "parcial": 66,
+     "literal": 17,
+     "fragmentado": 43,
+     "no_encontrado": 14
+    },
+    "con_pagina_localizable": 126,
+    "muestras_no_encontradas": [
+     {
+      "id": "TE-52",
+      "texto": "Vivienda protegida rural, como elemento competitivo para atraer población. Aprovechar la amplia oferta de suelo y su menor coste para ofrecer un tipo de viviend"
+     },
+     {
+      "id": "TE-132",
+      "texto": "Igualdad laboral en el empleo, en los puestos de responsabilidad y en los salarios, y medidas para facilitar el acceso al empleo de mujeres con hijos e hijas, m"
+     },
+     {
+      "id": "TE-8",
+      "texto": "Ordenación del despliegue. Aplicaremos la normativa ambiental, de ordenación del territorio y de paisaje, con un nuevo modelo físico de implantación que respete"
+     }
+    ]
+   }
+  },
+  {
+   "id": "VOX_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 14536418,
+    "sha256": "065abf6720be2f7b19b8e911920c2ee2ce5c2059d0ae8bf09770bc790ed11b65",
+    "paginas": 66
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 48704
+    },
+    "json": {
+     "existe": true,
+     "bytes": 428662
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 47888
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 66,
+    "n_texts": 341,
+    "n_tables": 1,
+    "n_pictures": 42,
+    "paginas_con_texto": 59,
+    "paginas_texto_escaso_lt200": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     8,
+     14,
+     17,
+     18,
+     21,
+     22,
+     26,
+     31,
+     32,
+     36,
+     39,
+     40,
+     44,
+     49,
+     50,
+     54,
+     59,
+     60,
+     63,
+     64,
+     65,
+     66
+    ],
+    "texts_con_prov": 341,
+    "md_imagenes_embebidas_base64": 0,
+    "md_placeholders_image": 42,
+    "md_headings": 20,
+    "md_chars_texto_aprox": 47370,
+    "txt_chars": 46638,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "065abf6720be2f7b19b8e911920c2ee2ce5c2059d0ae8bf09770bc790ed11b65",
+    "herramienta": "Docling (PyPdfiumBackend)",
+    "fecha": "2026-11-13T13:20:46+0100",
+    "archivo_original": "VOX_programa29N.pdf",
+    "paginas_meta": 66,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "paginas",
+     "duracion_segundos",
+     "tamano_bytes"
+    ],
+    "sha_coincide": true,
+    "tamanos_coinciden": true
+   },
+   "detallado": {
+    "json": [
+     "VOX_programa29N_115medidas_detallado.json"
+    ],
+    "md": [
+     "VOX_programa29N_115medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "VOX",
+    "siglas": "VOX",
+    "titulo_programa": "Es sentido común · Programa Electoral Elecciones Generales 29N",
+    "fecha_publicacion": "2026-11-01",
+    "url_programa_oficial": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+    "web_oficial": "https://www.voxespana.es",
+    "total_medidas_declarado": 115,
+    "total_en_nombre_archivo": 115,
+    "total_real": 115,
+    "n_bloques": 19,
+    "n_otros_bloques": 0,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     115
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 9,
+     "bloque_02": 2,
+     "bloque_03": 3,
+     "bloque_04": 1,
+     "bloque_05": 4,
+     "bloque_06": 4,
+     "bloque_07": 7,
+     "bloque_08": 10,
+     "bloque_09": 2,
+     "bloque_10": 12,
+     "bloque_11": 2,
+     "bloque_12": 8,
+     "bloque_13": 14,
+     "bloque_14": 14,
+     "bloque_15": 5,
+     "bloque_16": 4,
+     "bloque_17": 7,
+     "bloque_18": 3,
+     "bloque_19": 4
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [
+     "VOX-27",
+     "VOX-28",
+     "VOX-29",
+     "VOX-30",
+     "VOX-31",
+     "VOX-32",
+     "VOX-33",
+     "VOX-34",
+     "VOX-35",
+     "VOX-5",
+     "VOX-37",
+     "VOX-2",
+     "VOX-3",
+     "VOX-6",
+     "VOX-23",
+     "VOX-7",
+     "VOX-22",
+     "VOX-95",
+     "VOX-96",
+     "VOX-94"
+    ],
+    "md_n_ids_ausentes": 115
+   },
+   "trazabilidad": {
+    "resultado": {
+     "literal": 101,
+     "fragmentado": 14
+    },
+    "con_pagina_localizable": 115,
+    "muestras_no_encontradas": []
+   }
+  }
+ ],
+ "titulos_bloques_canonicos": {
+  "bloque_01": {
+   "Vivienda, Urbanismo, Alquiler y Lucha contra la Okupación": 20
+  },
+  "bloque_02": {
+   "Economía, Productividad, Industria, Innovación y Turismo": 20
+  },
+  "bloque_03": {
+   "Fiscalidad e Impuestos": 19
+  },
+  "bloque_04": {
+   "Empleo, Autónomos, Emprendimiento y Mercado Laboral": 20
+  },
+  "bloque_05": {
+   "Pensiones, Mayores, Reto Demográfico, Discapacidad e Igualdad": 20
+  },
+  "bloque_06": {
+   "Familia, Natalidad, Conciliación, Infancia y Juventud": 19
+  },
+  "bloque_07": {
+   "Sanidad Pública, Salud Mental y Dependencia": 19
+  },
+  "bloque_08": {
+   "Educación, Formación Profesional y Universidad": 20
+  },
+  "bloque_09": {
+   "Energía, Transición Ecológica y Soberanía Energética": 20
+  },
+  "bloque_10": {
+   "Agricultura, Ganadería, Pesca, Agua y Mundo Rural": 20
+  },
+  "bloque_11": {
+   "Infraestructuras, Transporte, Ferrocarril y Conectividad": 20
+  },
+  "bloque_12": {
+   "Administración Pública, Control del Gasto Público y Reducción de Burocracia": 19
+  },
+  "bloque_13": {
+   "Justicia, Seguridad Ciudadana y Cumplimiento de la Ley": 19
+  },
+  "bloque_14": {
+   "Inmigración, Control de Fronteras, Integración y Nacionalidad": 18
+  },
+  "bloque_15": {
+   "Regeneración Democrática, Independencia Institucional y Lucha contra la Corrupción": 19
+  },
+  "bloque_16": {
+   "Cohesión Territorial, Financiación Autonómica, Presencia del Estado y Ceuta y Melilla": 19
+  },
+  "bloque_17": {
+   "Cultura, Deporte, Historia Común y Víctimas del Terrorismo": 19
+  },
+  "bloque_18": {
+   "Gestión de Emergencias y Protección Civil": 19
+  },
+  "bloque_19": {
+   "Defensa Nacional, Fuerzas Armadas y Política Exterior": 17
+  },
+  "otro_bloque_01": {
+   "Protección y Bienestar Animal": 0
+  }
+ }
+}

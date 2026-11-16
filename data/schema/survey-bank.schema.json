@@ -1,0 +1,285 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "questions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^q-[a-z0-9-]+-\\d{2}$"
+          },
+          "statement": {
+            "type": "string",
+            "minLength": 10
+          },
+          "context_note": {
+            "type": "string"
+          },
+          "theme_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "modes": {
+            "minItems": 1,
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "5min",
+                "10min",
+                "15min"
+              ]
+            }
+          },
+          "positions": {
+            "type": "object",
+            "propertyNames": {
+              "type": "string",
+              "enum": [
+                "adelante-andalucia",
+                "bng",
+                "coalicion-canaria",
+                "compromis",
+                "erc",
+                "falange",
+                "frente-obrero",
+                "iustitia-europa",
+                "pacma",
+                "partido-humanista",
+                "pnv",
+                "por-un-mundo-mas-justo",
+                "pp",
+                "psoe",
+                "salf",
+                "soria-ya",
+                "teruel-existe",
+                "vox"
+              ]
+            },
+            "additionalProperties": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "posicion",
+                    "insuficiente",
+                    "sin_referencia"
+                  ]
+                },
+                "value": {
+                  "anyOf": [
+                    {
+                      "anyOf": [
+                        {
+                          "type": "number",
+                          "const": -2
+                        },
+                        {
+                          "type": "number",
+                          "const": -1
+                        },
+                        {
+                          "type": "number",
+                          "const": 0
+                        },
+                        {
+                          "type": "number",
+                          "const": 1
+                        },
+                        {
+                          "type": "number",
+                          "const": 2
+                        }
+                      ]
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "evidence_proposal_ids": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "rationale": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "origin": {
+                  "type": "string",
+                  "enum": [
+                    "ia_borrador",
+                    "manual"
+                  ]
+                },
+                "review": {
+                  "type": "object",
+                  "properties": {
+                    "status": {
+                      "type": "string",
+                      "enum": [
+                        "extraida",
+                        "requiere_revision",
+                        "verificada",
+                        "corregida",
+                        "rechazada"
+                      ]
+                    },
+                    "history": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "status": {
+                            "type": "string",
+                            "enum": [
+                              "extraida",
+                              "requiere_revision",
+                              "verificada",
+                              "corregida",
+                              "rechazada"
+                            ]
+                          },
+                          "reviewer": {
+                            "type": "string",
+                            "minLength": 1
+                          },
+                          "date": {
+                            "type": "string",
+                            "minLength": 1
+                          },
+                          "note": {
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "status",
+                          "reviewer",
+                          "date"
+                        ],
+                        "additionalProperties": false
+                      }
+                    }
+                  },
+                  "required": [
+                    "status",
+                    "history"
+                  ],
+                  "additionalProperties": false
+                }
+              },
+              "required": [
+                "status",
+                "value",
+                "evidence_proposal_ids",
+                "rationale",
+                "origin",
+                "review"
+              ],
+              "additionalProperties": false
+            },
+            "required": [
+              "adelante-andalucia",
+              "bng",
+              "coalicion-canaria",
+              "compromis",
+              "erc",
+              "falange",
+              "frente-obrero",
+              "iustitia-europa",
+              "pacma",
+              "partido-humanista",
+              "pnv",
+              "por-un-mundo-mas-justo",
+              "pp",
+              "psoe",
+              "salf",
+              "soria-ya",
+              "teruel-existe",
+              "vox"
+            ]
+          },
+          "review": {
+            "type": "object",
+            "properties": {
+              "status": {
+                "type": "string",
+                "enum": [
+                  "extraida",
+                  "requiere_revision",
+                  "verificada",
+                  "corregida",
+                  "rechazada"
+                ]
+              },
+              "history": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "status": {
+                      "type": "string",
+                      "enum": [
+                        "extraida",
+                        "requiere_revision",
+                        "verificada",
+                        "corregida",
+                        "rechazada"
+                      ]
+                    },
+                    "reviewer": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "date": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "note": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "status",
+                    "reviewer",
+                    "date"
+                  ],
+                  "additionalProperties": false
+                }
+              }
+            },
+            "required": [
+              "status",
+              "history"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "required": [
+          "id",
+          "statement",
+          "theme_id",
+          "modes",
+          "positions",
+          "review"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "schema_version",
+    "questions"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "iustitia-europa",
+  "entries": {
+    "iustitia-europa-002": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/40, p. 9) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "iustitia-europa-015": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/69, p. 13) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "iustitia-europa-017": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/74, p. 14) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "iustitia-europa-025": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/95, p. 15) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "iustitia-europa-035": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/110, p. 16) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "iustitia-europa-039": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/117, p. 17) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "iustitia-europa-040": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/118, p. 17) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "iustitia-europa-044": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/127, p. 18) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "iustitia-europa-046": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/129, p. 18) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "iustitia-europa-047": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/130, p. 18) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "iustitia-europa-052": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/143, p. 20) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "iustitia-europa-053": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/144, p. 20) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "iustitia-europa-068": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/168, p. 22) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "iustitia-europa-081": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/189, p. 24) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "iustitia-europa-083": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/191, p. 24) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "iustitia-europa-087": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/196, p. 24) para trazabilidad del banco de encuesta (T3.6)."
+    }
+  }
+}

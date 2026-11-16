@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "compromis",
+  "entries": {
+    "compromis-008": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "compromis-011": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "compromis-020": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "compromis-040": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "compromis-041": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "compromis-045": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "compromis-057": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "compromis-058": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "compromis-078": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "compromis-139": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "compromis-143": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "compromis-233": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "compromis-248": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "compromis-261": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "compromis-306": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "compromis-330": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "compromis-390": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "compromis-399": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "compromis-494": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "compromis-495": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "compromis-501": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "compromis-540": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "compromis-543": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "compromis-559": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "compromis-560": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    }
+  }
+}

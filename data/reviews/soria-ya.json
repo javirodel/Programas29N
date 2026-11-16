@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "soria-ya",
+  "entries": {
+    "soria-ya-005": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "soria-ya-006": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "soria-ya-011": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "soria-ya-018": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    }
+  }
+}

@@ -1,0 +1,907 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "partido-humanista",
+  "entries": {
+    "partido-humanista-001": {
+      "status": "corregida",
+      "official_number": "Sec. 1 · Propuesta 1",
+      "official_text": {
+        "text": "Establecimiento de una batería de exenciones fiscales para la creación y desarrollo de Sociedades Laborales (en las que más del 50% del capital social es propiedad de los trabajadores) y para empresas participadas por los trabajadores (que no alcanzan el requisito anterior) que también implementen mecanismos de cogestión, es decir, participación de los trabajadores paritaria con la propiedad en la gestión de la empresa. Estas exenciones deben ser suficientes y servir para impulsar de forma efectiva la existencia de empresas que llevan la democracia a su funcionamiento interno y que, además, debido a la vinculación de sus miembros, mostrarán una mayor coherencia y resiliencia frente a las crisis. Creación de Fondos de Accionariado Laboral alimentados con el 25% de los beneficios netos anuales de la empresa, transfiriendo paulatinamente la propiedad de las acciones a la plantilla.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            5,
+            6
+          ],
+          "snippet": "Establecimiento de una batería de exenciones fiscales para la creación y desarrollo de Sociedades Laborales (en las que más del 50% del capital social es propiedad de los trabajadores) y para empresas participadas por los trabajadores (que no alcanzan el requisito anterior) que también implementen mecanismos de cogestión, es decir, participación de los trabajadores paritaria con la propiedad en la gestión de la empresa. Estas exenciones deben ser suficientes y servir para impulsar de forma efectiva la existencia de empresas que llevan la democracia a su funcionamiento in...",
+          "docling_refs": [
+            "#/texts/23",
+            "#/texts/25",
+            "#/texts/26"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-002": {
+      "status": "corregida",
+      "official_number": "Sec. 1 · Propuesta 2",
+      "official_text": {
+        "text": "Garantía por ley de una asignación monetaria individual, incondicional y universal de 950 € al mes para toda persona mayor de edad residente en España (calculada en el 120% del umbral de pobreza monetaria actual). Memoria económica y viabilidad: El coste bruto de la RBUI para aproximadamente 38 millones de adultos es de 433.200 millones de euros anuales. Sin embargo, su coste neto de financiación asciende a aproximadamente 140.000 millones de euros al absorber subsidios no contributivos duplicados y reestructurar el IRPF. Se financiará mediante:",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            6
+          ],
+          "snippet": "Garantía por ley de una asignación monetaria individual, incondicional y universal de 950 € al mes para toda persona mayor de edad residente en España (calculada en el 120% del umbral de pobreza monetaria actual). Memoria económica y viabilidad: El coste bruto de la RBUI para aproximadamente 38 millones de adultos es de 433.200 millones de euros anuales. Sin embargo, su coste neto de financiación asciende a aproximadamente 140.000 millones de euros al absorber subsidios no contributivos duplicados y reestructurar el IRPF. Se financiará mediante:",
+          "docling_refs": [
+            "#/texts/28",
+            "#/texts/29"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015).",
+      "title": "Renta Básica Universal e Incondicional (RBUI) individual de 950 € al mes (120 % del umbral de pobreza)"
+    },
+    "partido-humanista-003": {
+      "status": "corregida",
+      "official_number": "Sec. 1 · Propuesta 3",
+      "official_text": {
+        "text": "Reducción legal de la jornada ordinaria laboral a 30 horas semanales distribuidas en 4 días, sin reducción del salario. Esta medida redistribuye el trabajo existente frente al impacto de la automatización, mejora la salud física y mental de los trabajadores y fomenta la conciliación personal y comunitaria.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            7
+          ],
+          "snippet": "Reducción legal de la jornada ordinaria laboral a 30 horas semanales distribuidas en 4 días, sin reducción del salario. Esta medida redistribuye el trabajo existente frente al impacto de la automatización, mejora la salud física y mental de los trabajadores y fomenta la conciliación personal y comunitaria.",
+          "docling_refs": [
+            "#/texts/37"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-004": {
+      "status": "corregida",
+      "official_number": "Sec. 1 · Propuesta 4",
+      "official_text": {
+        "text": "Creación de una Red Bancaria Pública a partir de la consolidación de entidades con participación estatal. La Banca Pública concederá créditos a tipo de interés 0% (cobrando únicamente gastos mínimos de gestión). Estos créditos serán destinados exclusivamente a la adquisición de primera vivienda habitual, proyectos de economía social y cooperativa, transición ecológica, pequeñas empresas y sociedades laborales y empresas participadas por los trabajadores.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            7
+          ],
+          "snippet": "Creación de una Red Bancaria Pública a partir de la consolidación de entidades con participación estatal. La Banca Pública concederá créditos a tipo de interés 0% (cobrando únicamente gastos mínimos de gestión). Estos créditos serán destinados exclusivamente a la adquisición de primera vivienda habitual, proyectos de economía social y cooperativa, transición ecológica, pequeñas empresas y sociedades laborales y empresas participadas por los trabajadores.",
+          "docling_refs": [
+            "#/texts/39"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-005": {
+      "status": "corregida",
+      "official_number": "Sec. 2 · Propuesta 1",
+      "official_text": {
+        "text": "Inversión pública sostenida durante 10 años para incorporar 2,5 millones de viviendas al Parque Público de Alquiler Social, mediante edificación ecológica en suelo público, rehabilitación urbana y la incorporación forzosa de viviendas en manos de entidades financieras y Sareb.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            8
+          ],
+          "snippet": "Inversión pública sostenida durante 10 años para incorporar 2,5 millones de viviendas al Parque Público de Alquiler Social, mediante edificación ecológica en suelo público, rehabilitación urbana y la incorporación forzosa de viviendas en manos de entidades financieras y Sareb.",
+          "docling_refs": [
+            "#/texts/49"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-006": {
+      "status": "corregida",
+      "official_number": "Sec. 2 · Propuesta 2",
+      "official_text": {
+        "text": "Prohibición por ley de la adquisición de viviendas residenciales por parte de fondos de capital riesgo y fondos buitre. Derogación del régimen fiscal privilegiado de las SOCIMIs (Sociedades Anónimas Cotizadas de Inversión en el Mercado Inmobiliario), equiparando su tributación al tipo general del Impuesto de Sociedades.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            8
+          ],
+          "snippet": "Prohibición por ley de la adquisición de viviendas residenciales por parte de fondos de capital riesgo y fondos buitre. Derogación del régimen fiscal privilegiado de las SOCIMIs (Sociedades Anónimas Cotizadas de Inversión en el Mercado Inmobiliario), equiparando su tributación al tipo general del Impuesto de Sociedades.",
+          "docling_refs": [
+            "#/texts/51"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-007": {
+      "status": "corregida",
+      "official_number": "Sec. 2 · Propuesta 3",
+      "official_text": {
+        "text": "Establecimiento de un límite máximo legal al precio del alquiler residencial: ningún contrato podrá superar el 30% de la renta media disponible del código postal correspondiente. Publicación obligatoria del Índice de Renta Máxima Residencial.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            9
+          ],
+          "snippet": "Establecimiento de un límite máximo legal al precio del alquiler residencial: ningún contrato podrá superar el 30% de la renta media disponible del código postal correspondiente. Publicación obligatoria del Índice de Renta Máxima Residencial.",
+          "docling_refs": [
+            "#/texts/54"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-008": {
+      "status": "corregida",
+      "official_number": "Sec. 2 · Propuesta 4",
+      "official_text": {
+        "text": "Las personas jurídicas y grandes tenedores (poseedores de más de 4 inmuebles residenciales) que mantengan viviendas desocupadas de forma injustificada por más de 12 meses deberán ceder temporalmente el uso del inmueble al parque público de alquiler por un período de hasta 8 años, garantizándoles una compensación basada en el mantenimiento de la propiedad.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            9
+          ],
+          "snippet": "Las personas jurídicas y grandes tenedores (poseedores de más de 4 inmuebles residenciales) que mantengan viviendas desocupadas de forma injustificada por más de 12 meses deberán ceder temporalmente el uso del inmueble al parque público de alquiler por un período de hasta 8 años, garantizándoles una compensación basada en el mantenimiento de la propiedad.",
+          "docling_refs": [
+            "#/texts/56"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-009": {
+      "status": "corregida",
+      "official_number": "Sec. 2 · Propuesta 5",
+      "official_text": {
+        "text": "Reforma de la Ley de Enjuiciamiento Civil para prohibir de forma absoluta cualquier lanzamiento o desahucio por motivos socioeconómicos sin que los servicios públicos garanticen con carácter previo una alternativa habitacional digna en la misma localidad.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            9
+          ],
+          "snippet": "Reforma de la Ley de Enjuiciamiento Civil para prohibir de forma absoluta cualquier lanzamiento o desahucio por motivos socioeconómicos sin que los servicios públicos garanticen con carácter previo una alternativa habitacional digna en la misma localidad.",
+          "docling_refs": [
+            "#/texts/58"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-010": {
+      "status": "corregida",
+      "official_number": "Sec. 3 · Propuesta 1",
+      "official_text": {
+        "text": "Derogación inmediata de la Ley 15/1997 y de todas las fórmulas de colaboración públicoprivada o concesiones administrativas en la sanidad pública. Blindaje en el artículo 43 de la Constitución de la gestión pública directa, universal y gratuita del SNS.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            11
+          ],
+          "snippet": "Derogación inmediata de la Ley 15/1997 y de todas las fórmulas de colaboración públicoprivada o concesiones administrativas en la sanidad pública. Blindaje en el artículo 43 de la Constitución de la gestión pública directa, universal y gratuita del SNS.",
+          "docling_refs": [
+            "#/texts/68"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-011": {
+      "status": "corregida",
+      "official_number": "Sec. 3 · Propuesta 2",
+      "official_text": {
+        "text": "Incremento progresivo de la inversión pública en sanidad hasta alcanzar el 9,5% del PIB en la legislatura, destinando como mínimo el 25% de este presupuesto a la Atención Primaria y Comunitaria.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            11
+          ],
+          "snippet": "Incremento progresivo de la inversión pública en sanidad hasta alcanzar el 9,5% del PIB en la legislatura, destinando como mínimo el 25% de este presupuesto a la Atención Primaria y Comunitaria.",
+          "docling_refs": [
+            "#/texts/70"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-012": {
+      "status": "corregida",
+      "official_number": "Sec. 3 · Propuesta 3",
+      "official_text": {
+        "text": "Contratación pública urgente de profesionales de la psicología clínica hasta garantizar una ratio de 20 psicólogos por cada 100.000 habitantes en Atención Primaria. Transformación del modelo biomédico hacia un enfoque psicosocial que aborde las causas estructurales del sufrimiento e implantación del fin absoluto de la contención mecánica y el aislamiento forzado.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            11
+          ],
+          "snippet": "Contratación pública urgente de profesionales de la psicología clínica hasta garantizar una ratio de 20 psicólogos por cada 100.000 habitantes en Atención Primaria. Transformación del modelo biomédico hacia un enfoque psicosocial que aborde las causas estructurales del sufrimiento e implantación del fin absoluto de la contención mecánica y el aislamiento forzado.",
+          "docling_refs": [
+            "#/texts/72"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-013": {
+      "status": "corregida",
+      "official_number": "Sec. 3 · Propuesta 4",
+      "official_text": {
+        "text": "Inclusión en la cartera pública 100% gratuita de la atención bucodental integral (incluyendo empastes, endodoncias y prótesis) y del servicio de salud visual básica (graduación y suministro de gafas o lentes de contacto gratuitas según prescripción médica).",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            11
+          ],
+          "snippet": "Inclusión en la cartera pública 100% gratuita de la atención bucodental integral (incluyendo empastes, endodoncias y prótesis) y del servicio de salud visual básica (graduación y suministro de gafas o lentes de contacto gratuitas según prescripción médica).",
+          "docling_refs": [
+            "#/texts/74"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015).",
+      "title": "Ampliación de la cartera común: atención bucodental integral y salud visual básica gratuita"
+    },
+    "partido-humanista-014": {
+      "status": "corregida",
+      "official_number": "Sec. 3 · Propuesta 5",
+      "official_text": {
+        "text": "Sustitución progresiva del modelo masificado y lucrativo de residencias privadas por una Red Pública de Centros de Convivencia Comunitarios humanizados (máximo 25 plazas por módulo). Equiparación salarial y condiciones laborales dignas para el personal de cuidados e integración en el sector público.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            11
+          ],
+          "snippet": "Sustitución progresiva del modelo masificado y lucrativo de residencias privadas por una Red Pública de Centros de Convivencia Comunitarios humanizados (máximo 25 plazas por módulo). Equiparación salarial y condiciones laborales dignas para el personal de cuidados e integración en el sector público.",
+          "docling_refs": [
+            "#/texts/76"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-015": {
+      "status": "corregida",
+      "official_number": "Sec. 4 · Propuesta 1",
+      "official_text": {
+        "text": "Fijación por ley de un suelo presupuestario del 7% del PIB destinado de forma exclusiva a la red pública de enseñanza. Integración progresiva y voluntaria de los centros concertados en la Red Única Pública, Laica y Gratuita.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            13
+          ],
+          "snippet": "Fijación por ley de un suelo presupuestario del 7% del PIB destinado de forma exclusiva a la red pública de enseñanza. Integración progresiva y voluntaria de los centros concertados en la Red Única Pública, Laica y Gratuita.",
+          "docling_refs": [
+            "#/texts/86"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-016": {
+      "status": "corregida",
+      "official_number": "Sec. 4 · Propuesta 2",
+      "official_text": {
+        "text": "Reducción legal del número máximo de estudiantes por aula a 15 alumnos en todas las etapas obligatorias (Infantil, Primaria y Secundaria), garantizando una educación personalizada, comprensiva y atenta a las diversas necesidades madurativas.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            13
+          ],
+          "snippet": "Reducción legal del número máximo de estudiantes por aula a 15 alumnos en todas las etapas obligatorias (Infantil, Primaria y Secundaria), garantizando una educación personalizada, comprensiva y atenta a las diversas necesidades madurativas.",
+          "docling_refs": [
+            "#/texts/88"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-017": {
+      "status": "corregida",
+      "official_number": "Sec. 4 · Propuesta 3",
+      "official_text": {
+        "text": "Introducción transversal en el currículo escolar de asignaturas prácticas de resolución pacífica de conflictos, educación emocional, pensamiento crítico, filosofía y ecología social. Garantía de laicidad absoluta en el entorno escolar.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            13
+          ],
+          "snippet": "Introducción transversal en el currículo escolar de asignaturas prácticas de resolución pacífica de conflictos, educación emocional, pensamiento crítico, filosofía y ecología social. Garantía de laicidad absoluta en el entorno escolar.",
+          "docling_refs": [
+            "#/texts/90"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-018": {
+      "status": "corregida",
+      "official_number": "Sec. 4 · Propuesta 4",
+      "official_text": {
+        "text": "Supresión total de las tasas de matriculación en las Universidades Públicas y en los ciclos formativos de Formación Profesional de Grado Medio y Superior. Sistema de becas de mantenimiento directas para estudiantes de familias de rentas medias y bajas.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            13
+          ],
+          "snippet": "Supresión total de las tasas de matriculación en las Universidades Públicas y en los ciclos formativos de Formación Profesional de Grado Medio y Superior. Sistema de becas de mantenimiento directas para estudiantes de familias de rentas medias y bajas.",
+          "docling_refs": [
+            "#/texts/92"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-019": {
+      "status": "corregida",
+      "official_number": "Sec. 4 · Propuesta 5",
+      "official_text": {
+        "text": "No renovación de los conciertos educativos al expirar sus plazos y supresión de deducciones fiscales a la enseñanza privada. El 100% del dinero público liberado se transferirá de forma blindada y directa a la red estatal para modernizar infraestructuras, financiar materiales y reforzar el personal de apoyo.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            13
+          ],
+          "snippet": "No renovación de los conciertos educativos al expirar sus plazos y supresión de deducciones fiscales a la enseñanza privada. El 100% del dinero público liberado se transferirá de forma blindada y directa a la red estatal para modernizar infraestructuras, financiar materiales y reforzar el personal de apoyo.",
+          "docling_refs": [
+            "#/texts/94"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-020": {
+      "status": "corregida",
+      "official_number": "Sec. 5 · Propuesta 1",
+      "official_text": {
+        "text": "Consideración del programa electoral como un contrato legal vinculante entre la formación política y el electorado. Todo aquel que no cumpla con lo prometido a sus electores arriesgue el desafuero, la destitución o el juicio político. Implantación del Referéndum Revocatorio a mitad de legislatura: si un gobierno incumple sus compromisos fundamentales sin causa de fuerza mayor justificada, la ciudadanía podrá convocar, mediante la recogida de 500.000 firmas, un referéndum para destituir al gobierno y convocar elecciones anticipadas.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            15
+          ],
+          "snippet": "Consideración del programa electoral como un contrato legal vinculante entre la formación política y el electorado. Todo aquel que no cumpla con lo prometido a sus electores arriesgue el desafuero, la destitución o el juicio político. Implantación del Referéndum Revocatorio a mitad de legislatura: si un gobierno incumple sus compromisos fundamentales sin causa de fuerza mayor justificada, la ciudadanía podrá convocar, mediante la recogida de 500.000 firmas, un referéndum para destituir al gobierno y convocar elecciones anticipadas.",
+          "docling_refs": [
+            "#/texts/105"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-021": {
+      "status": "corregida",
+      "official_number": "Sec. 5 · Propuesta 2",
+      "official_text": {
+        "text": "Desarrollo de una plataforma digital pública y con código abierto para la celebración de consultas ciudadanas vinculantes sobre leyes orgánicas, tratados internacionales y presupuestos participativos (fijando un 15% del presupuesto estatal sujeto a decisión directa).",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            15
+          ],
+          "snippet": "Desarrollo de una plataforma digital pública y con código abierto para la celebración de consultas ciudadanas vinculantes sobre leyes orgánicas, tratados internacionales y presupuestos participativos (fijando un 15% del presupuesto estatal sujeto a decisión directa).",
+          "docling_refs": [
+            "#/texts/107"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015).",
+      "title": "Plataforma digital pública de código abierto para consultas vinculantes y presupuestos participativos"
+    },
+    "partido-humanista-022": {
+      "status": "corregida",
+      "official_number": "Sec. 5 · Propuesta 3",
+      "official_text": {
+        "text": "Modificación integral de la ley electoral para implantar la circunscripción única estatal en el Congreso de los Diputados, superando la distorsión del reparto provincial que beneficia al bipartidismo. Supresión de las barreras porcentuales mínimas artificiales para garantizar que todos los votos valgan lo mismo y tengan representación efectiva.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            15
+          ],
+          "snippet": "Modificación integral de la ley electoral para implantar la circunscripción única estatal en el Congreso de los Diputados, superando la distorsión del reparto provincial que beneficia al bipartidismo. Supresión de las barreras porcentuales mínimas artificiales para garantizar que todos los votos valgan lo mismo y tengan representación efectiva.",
+          "docling_refs": [
+            "#/texts/109"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-023": {
+      "status": "corregida",
+      "official_number": "Sec. 5 · Propuesta 4",
+      "official_text": {
+        "text": "Elección directa de los vocales del Consejo General del Poder Judicial (CGPJ) y Magistrados del Tribunal Constitucional mediante candidaturas independientes sometidas a sufragio de la ciudadanía y juristas de reconocido prestigio, eliminando el cuoteo entre partidos políticos.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            15
+          ],
+          "snippet": "Elección directa de los vocales del Consejo General del Poder Judicial (CGPJ) y Magistrados del Tribunal Constitucional mediante candidaturas independientes sometidas a sufragio de la ciudadanía y juristas de reconocido prestigio, eliminando el cuoteo entre partidos políticos.",
+          "docling_refs": [
+            "#/texts/111"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-024": {
+      "status": "corregida",
+      "official_number": "Sec. 6 · Propuesta 1",
+      "official_text": {
+        "text": "Inicio del proceso legal de salida de España de la estructura militar de la OTAN. Declaración de España como estado soberano de Neutralidad Activa, consagrado a la mediación de paz, la diplomacia preventiva y la cooperación internacional.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            17
+          ],
+          "snippet": "Inicio del proceso legal de salida de España de la estructura militar de la OTAN. Declaración de España como estado soberano de Neutralidad Activa, consagrado a la mediación de paz, la diplomacia preventiva y la cooperación internacional.",
+          "docling_refs": [
+            "#/texts/121"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-025": {
+      "status": "corregida",
+      "official_number": "Sec. 6 · Propuesta 2",
+      "official_text": {
+        "text": "Adhesión e inmediata ratificación por parte del Estado español del Tratado sobre la Prohibición de las Armas Nucleares (TPAN) adoptado por la ONU.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            17
+          ],
+          "snippet": "Adhesión e inmediata ratificación por parte del Estado español del Tratado sobre la Prohibición de las Armas Nucleares (TPAN) adoptado por la ONU.",
+          "docling_refs": [
+            "#/texts/123"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-026": {
+      "status": "corregida",
+      "official_number": "Sec. 6 · Propuesta 3",
+      "official_text": {
+        "text": "Cierre programado y desmantelamiento de las instalaciones militares extranjeras en territorio nacional (Bases de Rota y Morón) y su reconversión pública en centros tecnológicos de investigación marina, logística humanitaria y energías renovables.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            17
+          ],
+          "snippet": "Cierre programado y desmantelamiento de las instalaciones militares extranjeras en territorio nacional (Bases de Rota y Morón) y su reconversión pública en centros tecnológicos de investigación marina, logística humanitaria y energías renovables.",
+          "docling_refs": [
+            "#/texts/125"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-027": {
+      "status": "corregida",
+      "official_number": "Sec. 6 · Propuesta 4",
+      "official_text": {
+        "text": "Reducción a la mitad de las partidas presupuestarias de gasto militar en un plazo de dos años. Reconversión orientada de la industria de defensa hacia la producción de tecnologías de transporte limpio, salud y bienes de capital civil.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            17
+          ],
+          "snippet": "Reducción a la mitad de las partidas presupuestarias de gasto militar en un plazo de dos años. Reconversión orientada de la industria de defensa hacia la producción de tecnologías de transporte limpio, salud y bienes de capital civil.",
+          "docling_refs": [
+            "#/texts/127"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-028": {
+      "status": "corregida",
+      "official_number": "Sec. 6 · Propuesta 5",
+      "official_text": {
+        "text": "La no violencia activa es la metodología de acción que no se limita al rechazo de la violencia física, económica, racial, religiosa, sexual, psicológica y moral, sino que propone una forma de acción política y social orientada a transformar las condiciones que generan sufrimiento y discriminación. Apoyo a las medidas que buscan reparar discriminaciones históricas y desigualdades que afectan a determinados sectores de la sociedad -sean estos mayorías o minorías-. Visibilización de los aportes que realizan al conjunto social, aunque no coincidan con los que hoy ocupan un lugar central.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            17
+          ],
+          "snippet": "La no violencia activa es la metodología de acción que no se limita al rechazo de la violencia física, económica, racial, religiosa, sexual, psicológica y moral, sino que propone una forma de acción política y social orientada a transformar las condiciones que generan sufrimiento y discriminación. Apoyo a las medidas que buscan reparar discriminaciones históricas y desigualdades que afectan a determinados sectores de la sociedad -sean estos mayorías o minorías-. Visibilización de los aportes que realizan al conjunto social, aunque no coincidan con los que hoy ocupan un l...",
+          "docling_refs": [
+            "#/texts/129",
+            "#/texts/130"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015).",
+      "title": "Lucha contra la desigualdad y toda forma de discriminación mediante la no violencia activa"
+    },
+    "partido-humanista-029": {
+      "status": "corregida",
+      "official_number": "Sec. 7 · Propuesta 1",
+      "official_text": {
+        "text": "Derogación de la legislación de extranjería sancionadora y cierre definitivo e incondicional en un plazo de 60 días de todos los Centros de Internamiento de Extranjeros (CIE).",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            18
+          ],
+          "snippet": "Derogación de la legislación de extranjería sancionadora y cierre definitivo e incondicional en un plazo de 60 días de todos los Centros de Internamiento de Extranjeros (CIE).",
+          "docling_refs": [
+            "#/texts/139"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-030": {
+      "status": "corregida",
+      "official_number": "Sec. 7 · Propuesta 2",
+      "official_text": {
+        "text": "Apertura de vías legales, estables y seguras para los flujos migratorios. Regularización administrativa inmediata de todas las personas migrantes residentes actualmente en España, reconociendo de pleno derecho sus aportaciones fiscales y sociales. Derecho a elegir y ser elegidos en todas las convocatorias electorales a las personas que lleven viviendo en España más de tres años.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            19
+          ],
+          "snippet": "Apertura de vías legales, estables y seguras para los flujos migratorios. Regularización administrativa inmediata de todas las personas migrantes residentes actualmente en España, reconociendo de pleno derecho sus aportaciones fiscales y sociales. Derecho a elegir y ser elegidos en todas las convocatorias electorales a las personas que lleven viviendo en España más de tres años.",
+          "docling_refs": [
+            "#/texts/142"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015).",
+      "title": "Vías legales seguras, regularización administrativa de residentes y derecho al voto tras 3 años"
+    },
+    "partido-humanista-031": {
+      "status": "corregida",
+      "official_number": "Sec. 7 · Propuesta 3",
+      "official_text": {
+        "text": "Desarrollo de un Plan Estatal de Acogida y Convivencia Intercultural centrado en la escuela pública como eje vertebrador de la cohesión comunitaria. Garantía de acceso inmediato a la formación lingüística, planes de inmersión escolar con refuerzo docente en el barrio y mediación cultural para las familias. Se erradicará cualquier traba burocrática en la homologación de títulos y en la escolarización de menores, promoviendo espacios vecinales de encuentro e intercambio y educando en la no discriminación activa para transformar la diversidad en enriquecimiento social y superar el aislamiento y la exclusión.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            19
+          ],
+          "snippet": "Desarrollo de un Plan Estatal de Acogida y Convivencia Intercultural centrado en la escuela pública como eje vertebrador de la cohesión comunitaria. Garantía de acceso inmediato a la formación lingüística, planes de inmersión escolar con refuerzo docente en el barrio y mediación cultural para las familias. Se erradicará cualquier traba burocrática en la homologación de títulos y en la escolarización de menores, promoviendo espacios vecinales de encuentro e intercambio y educando en la no discriminación activa para transformar la diversidad en enriquecimiento social y sup...",
+          "docling_refs": [
+            "#/texts/144"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-032": {
+      "status": "corregida",
+      "official_number": "Sec. 8 · Propuesta 1",
+      "official_text": {
+        "text": "Creación de la Empresa Pública \"Energía Humana\" para asumir la gestión pública de centrales hidroeléctricas recuperadas. Financiación pública al 100% de la instalación de comunidades energéticas solares en tejados de viviendas particulares y polígonos industriales, protegiendo el suelo agrícola frente a grandes macroparques fotovoltaicos especulativos.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            21
+          ],
+          "snippet": "Creación de la Empresa Pública \"Energía Humana\" para asumir la gestión pública de centrales hidroeléctricas recuperadas. Financiación pública al 100% de la instalación de comunidades energéticas solares en tejados de viviendas particulares y polígonos industriales, protegiendo el suelo agrícola frente a grandes macroparques fotovoltaicos especulativos.",
+          "docling_refs": [
+            "#/texts/154"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-033": {
+      "status": "corregida",
+      "official_number": "Sec. 8 · Propuesta 2",
+      "official_text": {
+        "text": "Gratuidad total del transporte público en trenes de Cercanías, Media Distancia y redes de autobús urbano e interurbano. Plan prioritario de inversiones para la modernización y electrificación de las líneas de tren convencional que cohesionan el medio rural.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            21
+          ],
+          "snippet": "Gratuidad total del transporte público en trenes de Cercanías, Media Distancia y redes de autobús urbano e interurbano. Plan prioritario de inversiones para la modernización y electrificación de las líneas de tren convencional que cohesionan el medio rural.",
+          "docling_refs": [
+            "#/texts/156"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015).",
+      "title": "Gratuidad total del transporte público ferroviario y de autobús y electrificación del tren convencional"
+    },
+    "partido-humanista-034": {
+      "status": "corregida",
+      "official_number": "Sec. 8 · Propuesta 3",
+      "official_text": {
+        "text": "Moratoria inmediata a la construcción o ampliación de macrogranjas ganaderas intensivas. Persecución penal del robo de agua y pozos ilegales que agotan acuíferos clave (como Doñana, Acuífero 23 o el Mar Menor). Subvenciones directas y preferencia comercial a la agricultura familiar ecológica y de proximidad.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            21
+          ],
+          "snippet": "Moratoria inmediata a la construcción o ampliación de macrogranjas ganaderas intensivas. Persecución penal del robo de agua y pozos ilegales que agotan acuíferos clave (como Doñana, Acuífero 23 o el Mar Menor). Subvenciones directas y preferencia comercial a la agricultura familiar ecológica y de proximidad.",
+          "docling_refs": [
+            "#/texts/158"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-035": {
+      "status": "corregida",
+      "official_number": "Sec. 9 (IA)",
+      "official_text": {
+        "text": "La IA debe ponerse al servicio de la especie, no ser una herramienta en manos de unos pocos para acumular mayor poder y riqueza Existen diversos estudios sobre cómo hacer que esta formidable herramienta, la IA, deje de estar en unas pocas manos y tenga un control democrático y en beneficio de toda la población. Esto requiere de una voluntad política y de una organización social en la base que lo permita.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            22,
+            23
+          ],
+          "snippet": "La IA debe ponerse al servicio de la especie, no ser una herramienta en manos de unos pocos para acumular mayor poder y riqueza Existen diversos estudios sobre cómo hacer que esta formidable herramienta, la IA, deje de estar en unas pocas manos y tenga un control democrático y en beneficio de toda la población. Esto requiere de una voluntad política y de una organización social en la base que lo permita.",
+          "docling_refs": [
+            "#/texts/161",
+            "#/texts/170"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015).",
+      "title": "Control democrático de la Inteligencia Artificial en beneficio de toda la población"
+    },
+    "partido-humanista-036": {
+      "status": "corregida",
+      "official_number": "Sec. 9 (IA y trabajo)",
+      "official_text": {
+        "text": "Otra posibilidad que se abre es la de que por fin el ser humano pueda realizar la tan ansiada aspiración de QUE TRABAJEN LAS MÁQUINAS. Lógicamente esta liberación (como en su momento lo fue la de la esclavitud) es incompatible con el actual modelo económico y la actual mentalidad. Requiere un cambio en el concepto de propiedad, un cambio en el concepto de trabajo, en la organización social, en el sistema de valores, en definitiva, en el sentido de la vida de la gente.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            23
+          ],
+          "snippet": "Otra posibilidad que se abre es la de que por fin el ser humano pueda realizar la tan ansiada aspiración de QUE TRABAJEN LAS MÁQUINAS. Lógicamente esta liberación (como en su momento lo fue la de la esclavitud) es incompatible con el actual modelo económico y la actual mentalidad. Requiere un cambio en el concepto de propiedad, un cambio en el concepto de trabajo, en la organización social, en el sistema de valores, en definitiva, en el sentido de la vida de la gente.",
+          "docling_refs": [
+            "#/texts/168"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015).",
+      "title": "Liberación del trabajo humano ante la automatización ('Que trabajen las máquinas')"
+    },
+    "partido-humanista-037": {
+      "status": "corregida",
+      "official_number": "Sec. 10 · Propuesta 1",
+      "official_text": {
+        "text": "Propuesta 1: Hay que dotar de competencias, y de presupuesto, a las distintas administraciones llegando hasta el nivel del municipio, y colocando en este nivel el mayor grado de decisión, competencias y presupuesto. Y de ahí para arriba, por acuerdo y delegación.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            26
+          ],
+          "snippet": "Propuesta 1: Hay que dotar de competencias, y de presupuesto, a las distintas administraciones llegando hasta el nivel del municipio, y colocando en este nivel el mayor grado de decisión, competencias y presupuesto. Y de ahí para arriba, por acuerdo y delegación.",
+          "docling_refs": [
+            "#/texts/187"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015)."
+    },
+    "partido-humanista-038": {
+      "status": "corregida",
+      "official_number": "Sec. 10 · Propuesta 2",
+      "official_text": {
+        "text": "Respecto a la Jefatura del Estado, el hecho de que sea de sucesión hereditaria es para los humanistas algo anacrónico e irracional que se mantiene porque su actual importancia es simbólica. No obstante, los símbolos juegan su papel y el de la monarquía hereditaria es totalmente contrario al principio de \"nada por encima del ser humano y ningún ser humano por debajo de otro\". Para nosotros la Jefatura del Estado como cualquier otro puesto político debe ser elegido por la gente, sujeto a las mismas leyes que los demás ciudadanos y a la posibilidad de ser revocado por el pueblo, quién detenta la verdadera soberanía según la Constitución. Propuesta 2: El Estado y sus diferentes instituciones, como cualquier otra construcción humana, son históricas y por tanto sujetas a variación. Además, deben ser elegidas democráticamente.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            25,
+            26
+          ],
+          "snippet": "Respecto a la Jefatura del Estado, el hecho de que sea de sucesión hereditaria es para los humanistas algo anacrónico e irracional que se mantiene porque su actual importancia es simbólica. No obstante, los símbolos juegan su papel y el de la monarquía hereditaria es totalmente contrario al principio de \"nada por encima del ser humano y ningún ser humano por debajo de otro\". Para nosotros la Jefatura del Estado como cualquier otro puesto político debe ser elegido por la gente, sujeto a las mismas leyes que los demás ciudadanos y a la posibilidad de ser revocado por el pu...",
+          "docling_refs": [
+            "#/texts/184",
+            "#/texts/188"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015).",
+      "title": "Elección democrática de todas las instituciones del Estado, incluida la Jefatura del Estado"
+    },
+    "partido-humanista-039": {
+      "status": "corregida",
+      "official_number": "Sec. 11 (Laicidad)",
+      "official_text": {
+        "text": "El Partido Humanista defiende la libertad de ideas y creencias y denuncia la violencia que se manifiesta en la acción de despojar de intención y de libertad al ser humano o a conjuntos humanos. Toda persona tiene derecho a pensar libremente, elegir y expresar sus propias creencias, sean religiosas, filosóficas, agnósticas o ateas y no sufrir discriminación ni persecución por sus ideas o convicciones. Desde la perspectiva humanista, el Estado debe garantizar esta libertad manteniendo una posición laica y asegurando la igualdad de todas las personas, independientemente de sus creencias.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            27
+          ],
+          "snippet": "El Partido Humanista defiende la libertad de ideas y creencias y denuncia la violencia que se manifiesta en la acción de despojar de intención y de libertad al ser humano o a conjuntos humanos. Toda persona tiene derecho a pensar libremente, elegir y expresar sus propias creencias, sean religiosas, filosóficas, agnósticas o ateas y no sufrir discriminación ni persecución por sus ideas o convicciones. Desde la perspectiva humanista, el Estado debe garantizar esta libertad manteniendo una posición laica y asegurando la igualdad de todas las personas, independientemente de ...",
+          "docling_refs": [
+            "#/texts/191"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015).",
+      "title": "Libertad de ideas y creencias, posición laica del Estado e igualdad ante la ley"
+    },
+    "partido-humanista-040": {
+      "status": "corregida",
+      "official_number": "Sec. 11 (Soberanía corporal)",
+      "official_text": {
+        "text": "Hay cuestiones que se aclaran teniendo en cuenta este principio. Por ejemplo, respecto al derecho al aborto, son las mujeres quienes deben decidir sobre su cuerpo y su futuro de acuerdo a sus creencias. Aquellas que decidan abortar han de ser apoyadas, garantizándose que pueden hacerlo libremente, con el aval de la ley, de forma gratuita y en los servicios de salud públicos. También las que decidan llevar adelante su embarazo deberían contar con el respaldo de las instituciones y con recursos económicos y sociales, independientemente de su condición y de su orientación ideológica, religiosa, sexual o social. Además del derecho a interrumpir voluntariamente el embarazo, se debe garantizar el acceso a una educación sexual y reproductiva desde la infancia y a medios anticonceptivos sin restricciones. Para los humanistas, \"el ser humano es el ser histórico, cuyo modo de acción social transforma a su propia naturaleza\". El ser humano puede transformar incluso su propia constitución física, como está sucediendo con la instalación de prótesis o la intervención en sus genes. Las técnicas de reproducción asistida están permitiendo sobrepasar las limitaciones impuestas por la naturaleza, generando la opción de dar vida a personas con dificultades para el embarazo, o del mismo sexo y abriendo la puerta a desvincular la reproducción de la especie de determinados modelos. Esa liberación, que afecta de manera especial a las mujeres, generará nuevos modelos de relación y nuevos sistemas sociales. El ser humano es dueño de su destino y, por consecuencia, libre de disponer absolutamente de su cuerpo.",
+        "language": "es"
+      },
+      "evidence": [
+        {
+          "pages": [
+            27
+          ],
+          "snippet": "Hay cuestiones que se aclaran teniendo en cuenta este principio. Por ejemplo, respecto al derecho al aborto, son las mujeres quienes deben decidir sobre su cuerpo y su futuro de acuerdo a sus creencias. Aquellas que decidan abortar han de ser apoyadas, garantizándose que pueden hacerlo libremente, con el aval de la ley, de forma gratuita y en los servicios de salud públicos. También las que decidan llevar adelante su embarazo deberían contar con el respaldo de las instituciones y con recursos económicos y sociales, independientemente de su condición y de su orientación i...",
+          "docling_refs": [
+            "#/texts/192",
+            "#/texts/193"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Texto oficial y metadatos cotejados literalmente contra Docling (N1) sustituyendo paráfrasis de N2 (Remediación E-2, ADR D-015).",
+      "title": "Libertad para decidir sobre el propio cuerpo, aborto libre y gratuito en la sanidad pública y reproducción asistida"
+    }
+  }
+}

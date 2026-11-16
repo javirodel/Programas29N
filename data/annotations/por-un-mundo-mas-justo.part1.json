@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "por-un-mundo-mas-justo",
+  "entries": {
+    "por-un-mundo-mas-justo-001": {
+      "status": "corregida",
+      "summary": "Propone ampliar el parque de vivienda social y asequible en alquiler bajo control público o social hasta alcanzar el 5 % del parque total en 2030 (al menos 1,35 millones de viviendas permanentes) y el 10 % en la década siguiente, con una hoja de ruta hasta el 20 % a largo plazo (10 % en 2035, 15 % en 2040-45). Las rentas se revisarán anualmente al alza o a la baja según la situación económica del hogar sin superar el 30 % de la renta familiar, con un esfuerzo presupuestario estatal recomendado de 10.000-15.000 M€/año hasta 2030.",
+      "arguments_for": "El programa de M+J cifra el parque social español en el 1,1 %, y los datos oficiales del Ministerio de Vivienda (MIVAU) sitúan el parque público o protegido en alquiler entre el 1,5 % y el 3,4 % según el cómputo, muy por debajo de la media europea (~8-9,3 %) o de países como Austria (~23-24 %) y Países Bajos (>30 %). El Observatorio de Emancipación del Consejo de la Juventud de España (2025) indica que alquilar en solitario exige de media el 98,7 % del salario neto joven.",
+      "sources_for": [
+        {
+          "title": "Vivienda social en España",
+          "publisher": "Ministerio de Vivienda y Agenda Urbana (MIVAU)",
+          "url": "https://www.mivau.gob.es/vivienda/vivienda-social-en-espana"
+        },
+        {
+          "title": "Observatorio de Emancipación 2025",
+          "publisher": "Consejo de la Juventud de España (CJE)",
+          "url": "https://www.cje.org/ca/observatorio_2025/",
+          "date": "2025"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Plan Estatal de Vivienda 2026-2030",
+          "publisher": "Ministerio de Vivienda y Agenda Urbana (MIVAU)",
+          "url": "https://www.mivau.gob.es/vivienda/plan-estatal-de-vivienda/plan-2026-2030/plan-estatal-de-la-vivienda-2026-2030",
+          "date": "2026"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Corregido summary (incluye hoja de ruta presupuestaria, revisión anual al alza/baja y elimina términos no literales) y precisado alcance del 1,1 % frente a estadísticas MIVAU; verificadas cifras CJE (98,7 %) y Plan Estatal 2026-2030 (4.200 M€ estatales)."
+    },
+    "por-un-mundo-mas-justo-002": {
+      "status": "corregida",
+      "summary": "Plantea garantizar el carácter permanente de toda vivienda protegida, actualizando su precio máximo de venta exclusivamente según el IPC bajo supervisión administrativa. Reconoce el derecho de tanteo y retracto de la Administración en cada transmisión y prohíbe la venta, cesión o transferencia de viviendas públicas en alquiler a empresas privadas bajo cualquier fórmula jurídica.",
+      "sources_for": [
+        {
+          "title": "Informe sobre el derecho a la vivienda",
+          "publisher": "Defensor del Pueblo",
+          "url": "https://www.defensordelpueblo.es/wp-content/uploads/2026/11/Informe_Derecho_Vivienda.pdf",
+          "date": "2026"
+        },
+        {
+          "title": "Vivienda: cimiento de las desigualdades",
+          "publisher": "Oxfam Intermón",
+          "url": "https://www.oxfamintermon.org/es/publicacion/vivienda-cimiento-desigualdades"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Constitución Española (art. 148.1.3ª)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/biblioteca_juridica/codigos/pdf/160_Constitucion_Espanola_________________La_Constitution_Espagnole.pdf"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Corregido summary para ceñirse al término literal \"empresas privadas\". Verificados informes de Defensor del Pueblo y Oxfam Intermón sobre descalificación de VPO y art. 148.1.3ª CE."
+    },
+    "por-un-mundo-mas-justo-003": {
+      "status": "corregida",
+      "summary": "Propone priorizar la construcción de vivienda social y asequible y la rehabilitación de edificios públicos mediante cambios de uso, inventariar los inmuebles públicos infrautilizados (especialmente céntricos) para destinarlos a vivienda, prohibir la venta de suelo público y la monetización de aprovechamientos urbanísticos compensando con financiación extraordinaria a los ayuntamientos, fijar reservas y tanteo y retracto para el tercer sector, y auditar valoraciones e inversiones inmobiliarias públicas.",
+      "arguments_for": "El Estado ha impulsado el traspaso de cerca de 40.000 viviendas y 2.400 suelos de Sareb al parque público a través de Sepes para ampliar la oferta residencial asequible sin consumir nuevo suelo periférico.",
+      "sources_for": [
+        {
+          "title": "Traspaso de vivienda y suelo de Sareb al parque público",
+          "publisher": "Ministerio de Vivienda y Agenda Urbana (MIVAU)",
+          "url": "https://www.mivau.gob.es/vivienda/traspaso-vivienda-y-suelo-sareb"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Texto Refundido de la Ley de Suelo y Rehabilitación Urbana (RDL 7/2015)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11723",
+          "date": "2015"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Corregido summary para incorporar la auditoría de valoraciones e inversiones públicas. Sustituida referencia imprecisa al Ministerio de Hacienda por el plan verificado de traspaso de activos de Sareb/MIVAU."
+    },
+    "por-un-mundo-mas-justo-004": {
+      "status": "corregida",
+      "summary": "Establece un alquiler de referencia y límites de precio según características y localización, creando un organismo independiente de control y denuncia. Fija los contratos de alquiler de vivienda habitual como indefinidos, rescindibles solo por necesidad acreditada de la persona propietaria o familiares directos o por incumplimiento de la persona inquilina, manteniendo el contrato si se vende la vivienda y reconociendo derecho preferente de compra al inquilino.",
+      "arguments_for": "El Banco de España constata en sus análisis sobre el mercado de la vivienda que cerca del 40 % de los hogares que viven de alquiler en España se encuentran en situación de sobreesfuerzo financiero, destinando más del 40 % de su renta al pago del alquiler y suministros, especialmente entre jóvenes y hogares de menores ingresos en grandes urbes.",
+      "sources_for": [
+        {
+          "title": "El mercado de la vivienda en España (Informe Anual)",
+          "publisher": "Banco de España",
+          "url": "https://www.bde.es/f/webbe/SES/Secciones/Publicaciones/PublicacionesAnuales/InformesAnuales/25/Fich/IIPP-2026-06-18-lopez-salido-es-or.pdf",
+          "date": "2026"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "El FMI recomienda reevaluar el control de precios del alquiler en España si reduce la oferta",
+          "publisher": "Servimedia",
+          "url": "https://www.servimedia.es/noticias/fmi-recomienda-reevaluar-control-precios-alquiler-abandonarlo-si-reduce-oferta/1411589488"
+        },
+        {
+          "title": "Constitución Española (art. 33)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/biblioteca_juridica/codigos/pdf/160_Constitucion_Espanola_________________La_Constitution_Espagnole.pdf"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Completado summary con el derecho preferente de compra y necesidad de familiares directos. Eliminada cifra no verificada del >60 % en década y contrastados datos del Banco de España, FMI y UPF."
+    },
+    "por-un-mundo-mas-justo-005": {
+      "status": "corregida",
+      "summary": "Propone medidas para quienes alquilan una o dos viviendas como personas físicas: incentivos fiscales al alquiler social diferenciando entre grandes y pequeñas propietarias, creación de un seguro público de alquiler que cubra impagos y desperfectos cuando se alquile a precio igual o inferior al de referencia, incentivos para movilizar viviendas vacías y mecanismos públicos de compensación para evitar que el coste de protección frente a desahucios recaiga sobre pequeñas propietarias que dependan de esa renta para subsistir.",
+      "arguments_for": "Estimaciones oficiales utilizadas en la normativa estatal de vivienda sitúan en torno al 85 % las viviendas en alquiler en manos de personas físicas o pequeños propietarios, por lo que cubrir impagos y desperfectos reduce la aversión al riesgo y facilita la salida al mercado de inmuebles residenciales.",
+      "sources_for": [
+        {
+          "title": "El mapa imposible del alquiler en España: qué porcentaje está en manos de pequeños propietarios",
+          "publisher": "elDiario.es",
+          "url": "https://www.eldiario.es/economia/mapa-imposible-alquiler-espana_1_8182477.html"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Plan Estatal de Vivienda 2026-2030",
+          "publisher": "Ministerio de Vivienda y Agenda Urbana (MIVAU)",
+          "url": "https://www.mivau.gob.es/vivienda/plan-estatal-de-vivienda/plan-2026-2030/plan-estatal-de-la-vivienda-2026-2030",
+          "date": "2026"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Corregido summary (eliminado \"al 100 %\" y \"moratorias\" no presentes en el texto oficial) y precisada la atribución estadística del ~85 % de pequeños propietarios."
+    },
+    "por-un-mundo-mas-justo-006": {
+      "status": "corregida",
+      "summary": "Propone agilizar la construcción de vivienda pública simplificando trámites y flexibilizando el Código Técnico de la Edificación (CTE) siempre que se asegure la habitabilidad y la calidad, mediante convenios con colegios profesionales, un registro de constructoras y promotoras acreditadas y bonificaciones para promoción pública desarrollada por privadas asegurando el beneficio por la Administración sin preocupación por ventas o alquileres.",
+      "arguments_for": "La Confederación Nacional de la Construcción (CNC) advierte de que las licencias municipales de obra se demoran habitualmente una media de 12 meses (y hasta 24 meses en grandes proyectos frente al plazo legal de 3 meses), generando sobrecostes estimados en torno a 13.000 euros por vivienda según los colegios de arquitectos.",
+      "sources_for": [
+        {
+          "title": "España cuadruplica el plazo legal para conceder licencias de vivienda",
+          "publisher": "El Español / CNC",
+          "url": "https://www.elespanol.com/invertia/observatorios/vivienda/20260918/espana-cuadruplica-plazo-legal-conceder-licencias-vivienda-espera-encarece-casa-euros/1003744387166_0.html",
+          "date": "2026"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Directiva (UE) 2024/1275 relativa a la eficiencia energética de los edificios (EPBD)",
+          "publisher": "EUR-Lex",
+          "url": "https://eur-lex.europa.eu/legal-content/ES/ALL/?uri=CELEX:32024L1275",
+          "date": "2024"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Corregido summary (ceñido a términos literales) y sustituido porcentaje no verificado (8-12 %) por el dato contrastado de la CNC (~12-24 meses y ~13.000 €/vivienda); verificada Directiva EPBD 2024/1275."
+    },
+    "por-un-mundo-mas-justo-007": {
+      "status": "corregida",
+      "arguments_for": "El Censo de Población y Viviendas del INE cifró en 3.837.328 las viviendas vacías en España (14,4 % del parque total). Estudios técnicos de edificación estiman que rehabilitar inmuebles existentes reduce de forma sustancial las emisiones de carbono incorporado frente a la obra nueva y ayuda a revitalizar cascos urbanos consolidados.",
+      "sources_for": [
+        {
+          "title": "Viviendas vacías en España según el Censo del INE",
+          "publisher": "EpData / INE",
+          "url": "https://www.epdata.es/datos/viviendas-vacias-espana-graficos/622"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "El recargo del IBI a las viviendas vacías en la Ley 12/2023 por el Derecho a la Vivienda",
+          "publisher": "GTT Boletín Jurídico",
+          "url": "https://www.gtt.es/boletinjuridico/ibi-aprobada-la-ley-12-2023-por-el-derecho-a-la-vivienda/",
+          "date": "2023"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Verificado el dato del INE (3.837.328 viviendas vacías) y el régimen potestativo municipal del recargo del IBI (art. 72 TRLRHL / Ley 12/2023). Eliminada cifra exacta no verificada del 60 % de huella de carbono."
+    },
+    "por-un-mundo-mas-justo-008": {
+      "status": "corregida",
+      "summary": "Establece un régimen impositivo exponencial según el número de compras de viviendas (particulares o sociedades) y fiscalidades extraordinarias para limitar la acumulación, en especial de vivienda turística. Contempla investigar la titularidad real de las sociedades para evitar sociedades pantalla e imponer un régimen impositivo especial en la compra o alquiler de viviendas por encima de un precio límite para las personas extranjeras.",
+      "arguments_for": "Según estadísticas del Colegio de Registradores de la Propiedad, en comunidades como Baleares y Canarias alrededor de un tercio de las compraventas de viviendas son realizadas por compradores extranjeros, intensificando la presión sobre los precios en zonas de alta demanda turística.",
+      "sources_for": [
+        {
+          "title": "Los extranjeros compran un tercio de las viviendas en Baleares y Canarias",
+          "publisher": "Colegio de Registradores de España",
+          "url": "https://www.registradores.org/-/los-extranjeros-compran-un-tercio-de-las-viviendas-en-baleares-y-canarias"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Adquisición de bienes inmuebles y libre circulación de capitales en la UE (art. 63 TFUE)",
+          "publisher": "EUR-Lex",
+          "url": "https://eur-lex.europa.eu/ES/legal-content/summary/purchasing-property-in-other-eu-countries.html"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Corregido summary (el texto oficial dice \"personas extranjeras\" en compra o alquiler, sin restringir a no comunitarios/no residentes). Eliminada referencia no verificada a Eurostat en datos a favor."
+    },
+    "por-un-mundo-mas-justo-009": {
+      "status": "corregida",
+      "summary": "Propone crear una Agencia Pública nacional, coordinada con Comunidades Autónomas y municipios, para que cualquier persona consulte gratuitamente el alquiler medio de su zona, el alquiler de referencia, el precio máximo legal, sus derechos, ayudas disponibles, condiciones contractuales y vías de reclamación, facilitando denunciar alquileres ilegales o abusivos sin necesitar conocimientos jurídicos expertos.",
+      "arguments_for": "Demandas de sindicatos de inquilinas y asociaciones como FACUA, junto con informes y expedientes del Ministerio de Derechos Sociales y Consumo, han constatado el uso extendido de cláusulas abusivas y cobros indebidos de honorarios o seguros en contratos de alquiler, motivando anulaciones judiciales y sanciones administrativas.",
+      "arguments_against": "La puesta en marcha de una nueva agencia estatal con despliegue coordinado puede generar solapamientos competenciales y duplicidades administrativas con las Oficinas Municipales de Información al Consumidor (OMIC) y los servicios autonómicos de vivienda y consumo, además de requerir dotación presupuestaria permanente.",
+      "sources_for": [
+        {
+          "title": "Una jueza anula por abusivas siete cláusulas del contrato de un gran tenedor con una inquilina",
+          "publisher": "FACUA",
+          "url": "https://facua.org/noticias/una-jueza-anula-por-abusivas-siete-clausulas-del-contrato-del-fondo-azora-con-una-inquilina-en-barcelona/"
+        },
+        {
+          "title": "Informe sobre cláusulas abusivas en contratos de alquiler",
+          "publisher": "Ministerio de Derechos Sociales, Consumo y Agenda 2030",
+          "url": "https://www.dsca.gob.es/sites/default/files/consumo_masinfo/informe_clausulas_abusivas_vweb.pdf"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Constitución Española (art. 148.1.3ª sobre competencias de vivienda)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/biblioteca_juridica/codigos/pdf/160_Constitucion_Espanola_________________La_Constitution_Espagnole.pdf"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Corregido summary (no incluye asistencia letrada gratuita sino herramienta informativa y de denuncia accesible). Eliminada cifra no verificada del \"70 %\" y estimación no contrastada de \"decenas de millones de euros\"."
+    },
+    "por-un-mundo-mas-justo-010": {
+      "status": "corregida",
+      "summary": "Integra vivienda y urbanismo en una misma política para priorizar tejidos urbanos de proximidad y habitabilidad que reduzcan la movilidad, preservar el comercio de proximidad (incluso limitando comercios gentrificantes), recuperar el espacio público y fijar plazos obligatorios en nuevos desarrollos para que, si se incumplen, la Administración ejecute vivienda pública adquiriendo las parcelas por el valor del suelo según su derecho.",
+      "arguments_for": "Análisis del Ministerio de Transportes y estudios sobre movilidad urbana en España señalan que el modelo de dispersión urbana de baja densidad incrementa la dependencia del vehículo privado, las distancias cotidianas y el consumo energético y de suelo frente a tejidos urbanos compactos y de proximidad.",
+      "sources_for": [
+        {
+          "title": "Transporte urbano y sostenibilidad territorial",
+          "publisher": "Ministerio de Transportes y Movilidad Sostenible",
+          "url": "https://www.transportes.gob.es/recursos_mfom/00transporteurbano.pdf"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Texto Refundido de la Ley de Suelo y Rehabilitación Urbana (RDL 7/2015)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11723",
+          "date": "2015"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Corregido summary para ceñirse al texto oficial (\"valor del suelo según su derecho\"). Eliminadas cifras no verificadas del \"45 % más de emisiones\" y \"más del 20 % de superficie edificable retenida\"."
+    }
+  }
+}

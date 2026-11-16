@@ -1,0 +1,20 @@
+{
+  "archivo_original": "AdelanteAndalucia_programa29N.pdf",
+  "nombre": "AdelanteAndalucia_programa29N",
+  "sha256": "fde1fe024f94a698e2110c0e25cc569b4d9f3f7272342bdb13dc0c1e7a2d7b43",
+  "fecha_procesamiento": "2026-11-13T13:25:11+0100",
+  "herramienta": "Docling (PyPdfiumBackend)",
+  "formatos": [
+    "md",
+    "json",
+    "txt"
+  ],
+  "paginas": 134,
+  "duracion_segundos": 187.16,
+  "tamano_bytes": {
+    "pdf": 1916883,
+    "md": 218591,
+    "json": 2969195,
+    "txt": 214547
+  }
+}

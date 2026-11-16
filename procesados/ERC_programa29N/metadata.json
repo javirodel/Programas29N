@@ -1,0 +1,20 @@
+{
+  "archivo_original": "ERC_programa29N.pdf",
+  "nombre": "ERC_programa29N",
+  "sha256": "61728d162a6e88d492d44a0b0994effb31f9e4abb85ebf8aea715d870a9b2e04",
+  "fecha_procesamiento": "2026-11-13T13:21:55+0100",
+  "herramienta": "Docling (PyPdfiumBackend)",
+  "formatos": [
+    "md",
+    "json",
+    "txt"
+  ],
+  "paginas": 48,
+  "duracion_segundos": 59.42,
+  "tamano_bytes": {
+    "pdf": 300308,
+    "md": 181371,
+    "json": 791173,
+    "txt": 181233
+  }
+}

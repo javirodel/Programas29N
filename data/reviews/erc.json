@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "erc",
+  "entries": {
+    "erc-001": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial ERC_programa29N.pdf (p. 8) como evidencia para la encuesta 29N (autodeterminación y conflicto político)."
+    },
+    "erc-017": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial ERC_programa29N.pdf (p. 10) como evidencia para la encuesta 29N (escuela pública en catalán sin pronunciamiento sobre conciertos)."
+    },
+    "erc-023": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial ERC_programa29N.pdf (p. 12) como evidencia para la encuesta 29N (financiación singular basada en ingresos y ordinalidad)."
+    },
+    "erc-034": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial ERC_programa29N.pdf (p. 14) como evidencia para la encuesta 29N (traspaso de competencias tributarias y autogobierno)."
+    },
+    "erc-035": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial ERC_programa29N.pdf (p. 14) como evidencia para la encuesta 29N (gestión de permisos y derechos laborales en migración)."
+    },
+    "erc-045": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial ERC_programa29N.pdf (p. 16) como evidencia para la encuesta 29N (fiscalización del gasto militar y diplomacia)."
+    },
+    "erc-050": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial ERC_programa29N.pdf (p. 17) como evidencia para la encuesta 29N (autonomía de seguridad europea frente a la OTAN)."
+    },
+    "erc-051": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial ERC_programa29N.pdf (p. 17) como evidencia para la encuesta 29N (rechazo a deportaciones automáticas y vías legales seguras)."
+    },
+    "erc-055": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial ERC_programa29N.pdf (p. 19) como evidencia para la encuesta 29N (competencia propia en arrendamientos urbanos y protección del alquiler)."
+    },
+    "erc-062": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial ERC_programa29N.pdf (p. 19) como evidencia para la encuesta 29N (regulación de alquileres de temporada y protección a inquilinos)."
+    },
+    "erc-068": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial ERC_programa29N.pdf (p. 21) como evidencia para la encuesta 29N (prestación universal por crianza)."
+    },
+    "erc-071": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial ERC_programa29N.pdf (p. 21) como evidencia para la encuesta 29N (financiación estructural para tarifas asequibles de transporte público)."
+    },
+    "erc-074": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial ERC_programa29N.pdf (p. 22) como evidencia para la encuesta 29N (impuesto permanente a grandes fortunas)."
+    },
+    "erc-076": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial ERC_programa29N.pdf (p. 22) como evidencia para la encuesta 29N (gravamen permanente a la banca)."
+    },
+    "erc-105": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial ERC_programa29N.pdf (p. 26) como evidencia para la encuesta 29N (jornada laboral legal de 37,5 horas semanales)."
+    },
+    "erc-106": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial ERC_programa29N.pdf (p. 26) como evidencia para la encuesta 29N (revalorización legal de pensiones públicas con inflación)."
+    },
+    "erc-107": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial ERC_programa29N.pdf (p. 26) como evidencia para la encuesta 29N (referencia de pensiones al IPC territorial)."
+    },
+    "erc-111": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial ERC_programa29N.pdf (p. 26) como evidencia para la encuesta 29N (ampliación de permisos parentales retribuidos)."
+    },
+    "erc-146": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial ERC_programa29N.pdf (p. 31) como evidencia para la encuesta 29N (objetivos climáticos vinculantes y rechazo a UE-Mercosur)."
+    },
+    "erc-147": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial ERC_programa29N.pdf (p. 31) como evidencia para la encuesta 29N (aportación estatal al Fondo de Transición Nuclear)."
+    },
+    "erc-153": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial ERC_programa29N.pdf (p. 32) como evidencia para la encuesta 29N (flexibilización de biorresiduos agrarios para biogás)."
+    },
+    "erc-156": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial ERC_programa29N.pdf (p. 32) como evidencia para la encuesta 29N (descentralización territorial de la PAC)."
+    },
+    "erc-157": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial ERC_programa29N.pdf (p. 32) como evidencia para la encuesta 29N (protección del sector agrario con sostenibilidad)."
+    },
+    "erc-233": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial ERC_programa29N.pdf (p. 41) como evidencia para la encuesta 29N (blindaje de la sanidad pública frente a privatizaciones)."
+    },
+    "erc-243": {
+      "status": "verificada",
+      "reviewer": "curacion-expansion-12",
+      "date": "2026-11-13",
+      "note": "Verificado en PDF oficial ERC_programa29N.pdf (p. 43) como evidencia para la encuesta 29N (reforma penal parcial sin posicionamiento sobre prisión permanente revisable)."
+    }
+  }
+}

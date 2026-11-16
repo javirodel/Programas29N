@@ -1,0 +1,234 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "frente-obrero",
+  "entries": {
+    "frente-obrero-001": {
+      "status": "corregida",
+      "official_text": {
+        "text": "Aumento general de los salarios en relación al coste de la vida.",
+        "language": "es"
+      },
+      "official_number": "Cap. 02 · Medida 1",
+      "evidence": [
+        {
+          "pages": [
+            9
+          ],
+          "snippet": "Aumento general de los salarios en relación al coste de la vida.",
+          "docling_refs": [
+            "#/texts/39"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Separada la anotación editorial entre corchetes del texto oficial literal localizado en p. 9 (Hallazgo H-5)."
+    },
+    "frente-obrero-006": {
+      "status": "corregida",
+      "official_text": {
+        "text": "Acabar con los falsos autónomos.",
+        "language": "es"
+      },
+      "official_number": "Cap. 02 · Medida 6",
+      "evidence": [
+        {
+          "pages": [
+            9
+          ],
+          "snippet": "Acabar con los falsos autónomos.",
+          "docling_refs": [
+            "#/texts/44"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Separada la anotación editorial entre corchetes del texto oficial literal localizado en p. 9 (Hallazgo H-5)."
+    },
+    "frente-obrero-011": {
+      "status": "corregida",
+      "official_text": {
+        "text": "Salida de la Unión Europea para recuperar nuestra soberanía nacional.",
+        "language": "es"
+      },
+      "official_number": "Cap. 03 · Medida 1",
+      "evidence": [
+        {
+          "pages": [
+            11
+          ],
+          "snippet": "Salida de la Unión Europea para recuperar nuestra soberanía nacional.",
+          "docling_refs": [
+            "#/texts/63"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Separada la anotación editorial entre corchetes del texto oficial literal localizado en p. 11 (Hallazgo H-5)."
+    },
+    "frente-obrero-012": {
+      "status": "corregida",
+      "official_text": {
+        "text": "Salida inmediata de la OTAN y reforzamiento de nuestro ejército.",
+        "language": "es"
+      },
+      "official_number": "Cap. 03 · Medida 2",
+      "evidence": [
+        {
+          "pages": [
+            11
+          ],
+          "snippet": "Salida inmediata de la OTAN y reforzamiento de nuestro ejército.",
+          "docling_refs": [
+            "#/texts/64"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Separada la anotación editorial entre corchetes del texto oficial literal localizado en p. 11 (Hallazgo H-5)."
+    },
+    "frente-obrero-015": {
+      "status": "corregida",
+      "official_text": {
+        "text": "Delimitación de las aguas archipelágicas.",
+        "language": "es"
+      },
+      "official_number": "Cap. 03 · Medida 5",
+      "evidence": [
+        {
+          "pages": [
+            11
+          ],
+          "snippet": "Delimitación de las aguas archipelágicas.",
+          "docling_refs": [
+            "#/texts/67"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Separada la anotación editorial entre corchetes del texto oficial literal localizado en p. 11 (Hallazgo H-5)."
+    },
+    "frente-obrero-085": {
+      "status": "corregida",
+      "official_text": {
+        "text": "Mejorar y dispensar de los medios precisos a toda la infraestructura sanitaria ya establecida.",
+        "language": "es"
+      },
+      "official_number": "Cap. 14 · Medida 1",
+      "evidence": [
+        {
+          "pages": [
+            42
+          ],
+          "snippet": "Mejorar y dispensar de los medios precisos a toda la infraestructura sanitaria ya establecida.",
+          "docling_refs": [
+            "#/texts/325"
+          ]
+        }
+      ],
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Separada la anotación editorial entre corchetes del texto oficial literal localizado en p. 42 (Hallazgo H-5)."
+    },
+    "frente-obrero-020": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/103, p. 15) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "frente-obrero-024": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/108, p. 16) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "frente-obrero-030": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/128, p. 19) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "frente-obrero-031": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/129, p. 19) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "frente-obrero-036": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/151, p. 22) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "frente-obrero-055": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/210, p. 29) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "frente-obrero-063": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/254, p. 34) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "frente-obrero-065": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/257, p. 35) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "frente-obrero-068": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/278, p. 38) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "frente-obrero-084": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/323, p. 42) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "frente-obrero-100": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/376, p. 49) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "frente-obrero-113": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/414, p. 54) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "frente-obrero-116": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/417, p. 54) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "frente-obrero-118": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/433, p. 56) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "frente-obrero-119": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/434, p. 56) para trazabilidad del banco de encuesta (T3.6)."
+    },
+    "frente-obrero-126": {
+      "status": "verificada",
+      "reviewer": "curacion-fase3",
+      "date": "2026-11-12",
+      "note": "Propuesta verificada literalmente frente a Docling N1 (#/texts/458, p. 59) para trazabilidad del banco de encuesta (T3.6)."
+    }
+  }
+}

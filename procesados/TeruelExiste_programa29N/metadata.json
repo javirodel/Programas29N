@@ -1,0 +1,20 @@
+{
+  "archivo_original": "TeruelExiste_programa29N.pdf",
+  "nombre": "TeruelExiste_programa29N",
+  "sha256": "f93342d6c9d0f17eaa53fa68ff714bfa0981ca9c10605401b71801cf1870e190",
+  "fecha_procesamiento": "2026-11-15T22:31:41+0100",
+  "herramienta": "Docling (PyPdfiumBackend)",
+  "formatos": [
+    "md",
+    "json",
+    "txt"
+  ],
+  "paginas": 15,
+  "duracion_segundos": 77.63,
+  "tamano_bytes": {
+    "pdf": 179097,
+    "md": 123555,
+    "json": 609466,
+    "txt": 120964
+  }
+}

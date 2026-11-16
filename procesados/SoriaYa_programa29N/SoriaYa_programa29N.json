@@ -1,0 +1,1413 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.11.0",
+  "name": "SoriaYa_programa29N",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 7456022456285544093,
+    "filename": "SoriaYa_programa29N.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/pictures/2"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 25.196800231933594,
+            "t": 751.6360473632812,
+            "r": 187.8177947998047,
+            "b": 734.2930297851562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "PLAN EXTRAORDINARIO DE 10 A\u00d1OS CONTRA LA DESPOBLACI\u00d3N",
+      "text": "PLAN EXTRAORDINARIO DE 10 A\u00d1OS CONTRA LA DESPOBLACI\u00d3N",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 25.205801010131836,
+            "t": 723.9865112304688,
+            "r": 192.94979858398438,
+            "b": 639.7144775390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            315
+          ]
+        }
+      ],
+      "orig": "Impulsar un programa espec\u00edfico para Soria , con financiaci\u00f3n estable mediante un Fondo de Inversiones (similar al existente en Teruel) que permita aplicar medidas excepcionales de fiscalidad para residentes, empresas y aut\u00f3nomos, as\u00ed como actuaciones especiales en vivienda, empleo, inversi\u00f3n y servicios p\u00fablicos.",
+      "text": "Impulsar un programa espec\u00edfico para Soria , con financiaci\u00f3n estable mediante un Fondo de Inversiones (similar al existente en Teruel) que permita aplicar medidas excepcionales de fiscalidad para residentes, empresas y aut\u00f3nomos, as\u00ed como actuaciones especiales en vivienda, empleo, inversi\u00f3n y servicios p\u00fablicos."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 25.37380027770996,
+            "t": 633.5864868164062,
+            "r": 194.52581787109375,
+            "b": 616.6425170898438,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "Ayudas al funcionamiento al m\u00e1ximo legal permitido por la Uni\u00f3n Europea.",
+      "text": "Ayudas al funcionamiento al m\u00e1ximo legal permitido por la Uni\u00f3n Europea."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 25.484800338745117,
+            "t": 585.5149536132812,
+            "r": 137.63380432128906,
+            "b": 568.1719360351562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "CONECTIVIDAD DIGITAL PARA TODOS",
+      "text": "CONECTIVIDAD DIGITAL PARA TODOS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 25.37380027770996,
+            "t": 557.529541015625,
+            "r": 184.29380798339844,
+            "b": 521.6175537109375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "Acceso a internet de alta velocidad y cobertura de telefon\u00eda m\u00f3vil de calidad en todos los municipios sorianos, sin excepci\u00f3n.",
+      "text": "Acceso a internet de alta velocidad y cobertura de telefon\u00eda m\u00f3vil de calidad en todos los municipios sorianos, sin excepci\u00f3n."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 25.691801071166992,
+            "t": 492.43670654296875,
+            "r": 185.02781677246094,
+            "b": 485.8937072753906,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "PLAN DE RELEVO GENERACIONAL",
+      "text": "PLAN DE RELEVO GENERACIONAL",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 25.077800750732422,
+            "t": 475.2991027832031,
+            "r": 195.39781188964844,
+            "b": 391.339111328125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            323
+          ]
+        }
+      ],
+      "orig": "Establecer ayudas directas para facilitar que j\u00f3venes asuman negocios, empresas y explotaciones agrarias cuyos titulares se jubilen, mediante mecanismos de financiaci\u00f3n, asesoramiento y apoyo a la transmisi\u00f3n de la actividad para evitar el cierre de negocios viables, preservar el empleo y la actividad en nuestros pueblos.",
+      "text": "Establecer ayudas directas para facilitar que j\u00f3venes asuman negocios, empresas y explotaciones agrarias cuyos titulares se jubilen, mediante mecanismos de financiaci\u00f3n, asesoramiento y apoyo a la transmisi\u00f3n de la actividad para evitar el cierre de negocios viables, preservar el empleo y la actividad en nuestros pueblos."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 25.691801071166992,
+            "t": 363.710205078125,
+            "r": 179.39381408691406,
+            "b": 346.3672180175781,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "PLAN DE VIVIENDA PARA ZONAS DESPOBLADAS",
+      "text": "PLAN DE VIVIENDA PARA ZONAS DESPOBLADAS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 25.213830947875977,
+            "t": 335.72479248046875,
+            "r": 194.3338165283203,
+            "b": 251.81280517578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            314
+          ]
+        }
+      ],
+      "orig": "Impulsar un programa nacional de construcci\u00f3n de viviendas, especialmente en el medio rural; ayudas a la rehabilitaci\u00f3n vinculadas al alquiler asequible, garant\u00edas para propietarios que incorporen sus viviendas al mercado; incentivos para adquisici\u00f3n de primera vivienda y f\u00f3rmulas de alquiler con opci\u00f3n a compra.",
+      "text": "Impulsar un programa nacional de construcci\u00f3n de viviendas, especialmente en el medio rural; ayudas a la rehabilitaci\u00f3n vinculadas al alquiler asequible, garant\u00edas para propietarios que incorporen sus viviendas al mercado; incentivos para adquisici\u00f3n de primera vivienda y f\u00f3rmulas de alquiler con opci\u00f3n a compra."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 25.648799896240234,
+            "t": 222.1905975341797,
+            "r": 164.68081665039062,
+            "b": 204.84759521484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "IMPULSO A NUESTRO CAMPO , MONTES Y MEDIOAMBIENTE",
+      "text": "IMPULSO A NUESTRO CAMPO , MONTES Y MEDIOAMBIENTE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 25.146799087524414,
+            "t": 194.2052001953125,
+            "r": 194.49879455566406,
+            "b": 130.6772003173828,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            256
+          ]
+        }
+      ],
+      "orig": "Apoyo a agricultores y ganaderos, con menos burocracia, ayudas adaptadas a las dificultades del medio rural despoblado y medidas que garanticen la rentabilidad de las explotaciones, el relevo generacional y la transformaci\u00f3n de nuestros productos en Soria.",
+      "text": "Apoyo a agricultores y ganaderos, con menos burocracia, ayudas adaptadas a las dificultades del medio rural despoblado y medidas que garanticen la rentabilidad de las explotaciones, el relevo generacional y la transformaci\u00f3n de nuestros productos en Soria."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 25.14678382873535,
+            "t": 124.00520324707031,
+            "r": 196.03475952148438,
+            "b": 70.07721710205078,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            205
+          ]
+        }
+      ],
+      "orig": "Aprovechamiento de nuestros recursos forestales, favoreciendo la creaci\u00f3n de industrias y empleo. Reconocimiento y compensaci\u00f3n econ\u00f3mica a nuestros municipios por los beneficios ambientales de sus montes.",
+      "text": "Aprovechamiento de nuestros recursos forestales, favoreciendo la creaci\u00f3n de industrias y empleo. Reconocimiento y compensaci\u00f3n econ\u00f3mica a nuestros municipios por los beneficios ambientales de sus montes."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 217.75100708007812,
+            "t": 753.40087890625,
+            "r": 378.905029296875,
+            "b": 723.493896484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "AUTOV\u00cdAS Y FERROCARRIL: ACABAR CON EL AISLAMIENTO DE SORIA",
+      "text": "AUTOV\u00cdAS Y FERROCARRIL: ACABAR CON EL AISLAMIENTO DE SORIA",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 218.0800018310547,
+            "t": 713.2197265625,
+            "r": 382.1679992675781,
+            "b": 697.3077392578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "Finalizaci\u00f3n de la A-11 hasta Valladolid y de la A-15 hasta Navarra.",
+      "text": "Finalizaci\u00f3n de la A-11 hasta Valladolid y de la A-15 hasta Navarra."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 217.75999450683594,
+            "t": 690.9877319335938,
+            "r": 389.52801513671875,
+            "b": 654.69970703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "Impulso de las conexiones por autov\u00eda Soria\u2013Logro\u00f1o, Soria\u2013Calamocha y Soria\u2013Segovia y ejecuci\u00f3n de la variante de San Esteban de Gormaz, A11 con la N 110.",
+      "text": "Impulso de las conexiones por autov\u00eda Soria\u2013Logro\u00f1o, Soria\u2013Calamocha y Soria\u2013Segovia y ejecuci\u00f3n de la variante de San Esteban de Gormaz, A11 con la N 110."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 218.06399536132812,
+            "t": 649.4837646484375,
+            "r": 331.4320068359375,
+            "b": 633.7236938476562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Modernizaci\u00f3n integral de la circunvalaci\u00f3n SO-20.",
+      "text": "Modernizaci\u00f3n integral de la circunvalaci\u00f3n SO-20."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 217.86398315429688,
+            "t": 627.3877563476562,
+            "r": 365.6159973144531,
+            "b": 601.9237060546875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "Electrificaci\u00f3n y doble v\u00eda de la l\u00ednea f\u00e9rrea Soria\u2013Torralba, y aumento de frecuencias a Madrid.",
+      "text": "Electrificaci\u00f3n y doble v\u00eda de la l\u00ednea f\u00e9rrea Soria\u2013Torralba, y aumento de frecuencias a Madrid."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 218.18399047851562,
+            "t": 595.6197509765625,
+            "r": 371.55999755859375,
+            "b": 588.11572265625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Reapertura de la l\u00ednea Soria\u2013Castej\u00f3n.",
+      "text": "Reapertura de la l\u00ednea Soria\u2013Castej\u00f3n."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 218.06399536132812,
+            "t": 582.8837280273438,
+            "r": 377.8399963378906,
+            "b": 567.1237182617188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "Estaci\u00f3n de AVE en el sur de Soria, para conexi\u00f3n directa a",
+      "text": "Estaci\u00f3n de AVE en el sur de Soria, para conexi\u00f3n directa a"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 218.18399047851562,
+            "t": 563.4517211914062,
+            "r": 333.0719909667969,
+            "b": 556.3236694335938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Madrid-Zaragoza-Barcelona.",
+      "text": "Madrid-Zaragoza-Barcelona."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 217.74398803710938,
+            "t": 550.8997192382812,
+            "r": 356.6719665527344,
+            "b": 514.9236450195312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "Impulso del corredor ferroviario Valladolid-Aranda-San Esteban de Gormaz- El Burgo de Osma-Soria-Zaragoza.",
+      "text": "Impulso del corredor ferroviario Valladolid-Aranda-San Esteban de Gormaz- El Burgo de Osma-Soria-Zaragoza."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 371.6719970703125,
+            "t": 517.315673828125,
+            "r": 372.7359924316406,
+            "b": 516.211669921875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ".",
+      "text": "."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 218.3865966796875,
+            "t": 489.7085876464844,
+            "r": 350.65960693359375,
+            "b": 470.6015930175781,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "ENERG\u00cdA DE SORIA PARA EL DESARROLLO DE SORIA",
+      "text": "ENERG\u00cdA DE SORIA PARA EL DESARROLLO DE SORIA",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 217.99658203125,
+            "t": 460.19110107421875,
+            "r": 385.1165771484375,
+            "b": 356.831298828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            399
+          ]
+        }
+      ],
+      "orig": "No podemos seguir generando energ\u00eda que favorece el crecimiento de otras comunidades aut\u00f3nomas mientras Soria carece de capacidad el\u00e9ctrica para atraer inversiones y crear empleo. Reclamamos inversiones urgentes en las redes de transporte y distribuci\u00f3n que garanticen el suministro y la capacidad de acceso en nuestros polos industriales, as\u00ed como compensaciones econ\u00f3micas por la energ\u00eda generada.",
+      "text": "No podemos seguir generando energ\u00eda que favorece el crecimiento de otras comunidades aut\u00f3nomas mientras Soria carece de capacidad el\u00e9ctrica para atraer inversiones y crear empleo. Reclamamos inversiones urgentes en las redes de transporte y distribuci\u00f3n que garanticen el suministro y la capacidad de acceso en nuestros polos industriales, as\u00ed como compensaciones econ\u00f3micas por la energ\u00eda generada."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 218.18399047851562,
+            "t": 331.8170166015625,
+            "r": 386.9249572753906,
+            "b": 312.71002197265625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "GARANT\u00cdA DE SERVICIOS P\u00daBLICOS EN EL MEDIO RURAL",
+      "text": "GARANT\u00cdA DE SERVICIOS P\u00daBLICOS EN EL MEDIO RURAL",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 218.07296752929688,
+            "t": 302.40350341796875,
+            "r": 381.54498291015625,
+            "b": 171.3395233154297,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            517
+          ]
+        }
+      ],
+      "orig": "Garantizar los servicios p\u00fablicos esenciales en un m\u00e1ximo de 30 minutos , con independencia del lugar de residencia, mediante una financiaci\u00f3n suficiente, estable y adaptada a la dispersi\u00f3n territorial y al envejecimiento de la poblaci\u00f3n, incluyendo los servicios prestados por las entidades locales. Establecer incentivos econ\u00f3micos, profesionales y de vivienda para atraer y retener empleados p\u00fablicos en zonas despobladas, asegurando la cobertura efectiva de las plazas y la continuidad y calidad de los servicios.",
+      "text": "Garantizar los servicios p\u00fablicos esenciales en un m\u00e1ximo de 30 minutos , con independencia del lugar de residencia, mediante una financiaci\u00f3n suficiente, estable y adaptada a la dispersi\u00f3n territorial y al envejecimiento de la poblaci\u00f3n, incluyendo los servicios prestados por las entidades locales. Establecer incentivos econ\u00f3micos, profesionales y de vivienda para atraer y retener empleados p\u00fablicos en zonas despobladas, asegurando la cobertura efectiva de las plazas y la continuidad y calidad de los servicios."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 218.2620849609375,
+            "t": 144.29559326171875,
+            "r": 383.2950744628906,
+            "b": 123.73959350585938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "EDUCACI\u00d3N Y TALENTO: ESTUDIAR FUERA, VOLVER A SORIA",
+      "text": "EDUCACI\u00d3N Y TALENTO: ESTUDIAR FUERA, VOLVER A SORIA",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 218.08010864257812,
+            "t": 114.45620727539062,
+            "r": 377.1120910644531,
+            "b": 68.94419860839844,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "Becas especiales de movilidad y residencia, pr\u00e1cticas remuneradas, incentivos al primer empleo y ayudas al retorno de j\u00f3venes titulados a zonas escasamente pobladas.",
+      "text": "Becas especiales de movilidad y residencia, pr\u00e1cticas remuneradas, incentivos al primer empleo y ayudas al retorno de j\u00f3venes titulados a zonas escasamente pobladas."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 24.586780548095703,
+            "t": 50.734214782714844,
+            "r": 344.014404296875,
+            "b": 26.463415145874023,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Del Olvido al Futuro",
+      "text": "Del Olvido al Futuro"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 480.6666666666667,
+            "t": 813.5613606770834,
+            "r": 546.3333333333333,
+            "b": 782.22802734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "SORIA",
+      "text": "SORIA"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 409.6606750488281,
+            "t": 706.696533203125,
+            "r": 561.1036987304688,
+            "b": 700.1535034179688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "ACCESO SEGURO A LA SANIDAD",
+      "text": "ACCESO SEGURO A LA SANIDAD",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 409.6536865234375,
+            "t": 689.846923828125,
+            "r": 570.6056518554688,
+            "b": 645.182861328125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "Autov\u00eda Soria-Burgos: infraestructura imprescindible para garantizar conexi\u00f3n r\u00e1pida y segura con Burgos, donde se encuentra el hospital de referencia de Soria.",
+      "text": "Autov\u00eda Soria-Burgos: infraestructura imprescindible para garantizar conexi\u00f3n r\u00e1pida y segura con Burgos, donde se encuentra el hospital de referencia de Soria."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 410.1078186035156,
+            "t": 618.9450073242188,
+            "r": 565.2318115234375,
+            "b": 588.947998046875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "IMPULSO LOG\u00cdSTICO, INVERSI\u00d3N, EMPRENDIMIENTO Y N\u00d3MADAS DIGITALES",
+      "text": "IMPULSO LOG\u00cdSTICO, INVERSI\u00d3N, EMPRENDIMIENTO Y N\u00d3MADAS DIGITALES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 409.7178039550781,
+            "t": 578.673828125,
+            "r": 575.4537963867188,
+            "b": 524.3778076171875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            213
+          ]
+        }
+      ],
+      "orig": "Corregir el d\u00e9ficit de infraestructuras log\u00edsticas de la provincia, aprovechando su posici\u00f3n estrat\u00e9gica entre el corredor del Henares y el valle del Ebro mediante el desarrollo de un puerto seco en el Alto Jal\u00f3n.",
+      "text": "Corregir el d\u00e9ficit de infraestructuras log\u00edsticas de la provincia, aprovechando su posici\u00f3n estrat\u00e9gica entre el corredor del Henares y el valle del Ebro mediante el desarrollo de un puerto seco en el Alto Jal\u00f3n."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 409.789794921875,
+            "t": 518.0418090820312,
+            "r": 568.4937744140625,
+            "b": 424.1938781738281,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            338
+          ]
+        }
+      ],
+      "orig": "Establecer incentivos espec\u00edficos a la inversi\u00f3n empresarial y a la creaci\u00f3n de empleo en territorios escasamente poblados. Favorecer la atracci\u00f3n de profesionales y n\u00f3madas digitales mediante una reforma normativa que permita ampliar los plazos de autorizaci\u00f3n de residencia y teletrabajo para quienes se establezcan en estas provincias.",
+      "text": "Establecer incentivos espec\u00edficos a la inversi\u00f3n empresarial y a la creaci\u00f3n de empleo en territorios escasamente poblados. Favorecer la atracci\u00f3n de profesionales y n\u00f3madas digitales mediante una reforma normativa que permita ampliar los plazos de autorizaci\u00f3n de residencia y teletrabajo para quienes se establezcan en estas provincias."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 409.8124084472656,
+            "t": 418.70587158203125,
+            "r": 578.6843872070312,
+            "b": 353.96990966796875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            260
+          ]
+        }
+      ],
+      "orig": "Implantar una cuota reducida permanente de 80 euros mensuales para los trabajadores aut\u00f3nomos que desarrollen su actividad en zonas escasamente pobladas, con el objetivo de favorecer el emprendimiento, la continuidad de los negocios y la fijaci\u00f3n de poblaci\u00f3n.",
+      "text": "Implantar una cuota reducida permanente de 80 euros mensuales para los trabajadores aut\u00f3nomos que desarrollen su actividad en zonas escasamente pobladas, con el objetivo de favorecer el emprendimiento, la continuidad de los negocios y la fijaci\u00f3n de poblaci\u00f3n."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 409.6249084472656,
+            "t": 327.689697265625,
+            "r": 551.9239501953125,
+            "b": 310.3468933105469,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "SORIA, SEDE DE ORGANISMOS P\u00daBLICOS",
+      "text": "SORIA, SEDE DE ORGANISMOS P\u00daBLICOS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 409.783935546875,
+            "t": 300.0722961425781,
+            "r": 579.8319091796875,
+            "b": 226.5762939453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            270
+          ]
+        }
+      ],
+      "orig": "Descentralizaci\u00f3n de organismos estatales en Soria, garantizando su funcionamiento mediante la dotaci\u00f3n de personal, recursos y competencias reales: creaci\u00f3n de la Academia Nacional de Bomberos Forestales y de una Unidad Militar de Emergencias (UME) permanente en Soria.",
+      "text": "Descentralizaci\u00f3n de organismos estatales en Soria, garantizando su funcionamiento mediante la dotaci\u00f3n de personal, recursos y competencias reales: creaci\u00f3n de la Academia Nacional de Bomberos Forestales y de una Unidad Militar de Emergencias (UME) permanente en Soria."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 409.65191650390625,
+            "t": 206.33169555664062,
+            "r": 594.2478637695312,
+            "b": 168.72369384765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "SI EL 29 N, SORIA \u00a1YA! CONSIGUE REPRESENTACI\u00d3N, ESTO ES LO QUE EXIGIREMOS",
+      "text": "SI EL 29 N, SORIA \u00a1YA! CONSIGUE REPRESENTACI\u00d3N, ESTO ES LO QUE EXIGIREMOS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 481.6666666666667,
+            "t": 136.89469401041663,
+            "r": 517.0,
+            "b": 118.89469401041663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "SORIA",
+      "text": "SORIA"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 464.3333333333333,
+            "t": 119.22802734375,
+            "r": 519.3333333333333,
+            "b": 104.22802734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "IYA!",
+      "text": "IYA!"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 383.6666666666667,
+            "t": 49.56136067708337,
+            "r": 592.3333333333334,
+            "b": 22.22802734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Tu voto \u00fatil para \u0160oria",
+      "text": "Tu voto \u00fatil para \u0160oria"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.657345188962665,
+            "t": 838.1089135183809,
+            "r": 421.4511924645751,
+            "b": 771.1593489820336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 433.9646535338788,
+            "t": 830.5228779143615,
+            "r": 561.2171183040939,
+            "b": 724.2457720866691,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 386.11158786418264,
+            "t": 156.71308558092733,
+            "r": 588.9818613653177,
+            "b": 25.320426615887527,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 606.614013671875,
+        "height": 853.22802734375
+      },
+      "page_no": 1
+    }
+  }
+}

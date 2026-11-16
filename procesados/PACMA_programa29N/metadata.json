@@ -1,0 +1,20 @@
+{
+  "archivo_original": "PACMA_programa29N.pdf",
+  "nombre": "PACMA_programa29N",
+  "sha256": "6009e569e3bfd4f607b8831ade1d1ef33cbbda6033805e3ebc331d4dd0e30a1d",
+  "fecha_procesamiento": "2026-11-15T22:35:03+0100",
+  "herramienta": "Docling (PyPdfiumBackend)",
+  "formatos": [
+    "md",
+    "json",
+    "txt"
+  ],
+  "paginas": 82,
+  "duracion_segundos": 153.44,
+  "tamano_bytes": {
+    "pdf": 1153511,
+    "md": 307337,
+    "json": 1555073,
+    "txt": 306929
+  }
+}

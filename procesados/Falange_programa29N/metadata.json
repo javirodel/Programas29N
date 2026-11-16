@@ -1,0 +1,20 @@
+{
+  "archivo_original": "Falange_programa29N.pdf",
+  "nombre": "Falange_programa29N",
+  "sha256": "46edb0c2db121b8da6a05b9adb65b990086e5e4173fef7bd1b39d1d3757a1026",
+  "fecha_procesamiento": "2026-11-15T22:32:10+0100",
+  "herramienta": "Docling (PyPdfiumBackend)",
+  "formatos": [
+    "md",
+    "json",
+    "txt"
+  ],
+  "paginas": 60,
+  "duracion_segundos": 174.9,
+  "tamano_bytes": {
+    "pdf": 19170481,
+    "md": 71951,
+    "json": 1008928,
+    "txt": 69722
+  }
+}

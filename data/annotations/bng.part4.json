@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "bng",
+  "entries": {
+    "bng-370": {
+      "status": "corregida",
+      "summary": "Propone impulsar el conocimiento, la divulgación y la convivencia de las expresiones culturales en gallego en igualdad con el resto de lenguas del Estado y reforzar su proyección internacional.",
+      "arguments_for": "Favorece la visibilidad de la pluralidad lingüística del Estado (artículo 3.3 de la Constitución) y aprovecha redes culturales estatales como el Instituto Cervantes, que ya impulsa acuerdos para difundir lenguas cooficiales en el exterior.",
+      "arguments_against": "La proyección exterior coordinada por el Estado exige articular competencias entre la Xunta y la red estatal (Instituto Cervantes y Acción Cultural Española), además de dotación presupuestaria específica frente a la demanda mayoritaria de castellano.",
+      "sources_for": [
+        {
+          "title": "El Instituto Cervantes reforzará la enseñanza de lenguas cooficiales y la digitalización",
+          "publisher": "Instituto Cervantes",
+          "url": "https://cervantes.org/es/sobre-nosotros/sala-prensa/notas-prensa/ensenanza-lenguas-cooficiales-digitalizacion-mayor"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Dossier sobre lenguas oficiales en Galicia (marco constitucional y estatutario)",
+          "publisher": "Senado de España",
+          "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=aut_lenguas_galicia"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "El análisis N2 correspondía erróneamente a piedra seca y hórreos; se reescribe íntegramente acorde al texto oficial sobre difusión y proyección exterior de la cultura en gallego."
+    },
+    "bng-371": {
+      "status": "corregida",
+      "summary": "Plantea asegurar la plena normalización del gallego en la Administración General del Estado, empezando por el conocimiento del idioma entre su funcionariado para garantizar derechos lingüísticos también frente a empresas contratistas.",
+      "arguments_for": "El Consejo de Europa ha señalado que el uso efectivo del gallego en dependencias periféricas de la Administración General del Estado sigue siendo limitado por la falta de acreditación lingüística generalizada del personal estatal.",
+      "arguments_against": "Exigir el conocimiento del gallego para puestos de la Administración General del Estado puede restringir la movilidad territorial del funcionariado estatal y exige adaptar oposiciones y pliegos de contratación pública.",
+      "sources_for": [
+        {
+          "title": "O Comité de Expertos do Consello de Europa sobre a Carta Europea das Linguas",
+          "publisher": "Real Academia Galega",
+          "url": "https://academia.gal/-/novo-informe-do-consello-de-europa-1"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Recopilación normativa sobre lenguas cooficiales en la Administración General del Estado",
+          "publisher": "Ministerio de Política Territorial y Memoria Democrática",
+          "url": "https://mptmd.gob.es/content/dam/mpt/politica-territorial/autonomica/Lenguas-cooficiales/Consejo-de-Lenguas-Cooficiales/Informes/RECOPILACION_NORMATIVA_LENGUAS.pdf"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "El análisis N2 versaba sobre el Estatuto del Artista; se reescribe completo conforme al texto oficial sobre normalización del gallego en la Administración central y empresas colaboradoras."
+    },
+    "bng-372": {
+      "status": "corregida",
+      "summary": "Exige que todos los organismos de la Administración del Estado respeten estrictamente la toponimia oficial gallega y reclama hacer cumplir la legalidad a las aplicaciones de geolocalización que usan denominaciones deturpadas.",
+      "arguments_for": "El artículo 10 de la Ley 3/1983 de normalización lingüística dispone que los topónimos de Galicia tienen como única forma oficial la gallega y obliga a que la rotulación y la cartografía pública concuerden con ella.",
+      "arguments_against": "Las plataformas privadas internacionales de geolocalización operan con bases de datos globales y algoritmos propios sobre los que la Administración española tiene capacidad limitada de imposición directa sin mecanismos de coordinación o sanción específicos.",
+      "sources_for": [
+        {
+          "title": "Ley 3/1983, de 15 de junio, de normalización lingüística (artículo 10)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1983-23848"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Normativa oficial de toponimia de Galicia",
+          "publisher": "Xunta de Galicia",
+          "url": "https://toponimia.xunta.gal/es/toponimia/normativa"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "El análisis N2 trataba sobre librerías y cines; se reescribe acorde al texto oficial sobre respeto a la toponimia oficial gallega en organismos estatales y apps de geolocalización."
+    },
+    "bng-373": {
+      "status": "corregida",
+      "summary": "Propone cambios legales para oficializar en gallego la toponimia marítima de la costa gallega, incluyendo distritos y provincias marítimas, matriculación de buques, cartas náuticas, avisos a navegantes y accidentes geográficos.",
+      "arguments_for": "Alinea la cartografía náutica y las demarcaciones marítimas estatales con la Ley 3/1983 de normalización lingüística, que fija la forma gallega como única oficial para los topónimos de Galicia, preservando el patrimonio talasonímico.",
+      "arguments_against": "Modificar cartas náuticas oficiales del Instituto Hidrográfico de la Marina, registros de matrícula marítima y avisos internacionales a navegantes exige coordinación técnica con organismos de seguridad marítima y estandarización internacional.",
+      "sources_for": [
+        {
+          "title": "Ley 3/1983, de 15 de junio, de normalización lingüística",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1983-23848"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Catálogo de cartas náuticas y publicaciones del Instituto Hidrográfico de la Marina",
+          "publisher": "Armada Española / Ministerio de Defensa",
+          "url": "https://armada.defensa.gob.es/ArmadaPortal/page/Portal/ArmadaEspannola/cienciaihm1/prefLang-es/02ProductosServicios--04Publicaciones--10catalogo-es"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "El análisis N2 trataba sobre ferias internacionales del libro; se reescribe íntegro conforme al texto oficial sobre oficialización de la toponimia marítima gallega."
+    },
+    "bng-374": {
+      "status": "corregida",
+      "summary": "Impulsa reformas legales para que, aprovechando las herramientas tecnológicas actuales, la documentación redactada en gallego sea aceptada como oficial en cualquier gestión ante la Administración General del Estado.",
+      "arguments_for": "Supera la limitación del artículo 15 de la Ley 39/2015, que circunscribe el uso del gallego a órganos estatales con sede en Galicia y obliga a traducir al castellano los documentos que surtan efectos fuera de la comunidad.",
+      "arguments_against": "Aceptar documentación en lenguas cooficiales en toda la Administración central sin traducción previa exige desplegar sistemas fiables de traducción certificada y personal capacitado en todos los ministerios, con riesgo de retrasos o errores jurídicos.",
+      "sources_for": [
+        {
+          "title": "Resoluciones sobre el uso de lengua autonómica ante órganos de la Administración del Estado",
+          "publisher": "Defensor del Pueblo",
+          "url": "https://www.defensordelpueblo.es/resoluciones/uso-de-lengua-autonomica-en-dependencias-de-la-guardia-civil/"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Ley 39/2015, del Procedimiento Administrativo Común (artículo 15)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "El análisis N2 hablaba de festivales de cine y música; se reescribe acorde al texto oficial sobre validez de documentos en gallego ante toda la AGE."
+    },
+    "bng-375": {
+      "status": "corregida",
+      "summary": "Propone hacer efectiva la oficialidad del gallego en la Administración de Justicia para promoverlo como lengua preferente en resoluciones y notificaciones de oficio, mediante planes piloto, formación e incentivos profesionales.",
+      "arguments_for": "El Comité de Expertos de la Carta Europea de las Lenguas Regionales o Minoritarias ha recomendado reiteradamente reformar el artículo 231 de la LOPJ para que el uso de la lengua cooficial en los tribunales no pueda ser vetado por la oposición de una parte.",
+      "arguments_against": "El artículo 231 de la Ley Orgánica del Poder Judicial establece el castellano como lengua general de jueces y tribunales y condiciona el uso de la lengua cooficial a que ninguna parte alegue indefensión, además de existir escasez de personal judicial acreditado.",
+      "sources_for": [
+        {
+          "title": "Valoración del informe del Consejo de Europa sobre la Carta Europea de las Lenguas",
+          "publisher": "Real Academia Galega",
+          "url": "https://academia.gal/-/novo-informe-do-consello-de-europa-1"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Ley Orgánica 6/1985, del Poder Judicial (artículo 231)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/pdf/1985/BOE-A-1985-12666-consolidado.pdf"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "El análisis N2 versaba sobre patrimonio inmaterial oral; se reescribe acorde al texto oficial sobre uso y promoción del gallego en la Administración de Justicia."
+    },
+    "bng-376": {
+      "status": "corregida",
+      "summary": "Plantea garantizar la disponibilidad plena del gallego en todas las plataformas digitales de la Administración General del Estado —web, aplicaciones móviles, formularios, notificaciones y firma digital— en igualdad real con el castellano.",
+      "arguments_for": "Evita que la digitalización de los servicios públicos estatales recorte en la práctica los derechos lingüísticos reconocidos en el Estatuto de Autonomía y en el Reglamento de actuación por medios electrónicos (Real Decreto 203/2021).",
+      "arguments_against": "Localizar, mantener y actualizar simultáneamente en todas las lenguas cooficiales cientos de sedes electrónicas, apps móviles y sistemas estatales de identificación (Cl@ve, certificados) implica elevados costes técnicos y riesgo de desfases en versiones.",
+      "sources_for": [
+        {
+          "title": "Resolución sobre derechos lingüísticos ante la Administración General del Estado",
+          "publisher": "Defensor del Pueblo",
+          "url": "https://www.defensordelpueblo.es/resoluciones/uso-de-lengua-autonomica-en-dependencias-de-la-guardia-civil/"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Real Decreto 203/2021, Reglamento de actuación y funcionamiento del sector público por medios electrónicos",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-5032"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "El análisis N2 versaba sobre artesanía tradicional; se reescribe acorde al texto oficial sobre disponibilidad del gallego en plataformas digitales estatales."
+    },
+    "bng-377": {
+      "status": "corregida",
+      "summary": "Exige que todos los sistemas de inteligencia artificial, atención automatizada (chatbots, asistentes virtuales, formularios inteligentes) y administración digital del Estado funcionen plenamente en gallego.",
+      "arguments_for": "Evita la brecha digital lingüística aprovechando recursos públicos abiertos ya desarrollados en Galicia como el Proxecto Nós (USC/AMTEGA), que ofrece modelos de lenguaje, síntesis de voz y reconocimiento del habla en gallego.",
+      "arguments_against": "Integrar y auditar asistentes conversacionales de IA en múltiples lenguas cooficiales en todos los portales estatales aumenta la complejidad de entrenamiento, el riesgo de respuestas erróneas en trámites jurídicos y el coste de mantenimiento.",
+      "sources_for": [
+        {
+          "title": "Proxecto Nós: a intelixencia artificial ao servizo da lingua galega",
+          "publisher": "Xunta de Galicia (lingua.gal)",
+          "url": "https://www.lingua.gal/recursos/todos/_/promovelo/contido_607/nos-intelixencia-artificial-servizo-lingua-galega"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Real Decreto 203/2021 sobre medios electrónicos en el sector público",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-5032"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "El análisis N2 hablaba erróneamente de cuotas musicales en radio; se reescribe acorde al texto oficial sobre IA y atención automatizada estatal en gallego."
+    },
+    "bng-378": {
+      "status": "corregida",
+      "summary": "Propone crear líneas específicas de financiación para garantizar la actualización continua en gallego de tecnologías del habla, modelos de lengua y herramientas educativas digitales.",
+      "arguments_for": "Da continuidad más allá de ayudas puntuales como el PERTE de la Nueva Economía de la Lengua a proyectos estratégicos como el Proxecto Nós, evitando que el gallego quede rezagado ante la rápida evolución de los modelos de IA.",
+      "arguments_against": "Compromete partidas presupuestarias estatales estables para I+D lingüístico en competencia con otras prioridades científicas y educativas, y corre el riesgo de duplicar líneas autonómicas si no se coordina con la Xunta y centros universitarios.",
+      "sources_for": [
+        {
+          "title": "Subvenciones del PERTE Nueva Economía de la Lengua a centros científicos (incluyendo proyecto Nós)",
+          "publisher": "Red.es (Ministerio para la Transformación Digital)",
+          "url": "https://sede.red.gob.es/es/procedimientos/concesion-directa-de-subvenciones-varios-centros-de-caracter-cientifico-para-0"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Proxecto Nós: encontro de iniciativas para situar ao galego na economía dixital",
+          "publisher": "Universidade de Santiago de Compostela / Proxecto Nós",
+          "url": "https://nos.gal/es/proxecto-nos/eventos/proyecto-situara-gallego-sociedad-economia-digitales-celebro-encuentro-iniciativas"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "El análisis N2 hablaba de gratuidad en museos; se reescribe acorde al texto oficial sobre financiación de tecnologías del habla, modelos de lengua y herramientas educativas en gallego."
+    },
+    "bng-379": {
+      "status": "corregida",
+      "summary": "Reclama garantizar el derecho del alumnado a estudiar y realizar los exámenes de la UNED en gallego.",
+      "arguments_for": "El Congreso de los Diputados aprobó en 2025 una proposición impulsada por el BNG para garantizar el uso del gallego en los exámenes y materiales de la UNED, corrigiendo casos de estudiantes suspendidos por responder en gallego.",
+      "arguments_against": "La UNED señala que sus titulaciones están verificadas por la ANECA para impartirse y evaluarse con carácter general en castellano y que corregir exámenes en lenguas cooficiales desde las sedes centrales requiere profesorado acreditado o traductores especializados.",
+      "sources_for": [
+        {
+          "title": "O BNG consegue o apoio do Congreso para garantir o uso do galego na UNED",
+          "publisher": "BNG",
+          "url": "https://www.bng.gal/novas/bng-consegue-apoio-do-congreso-garantir-uso-do-galego-uned/20250521193633040537.html"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Respuesta parlamentaria sobre el uso de lenguas cooficiales en la UNED",
+          "publisher": "Congreso de los Diputados",
+          "url": "https://www.congreso.es/entradap/l15p/e2/e_0022115_n_000.pdf"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "El análisis N2 trataba sobre bandas populares de música; se reescribe acorde al texto oficial sobre estudiar y examinarse en gallego en la UNED."
+    }
+  }
+}

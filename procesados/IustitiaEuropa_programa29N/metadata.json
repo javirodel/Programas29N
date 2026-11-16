@@ -1,0 +1,14 @@
+{
+  "archivo_original": "descarga-aqui-tu-contrato-00030.pdf",
+  "nombre": "IustitiaEuropa_programa29N",
+  "sha256": "03740DC25A9E94599F7B3E085A5F24FEFE8AD8AA796740DCCD0DFC1B2FACB5DD",
+  "fecha_procesamiento": "2026-11-11T14:49:42.6443622+01:00",
+  "herramienta": "Docling",
+  "formatos": [
+    "md",
+    "json",
+    "txt"
+  ],
+  "codigo_salida": 0,
+  "archivo_estandar": "IustitiaEuropa_programa29N.pdf"
+}

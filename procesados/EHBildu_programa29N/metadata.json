@@ -1,0 +1,20 @@
+{
+  "archivo_original": "EHBildu_programa29N.pdf",
+  "nombre": "EHBildu_programa29N",
+  "sha256": "ceb655c9c8ebb036a15fa7829865d6e2d178525eb7db92629d702ac5e8d16047",
+  "fecha_procesamiento": "2026-11-16T19:33:29+0100",
+  "herramienta": "Docling (PyPdfiumBackend)",
+  "formatos": [
+    "md",
+    "json",
+    "txt"
+  ],
+  "paginas": 30,
+  "duracion_segundos": 52.52,
+  "tamano_bytes": {
+    "pdf": 571442,
+    "md": 101279,
+    "json": 567399,
+    "txt": 101108
+  }
+}

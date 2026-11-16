@@ -1,0 +1,1719 @@
+{
+  "nombre_partido": "VOX",
+  "siglas": "VOX",
+  "titulo_programa": "Es sentido común · Programa Electoral Elecciones Generales 29N",
+  "fecha_publicacion": "2026-11-01",
+  "elecciones": "Elecciones Generales 29 de noviembre de 2026 (29N)",
+  "url_programa_oficial": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+  "web_oficial": "https://www.voxespana.es",
+  "total_medidas": 115,
+  "total_bloques_comunes_con_medidas": 19,
+  "total_otros_bloques": 0,
+  "nota_metodologica": "Documento y JSON estructurado que recogen literalmente las 115 medidas numeradas del programa electoral oficial de VOX para las Elecciones Generales del 29N («Es sentido común»), conservando íntegramente su numeración y redacción original junto a su encuadre en los 19 bloques temáticos comunes del proyecto 29N, explicación analítica, argumentos a favor y objeciones/matices jurídicos, presupuestarios o empíricos.",
+  "bloques": [
+    {
+      "id_bloque": "bloque_01",
+      "numero_bloque": 1,
+      "titulo_bloque": "Vivienda, Urbanismo, Alquiler y Lucha contra la Okupación",
+      "alcance_medidas": "Medidas 27 a 35 (9 medidas)",
+      "total_medidas_bloque": 9,
+      "medidas_incluidas": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "medidas": [
+        {
+          "numero_medida": 27,
+          "id_medida": "VOX-27",
+          "seccion_original": "VIVIENDA",
+          "titulo_medida": "Las casas, en España, para los españoles.",
+          "texto_oficial": "Las casas, en España, para los españoles. Prioridad nacional para acceder a una vivienda protegida, social o a una ayuda al alquiler. Modificación o derogación de cuantas normativas pudieran dificultar la consecución plena y efectiva del principio de prioridad nacional.",
+          "explicacion_medida": "Establece prioridad legal para ciudadanos españoles en las listas y baremos de acceso a vivienda protegida, alquiler social y ayudas públicas al arrendamiento.",
+          "datos_a_favor": "Priorizar a nacionales en parques públicos muy limitados responde a la percepción de saturación de las bolsas de vivienda social en barrios populares.",
+          "datos_en_contra": "Discriminar por nacionalidad y no por nivel de renta o tiempo de residencia regular entre contribuyentes legales vulnerables contraviene la jurisprudencia constitucional española y europea sobre acceso a vivienda social.",
+          "id_bloque_comun": "bloque_01",
+          "titulo_bloque_comun": "Vivienda, Urbanismo, Alquiler y Lucha contra la Okupación"
+        },
+        {
+          "numero_medida": 28,
+          "id_medida": "VOX-28",
+          "seccion_original": "VIVIENDA",
+          "titulo_medida": "Reforma de la Ley del Suelo.",
+          "texto_oficial": "Reforma de la Ley del Suelo. Volver a ver grúas en los cielos. Incrementar de manera sustancial y sostenida en el tiempo la construcción de vivienda nueva: ampliación de suelo disponible, agilización de procedimientos, supresión de trabas regulatorias innecesarias, simplificación administrativa.",
+          "explicacion_medida": "Propone reformar la Ley del Suelo para liberalizar y ampliar el suelo urbanizable disponible, acortar los plazos administrativos de planeamiento y eliminar trabas regulatorias que frenan la edificación nueva.",
+          "datos_a_favor": "La rigidez en la transformación de suelo y la anulación judicial en cascada de planes urbanísticos alargan hoy entre 8 y 12 años un nuevo desarrollo; ampliar la oferta nueva ataca de raíz el desequilibrio entre creación de hogares y visados de obra.",
+          "datos_en_contra": "La liberalización masiva del suelo sin coordinación de infraestructuras de transporte y equipamientos públicos conlleva riesgos de expansión urbana dispersa, burbujas de valoración del suelo y conflictos ambientales; además, la competencia urbanística es autonómica (art. 148.1.3 CE).",
+          "id_bloque_comun": "bloque_01",
+          "titulo_bloque_comun": "Vivienda, Urbanismo, Alquiler y Lucha contra la Okupación"
+        },
+        {
+          "numero_medida": 29,
+          "id_medida": "VOX-29",
+          "seccion_original": "VIVIENDA",
+          "titulo_medida": "Ampliación de la inversión pública en vivienda por habitante.",
+          "texto_oficial": "Ampliación de la inversión pública en vivienda por habitante. Aumentar con urgencia la construcción de vivienda protegida para las familias españolas mediante su promoción y colaboración público-privada: cesiones de suelo, subvenciones, descuentos, avales a financiación y créditos blandos. Ningún español vulnerable quedará sin hogar.",
+          "explicacion_medida": "Aumenta la inversión pública por habitante en vivienda mediante colaboración público-privada (cesión de suelo público en derecho de superficie, avales, subvenciones y créditos blandos) para ampliar el parque de vivienda protegida para familias españolas.",
+          "datos_a_favor": "España cuenta con una proporción de vivienda social inferior al 3% frente al ~9% de media europea; movilizar suelo público ocioso mediante cesiones en derecho de superficie y avales multiplica la capacidad constructiva sin cargar íntegramente el presupuesto anual.",
+          "datos_en_contra": "La colaboración público-privada mal diseñada puede derivar en transferencia de suelo público con retornos sociales limitados si los precios máximos de adjudicación o los plazos de descalificación no blindan la permanencia indefinida como parque asequible.",
+          "id_bloque_comun": "bloque_01",
+          "titulo_bloque_comun": "Vivienda, Urbanismo, Alquiler y Lucha contra la Okupación"
+        },
+        {
+          "numero_medida": 30,
+          "id_medida": "VOX-30",
+          "seccion_original": "VIVIENDA",
+          "titulo_medida": "Recuperar la seguridad jurídica y una oferta de alquileres estable, abundante y asequible.",
+          "texto_oficial": "Recuperar la seguridad jurídica y una oferta de alquileres estable, abundante y asequible. Derogación de la Ley de Vivienda. Incentivos fiscales al alquiler de larga\nduración y deducciones para inquilinos españoles. Regulación de la proliferación masiva de VUT y refuerzo del servicio de inspección de pisos turísticos ilegales.",
+          "explicacion_medida": "Deroga la actual Ley 12/2023 de Vivienda, suprime los topes al alquiler, introduce incentivos fiscales al arrendamiento de larga duración con deducciones a inquilinos y refuerza la inspección sobre viviendas de uso turístico (VUT) ilegales.",
+          "datos_a_favor": "La literatura empírica advierte que los topes rígidos al alquiler reducen la oferta permanente y desvían inmuebles hacia contratos de temporada; sustituir el control de rentas por incentivos fiscales al alquiler habitual y perseguir los pisos turísticos clandestinos recupera parque residencial.",
+          "datos_en_contra": "Eliminar las prórrogas extraordinarias y la limitación de rentas en zonas tensionadas podría provocar subidas inmediatas de renovación en los contratos próximos a vencer antes de que la mayor oferta nueva llegue al mercado.",
+          "id_bloque_comun": "bloque_01",
+          "titulo_bloque_comun": "Vivienda, Urbanismo, Alquiler y Lucha contra la Okupación"
+        },
+        {
+          "numero_medida": 31,
+          "id_medida": "VOX-31",
+          "seccion_original": "VIVIENDA",
+          "titulo_medida": "Mano dura contra la okupación y la inquiocupación.",
+          "texto_oficial": "Mano dura contra la okupación y la inquiocupación. Desalojo de la vivienda okupada en menos de 24 horas y recuperación inmediata de la posesión por su legítimo titular, el propietario. Asistencia jurídica gratuita para los afectados y exención de impuestos y de las cargas fiscales y de suministros del inmueble mientras dure la okupación. Endurecimiento del Código penal. Tipificación de la inquiocupación como delito de estafa.",
+          "explicacion_medida": "Promete el desalojo en menos de 24 horas en casos de okupación e inquiokupación, asistencia jurídica gratuita para propietarios afectados y exención de impuestos municipales y suministros mientras dure la ocupación ilegal.",
+          "datos_a_favor": "Acelerar los lanzamientos por allanamiento y usurpación reduce la inseguridad jurídica de pequeños ahorradores que retiraron pisos del alquiler por temor a impagos prolongados o demoras judiciales de más de un año.",
+          "datos_en_contra": "Fijar plazos perentorios de 24 horas en casos de impago contractual ('inquiokupación') plantea objeciones procesales respecto al derecho a la tutela judicial efectiva y la verificación previa de situaciones de extrema vulnerabilidad exigida por el Tribunal Constitucional.",
+          "id_bloque_comun": "bloque_01",
+          "titulo_bloque_comun": "Vivienda, Urbanismo, Alquiler y Lucha contra la Okupación"
+        },
+        {
+          "numero_medida": 32,
+          "id_medida": "VOX-32",
+          "seccion_original": "VIVIENDA",
+          "titulo_medida": "Prohibición del arrendamiento a inmigrantes ilegales.",
+          "texto_oficial": "Prohibición del arrendamiento a inmigrantes ilegales. Exigir la verificación previa de la residencia legal como requisito obligatorio para la formalización de contratos de alquiler, control del fraude en el empadronamiento por parte de okupas e inmigrantes ilegales, impidiendo que disfruten de los derechos que ello concede y fin de los pisos patera, domicilios ficticios y alojamientos ilegales.",
+          "explicacion_medida": "Prohíbe formalizar contratos de alquiler con extranjeros sin residencia legal previa verificada e introduce controles estrictos sobre el empadronamiento para impedir que ocupantes ilegales o irregulares accedan a derechos derivados del padrón.",
+          "datos_a_favor": "Evitar empadronamientos fraudulentos fortalece la fiabilidad estadística del padrón municipal y previene mafias dedicadas al alquiler ilegal de plazas o subarriendos abusivos en infraviviendas.",
+          "datos_en_contra": "La Ley de Bases de Régimen Local obliga a los ayuntamientos a empadronar a toda persona que vive en el municipio para poder planificar salud pública, escolarización obligatoria de menores y servicios básicos; trasladar controles policiales a arrendadores particulares genera alta inseguridad contractual.",
+          "id_bloque_comun": "bloque_01",
+          "titulo_bloque_comun": "Vivienda, Urbanismo, Alquiler y Lucha contra la Okupación"
+        },
+        {
+          "numero_medida": 33,
+          "id_medida": "VOX-33",
+          "seccion_original": "VIVIENDA",
+          "titulo_medida": "Reducción drástica de los impuestos que gravan todo el proceso edificatorio y mejora de los instrumentos de financiación para promotores y constructores.",
+          "texto_oficial": "Reducción drástica de los impuestos que gravan todo el proceso edificatorio y mejora de los instrumentos de financiación para promotores y constructores.",
+          "explicacion_medida": "Plantea una reducción drástica de los tributos y tasas que gravan todo el ciclo de edificación (licencias, transmisiones de suelo, obra nueva) junto con mejores instrumentos financieros para promotores y constructores.",
+          "datos_a_favor": "La carga fiscal total en España sobre una vivienda de obra nueva alcanza en torno al 20%-25% entre IVA, AJD, ICIO y tasas municipales; rebajar estos costes reduce directamente el precio final de salida y viabiliza promociones en áreas de renta media.",
+          "datos_en_contra": "Al depender buena parte de las licencias y plusvalías (ICIO, tasas) de las haciendas locales, su supresión reduciría drásticamente la financiación de los ayuntamientos sin garantía automática de que las promotoras trasladen íntegramente el ahorro fiscal al comprador.",
+          "id_bloque_comun": "bloque_01",
+          "titulo_bloque_comun": "Vivienda, Urbanismo, Alquiler y Lucha contra la Okupación"
+        },
+        {
+          "numero_medida": 34,
+          "id_medida": "VOX-34",
+          "seccion_original": "VIVIENDA",
+          "titulo_medida": "La primera vivienda habitual de una familia española no paga impuestos.",
+          "texto_oficial": "La primera vivienda habitual de una familia española no paga impuestos. Tipo 0% de IVA para la compra de tu primera vivienda habitual -de nueva construcción- y bonificación 100% del ITP para la compra de tu primera vivienda habitual -de segunda mano-. Recuperación de la deducción por inversión en vivienda habitual.",
+          "explicacion_medida": "Suprime la fiscalidad de compra para la primera vivienda habitual de familias españolas: IVA del 0% en obra nueva, bonificación del 100% del ITP en segunda mano y recuperación de la deducción estatal por inversión en vivienda habitual en el IRPF.",
+          "datos_a_favor": "Eliminar el IVA e ITP reduce la barrera de entrada inicial en efectivo (que suele exigir un 30% entre entrada e impuestos) y facilita la emancipación de jóvenes sin ahorro familiar previo.",
+          "datos_en_contra": "Las directivas europeas del IVA prohíben tipos del 0% en la entrega general de vivienda nueva sin autorización comunitaria; además, los organismos económicos (Banco de España, AIReF) advierten que subsidiar la demanda vía IRPF tiende a capitalizarse en precios más altos cuando la oferta es rígida.",
+          "id_bloque_comun": "bloque_01",
+          "titulo_bloque_comun": "Vivienda, Urbanismo, Alquiler y Lucha contra la Okupación"
+        },
+        {
+          "numero_medida": 35,
+          "id_medida": "VOX-35",
+          "seccion_original": "VIVIENDA",
+          "titulo_medida": "Fiscalidad diferenciada para el resto de adquisiciones.",
+          "texto_oficial": "Fiscalidad diferenciada para el resto de adquisiciones. Fiscalidad media para operaciones de personas físicas o jurídicas destinadas a incrementar la oferta en alquiler residencial de larga duración. Fiscalidad agravada y disuasoria para compradores no comunitarios y operaciones especulativas de fondos o sociedades. La recaudación resultante se destinará a bonificaciones para la compra de vivienda y a la construcción de vivienda protegida.",
+          "explicacion_medida": "Instaura un esquema fiscal graduado en adquisiciones inmobiliarias no habituales: carga media para quien compre para alquiler residencial de larga duración y tributación agravada disuasoria para compradores extracomunitarios y operaciones especulativas de fondos.",
+          "datos_a_favor": "Penalizar fiscalmente la compra meramente especulativa o no residente y premiar el alquiler habitual orienta la inversión inmobiliaria hacia usos residenciales estables y modera la presión de capital extranjero en zonas costeras y capitales.",
+          "datos_en_contra": "La diferenciación fiscal por nacionalidad de comprador extracomunitario puede entrar en conflicto con la libre circulación de capitales recogida en el artículo 63 del TFUE, mientras que gravar la compra de grandes operadores sin discriminar por oferta de alquiler nuevo puede retraer la promoción build-to-rent.",
+          "id_bloque_comun": "bloque_01",
+          "titulo_bloque_comun": "Vivienda, Urbanismo, Alquiler y Lucha contra la Okupación"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_02",
+      "numero_bloque": 2,
+      "titulo_bloque": "Economía, Productividad, Industria, Innovación y Turismo",
+      "alcance_medidas": "Medidas 5 a 37 (2 medidas)",
+      "total_medidas_bloque": 2,
+      "medidas_incluidas": [
+        5,
+        37
+      ],
+      "medidas": [
+        {
+          "numero_medida": 5,
+          "id_medida": "VOX-5",
+          "seccion_original": "ECONOMÍA, INDUSTRIA Y ENERGÍA",
+          "titulo_medida": "Impulso nacional de la investigación, el desarrollo y la innovación.",
+          "texto_oficial": "Impulso nacional de la investigación, el desarrollo y la innovación. Reforzar la inversión en I+D+i, los incentivos fiscales a la innovación empresarial, la colaboración entre centros de investigación y empresas e industrias y la transferencia de conocimiento a nuestro tejido productivo, especialmente a las pymes. Plan para recuperar el talento que se ha tenido que marchar ante la falta de oportunidades.",
+          "explicacion_medida": "Impulsa el refuerzo de la inversión pública en I+D+i, incentivos fiscales para empresas innovadoras, transferencia tecnológica entre centros de investigación y pymes y un plan de retorno para el talento científico español en el extranjero.",
+          "datos_a_favor": "La intensidad en I+D de España permanece por debajo de la media de la OCDE y la UE; reducir barreras a la deducción fiscal por innovación en pymes y facilitar contratos estables de retorno investigador impulsa la productividad total de los factores y la competitividad exportadora.",
+          "datos_en_contra": "El impacto económico de la inversión en I+D requiere estabilidad plurianual y coordinación entre el Estado, universidades y comunidades autónomas; además, los incentivos fiscales sin auditoría estricta tienden a beneficiar a grandes corporaciones con menor impacto adicional sobre la pequeña empresa.",
+          "id_bloque_comun": "bloque_02",
+          "titulo_bloque_comun": "Economía, Productividad, Industria, Innovación y Turismo"
+        },
+        {
+          "numero_medida": 37,
+          "id_medida": "VOX-37",
+          "seccion_original": "DESREGULACIÓN",
+          "titulo_medida": "Sumar a España a la carrera de la Inteligencia Artificial.",
+          "texto_oficial": "Sumar a España a la carrera de la Inteligencia Artificial. Impulsar la investigación, el desarrollo y la aplicación de la inteligencia artificial como motor de desarrollo de la economía nacional, que aumente la productividad, contribuya a crear empleos de calidad y a mejorar la vida de los españoles. Facilitar su implantación en nuestras empresas, especialmente pymes y autónomos, y promover la formación de trabajadores y jóvenes para aprovechar las nuevas oportunidades presentes y futuras. Implantarla en las administraciones para reducir la burocracia y mejorar los servicios públicos, garantizando siempre la atención presencial.",
+          "explicacion_medida": "Impulsa el desarrollo y adopción de la Inteligencia Artificial en la economía española y en el tejido empresarial para elevar la productividad laboral, automatizar procesos y generar empleos cualificados.",
+          "datos_a_favor": "Fomentar la adopción de IA y digitalización entre las pymes españolas es clave para cerrar la brecha de productividad respecto a las economías líderes de la UE y modernizar sectores como logística, industria, turismo y agroalimentación.",
+          "datos_en_contra": "Una expansión acelerada de la IA con escasa regulación plantea riesgos de desplazamiento laboral en tareas administrativas, brecha digital territorial y cumplimiento estricto de los requisitos europeos del Reglamento de IA (AI Act) sobre privacidad y transparencia.",
+          "id_bloque_comun": "bloque_02",
+          "titulo_bloque_comun": "Economía, Productividad, Industria, Innovación y Turismo"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_03",
+      "numero_bloque": 3,
+      "titulo_bloque": "Fiscalidad e Impuestos",
+      "alcance_medidas": "Medidas 2 a 6 (3 medidas)",
+      "total_medidas_bloque": 3,
+      "medidas_incluidas": [
+        2,
+        3,
+        6
+      ],
+      "medidas": [
+        {
+          "numero_medida": 2,
+          "id_medida": "VOX-2",
+          "seccion_original": "ECONOMÍA, INDUSTRIA Y ENERGÍA",
+          "titulo_medida": "Rebaja masiva de impuestos para proteger a los españoles del infierno fiscal y burocrático que impide la prosperidad de los españoles.",
+          "texto_oficial": "Rebaja masiva de impuestos para proteger a los españoles del infierno fiscal y burocrático que impide la prosperidad de los españoles.\n- Reforma del sistema de tributación sobre la renta (IRPF). Simplificación y bajada del IRPF. Reducción del tipo aplicable del IRPF para cada contribuyente o familia en función del número de hijos.\n- Rebaja del tipo reducido y del tipo general del IVA atendiendo prioritariamente a productos esenciales y de primera necesidad.\n- Reducir el tipo del Impuesto de Sociedades con el fin de promover la dinamización de nuestra economía, el crecimiento de nuestras empresas y la creación efectiva de empleo.\n- Apoyo a los trabajadores autónomos. Cuota de cero euros si los ingresos no llegan al Salario Mínimo Interprofesional y, superado dicho umbral, una cuota progresiva desde los 50 euros en función de sus ingresos.\n- Revisión y reducción sistemática de todos los impuestos y tasas que lastran la prosperidad de los trabajadores, familias y empresas españolas.",
+          "explicacion_medida": "Plantea una reducción generalizada de la carga tributaria centrada en simplificar y rebajar los tramos del IRPF con deducciones crecientes según el número de hijos, junto con alivio fiscal y simplificación administrativa para contribuyentes y familias.",
+          "datos_a_favor": "Reducir la cuña fiscal y simplificar los tramos del IRPF aumenta la renta disponible de hogares y asalariados, incentiva la oferta laboral y puede estimular el consumo privado y el ahorro familiar, además de mitigar la progresividad en frío derivada de la inflación acumulada.",
+          "datos_en_contra": "Una rebaja masiva del IRPF —principal impuesto recaudatorio del Estado— reduciría significativamente los ingresos públicos en un contexto de reglas fiscales europeas vigentes, obligando a recortes equivalentes de gasto social o al aumento de deuda si el efecto de Laffer no compensa la pérdida recaudatoria a corto plazo.",
+          "id_bloque_comun": "bloque_03",
+          "titulo_bloque_comun": "Fiscalidad e Impuestos"
+        },
+        {
+          "numero_medida": 3,
+          "id_medida": "VOX-3",
+          "seccion_original": "ECONOMÍA, INDUSTRIA Y ENERGÍA",
+          "titulo_medida": "Reducción de la deuda pública.",
+          "texto_oficial": "Reducción de la deuda pública. Compatibilizar la rebaja de impuestos con la financiación de los servicios\npúblicos esenciales, mediante el control del déficit, la eliminación del gasto superfluo e ideológico y el impulso del crecimiento económico.",
+          "explicacion_medida": "Propone compatibilizar los recortes fiscales con la sostenibilidad de los servicios públicos esenciales mediante la reducción del déficit público, la amortización de deuda estatal y el recorte de partidas calificadas como superfluas o ideológicas.",
+          "datos_a_favor": "Contener el gasto improductivo y estabilizar la ratio de deuda sobre PIB reduce la vulnerabilidad ante subidas de tipos de interés, alivia la carga de intereses en los Presupuestos Generales del Estado y facilita el cumplimiento de los objetivos de estabilidad presupuestaria de la Unión Europea.",
+          "datos_en_contra": "El núcleo mayoritario del gasto público español corresponde a partidas rígidas (pensiones, sanidad, educación y servicio de la deuda), mientras que el margen discrecional en subvenciones o estructura política suele resultar cuantitativamente insuficiente para compensar bajadas tributarias de gran escala sin afectar prestaciones.",
+          "id_bloque_comun": "bloque_03",
+          "titulo_bloque_comun": "Fiscalidad e Impuestos"
+        },
+        {
+          "numero_medida": 6,
+          "id_medida": "VOX-6",
+          "seccion_original": "ECONOMÍA, INDUSTRIA Y ENERGÍA",
+          "titulo_medida": "Fiscalidad mínima y diferenciada en las zonas en riesgo de despoblación.",
+          "texto_oficial": "Fiscalidad mínima y diferenciada en las zonas en riesgo de despoblación. Tipos mínimos y bonificaciones y deducciones reforzadas para los residentes españoles de estas zonas y para todos aquellos españoles que decidan trasladar su residencia a las mismas.",
+          "explicacion_medida": "Establece un régimen de fiscalidad mínima y diferenciada en municipios con riesgo de despoblación mediante tipos reducidos y deducciones específicas para residentes actuales y nuevos pobladores que trasladen allí su domicilio habitual.",
+          "datos_a_favor": "El diferencial fiscal en zonas despobladas compensa la menor accesibilidad a servicios públicos, atrae teletrabajadores, autónomos y relevo familiar al medio rural, y amplía el marco de ayudas de funcionamiento permitidas por la UE en provincias escasamente pobladas.",
+          "datos_en_contra": "La diferenciación territorial del IRPF o tributos estatales plantea riesgos de equidad horizontal y fragmentación del principio de capacidad económica (art. 31 CE), además de posibles deslocalizaciones fiscales ficticias (empadronamiento de conveniencia) si no se acompaña de dotación efectiva de servicios sanitarios, educativos y digitales.",
+          "id_bloque_comun": "bloque_03",
+          "titulo_bloque_comun": "Fiscalidad e Impuestos"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_04",
+      "numero_bloque": 4,
+      "titulo_bloque": "Empleo, Autónomos, Emprendimiento y Mercado Laboral",
+      "alcance_medidas": "Medida 23 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        23
+      ],
+      "medidas": [
+        {
+          "numero_medida": 23,
+          "id_medida": "VOX-23",
+          "seccion_original": "PRIORIDAD NACIONAL",
+          "titulo_medida": "Plan de retorno a nuestra Nación para los españoles que tuvieron que abandonar España en los últimos años por falta de oportunidades y deseen volver.",
+          "texto_oficial": "Plan de retorno a nuestra Nación para los españoles que tuvieron que abandonar España en los últimos años por falta de oportunidades y deseen volver.",
+          "explicacion_medida": "Diseña un plan nacional de apoyo al retorno para españoles emigrados en los últimos años por motivos laborales, facilitando convalidación profesional, ayudas a la instalación y acceso a empleo en España.",
+          "datos_a_favor": "Recuperar capital humano cualificado formado en el sistema educativo español palía la fuga de cerebros, rejuvenece la pirámide laboral y aporta experiencia internacional a pymes y centros tecnológicos.",
+          "datos_en_contra": "Sin un aumento estructural de los salarios medios y de la estabilidad investigadora y empresarial en España, las ayudas puntuales al retorno suelen tener baja adherencia o desembocar en una nueva salida al finalizar la subvención.",
+          "id_bloque_comun": "bloque_04",
+          "titulo_bloque_comun": "Empleo, Autónomos, Emprendimiento y Mercado Laboral"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_05",
+      "numero_bloque": 5,
+      "titulo_bloque": "Pensiones, Mayores, Reto Demográfico, Discapacidad e Igualdad",
+      "alcance_medidas": "Medidas 7 a 96 (4 medidas)",
+      "total_medidas_bloque": 4,
+      "medidas_incluidas": [
+        7,
+        22,
+        95,
+        96
+      ],
+      "medidas": [
+        {
+          "numero_medida": 7,
+          "id_medida": "VOX-7",
+          "seccion_original": "ECONOMÍA, INDUSTRIA Y ENERGÍA",
+          "titulo_medida": "Garantizar la sostenibilidad del sistema de pensiones.",
+          "texto_oficial": "Garantizar la sostenibilidad del sistema de pensiones. Revitalizar la economía, impulsar el empleo, mejorar los salarios y aumentar la riqueza. Una economía más productiva es la garantía de sostenibilidad de las pensiones\ny de mejores servicios públicos. Además, es necesario impulsar medidas de apoyo a las familias, fomento de la natalidad y ayuda a la crianza, contribuyendo a revertir el envejecimiento demográfico y el descenso de la natalidad en España.",
+          "explicacion_medida": "Vincula la sostenibilidad financiera del sistema público de pensiones al crecimiento del empleo, los salarios y la productividad, complementado con políticas pro-natalidad y ahorro previsional sin descansar únicamente en subidas de cotizaciones.",
+          "datos_a_favor": "Ampliar la base de cotizantes activos y mejorar la productividad laboral refuerza los ingresos contributivos de la Seguridad Social de forma estructural sin penalizar el coste laboral de contratar ni reducir la pensión real futura.",
+          "datos_en_contra": "El envejecimiento demográfico y la jubilación de la generación del baby boom generan presiones financieras inmediatas durante las próximas dos décadas que los efectos a largo plazo del fomento de la natalidad no pueden absorber a tiempo sin reformas paramétricas o ingresos tributarios adicionales.",
+          "id_bloque_comun": "bloque_05",
+          "titulo_bloque_comun": "Pensiones, Mayores, Reto Demográfico, Discapacidad e Igualdad"
+        },
+        {
+          "numero_medida": 22,
+          "id_medida": "VOX-22",
+          "seccion_original": "PRIORIDAD NACIONAL",
+          "titulo_medida": "El Ingreso Mínimo Vital atenderá únicamente las necesidades de los españoles con menos recursos.",
+          "texto_oficial": "El Ingreso Mínimo Vital atenderá únicamente las necesidades de los españoles con menos recursos. Se promoverá el retorno de aquellos inmigrantes que estén cobrando el IMV o sus complementos autonómicos.",
+          "explicacion_medida": "Restringe la percepción del Ingreso Mínimo Vital (IMV) exclusivamente a ciudadanos españoles de bajos ingresos y vincula el cobro actual por parte de extranjeros a programas de retorno a sus países.",
+          "datos_a_favor": "Focalizar una prestación no contributiva enteramente financiada vía impuestos generales sobre nacionales vulnerables busca limitar el gasto social y evitar un eventual efecto llamada hacia la prestación mínima.",
+          "datos_en_contra": "Excluir a residentes legales regulares y solicitantes de protección internacional con residencia legal prolongada contraviene el principio de no discriminación en asistencia social de la Directiva europea de residentes de larga duración y la Carta Social Europea.",
+          "id_bloque_comun": "bloque_05",
+          "titulo_bloque_comun": "Pensiones, Mayores, Reto Demográfico, Discapacidad e Igualdad"
+        },
+        {
+          "numero_medida": 95,
+          "id_medida": "VOX-95",
+          "seccion_original": "FAMILIA Y VIDA",
+          "titulo_medida": "Cuidado de nuestros mayores y dependientes.",
+          "texto_oficial": "Cuidado de nuestros mayores y dependientes. Reforzar el presupuesto en dependencia, las ayudas para el cuidado en el hogar, el apoyo a familiares a cargo. Aumento de los programas de atención a la soledad no deseada y de las plazas en residencias.\n- Refuerzo de las bonificaciones y deducciones para personas con discapacidad, poner fin a las barreras arquitectónicas que dificultan su movilidad y desburocratizar los procedimientos de reconocimiento de la discapacidad o dependencia, así como otros trámites relacionados.",
+          "explicacion_medida": "Incrementa la financiación del sistema de dependencia, refuerza ayudas para cuidado domiciliario y residencias, lucha contra la soledad no deseada de mayores y amplía beneficios fiscales por discapacidad.",
+          "datos_a_favor": "Reducir el llamado 'limbo de la dependencia' y apoyar económicamente a cuidadores familiares permite envejecer en el hogar y alivia una grave carga física y económica para las familias.",
+          "datos_en_contra": "Financiar la parte correspondiente a las comunidades autónomas y ampliar plazas residenciales requiere reformas estables de cofinanciación y formación de miles de auxiliares sociosanitarios.",
+          "id_bloque_comun": "bloque_05",
+          "titulo_bloque_comun": "Pensiones, Mayores, Reto Demográfico, Discapacidad e Igualdad"
+        },
+        {
+          "numero_medida": 96,
+          "id_medida": "VOX-96",
+          "seccion_original": "FAMILIA Y VIDA",
+          "titulo_medida": "Eliminar todas aquellas trabas que impiden que las ayudas a la dependencia lleguen de manera rápida e íntegra a los beneficiarios.",
+          "texto_oficial": "Eliminar todas aquellas trabas que impiden que las ayudas a la dependencia lleguen de manera rápida e íntegra a los beneficiarios.",
+          "explicacion_medida": "Elimina las trabas burocráticas y retrasos administrativos que impiden que las ayudas reconocidas de dependencia lleguen con rapidez a los beneficiarios.",
+          "datos_a_favor": "Simplificar la valoración y resolución en una sola ventanilla evitaría que miles de solicitantes fallezcan esperando la prestación efectiva tras tener reconocido su grado de dependencia.",
+          "datos_en_contra": "Las demoras actuales obedecen fundamentalmente a falta de personal valorador autonómico y restricciones financieras en la dotación presupuestaria más que a un mero exceso de formularios.",
+          "id_bloque_comun": "bloque_05",
+          "titulo_bloque_comun": "Pensiones, Mayores, Reto Demográfico, Discapacidad e Igualdad"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_06",
+      "numero_bloque": 6,
+      "titulo_bloque": "Familia, Natalidad, Conciliación, Infancia y Juventud",
+      "alcance_medidas": "Medidas 94 a 99 (4 medidas)",
+      "total_medidas_bloque": 4,
+      "medidas_incluidas": [
+        94,
+        97,
+        98,
+        99
+      ],
+      "medidas": [
+        {
+          "numero_medida": 94,
+          "id_medida": "VOX-94",
+          "seccion_original": "FAMILIA Y VIDA",
+          "titulo_medida": "Plan nacional de natalidad y apoyo a las familias españolas.",
+          "texto_oficial": "Plan nacional de natalidad y apoyo a las familias españolas. Las familias españolas, en el centro de las políticas públicas.\n- Todos los beneficios que ahora existen para las familias numerosas se aumentarán y se extenderán a todas las familias de manera progresiva desde el primer hijo, intensificando las ayudas y bonificaciones en función del número de hijos.\n- Bonificaciones fiscales a empresas que fomenten la conciliación y hagan descuentos a las familias. Bonificación del 100% de la ayuda en el hogar. Impulso de los servicios de apoyo a las familias en los centros educativos.\n- Cotización a la Seguridad Social financiada por el Estado para los españoles dedicados al cuidado de sus hijos. Formar una familia y criar a los hijos es una contribución esencial al futuro de España y no puede ser motivo de penalización en la jubilación.\n- El plan incluirá todo tipo medidas en apoyo a la familia: para facilitar el acceso a la vivienda, la compra de vehículos por necesidades familiares, la reducción de la carga fiscal de los productos de primera necesidad infantil, deducciones por material escolar o clases extraescolares. y la gratuidad real de la educación infantil de 0 a 3 años.",
+          "explicacion_medida": "Lanza un plan integral pro-natalidad que extiende los actuales beneficios de familia numerosa a todas las familias de forma progresiva desde el primer hijo, con mayores exenciones y apoyo directo a la maternidad.",
+          "datos_a_favor": "España registra una de las tasas de fecundidad más bajas del mundo; reducir el coste económico directo del primer hijo mediante exenciones fiscales e incentivos en guarderías ataca la brecha entre hijos deseados y reales.",
+          "datos_en_contra": "La experiencia europea demuestra que las ayudas fiscales puntuales tienen efecto limitado si no se acompañan de estabilidad salarial juvenil, acceso a vivienda y conciliación real de horarios laborales.",
+          "id_bloque_comun": "bloque_06",
+          "titulo_bloque_comun": "Familia, Natalidad, Conciliación, Infancia y Juventud"
+        },
+        {
+          "numero_medida": 97,
+          "id_medida": "VOX-97",
+          "seccion_original": "FAMILIA Y VIDA",
+          "titulo_medida": "Protección de los menores y la infancia.",
+          "texto_oficial": "Protección de los menores y la infancia. Preservar la inocencia de los menores y protegerlos frente a los riesgos presentes en los entornos digitales, tales como la adicción al juego o la pornografía o la mayor vulnerabilidad ante ciertos delitos.",
+          "explicacion_medida": "Refuerza la protección de menores e infancia en el entorno digital frente a pornografía, adicción al juego en línea, acoso y riesgos delictivos.",
+          "datos_a_favor": "Establecer sistemas fiables de verificación de edad y control de casas de apuestas y contenidos dañinos responde a un amplio consenso médico y educativo sobre salud mental adolescente.",
+          "datos_en_contra": "Implementar bloqueos efectivos sin crear sistemas invasivos de identificación digital obligatoria para todos los ciudadanos plantea complejos desafíos técnicos de privacidad y neutralidad de red.",
+          "id_bloque_comun": "bloque_06",
+          "titulo_bloque_comun": "Familia, Natalidad, Conciliación, Infancia y Juventud"
+        },
+        {
+          "numero_medida": 98,
+          "id_medida": "VOX-98",
+          "seccion_original": "FAMILIA Y VIDA",
+          "titulo_medida": "Defensa del derecho a la vida desde su concepción hasta la muerte natural y fin de la cultura de la muerte.",
+          "texto_oficial": "Defensa del derecho a la vida desde su concepción hasta la muerte natural y fin de la cultura de la muerte. Garantizar la objeción de conciencia de los profesionales sanitarios y farmacéuticos y potenciar los cuidados paliativos.",
+          "explicacion_medida": "Propone la defensa jurídica de la vida humana desde la concepción hasta la muerte natural (oposición al aborto y la eutanasia), reforzando la objeción de conciencia sanitaria y los cuidados paliativos universales.",
+          "datos_a_favor": "Potenciar cuidados paliativos de calidad y asegurar el derecho constitucional a la objeción de conciencia de médicos y farmacéuticos recibe amplio respaldo bioético profesional.",
+          "datos_en_contra": "La reversión de las leyes vigentes de interrupción voluntaria del embarazo y eutanasia reduciría derechos reconocidos y avalados recientemente por el Tribunal Constitucional (SSTC 44/2023 y 19/2023) generando fuerte litigiosidad y polarización social.",
+          "id_bloque_comun": "bloque_06",
+          "titulo_bloque_comun": "Familia, Natalidad, Conciliación, Infancia y Juventud"
+        },
+        {
+          "numero_medida": 99,
+          "id_medida": "VOX-99",
+          "seccion_original": "FAMILIA Y VIDA",
+          "titulo_medida": "Combatir la brecha maternal facilitando la formación, permanencia, promoción y reincorporación al trabajo de las madres que han interrumpido sus carreras por la maternidad o cuidado de familiares y desean retomarla.",
+          "texto_oficial": "Combatir la brecha maternal facilitando la formación, permanencia, promoción y reincorporación al trabajo de las madres que han interrumpido sus carreras por la maternidad o cuidado de familiares y desean retomarla.\nReforzar los derechos de conciliación de la vida personal, familiar y profesional de todos los trabajadores y la asunción equilibrada de las responsabilidades familiares. Incentivos para las empresas que favorezcan la conciliación familiar y laboral. Aumento del presupuesto en conciliación familiar con ampliación de los servicios complementarios de aula en los centros educativos.",
+          "explicacion_medida": "Lanza medidas contra la brecha maternal facilitando la formación, permanencia y reincorporación laboral de mujeres que interrumpieron su carrera por maternidad o cuidados, junto con mejoras de conciliación.",
+          "datos_a_favor": "Bonificar cuotas y flexibilizar jornadas para madres que regresan al mercado laboral combate el llamado 'castigo por maternidad' que explica gran parte de la brecha salarial en edades medias.",
+          "datos_en_contra": "Centrar los incentivos laborales exclusivamente en el reingreso materno sin fomentar permisos equilibrados ni horarios racionales compartidos puede perpetuar que las empresas sigan asociando los costes de conciliación únicamente al empleo femenino.",
+          "id_bloque_comun": "bloque_06",
+          "titulo_bloque_comun": "Familia, Natalidad, Conciliación, Infancia y Juventud"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_07",
+      "numero_bloque": 7,
+      "titulo_bloque": "Sanidad Pública, Salud Mental y Dependencia",
+      "alcance_medidas": "Medidas 20 a 65 (7 medidas)",
+      "total_medidas_bloque": 7,
+      "medidas_incluidas": [
+        20,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65
+      ],
+      "medidas": [
+        {
+          "numero_medida": 20,
+          "id_medida": "VOX-20",
+          "seccion_original": "PRIORIDAD NACIONAL",
+          "titulo_medida": "Garantizar la sostenibilidad del sistema sanitario dotándolo de los medios necesarios para atender las necesidades de los españoles, excluyendo a los extranjeros en situación ilegal salvo casos de urgencia grave. Auditoría del coste de la inmigración masiva en la sanidad pública.",
+          "texto_oficial": "Garantizar la sostenibilidad del sistema sanitario dotándolo de los medios necesarios para atender las necesidades de los españoles, excluyendo a los extranjeros en situación ilegal salvo casos de urgencia grave. Auditoría del coste de la inmigración masiva en la sanidad pública.",
+          "explicacion_medida": "Propone reforzar los medios del Sistema Nacional de Salud manteniendo la atención de urgencia vital para extranjeros irregulares pero excluyéndoles de la cartera ordinaria, junto a una auditoría del impacto presupuestario de la inmigración sobre la sanidad pública.",
+          "datos_a_favor": "Dimensionar recursos hospitalarios por población asegurada y controlar el turismo sanitario busca contener el gasto farmacéutico y hospitalario de las comunidades autónomas y evitar colapsos puntuales en atención primaria.",
+          "datos_en_contra": "El Real Decreto-ley 7/2018 restauró la cobertura general tras comprobarse que excluir la atención primaria eleva los costes de urgencias hospitalarias por diagnósticos tardíos y compromete la salud pública epidemiológica en enfermedades transmisibles.",
+          "id_bloque_comun": "bloque_07",
+          "titulo_bloque_comun": "Sanidad Pública, Salud Mental y Dependencia"
+        },
+        {
+          "numero_medida": 60,
+          "id_medida": "VOX-60",
+          "seccion_original": "SANIDAD",
+          "titulo_medida": "Misma atención de calidad para todos los españoles: tarjeta sanitaria única con historia clínica compartida en todo el territorio nacional. Garantizar que el desconocimiento de las lenguas regionales no sea en ningún caso impedimento para el acceso por oposición a plazas de personal sanitario ni un perjuicio para los pacientes.",
+          "texto_oficial": "Misma atención de calidad para todos los españoles: tarjeta sanitaria única con historia clínica compartida en todo el territorio nacional. Garantizar que el desconocimiento de las lenguas regionales no sea en ningún caso impedimento para el acceso por oposición a plazas de personal sanitario ni un perjuicio para los pacientes.",
+          "explicacion_medida": "Instaura una tarjeta sanitaria nacional única con historia clínica interoperable en toda España y suprime el requisito de conocer lenguas cooficiales en las oposiciones sanitarias.",
+          "datos_a_favor": "Una historia clínica digital plenamente compartida entre las 17 autonomías agiliza diagnósticos de urgencia en desplazamientos y suprimir barreras lingüísticas puede aliviar vacantes críticas de médicos en comunidades con idioma cooficial.",
+          "datos_en_contra": "La eliminación total de requisito o mérito lingüístico choca con sentencias sobre el derecho estatutario del paciente a ser atendido en su lengua oficial y con el ejercicio directo de competencias sanitarias autonómicas (art. 148 CE).",
+          "id_bloque_comun": "bloque_07",
+          "titulo_bloque_comun": "Sanidad Pública, Salud Mental y Dependencia"
+        },
+        {
+          "numero_medida": 61,
+          "id_medida": "VOX-61",
+          "seccion_original": "SANIDAD",
+          "titulo_medida": "Refuerzo de la atención primaria y pediátrica en todo el territorio nacional.",
+          "texto_oficial": "Refuerzo de la atención primaria y pediátrica en todo el territorio nacional. Mejorar su accesibilidad y capacidad asistencial, con especial atención a las zonas rurales y de difícil cobertura y a la continuidad de la atención entre centros de salud, especialistas y hospitales.",
+          "explicacion_medida": "Plantea reforzar la Atención Primaria y la pediatría en todo el territorio nacional mediante mayor capacidad resolutiva en centros de salud y atención específica a zonas rurales y de difícil cobertura.",
+          "datos_a_favor": "Robustecer la Atención Primaria reduce la saturación de urgencias hospitalarias y resulta decisivo ante el déficit de médicos de familia y pediatras en áreas rurales de interior.",
+          "datos_en_contra": "La falta de profesionales disponibles en determinadas especialidades médicas responde también a planificación histórica de plazas MIR y condiciones laborales que dependen de los presupuestos sanitarios de cada comunidad autónoma.",
+          "id_bloque_comun": "bloque_07",
+          "titulo_bloque_comun": "Sanidad Pública, Salud Mental y Dependencia"
+        },
+        {
+          "numero_medida": 62,
+          "id_medida": "VOX-62",
+          "seccion_original": "SANIDAD",
+          "titulo_medida": "Plan nacional de reducción de listas de espera y mejora de la atención sanitaria.",
+          "texto_oficial": "Plan nacional de reducción de listas de espera y mejora de la atención sanitaria. Reorganizar circuitos asistenciales, mejorar la capacidad diagnóstica y la actividad quirúrgica y facilitar derivaciones entre centros y territorios. Fomento de la colaboración público-privada cuando ayude efectivamente a reducir demoras, con transparencia, evaluación de calidad y control del gasto. Publicación de indicadores comparables y periódicos de listas de espera, actividad y resultados.",
+          "explicacion_medida": "Establece un plan nacional de choque contra las listas de espera mediante reorganización de circuitos quirúrgicos y diagnósticos, movilidad voluntaria entre centros y colaboración público-privada transparente sujeta a resultados.",
+          "datos_a_favor": "La derivación concertada sujeta a objetivos medibles y la ampliación de actividad vespertina permiten reducir demoras acumuladas en cirugías y pruebas diagnósticas a corto plazo.",
+          "datos_en_contra": "Los críticos señalan que desviar financiación hacia conciertos privados puede drenar personal y recursos estructurales del sistema público, defendiendo priorizar la contratación pública directa de turnos extraordinarios y quirófanos.",
+          "id_bloque_comun": "bloque_07",
+          "titulo_bloque_comun": "Sanidad Pública, Salud Mental y Dependencia"
+        },
+        {
+          "numero_medida": 63,
+          "id_medida": "VOX-63",
+          "seccion_original": "SANIDAD",
+          "titulo_medida": "Mejorar las condiciones laborales y retributivas de todos los profesionales.",
+          "texto_oficial": "Mejorar las condiciones laborales y retributivas de todos los profesionales. Mejora progresiva de retribuciones, reconocimiento de guardias y turnos, conciliación efectiva y carrera profesional basada en formación, experiencia y méritos. Incentivos económicos y profesionales para plazas rurales o de difícil cobertura; impulso\nde contratos estables y contratos puente tras la residencia, y un programa de retorno de sanitarios españoles que trabajan en el extranjero. Refuerzo de plantillas médicas, de enfermería y personal administrativo. Plan para promover el retorno de los profesionales sanitarios que se han marchado al extranjero en busca de las oportunidades que no han tenido en España. Fin del turismo sanitario.",
+          "explicacion_medida": "Propone mejorar las condiciones retributivas del personal sanitario, reconocer las guardias, establecer incentivos para plazas de difícil cobertura y orientar los contratos al mérito y la carrera profesional.",
+          "datos_a_favor": "Alinear retribuciones y estabilidad contractual frena la fuga de médicos y enfermeras a sistemas extranjeros y reduce la temporalidad crónica en el SNS.",
+          "datos_en_contra": "Subir retribuciones y complementos de guardias de forma homogénea conlleva un elevado impacto sobre el capítulo I de personal de los presupuestos autonómicos, principal partida del gasto sanitario.",
+          "id_bloque_comun": "bloque_07",
+          "titulo_bloque_comun": "Sanidad Pública, Salud Mental y Dependencia"
+        },
+        {
+          "numero_medida": 64,
+          "id_medida": "VOX-64",
+          "seccion_original": "SANIDAD",
+          "titulo_medida": "Atención específica a la salud de las mujeres.",
+          "texto_oficial": "Atención específica a la salud de las mujeres. Reforzar la prevención y el diagnóstico precoz del cáncer de mama y de los cánceres ginecológicos, mejorar el diagnóstico y tratamiento de las enfermedades que afectan especialmente a las mujeres y garantizar una atención adecuada durante el embarazo, parto y posparto, con especial atención a las necesidades de las madres que afrontan la maternidad a edades más avanzadas.",
+          "explicacion_medida": "Refuerza programas preventivos y asistenciales específicos en salud de la mujer: detección precoz de cáncer de mama y cánceres ginecológicos, seguimiento de patologías femeninas y atención integral al embarazo, parto y posparto.",
+          "datos_a_favor": "Ampliar coberturas de cribado oncológico y recursos perinatales especialmente en áreas rurales disminuye mortalidad evitable y mejora el bienestar materno-infantil.",
+          "datos_en_contra": "Su despliegue requiere dotación continua de equipos de diagnóstico y matronas en comarcas periféricas donde hoy ya existen vacantes difíciles de cubrir.",
+          "id_bloque_comun": "bloque_07",
+          "titulo_bloque_comun": "Sanidad Pública, Salud Mental y Dependencia"
+        },
+        {
+          "numero_medida": 65,
+          "id_medida": "VOX-65",
+          "seccion_original": "SANIDAD",
+          "titulo_medida": "Mapa de infraestructuras sanitarias urgentes y refuerzo de la cartera de servicios sanitarios.",
+          "texto_oficial": "Mapa de infraestructuras sanitarias urgentes y refuerzo de la cartera de servicios sanitarios. Impulso de un mapa de infraestructuras sanitarias urgentes y necesarias y establecimiento de un plan de inversiones directas. Promover la investigación médica con independencia de la rentabilidad comercial (enfermedades raras, enfermedades crónicas, y neurodegenerativas). Refuerzo de la Estrategia Nacional del Cáncer y creación de una Red de Centros Nacionales de Oncología. Refuerzo de la Estrategia Nacional de Salud Mental.",
+          "explicacion_medida": "Plantea un mapa nacional de infraestructuras sanitarias urgentes con inversión directa estatal y el fomento de la investigación biomédica en enfermedades raras y crónicas sin rentabilidad comercial inmediata.",
+          "datos_a_favor": "Priorizar inversiones en hospitales comarcales rezagados y financiar I+D público para enfermedades minoritarias corrige fallos del mercado farmacéutico privado y reduce desigualdades territoriales.",
+          "datos_en_contra": "La ejecución directa de infraestructuras hospitalarias desde la Administración General del Estado puede solaparse con la planificación sanitaria de las comunidades autónomas.",
+          "id_bloque_comun": "bloque_07",
+          "titulo_bloque_comun": "Sanidad Pública, Salud Mental y Dependencia"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_08",
+      "numero_bloque": 8,
+      "titulo_bloque": "Educación, Formación Profesional y Universidad",
+      "alcance_medidas": "Medidas 66 a 75 (10 medidas)",
+      "total_medidas_bloque": 10,
+      "medidas_incluidas": [
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75
+      ],
+      "medidas": [
+        {
+          "numero_medida": 66,
+          "id_medida": "VOX-66",
+          "seccion_original": "EDUCACIÓN, CULTURA Y DEPORTE",
+          "titulo_medida": "Igualar las oportunidades para todos los alumnos españoles: unificar currículo, evaluaciones nacionales e inspección. Reválidas y EVAU única. Se garantizará la educación en español en todo el territorio nacional. Fin a las diferencias en los contenidos curriculares e impulso de la exigencia académica. Revisión de las homologaciones de títulos extranjeros.",
+          "texto_oficial": "Igualar las oportunidades para todos los alumnos españoles: unificar currículo, evaluaciones nacionales e inspección. Reválidas y EVAU única. Se garantizará la educación en español en todo el territorio nacional. Fin a las diferencias en los contenidos curriculares e impulso de la exigencia académica. Revisión de las homologaciones de títulos extranjeros.",
+          "explicacion_medida": "Propone recentralizar la educación con un currículo único nacional, evaluaciones estandarizadas (reválidas y EBAU única), alta inspección reforzada, garantía de enseñanza en español en todo el país y revisión estricta de homologación de títulos extranjeros.",
+          "datos_a_favor": "Una prueba de acceso universitaria y un currículo básico comunes garantizan igualdad de condiciones académicas en el distrito único universitario y refuerzan la movilidad de familias entre regiones.",
+          "datos_en_contra": "La recuperación de la competencia legislativa educativa exclusiva por el Estado requeriría reformar los Estatutos de Autonomía y contraviene la doctrina del Tribunal Constitucional sobre lenguas cooficiales como lenguas vehiculares.",
+          "id_bloque_comun": "bloque_08",
+          "titulo_bloque_comun": "Educación, Formación Profesional y Universidad"
+        },
+        {
+          "numero_medida": 67,
+          "id_medida": "VOX-67",
+          "seccion_original": "EDUCACIÓN, CULTURA Y DEPORTE",
+          "titulo_medida": "Garantizar los derechos de las familias en la educación de sus hijos.",
+          "texto_oficial": "Garantizar los derechos de las familias en la educación de sus hijos. Garantizar la libre elección de centro educativo en todos los niveles para que las familias elijan libremente el modelo educativo que desean, sin que su situación económica o social sea un impedimento para ello.",
+          "explicacion_medida": "Garantiza la libre elección de centro educativo por parte de las familias en todas las etapas mediante mecanismos de acceso que eviten que la renta familiar limite la elección entre centros públicos y concertados.",
+          "datos_a_favor": "Ampliar la libertad de elección o fórmulas de cheque escolar fomenta la competencia cualitativa entre centros y respeta las preferencias pedagógicas de las familias (art. 27 CE).",
+          "datos_en_contra": "Los defensores de la escuela pública advierten que financiar centros privados o ampliar cheques escolares sin control de zonificación aumenta la segregación socioeconómica escolar y resta fondos a la red pública directa.",
+          "id_bloque_comun": "bloque_08",
+          "titulo_bloque_comun": "Educación, Formación Profesional y Universidad"
+        },
+        {
+          "numero_medida": 68,
+          "id_medida": "VOX-68",
+          "seccion_original": "EDUCACIÓN, CULTURA Y DEPORTE",
+          "titulo_medida": "Ningún español debe quedarse sin poder estudiar por falta de recursos económicos.",
+          "texto_oficial": "Ningún español debe quedarse sin poder estudiar por falta de recursos económicos. Mejorar el sistema de becas en las etapas universitaria y preuniversitaria para que la educación sea un verdadero ascensor social en el que la situación económica no sea un obstáculo para el esfuerzo, el mérito y la capacidad.",
+          "explicacion_medida": "Propone ampliar y mejorar las becas de estudio universitarias y preuniversitarias vinculadas a criterios de renta familiar, esfuerzo, mérito y rendimiento académico.",
+          "datos_a_favor": "Un sistema potente de becas salario asegura el ascensor social para estudiantes de hogares modestos, especialmente en carreras técnicas o desplazamientos universitarios.",
+          "datos_en_contra": "Endurecer los umbrales de nota media y créditos aprobados puede expulsar del sistema de becas a jóvenes que deben compatibilizar estudios con trabajos a tiempo parcial.",
+          "id_bloque_comun": "bloque_08",
+          "titulo_bloque_comun": "Educación, Formación Profesional y Universidad"
+        },
+        {
+          "numero_medida": 69,
+          "id_medida": "VOX-69",
+          "seccion_original": "EDUCACIÓN, CULTURA Y DEPORTE",
+          "titulo_medida": "Eliminación de contenidos ideológicos ajenos a las materias académicas.",
+          "texto_oficial": "Eliminación de contenidos ideológicos ajenos a las materias académicas. Derogación de la LOMLOE y recuperación de una enseñanza basada en el esfuerzo, el saber, el mérito, la exigencia, la disciplina y la responsabilidad personal. Potenciación de las matemáticas, la lectura, las humanidades y las ciencias. Respeto en las aulas. Fin de los móviles en clase, refuerzo de la autoridad del profesor y plan nacional contra el acoso escolar y el ciberacoso.",
+          "explicacion_medida": "Deroga la LOMLOE y propone una ley educativa centrada en matemáticas, lectura, humanidades y ciencias, recuperando la disciplina en el aula, el esfuerzo académico y el respeto a la autoridad docente, suprimiendo contenidos calificados como ideológicos.",
+          "datos_a_favor": "Reforzar áreas instrumentales básicas como lectura y matemáticas responde a preocupaciones sobre descensos en informes PISA y a demandas de menor carga burocrática para el profesorado.",
+          "datos_en_contra": "La inestabilidad crónica de leyes educativas en España dificulta la evaluación rigurosa de resultados a medio plazo, y reabrir conflictos sobre educación afectivo-sexual o currículo suele polarizar a la comunidad educativa.",
+          "id_bloque_comun": "bloque_08",
+          "titulo_bloque_comun": "Educación, Formación Profesional y Universidad"
+        },
+        {
+          "numero_medida": 70,
+          "id_medida": "VOX-70",
+          "seccion_original": "EDUCACIÓN, CULTURA Y DEPORTE",
+          "titulo_medida": "Establecimiento de un número máximo por aula de alumnos procedentes de otras culturas o con dominio insuficiente del español. Creación de aulas específicas de nivelación, donde los alumnos que se incorporen tarde al sistema español alcancen el nivel requerido antes de integrarse en su clase, sin ralentizar a sus compañeros y con más posibilidades de éxito para ellos mismos.",
+          "texto_oficial": "Establecimiento de un número máximo por aula de alumnos procedentes de otras culturas o con dominio insuficiente del español. Creación de aulas específicas de nivelación, donde los alumnos que se incorporen tarde al sistema español alcancen el nivel requerido antes de integrarse en su clase, sin ralentizar a sus compañeros y con más posibilidades de éxito para ellos mismos.",
+          "explicacion_medida": "Limita por ley el porcentaje de alumnado extranjero o sin dominio del español por aula y crea aulas previas de nivelación lingüística antes de su incorporación a la clase ordinaria.",
+          "datos_a_favor": "Las aulas de acogida e inmersión lingüística aceleran el aprendizaje del idioma sin frenar el ritmo curricular común y evitan la concentración de necesidades educativas en guetos escolares.",
+          "datos_en_contra": "Establecer cuotas restrictivas rígidas por origen nacional en aulas ordinarias plantea problemas jurídicos de no discriminación y exige incrementar significativamente el profesorado de apoyo y el transporte escolar.",
+          "id_bloque_comun": "bloque_08",
+          "titulo_bloque_comun": "Educación, Formación Profesional y Universidad"
+        },
+        {
+          "numero_medida": 71,
+          "id_medida": "VOX-71",
+          "seccion_original": "EDUCACIÓN, CULTURA Y DEPORTE",
+          "titulo_medida": "Prohibición del burka y el niqab en todos los espacios públicos y lugares donde se presten servicios públicos, con particular atención a centros educativos o entornos donde se vea comprometida la seguridad.",
+          "texto_oficial": "Prohibición del burka y el niqab en todos los espacios públicos y lugares donde se presten servicios públicos, con particular atención a centros educativos o entornos donde se vea comprometida la seguridad.",
+          "explicacion_medida": "Prohíbe el uso del burka y el niqab en espacios públicos y centros educativos o de prestación de servicios públicos alegando motivos de seguridad y dignidad.",
+          "datos_a_favor": "Diversos países europeos (como Francia o Bélgica, avalados por el TEDH en el asunto S.A.S. c. Francia) regulan el cubrimiento integral del rostro por razones de identificación policial y convivencia en espacios públicos.",
+          "datos_en_contra": "Sus críticos subrayan que prohibiciones amplias en vía pública pueden restringir la autonomía y movilidad de un número muy reducido de mujeres afectadas y requieren salvaguardas de proporcionalidad constitucional.",
+          "id_bloque_comun": "bloque_08",
+          "titulo_bloque_comun": "Educación, Formación Profesional y Universidad"
+        },
+        {
+          "numero_medida": 72,
+          "id_medida": "VOX-72",
+          "seccion_original": "EDUCACIÓN, CULTURA Y DEPORTE",
+          "titulo_medida": "Fin de los menús halal en los comedores escolares.",
+          "texto_oficial": "Fin de los menús halal en los comedores escolares.",
+          "explicacion_medida": "Propone eliminar los menús halal diferenciados en los comedores escolares públicos.",
+          "datos_a_favor": "Mantener menús comunes homogéneos simplifica la logística de las contratas escolares y responde a una concepción estricta de neutralidad confesional de los comedores públicos.",
+          "datos_en_contra": "La Ley 26/1992 de acuerdos de cooperación del Estado con la Comisión Islámica reconoce la adaptación alimentaria religiosa cuando resulta organizativamente posible, por lo que su supresión puede vulnerar derechos de libertad religiosa en centros públicos.",
+          "id_bloque_comun": "bloque_08",
+          "titulo_bloque_comun": "Educación, Formación Profesional y Universidad"
+        },
+        {
+          "numero_medida": 73,
+          "id_medida": "VOX-73",
+          "seccion_original": "EDUCACIÓN, CULTURA Y DEPORTE",
+          "titulo_medida": "Eliminación del programa educativo de Lengua Árabe y Cultura Marroquí.",
+          "texto_oficial": "Eliminación del programa educativo de Lengua Árabe y Cultura Marroquí.",
+          "explicacion_medida": "Suprime el Programa de Enseñanza de Lengua Árabe y Cultura Marroquí (PLACM) que se imparte en centros educativos españoles en virtud de convenios bilaterales.",
+          "datos_a_favor": "Eliminar un programa financiado y coordinado con personal designado por un Estado extranjero evita injerencias externas en centros públicos y concentra recursos escolares en competencias básicas.",
+          "datos_en_contra": "El programa se ampara en el Convenio de Cooperación Cultural hispano-marroquí de 1980 y su supresión unilateral podría deteriorar la relación diplomática bilateral y trasladar la enseñanza religiosa o lingüística fuera de cualquier supervisión escolar pública.",
+          "id_bloque_comun": "bloque_08",
+          "titulo_bloque_comun": "Educación, Formación Profesional y Universidad"
+        },
+        {
+          "numero_medida": 74,
+          "id_medida": "VOX-74",
+          "seccion_original": "EDUCACIÓN, CULTURA Y DEPORTE",
+          "titulo_medida": "Prioridad nacional para escoger centro para los hijos, en la concesión de ayudas y subvenciones educativas y para el acceso a plazas de guardería, becas comedor, becas transporte, etc. Distrito único y libre elección de centro escolar para los padres. Apuesta decidida por la Formación Profesional.",
+          "texto_oficial": "Prioridad nacional para escoger centro para los hijos, en la concesión de ayudas y subvenciones educativas y para el acceso a plazas de guardería, becas comedor, becas transporte, etc. Distrito único y libre elección de centro escolar para los padres. Apuesta decidida por la Formación Profesional.",
+          "explicacion_medida": "Aplica el principio de prioridad nacional en admisión escolar, acceso a escuelas infantiles y ayudas educativas (comedor, libros, transporte), combinándolo con distrito único y refuerzo de la Formación Profesional.",
+          "datos_a_favor": "Impulsar la Formación Profesional dual con alta empleabilidad industrial ataca directamente el paro juvenil y el déficit de técnicos medios.",
+          "datos_en_contra": "Condicionar becas de comedor, libros o guarderías a la nacionalidad española de menores residentes genera situaciones de exclusión infantil y contraviene la jurisprudencia sobre igualdad de derechos básicos de los niños.",
+          "id_bloque_comun": "bloque_08",
+          "titulo_bloque_comun": "Educación, Formación Profesional y Universidad"
+        },
+        {
+          "numero_medida": 75,
+          "id_medida": "VOX-75",
+          "seccion_original": "EDUCACIÓN, CULTURA Y DEPORTE",
+          "titulo_medida": "Recuperación de la vocación de la Universidad como espacio de libertad y búsqueda de la verdad y la belleza.",
+          "texto_oficial": "Recuperación de la vocación de la Universidad como espacio de libertad y búsqueda de la verdad y la belleza. Garantizar la libertad de cátedra de los profesores en las aulas frente a las imposiciones de la corrección política.",
+          "explicacion_medida": "Defiende la libertad de cátedra y la pluralidad de ideas en las universidades españolas frente a lo que denomina imposiciones de la corrección política.",
+          "datos_a_favor": "Garantizar un entorno universitario abierto al debate intelectual libre refuerza el artículo 20.1.c de la Constitución sobre libertad de cátedra y evita fenómenos de autocensura académica.",
+          "datos_en_contra": "Cualquier intervención gubernamental sobre códigos de convivencia o comisiones de igualdad universitarias debe respetar la autonomía universitaria garantizada constitucionalmente (art. 27.10 CE).",
+          "id_bloque_comun": "bloque_08",
+          "titulo_bloque_comun": "Educación, Formación Profesional y Universidad"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_09",
+      "numero_bloque": 9,
+      "titulo_bloque": "Energía, Transición Ecológica y Soberanía Energética",
+      "alcance_medidas": "Medidas 8 a 44 (2 medidas)",
+      "total_medidas_bloque": 2,
+      "medidas_incluidas": [
+        8,
+        44
+      ],
+      "medidas": [
+        {
+          "numero_medida": 8,
+          "id_medida": "VOX-8",
+          "seccion_original": "ECONOMÍA, INDUSTRIA Y ENERGÍA",
+          "titulo_medida": "Reindustrialización radical de la economía española.",
+          "texto_oficial": "Reindustrialización radical de la economía española. Revolucionar la política energética: segura, cierta y asequible. Un futuro para la España Abandonada.\n- Bajada masiva de los impuestos de la energía eléctrica a familias, empresas e industrias españolas. Fin de la doble imposición. Aprovechamiento de nuestros recursos energéticos, la mejora de las redes y la reducción de cargas fiscales y regulatorias. Plan Nacional de Soberanía Energética.\n- Fin del tope regulatorio a la inversión en redes eléctricas. Eliminar el tope a la inversión en redes para que España tenga la red eléctrica que necesita para crecer, contratar y construir vivienda. Además, las autorizaciones para construir líneas, subestaciones y puntos de conexión a la red se resolverán en plazos máximos cerrados y con silencio administrativo positivo.\n- Suspender la aplicación en España de acuerdos internacionales que impiden nuestro desarrollo productivo y la prosperidad de trabajadores, familias, empresas e industrias españolas.\n- Revertir las normativas que atacan frontalmente a la industria nacional (prohibición de motores de\ncombustión, impuestos a las emisiones de CO2) inspiradas en el Pacto Verde Europeo, la Agenda 2030 y otros acuerdos no sometidos a votación por los españoles.\n- Fin a las restricciones para poder explorar, investigar y explotar nuestros recursos naturales y yacimientos minerales. Protección de España frente a la dependencia excesiva de materias primas, componentes y tecnologías críticas. Mayor peso a consideraciones sobre seguridad económica, soberanía industrial y seguridad nacional.\n- Recuperar urgentemente el plan nuclear nacional. Se garantizará la supervivencia de las centrales nucleares actuales, derogando el calendario de cierre. Se promoverán estudios urgentes para instalar centrales nucleares en los emplazamientos disponibles adyacentes a las actuales. Se llevarán a cabo aquellos proyectos que sean viables con la mayor brevedad posible.\n- Aprobación de un Plan Nacional de Reindustrialización enfocado a contrarrestar las deslocalizaciones, la competencia desleal, la pérdida de empleo industrial y la baja participación de la industria en el PIB. Atracción de inversiones estratégicas que favorezcan la economía nacional y el empleo.\n- Trabajo estable y salarios dignos para los españoles. Poner fin a la situación de desempleo, precariedad laboral y bajos salarios provocada por el Gobierno de Sánchez, que hacen prácticamente imposible que los\njóvenes españoles puedan acceder a un empleo estable, desarrollar un proyecto de vida independiente, emanciparse y formar una familia.\n- Derogar la legislación laboral de Sánchez que ha agravado la precariedad, desincentivado la contratación y empeorado una situación ya de por sí insostenible, que ha maquillado las cifras de temporalidad y que beneficia al duopolio sindical que ha traicionado a los trabajadores.\n- Fomentar la industria turística mediante empleos de calidad y garantizando la convivencia y la preservación de la identidad de nuestros barrios. Adoptar medidas fiscales y de promoción interior y exterior de esta industria para crear empleo y riqueza, y para vertebrar esa España abandonada por los sucesivos gobiernos. Fomento del turismo rural, de montaña o interior, y apoyo a la conservación y difusión de nuestro patrimonio natural, cultural y artístico.",
+          "explicacion_medida": "Defiende una estrategia de reindustrialización basada en abaratar la factura eléctrica eliminando impuestos y doble tributación sobre la energía, aprovechando recursos energéticos nacionales y la continuidad del parque energético estable para recuperar industria y empleo.",
+          "datos_a_favor": "Garantizar precios eléctricos estables y fiscalmente competitivos es un factor decisivo para la industria electrointensiva (siderurgia, química, metalurgia, papel), evita deslocalizaciones industriales fuera de la UE y da firmeza de suministro frente a picos de volatilidad.",
+          "datos_en_contra": "Mantener combustibles fósiles o revertir gravámenes ambientales puede colisionar con el régimen europeo de comercio de emisiones (EU ETS), los objetivos vinculantes de descarbonización de la UE y el calendario de autorizaciones ya comprometido en los planes energéticos nacionales.",
+          "id_bloque_comun": "bloque_09",
+          "titulo_bloque_comun": "Energía, Transición Ecológica y Soberanía Energética"
+        },
+        {
+          "numero_medida": 44,
+          "id_medida": "VOX-44",
+          "seccion_original": "DESREGULACIÓN",
+          "titulo_medida": "Derogación o modificación de todas las leyes que dificultan la prosperidad y la libertad de trabajadores, familias y empresas españolas. Acabar con todas las imposiciones climáticas como el Pacto Verde que castigan nuestra industria, nuestro campo o que coartan la libertad de circulación de los españoles, como la imposición de ZBE.",
+          "texto_oficial": "Derogación o modificación de todas las leyes que dificultan la prosperidad y la libertad de trabajadores, familias y empresas españolas. Acabar con todas las imposiciones climáticas como el Pacto Verde que castigan nuestra industria, nuestro campo o que coartan la libertad de circulación de los españoles, como la imposición de ZBE.",
+          "explicacion_medida": "Plantea derogar o modificar las restricciones climáticas derivadas del Pacto Verde Europeo que penalizan la industria o el campo, así como eliminar la imposición de Zonas de Bajas Emisiones (ZBE) en los municipios.",
+          "datos_a_favor": "Aplazar restricciones a motores térmicos y suprimir las ZBE evita penalizar a rentas bajas y trabajadores dependientes del coche antiguo que no pueden costear un vehículo eléctrico nuevo y alivia costes normativos sobre la industria tradicional.",
+          "datos_en_contra": "Las ZBE y los objetivos de descarbonización responden a directivas comunitarias vinculantes de calidad del aire y salud pública y están directamente ligados al cobro de miles de millones de euros de fondos europeos NextGenerationEU, cuyo incumplimiento acarrearía sanciones y pérdida de financiación.",
+          "id_bloque_comun": "bloque_09",
+          "titulo_bloque_comun": "Energía, Transición Ecológica y Soberanía Energética"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_10",
+      "numero_bloque": 10,
+      "titulo_bloque": "Agricultura, Ganadería, Pesca, Agua y Mundo Rural",
+      "alcance_medidas": "Medidas 48 a 115 (12 medidas)",
+      "total_medidas_bloque": 12,
+      "medidas_incluidas": [
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        56,
+        57,
+        58,
+        59,
+        115
+      ],
+      "medidas": [
+        {
+          "numero_medida": 48,
+          "id_medida": "VOX-48",
+          "seccion_original": "SECTOR PRIMARIO Y MUNDO RURAL",
+          "titulo_medida": "Blindaje del sector primario frente a la Agenda 2030 y lucha contra la competencia desleal.",
+          "texto_oficial": "Blindaje del sector primario frente a la Agenda 2030 y lucha contra la competencia desleal. VOX en el Gobierno será el representante del sector primario en Bruselas, y no el representante de Bruselas ante los españoles. Oposición a todas las medidas que perjudiquen objetivamente al sector primario y proteger a los nuestros activamente -económica, política y jurídicamente- de las imposiciones de Bruselas y del Pacto Verde. Rechazo explícito al acuerdo UE-Mercosur y de todo acuerdo comercial que obligue a nuestros productores a competir en desigualdad de condiciones. Inclusión de cláusulas espejo. Recuperación del principio de preferencia comunitaria. Aumento de los controles en frontera y lucha contra el fraude en el etiquetado.",
+          "explicacion_medida": "Propone blindar al sector primario frente a las cargas normativas de la Agenda 2030 y combatir la competencia desleal de importaciones agrarias extracomunitarias sin cláusulas espejo.",
+          "datos_a_favor": "Exigir reciprocidad fitosanitaria, laboral y ambiental ('cláusulas espejo') a importaciones de terceros países protege la rentabilidad de agricultores y ganaderos españoles frente a una competencia asimétrica de precios.",
+          "datos_en_contra": "La política comercial exterior es competencia exclusiva de la Unión Europea, por lo que España no puede imponer aranceles o prohibiciones unilaterales en frontera, y rechazar estándares ambientales europeos puede poner en riesgo la condicionalidad vinculada a los pagos directos de la PAC.",
+          "id_bloque_comun": "bloque_10",
+          "titulo_bloque_comun": "Agricultura, Ganadería, Pesca, Agua y Mundo Rural"
+        },
+        {
+          "numero_medida": 49,
+          "id_medida": "VOX-49",
+          "seccion_original": "SECTOR PRIMARIO Y MUNDO RURAL",
+          "titulo_medida": "Protección total de nuestros agricultores, ganaderos y pescadores.",
+          "texto_oficial": "Protección total de nuestros agricultores, ganaderos y pescadores. Será derogada cualquier normativa que perjudique, imponga cargas o sobrecostes que perjudiquen estos oficios que garantizan nuestra soberanía alimentaria y llevan a los hogares productos de una calidad insuperable.",
+          "explicacion_medida": "Establece la derogación de cualquier norma nacional o carga administrativa que imponga sobrecostes a agricultores, ganaderos y pescadores en aras de la soberanía alimentaria nacional.",
+          "datos_a_favor": "Aliviar la carga documental (cuaderno digital, trazabilidad compleja) devuelve tiempo productivo al pequeño agricultor y favorece la viabilidad económica de explotaciones familiares frente a grandes importadores.",
+          "datos_en_contra": "Parte relevante de los controles de trazabilidad, nitratos y uso de fitosanitarios responde a reglamentos europeos obligatorios para preservar la seguridad alimentaria, los acuíferos y el estatus sanitario exportador de la agroindustria española.",
+          "id_bloque_comun": "bloque_10",
+          "titulo_bloque_comun": "Agricultura, Ganadería, Pesca, Agua y Mundo Rural"
+        },
+        {
+          "numero_medida": 50,
+          "id_medida": "VOX-50",
+          "seccion_original": "SECTOR PRIMARIO Y MUNDO RURAL",
+          "titulo_medida": "Fondo de compensación frente a imposiciones de Bruselas.",
+          "texto_oficial": "Fondo de compensación frente a imposiciones de Bruselas. Creación de un fondo de compensación destinado a mitigar el impacto negativo de las imposiciones normativas de Bruselas, desastres naturales o circunstancias adversas sobrevenidas, para proteger a nuestros sectores productivos.",
+          "explicacion_medida": "Crea un fondo nacional de compensación económica destinado a resarcir al sector primario por pérdidas derivadas de exigencias europeas, catástrofes naturales o crisis adversas de mercado.",
+          "datos_a_favor": "Un mecanismo ágil de compensación estabiliza las rentas agrarias frente a sequías extremas o cierres repentinos de mercado y complementa un sistema de seguros agrarios cada vez más costoso.",
+          "datos_en_contra": "Conceder indemnizaciones nacionales directas no cofinanciadas choca con los topes estrictos de ayudas de Estado de la Unión Europea en el sector agrícola (reglamentos de minimis agrarios) salvo autorización excepcional por calamidad.",
+          "id_bloque_comun": "bloque_10",
+          "titulo_bloque_comun": "Agricultura, Ganadería, Pesca, Agua y Mundo Rural"
+        },
+        {
+          "numero_medida": 51,
+          "id_medida": "VOX-51",
+          "seccion_original": "SECTOR PRIMARIO Y MUNDO RURAL",
+          "titulo_medida": "Ni un euro más para financiar el sector primario de fuera.",
+          "texto_oficial": "Ni un euro más para financiar el sector primario de fuera. Fin de cualquier transferencia de fondos públicos destinados a financiar proyectos en cualquier país extracomunitario que haga competencia desleal a nuestros productos y a nuestra industria agroalimentaria.",
+          "explicacion_medida": "Prohíbe destinar fondos públicos españoles o europeos canalizados desde España a financiar proyectos agrarios o hídricos en países terceros que compitan con la producción agroalimentaria española.",
+          "datos_a_favor": "Evita financiar con dinero de contribuyentes europeos modernizaciones agrícolas en países competidores directos con menores costes salariales y exigencias fitosanitarias.",
+          "datos_en_contra": "Cortar cooperación técnica agrícola con el norte de África o Iberoamérica puede reducir el control sanitario en origen de plagas compartidas y afectar acuerdos pesqueros y comerciales globales de España y la UE con esos socios.",
+          "id_bloque_comun": "bloque_10",
+          "titulo_bloque_comun": "Agricultura, Ganadería, Pesca, Agua y Mundo Rural"
+        },
+        {
+          "numero_medida": 52,
+          "id_medida": "VOX-52",
+          "seccion_original": "SECTOR PRIMARIO Y MUNDO RURAL",
+          "titulo_medida": "Rechazo frontal a la propuesta de reducción del presupuesto de la PAC.",
+          "texto_oficial": "Rechazo frontal a la propuesta de reducción del presupuesto de la PAC. Vinculación del reparto de fondos de la PAC a una nueva variable que prime la despoblación. Garantizar su autonomía presupuestaria y el fin de las exigencias burocráticas y medioambientales derivadas del fanatismo climático.",
+          "explicacion_medida": "Rechaza cualquier recorte del presupuesto comunitario de la Política Agrícola Común (PAC), exige mantener su autonomía financiera frente a fondos integrados y propone vincular el reparto a criterios de despoblación.",
+          "datos_a_favor": "Blindar una PAC autónoma con presupuesto suficiente y orientada contra la despoblación estabiliza la renta rural y mantiene vivas las comarcas agrarias de interior más envejecidas.",
+          "datos_en_contra": "El presupuesto agrario europeo depende de negociaciones unánimes en el Marco Financiero Plurianual de los 27 Estados miembros con fuerte presión por financiar defensa y transición industrial; vincular ayudas a despoblación reequilibraría fondos entre regiones productivas españolas generando disputas territoriales.",
+          "id_bloque_comun": "bloque_10",
+          "titulo_bloque_comun": "Agricultura, Ganadería, Pesca, Agua y Mundo Rural"
+        },
+        {
+          "numero_medida": 53,
+          "id_medida": "VOX-53",
+          "seccion_original": "SECTOR PRIMARIO Y MUNDO RURAL",
+          "titulo_medida": "Defensa del sector pesquero español.",
+          "texto_oficial": "Defensa del sector pesquero español. Promover la revisión de la Política Pesquera Común y de las cuotas y restricciones que perjudican injustificadamente a nuestros pescadores, reforzando la competitividad, la modernización de la flota, el relevo generacional y la continuidad de las explotaciones pesqueras familiares y la rentabilidad de la pesca española.",
+          "explicacion_medida": "Impulsa la revisión de la Política Pesquera Común (PPC) y del reparto de cuotas y días de faena para reforzar la rentabilidad, modernización y relevo generacional de la flota pesquera española.",
+          "datos_a_favor": "Revisar reducciones de días de arrastre en el Mediterráneo y mejorar los TAC en el Atlántico evita la desaparición de cofradías artesanales y sostiene el empleo marítimo y la autonomía alimentaria pesquera.",
+          "datos_en_contra": "Los recortes de esfuerzo pesquero emanan de dictámenes científicos del CIEM sobre sostenibilidad de caladeros sobreexplotados; ampliarlos sin recuperación biológica conlleva riesgo de colapso de especies a medio plazo y sanciones europeas.",
+          "id_bloque_comun": "bloque_10",
+          "titulo_bloque_comun": "Agricultura, Ganadería, Pesca, Agua y Mundo Rural"
+        },
+        {
+          "numero_medida": 54,
+          "id_medida": "VOX-54",
+          "seccion_original": "SECTOR PRIMARIO Y MUNDO RURAL",
+          "titulo_medida": "Impedir la destrucción de la riqueza agrícola y el patrimonio natural para la instalación descontrolada de macro plantas de energías renovables, solar y eólica.",
+          "texto_oficial": "Impedir la destrucción de la riqueza agrícola y el patrimonio natural para la instalación descontrolada de macro plantas de energías renovables, solar y eólica.",
+          "explicacion_medida": "Frena la instalación desordenada de megaplantas fotovoltaicas y eólicas sobre suelo agrario productivo y espacios naturales valiosos.",
+          "datos_a_favor": "Ordenar territorialmente el despliegue renovable priorizando cubiertas urbanas, suelos degradados o polígonos industriales protege paisajes agrarios históricos, biodiversidad y regadíos productivos.",
+          "datos_en_contra": "Restringir en exceso el suelo apto para grandes plantas en tierra podría encarecer los costes de generación limpia y ralentizar los objetivos de electrificación y abaratamiento eléctrico que depende de nueva potencia solar y eólica.",
+          "id_bloque_comun": "bloque_10",
+          "titulo_bloque_comun": "Agricultura, Ganadería, Pesca, Agua y Mundo Rural"
+        },
+        {
+          "numero_medida": 56,
+          "id_medida": "VOX-56",
+          "seccion_original": "SECTOR PRIMARIO Y MUNDO RURAL",
+          "titulo_medida": "Fin a las trabas interminables que arruinan nuestro campo y nuestro mar.",
+          "texto_oficial": "Fin a las trabas interminables que arruinan nuestro campo y nuestro mar. Aplicación, con carácter general, del principio de declaración responsable y el silencio administrativo positivo en todos aquellos procedimientos administrativos vinculados al medio rural, con el objetivo de simplificar trámites, reducir cargas burocráticas y agilizar la actividad económica en el entorno rural, asegurando el relevo generacional. Revisión y refuerzo del Sistema Español de Seguros Agrarios ante las necesidades del campo español.",
+          "explicacion_medida": "Generaliza la declaración responsable y el silencio administrativo positivo para agilizar autorizaciones administrativas en el medio rural, agricultura y ganadería.",
+          "datos_a_favor": "Acortar la espera de permisos para naves ganaderas, modernización de riegos o explotaciones pequeñas evita que la demora administrativa paralice inversiones de jóvenes agricultores.",
+          "datos_en_contra": "En vertidos, uso de agua pública o evaluación de impacto ambiental de macrogranjas, el Derecho de la UE prohíbe sustituir la autorización previa evaluada por un silencio administrativo positivo automático.",
+          "id_bloque_comun": "bloque_10",
+          "titulo_bloque_comun": "Agricultura, Ganadería, Pesca, Agua y Mundo Rural"
+        },
+        {
+          "numero_medida": 57,
+          "id_medida": "VOX-57",
+          "seccion_original": "SECTOR PRIMARIO Y MUNDO RURAL",
+          "titulo_medida": "Aumentar la inversión destinada a situaciones sobrevenidas, como inundaciones o granizadas, así como plagas que afecten a la sanidad animal y vegetal.",
+          "texto_oficial": "Aumentar la inversión destinada a situaciones sobrevenidas, como inundaciones o granizadas, así como plagas que afecten a la sanidad animal y vegetal.",
+          "explicacion_medida": "Incrementa la dotación presupuestaria destinada a hacer frente a fenómenos meteorológicos extremos (granizadas, inundaciones) y campañas de prevención y erradicación de plagas animales y vegetales.",
+          "datos_a_favor": "La creciente frecuencia de episodios meteorológicos severos y enfermedades emergentes del ganado (lengua azul, tuberculosis, etc.) exige respuestas financieras y veterinarias rápidas para evitar el cierre de explotaciones.",
+          "datos_en_contra": "Financiar continuamente daños no asegurados mediante partidas de emergencia desincentiva la contratación de coberturas privadas a través del sistema de seguros agrarios combinados (ENESA/Agroseguro).",
+          "id_bloque_comun": "bloque_10",
+          "titulo_bloque_comun": "Agricultura, Ganadería, Pesca, Agua y Mundo Rural"
+        },
+        {
+          "numero_medida": 58,
+          "id_medida": "VOX-58",
+          "seccion_original": "SECTOR PRIMARIO Y MUNDO RURAL",
+          "titulo_medida": "Favorecer el relevo generacional y la continuidad de las explotaciones familiares en el mundo rural apoyando la incorporación de los jóvenes al sector primario y a las cooperativas agroalimentarias. Impulso de la Formación Profesional en el sector primario a través de programas públicos y concertados.",
+          "texto_oficial": "Favorecer el relevo generacional y la continuidad de las explotaciones familiares en el mundo rural apoyando la incorporación de los jóvenes al sector primario y a las cooperativas agroalimentarias. Impulso de la Formación Profesional en el sector primario a través de programas públicos y concertados.",
+          "explicacion_medida": "Fomenta el relevo generacional en el campo mediante incentivos a jóvenes agricultores, apoyo a cooperativas agroalimentarias e impulso de la Formación Profesional agraria en centros públicos y concertados.",
+          "datos_a_favor": "Con una edad media del titular agrario superior a los 60 años en España, facilitar el acceso a financiación inicial y la capacitación técnica en agricultura de precisión es indispensable para evitar el abandono de tierras.",
+          "datos_en_contra": "El principal obstáculo para jóvenes sin patrimonio familiar sigue siendo el alto precio y baja movilidad del mercado de tierras y derechos de agua, que requiere medidas de acceso a tierra más allá de la formación.",
+          "id_bloque_comun": "bloque_10",
+          "titulo_bloque_comun": "Agricultura, Ganadería, Pesca, Agua y Mundo Rural"
+        },
+        {
+          "numero_medida": 59,
+          "id_medida": "VOX-59",
+          "seccion_original": "SECTOR PRIMARIO Y MUNDO RURAL",
+          "titulo_medida": "Defensa de la caza como actividad esencial para el control de las poblaciones y para la protección de las explotaciones agrícolas y ganaderas, así como por su valor medioambiental y económico.",
+          "texto_oficial": "Defensa de la caza como actividad esencial para el control de las poblaciones y para la protección de las explotaciones agrícolas y ganaderas, así como por su valor medioambiental y económico.",
+          "explicacion_medida": "Reconoce y protege la actividad cinegética como herramienta de control poblacional frente a daños en cultivos, accidentes de tráfico y transmisión sanitaria, destacando además su contribución económica rural.",
+          "datos_a_favor": "La sobrepoblación de jabalíes, conejos o ciervos causa pérdidas agrícolas millonarias, accidentes viarios frecuentes y riesgos sanitarios (peste porcina); la caza regulada aporta ingresos estacionales esenciales a municipios de interior.",
+          "datos_en_contra": "Organizaciones conservacionistas y parte de la comunidad científica cuestionan la caza intensiva cuando se asocia a sueltas artificiales, cercados cinegéticos o conflicto con la protección de depredadores clave del ecosistema.",
+          "id_bloque_comun": "bloque_10",
+          "titulo_bloque_comun": "Agricultura, Ganadería, Pesca, Agua y Mundo Rural"
+        },
+        {
+          "numero_medida": 115,
+          "id_medida": "VOX-115",
+          "seccion_original": "INFRAESTRUCTURAS Y TRANSPORTES",
+          "titulo_medida": "Plan Nacional del Agua.",
+          "texto_oficial": "Plan Nacional del Agua. Interconexión de todas las cuencas que permita una gestión más eficiente del agua y pueda servir para reactivar económicamente a\nnuestro sector primario, así como para impulsar y modernizar los regadíos y la producción de energía. Al mismo tiempo, conclusión de las obras pendientes y desarrollo de las infraestructuras hidráulicas necesarias para garantizar la seguridad de los españoles ante las inundaciones.",
+          "explicacion_medida": "Recupera un Plan Nacional del Agua basado en la interconexión solidaria de cuencas hidrográficas, conclusión de presas y embalses pendientes y modernización de regadíos para garantizar el agua al sector primario y la energía.",
+          "datos_a_favor": "Conectar cuencas excedentarias con regiones con déficit hídrico estructural asegura suministros urbanos y sostiene la huerta exportadora mediterránea frente a sequías prolongadas.",
+          "datos_en_contra": "Los grandes trasvases intercuencas suscitan una histórica oposición política en comunidades cedentes, tienen altos costes energéticos de bombeo y afrontan objeciones ambientales europeas vinculadas a caudales ecológicos bajo la Directiva Marco del Agua.",
+          "id_bloque_comun": "bloque_10",
+          "titulo_bloque_comun": "Agricultura, Ganadería, Pesca, Agua y Mundo Rural"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_11",
+      "numero_bloque": 11,
+      "titulo_bloque": "Infraestructuras, Transporte, Ferrocarril y Conectividad",
+      "alcance_medidas": "Medidas 112 a 113 (2 medidas)",
+      "total_medidas_bloque": 2,
+      "medidas_incluidas": [
+        112,
+        113
+      ],
+      "medidas": [
+        {
+          "numero_medida": 112,
+          "id_medida": "VOX-112",
+          "seccion_original": "INFRAESTRUCTURAS Y TRANSPORTES",
+          "titulo_medida": "Plan nacional de infraestructuras.",
+          "texto_oficial": "Plan nacional de infraestructuras. Las infraestructuras deben dejar de ser un negocio para políticos corruptos. Todas las inversiones en infraestructuras deben diseñarse pensando en el interés del conjunto de los españoles y con el fin de conectar los distintos territorios que conforman España. Aumento de la inversión en infraestructuras que incluya, al menos, red de carreteras, red ferroviaria, infraestructuras hidráulicas y de contención de inundaciones, telecomunicaciones, nodos logísticos, transporte y puertos.",
+          "explicacion_medida": "Impulsa un Plan Nacional de Infraestructuras diseñado con criterios de interés general y cohesión interterritorial, reforzando la inversión pública transparente sin corrupción.",
+          "datos_a_favor": "Planificar ejes ferroviarios, viarios e hidráulicos con auditoría de rentabilidad socioeconómica corrige déficits de décadas en corredores interiores abandonados y mejora la competitividad logística.",
+          "datos_en_contra": "Sostener grandes programas de obra pública choca con los techos de déficit comunitarios tras el fin de las cláusulas de escape fiscal y suele enfrentar largos plazos ambientales e impugnaciones territoriales.",
+          "id_bloque_comun": "bloque_11",
+          "titulo_bloque_comun": "Infraestructuras, Transporte, Ferrocarril y Conectividad"
+        },
+        {
+          "numero_medida": 113,
+          "id_medida": "VOX-113",
+          "seccion_original": "INFRAESTRUCTURAS Y TRANSPORTES",
+          "titulo_medida": "Trenes rápidos, seguros y una España rural conectada.",
+          "texto_oficial": "Trenes rápidos, seguros y una España rural conectada. Prioridad a la seguridad ferroviaria, al mantenimiento de una red abandonada e infradotada y a los servicios de Cercanías y Media Distancia. Auditoría del estado de la red. Modernización y electrificación de las líneas\n3. convencionales para conectar también las ciudades pequeñas y la España rural.",
+          "explicacion_medida": "Audita el estado de la red ferroviaria priorizando la seguridad, el mantenimiento preventivo y la modernización y electrificación de las líneas convencionales de Cercanías y Media Distancia para conectar pueblos y ciudades pequeñas.",
+          "datos_a_favor": "España concentró históricamente gran parte de la inversión ferroviaria en Alta Velocidad mientras la red convencional y de Cercanías acumula incidencias diarias; priorizar el ferrocarril cotidiano beneficia al 90% de los viajeros diarios.",
+          "datos_en_contra": "Electrificar y duplicar cientos de kilómetros de vía convencional requiere inversiones plurianuales masivas que obligarían a ralentizar extensiones pendientes de AVE o asumir mayor deuda pública.",
+          "id_bloque_comun": "bloque_11",
+          "titulo_bloque_comun": "Infraestructuras, Transporte, Ferrocarril y Conectividad"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_12",
+      "numero_bloque": 12,
+      "titulo_bloque": "Administración Pública, Control del Gasto Público y Reducción de Burocracia",
+      "alcance_medidas": "Medidas 36 a 108 (8 medidas)",
+      "total_medidas_bloque": 8,
+      "medidas_incluidas": [
+        36,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        108
+      ],
+      "medidas": [
+        {
+          "numero_medida": 36,
+          "id_medida": "VOX-36",
+          "seccion_original": "DESREGULACIÓN",
+          "titulo_medida": "Simplificar al mínimo la burocracia que soporta el ciudadano.",
+          "texto_oficial": "Simplificar al mínimo la burocracia que soporta el ciudadano. Toda actuación administrativa deberá justificar su existencia, su utilidad y su proporcionalidad. Lo que no sea estrictamente necesario, se suprime. Lo que sea necesario, se simplifica al máximo. Esta revisión será permanente, transversal y afectará a todos los niveles administrativos, sin excepción y sin sectores blindados.",
+          "explicacion_medida": "Propone una revisión permanente y transversal de todos los procedimientos administrativos en los distintos niveles de gobierno para eliminar trámites innecesarios bajo los principios de utilidad y proporcionalidad.",
+          "datos_a_favor": "La simplificación procedimental reduce costes de cumplimiento para autónomos y pymes, acorta plazos de apertura de negocios y mejora la posición de España en los índices internacionales de facilidad regulatoria.",
+          "datos_en_contra": "Una desregulación genérica aplicada transversalmente puede debilitar controles preventivos esenciales en seguridad industrial, inspección laboral, salud alimentaria o evaluación ambiental si no se discriminan los trámites redundantes de las garantías materiales.",
+          "id_bloque_comun": "bloque_12",
+          "titulo_bloque_comun": "Administración Pública, Control del Gasto Público y Reducción de Burocracia"
+        },
+        {
+          "numero_medida": 38,
+          "id_medida": "VOX-38",
+          "seccion_original": "DESREGULACIÓN",
+          "titulo_medida": "Instauración de la ventanilla y dato único en la Administración.",
+          "texto_oficial": "Instauración de la ventanilla y dato único en la Administración. Creación de un expediente digital único y centralizado que unifique la gestión de trámites para ciudadanos y empresas, obligando a las diferentes administraciones a compartir los datos entre sí.",
+          "explicacion_medida": "Crea una ventanilla única administrativa y un expediente digital centralizado con el principio de 'dato único', obligando a todas las administraciones a interoperar y no pedir dos veces la misma documentación al ciudadano.",
+          "datos_a_favor": "Hacer efectivo el principio 'once-only' ya previsto en la Ley 39/2015 elimina cargas burocráticas absurdas para ciudadanos y empresas y reduce los tiempos de tramitación de subvenciones, licencias y prestaciones.",
+          "datos_en_contra": "Exige cuantiosas inversiones tecnológicas para integrar miles de sistemas municipales y autonómicos heredados incompatibles y plantea estrictos retos de ciberseguridad y protección de datos personales (RGPD) ante repositorios centralizados.",
+          "id_bloque_comun": "bloque_12",
+          "titulo_bloque_comun": "Administración Pública, Control del Gasto Público y Reducción de Burocracia"
+        },
+        {
+          "numero_medida": 39,
+          "id_medida": "VOX-39",
+          "seccion_original": "DESREGULACIÓN",
+          "titulo_medida": "Fin de la cita previa.",
+          "texto_oficial": "Fin de la cita previa. Derecho a ser atendido presencialmente en cualquier oficina pública de forma inmediata sin necesidad de solicitar turno por internet.",
+          "explicacion_medida": "Garantiza por ley el derecho de cualquier ciudadano a ser atendido de forma presencial e inmediata en oficinas públicas sin obligación previa de concertar cita por internet.",
+          "datos_a_favor": "Suprimir la barrera de la cita previa obligatoria protege a personas mayores, población rural y ciudadanos con brecha digital que sufren exclusión administrativa y largas demoras ante trámites urgentes.",
+          "datos_en_contra": "Atender sin sistema de ordenación previa en oficinas con plantillas ajustadas (SEPE, Seguridad Social, DGT, Extranjería) puede generar colas físicas desbordadas y tiempos de espera inciertos si no va acompañado de un refuerzo previo de personal de atención directa.",
+          "id_bloque_comun": "bloque_12",
+          "titulo_bloque_comun": "Administración Pública, Control del Gasto Público y Reducción de Burocracia"
+        },
+        {
+          "numero_medida": 40,
+          "id_medida": "VOX-40",
+          "seccion_original": "DESREGULACIÓN",
+          "titulo_medida": "Derogar tres normas por cada una que se apruebe.",
+          "texto_oficial": "Derogar tres normas por cada una que se apruebe. Cada ley nueva tendrá que identificar, en su propio texto, qué tres normas vigentes deroga. Sin esa identificación, no se tramita ni se aprueba. Basta ya de legislaturas que añaden miles de normas y no retiran ninguna. Los españoles no pueden seguir cargando con un Boletín Oficial que crece sin parar mientras su libertad mengua.",
+          "explicacion_medida": "Instaura la regla legislativa de 'tres normas derogadas por cada nueva norma aprobada', impidiendo tramitar cualquier proyecto de ley o decreto que no identifique explícitamente tres disposiciones vigentes que deroga.",
+          "datos_a_favor": "Reglas equivalentes de contención regulatoria ('one-in, two-out' o similares en la OCDE) combaten la hiperinflación normativa del BOE, reducen contradicciones jurídicas y obligan a los legisladores a limpiar normativa obsoleta.",
+          "datos_en_contra": "Una regla matemática rígida 3-por-1 aplicada por igual a directivas técnicas de transposición europea o leyes de derechos puede generar inseguridad jurídica o derogar reglamentos complementarios necesarios de forma meramente formalista.",
+          "id_bloque_comun": "bloque_12",
+          "titulo_bloque_comun": "Administración Pública, Control del Gasto Público y Reducción de Burocracia"
+        },
+        {
+          "numero_medida": 41,
+          "id_medida": "VOX-41",
+          "seccion_original": "DESREGULACIÓN",
+          "titulo_medida": "Silencio administrativo positivo y declaración responsable como regla general.",
+          "texto_oficial": "Silencio administrativo positivo y declaración responsable como regla general. Si la Administración no contesta en plazo, el ciudadano ha de poder seguir adelante con su proyecto. Y si una actividad no entraña riesgo, basta con declararla para empezar a ejercerla. Quedan fuera, como excepción tasada, algunas materias que afectan a la soberanía nacional y al control de quién entra y se queda en España: nacionalidad, residencia, permisos de trabajo a extranjeros y, en general, inmigración. Ahí el silencio jamás jugará a favor de quien pretenda burlar nuestras leyes.",
+          "explicacion_medida": "Establece el silencio administrativo positivo y la declaración responsable como regla general para iniciar actividades económicas o proyectos ciudadanos si la Administración no contesta en plazo, salvo materias tasadas de soberanía o seguridad.",
+          "datos_a_favor": "Generalizar el silencio positivo traslada al órgano administrativo el coste de la lentitud, acelera la apertura de comercios e inversiones y elimina cuellos de botella burocráticos.",
+          "datos_en_contra": "El Tribunal Constitucional y la normativa ambiental advierten que el silencio positivo indiscriminado en licencias urbanísticas o autorizaciones ambientales conlleva riesgo de consolidar actividades ilegales por mera inacción administrativa si falta personal inspector.",
+          "id_bloque_comun": "bloque_12",
+          "titulo_bloque_comun": "Administración Pública, Control del Gasto Público y Reducción de Burocracia"
+        },
+        {
+          "numero_medida": 42,
+          "id_medida": "VOX-42",
+          "seccion_original": "DESREGULACIÓN",
+          "titulo_medida": "España es un solo mercado y una sola Nación.",
+          "texto_oficial": "España es un solo mercado y una sola Nación. Ley de Unidad de Mercado. Lo que es legal en una región de España, lo es en toda España. Una misma actividad económica no debe quedar sometida a requisitos administrativos diferentes e injustificados por razón del territorio en el que se ejerza. Cualquier empresa, profesional o producto que ya opere legalmente en una Comunidad Autónoma podrá hacerlo en el resto del territorio nacional sin trámites, licencias ni registros adicionales. Garantizar la unidad del mercado nacional mediante la eliminación de trabas administrativas y duplicidades regulatorias: no puede ser que\nun autónomo, un comerciante o un fabricante tenga que pedir diecisiete permisos distintos para vender lo mismo.",
+          "explicacion_medida": "Propone una Ley de Unidad de Mercado estricta que elimine divergencias regulatorias territoriales, estableciendo licencia única nacional para que cualquier empresa o producto autorizado en una región pueda operar automáticamente en todo el país.",
+          "datos_a_favor": "Superar la fragmentación en 17 normativas sectoriales (etiquetado, requisitos técnicos, horarios, licencias profesionales) permite ganar economías de escala a las pymes españolas e incrementa la competencia y productividad.",
+          "datos_en_contra": "El Tribunal Constitucional (STC 79/2017) anuló parcialmente el principio de eficacia nacional automática de la Ley 20/2013 al considerar que no puede imponerse el estándar regulatorio más laxo de una comunidad autónoma sobre competencias exclusivas de otra sin fijar antes estándares comunes.",
+          "id_bloque_comun": "bloque_12",
+          "titulo_bloque_comun": "Administración Pública, Control del Gasto Público y Reducción de Burocracia"
+        },
+        {
+          "numero_medida": 43,
+          "id_medida": "VOX-43",
+          "seccion_original": "DESREGULACIÓN",
+          "titulo_medida": "Auditoría integral de las administraciones y reducción radical de los gastos de la Administración Pública.",
+          "texto_oficial": "Auditoría integral de las administraciones y reducción radical de los gastos de la Administración Pública. Para compensar la bajada masiva de impuestos, se recortarán todos los gastos superfluos de la Administración hasta el mínimo imprescindible.\n- Promover una auditoría sistemática de todos los gastos no imprescindibles de las administraciones públicas que serán susceptibles de supresión. Los análisis de esta auditoría se irán haciendo públicos.\n- Reducir al mínimo estrictamente necesario el tamaño de la Administración Pública. Reducir progresivamente hasta su eliminación total las subvenciones a partidos, sindicatos, patronales, ONGs, observatorios y otros organismos ideológicos.",
+          "explicacion_medida": "Impulsa una auditoría integral de todas las administraciones públicas para recortar gastos calificados como superfluos hasta el mínimo imprescindible, compensando así las rebajas fiscales.",
+          "datos_a_favor": "La auditoría sistemática de entes instrumentales, duplicidades y subvenciones sin retorno evaluable sigue recomendaciones de la AIReF para mejorar la eficiencia del gasto y reducir el tamaño burocrático.",
+          "datos_en_contra": "Gran parte de las estructuras administrativas corresponden a comunidades autónomas y corporaciones locales autónomas constitucionalmente, por lo que los ahorros reales en cargos políticos o asesores representan una fracción muy pequeña del déficit o del coste de rebajas fiscales masivas.",
+          "id_bloque_comun": "bloque_12",
+          "titulo_bloque_comun": "Administración Pública, Control del Gasto Público y Reducción de Burocracia"
+        },
+        {
+          "numero_medida": 108,
+          "id_medida": "VOX-108",
+          "seccion_original": "INDEPENDENCIA DE LA JUSTICIA Y LUCHA CONTRA LA CORRUPCIÓN",
+          "titulo_medida": "Auditoría del patrimonio inmobiliario del Estado.",
+          "texto_oficial": "Auditoría del patrimonio inmobiliario del Estado. Los bienes inmuebles del Estado han de estar al servicio de las necesidades de la vivienda o de la mejor y más eficiente prestación de los servicios públicos de los españoles. No se ha de permitir por más tiempo que se conviertan en saunas de corrupción, se cedan gratuitamente para la ubicación de inmigrantes ilegales o se mantengan en estado de ruina. Plan Nacional de Rehabilitación del Patrimonio Inmobiliario para la revitalización y creación de empleo.",
+          "explicacion_medida": "Realiza una auditoría integral del patrimonio inmobiliario estatal para poner fin a cesiones gratuitas a partidos o sindicatos y destinar los edificios ociosos a vivienda pública o servicios esenciales.",
+          "datos_a_favor": "Movilizar suelo y edificios públicos infrautilizados del Estado (defensa, ministerios, adif) genera stock inmediato para equipamientos o vivienda asequible sin comprar suelo nuevo.",
+          "datos_en_contra": "La devolución del patrimonio sindical incautado en 1939 responde a leyes específicas de restitución histórica y su recuperación patrimonial podría generar extensos litigios jurídicos y costes elevados de rehabilitación.",
+          "id_bloque_comun": "bloque_12",
+          "titulo_bloque_comun": "Administración Pública, Control del Gasto Público y Reducción de Burocracia"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_13",
+      "numero_bloque": 13,
+      "titulo_bloque": "Justicia, Seguridad Ciudadana y Cumplimiento de la Ley",
+      "alcance_medidas": "Medidas 45 a 111 (14 medidas)",
+      "total_medidas_bloque": 14,
+      "medidas_incluidas": [
+        45,
+        47,
+        79,
+        80,
+        81,
+        82,
+        84,
+        85,
+        86,
+        87,
+        91,
+        100,
+        102,
+        111
+      ],
+      "medidas": [
+        {
+          "numero_medida": 45,
+          "id_medida": "VOX-45",
+          "seccion_original": "DESREGULACIÓN",
+          "titulo_medida": "Limitar el importe de las multas de tráfico y estacionamiento por infracciones que no comprometan gravemente l",
+          "texto_oficial": "Limitar el importe de las multas de tráfico y estacionamiento por infracciones que no comprometan gravemente la seguridad vial. Revisar y reducir las sanciones económicas desproporcionadas, garantizando que su\ncuantía responda a la gravedad de la infracción y no a criterios recaudatorios.",
+          "explicacion_medida": "Propone revisar y reducir el importe de las multas de tráfico y estacionamiento que no afecten gravemente a la seguridad vial para evitar criterios recaudatorios.",
+          "datos_a_favor": "Alinear la cuantía sancionadora con la proporcionalidad al riesgo viario protege a conductores habituales y trabajadores de sanciones percibidas como desproporcionadas en vías urbanas e interurbanas.",
+          "datos_en_contra": "La evidencia en seguridad vial de la DGT y el Observatorio Europeo de Seguridad Vial vincula el rigor y efecto disuasorio de las sanciones económicas y por puntos con reducciones significativas en la siniestralidad por exceso de velocidad y distracciones.",
+          "id_bloque_comun": "bloque_13",
+          "titulo_bloque_comun": "Justicia, Seguridad Ciudadana y Cumplimiento de la Ley"
+        },
+        {
+          "numero_medida": 47,
+          "id_medida": "VOX-47",
+          "seccion_original": "DESREGULACIÓN",
+          "titulo_medida": "Derogar las leyes que han criminalizado a los hombres y desprotegido a las mujeres.",
+          "texto_oficial": "Derogar las leyes que han criminalizado a los hombres y desprotegido a las mujeres. Las leyes de género no han contribuido a proteger a las mujeres o reducir el número de víctimas, sino a disparar el despilfarro y han terminado beneficiando y soltando a violadores y criminales sexuales y desprotegiendo con pulseras defectuosas a mujeres maltratadas. Hay que revertir las consecuencias nefastas de todas las normas que han abandonado a las verdaderas víctimas, y añadido otras nuevas. Poner fin a la criminalización de la mitad de la población y al desamparo que sufren familias enteras expuestas a ser perjudicadas por el fenómeno creciente de denuncias falsas. En su lugar, impulsar la aprobación de leyes y normas que protejan de verdad a las mujeres víctimas de violencia, en especial a aquellas que sufran maltrato, y que no dejen a ninguna víctima desamparada.",
+          "explicacion_medida": "Propone derogar la normativa vigente en materia de violencia de género al criticar la asimetría penal y supuestas ineficiencias de protección, apostando por legislación penal simétrica en violencia intrafamiliar.",
+          "datos_a_favor": "Sus promotores defienden reforzar la presunción de inocencia y la igualdad formal ante la ley penal (art. 14 CE), centrando los recursos en medidas policiales efectivas y agravamiento general de penas contra agresores.",
+          "datos_en_contra": "El Tribunal Constitucional (STC 59/2008) avaló la asimetría penal de la Ley Integral de 2004 ante la mayor incidencia estructural de la violencia sobre la mujer en la pareja; su derogación chocaría con el Convenio de Estambul ratificado por España y eliminaría juzgados y recursos especializados.",
+          "id_bloque_comun": "bloque_13",
+          "titulo_bloque_comun": "Justicia, Seguridad Ciudadana y Cumplimiento de la Ley"
+        },
+        {
+          "numero_medida": 79,
+          "id_medida": "VOX-79",
+          "seccion_original": "SEGURIDAD Y DEFENSA",
+          "titulo_medida": "Instituciones de Seguridad y Defensa al servicio de los españoles y sus familias, con unas Fuerzas Armadas profesionales y unas Fuerzas y Cuerpos de Seguridad del Estado bien dimensionadas con todos los recursos necesarios para defender nuestra soberanía y garantizar nuestra seguridad y libertad.",
+          "texto_oficial": "Instituciones de Seguridad y Defensa al servicio de los españoles y sus familias, con unas Fuerzas Armadas profesionales y unas Fuerzas y Cuerpos de Seguridad del Estado bien dimensionadas con todos los recursos necesarios para defender nuestra soberanía y garantizar nuestra seguridad y libertad.",
+          "explicacion_medida": "Plantea reforzar la dotación de medios, personal y presupuesto de las Fuerzas Armadas y de las Fuerzas y Cuerpos de Seguridad del Estado para garantizar la soberanía y la seguridad ciudadana.",
+          "datos_a_favor": "Cubrir vacantes policiales en áreas con aumento de criminalidad organizada y modernizar equipamiento militar protege la seguridad interior y la credibilidad disuasoria de España ante aliados.",
+          "datos_en_contra": "El incremento simultáneo de plantillas militares y policiales supone un compromiso presupuestario permanente muy elevado sujeto a los límites de déficit público de la UE.",
+          "id_bloque_comun": "bloque_13",
+          "titulo_bloque_comun": "Justicia, Seguridad Ciudadana y Cumplimiento de la Ley"
+        },
+        {
+          "numero_medida": 80,
+          "id_medida": "VOX-80",
+          "seccion_original": "SEGURIDAD Y DEFENSA",
+          "titulo_medida": "Reducción de la edad de responsabilidad penal del menor y plantear la eliminación de inimputabilidad para ciertos delitos violentos como los homicidios o las agresiones sexuales.",
+          "texto_oficial": "Reducción de la edad de responsabilidad penal del menor y plantear la eliminación de inimputabilidad para ciertos delitos violentos como los homicidios o las agresiones sexuales.",
+          "explicacion_medida": "Propone rebajar la edad de responsabilidad penal del menor y suprimir la inimputabilidad ordinaria para delitos especialmente violentos como homicidios o agresiones sexuales.",
+          "datos_a_favor": "Endurecer el reproche penal frente a delitos gravísimos cometidos por menores responde a la alarma social y a la sensación de impunidad de las víctimas.",
+          "datos_en_contra": "La criminología penal y la Convención de Derechos del Niño cuestionan rebajar la edad penal por el menor desarrollo psicosocial de los adolescentes, señalando que el internamiento carcelario adulto incrementa la reincidencia futura.",
+          "id_bloque_comun": "bloque_13",
+          "titulo_bloque_comun": "Justicia, Seguridad Ciudadana y Cumplimiento de la Ley"
+        },
+        {
+          "numero_medida": 81,
+          "id_medida": "VOX-81",
+          "seccion_original": "SEGURIDAD Y DEFENSA",
+          "titulo_medida": "Ampliación de la prisión permanente revisable.",
+          "texto_oficial": "Ampliación de la prisión permanente revisable. Los que cometen los peores delitos deben tener las máximas condenas.",
+          "explicacion_medida": "Amplía el catálogo de delitos castigados con prisión permanente revisable para los crímenes de mayor gravedad.",
+          "datos_a_favor": "Asegura un periodo mínimo prolongado de cumplimiento efectivo y evaluación previa de reinserción ante delincuentes de extrema peligrosidad o reincidentes graves.",
+          "datos_en_contra": "Expertos penalistas advierten sobre la tensión con el mandato constitucional de orientar las penas privativas de libertad hacia la reeducación y reinserción social (art. 25.2 CE), además de su escaso efecto disuasorio en delitos impulsivos.",
+          "id_bloque_comun": "bloque_13",
+          "titulo_bloque_comun": "Justicia, Seguridad Ciudadana y Cumplimiento de la Ley"
+        },
+        {
+          "numero_medida": 82,
+          "id_medida": "VOX-82",
+          "seccion_original": "SEGURIDAD Y DEFENSA",
+          "titulo_medida": "Asegurar que los directores generales de la Guardia Civil y del Cuerpo Nacional de Policía sean personas con amplia experiencia en el ámbito de la seguridad, y no políticos con carné del partido.",
+          "texto_oficial": "Asegurar que los directores generales de la Guardia Civil y del Cuerpo Nacional de Policía sean personas con amplia experiencia en el ámbito de la seguridad, y no políticos con carné del partido.",
+          "explicacion_medida": "Propone despolitizar la cúpula de las fuerzas de seguridad exigiendo que los directores generales de Guardia Civil y Policía Nacional sean profesionales con amplia carrera policial y no cargos partidistas.",
+          "datos_a_favor": "Restringir la designación a perfiles técnicos acreditados fortalece la independencia operativa policial frente a injerencias políticas y refuerza la moral interna de los cuerpos.",
+          "datos_en_contra": "En un Estado democrático, el control civil y la responsabilidad parlamentaria del Ministerio del Interior se ejercen mediante cargos de confianza gubernamental, aunque sujetos a transparencia e idoneidad profesional.",
+          "id_bloque_comun": "bloque_13",
+          "titulo_bloque_comun": "Justicia, Seguridad Ciudadana y Cumplimiento de la Ley"
+        },
+        {
+          "numero_medida": 84,
+          "id_medida": "VOX-84",
+          "seccion_original": "SEGURIDAD Y DEFENSA",
+          "titulo_medida": "Dignificación de las Fuerzas y Cuerpos de Seguridad del Estado.",
+          "texto_oficial": "Dignificación de las Fuerzas y Cuerpos de Seguridad del Estado. Aumento de la inversión, equiparación salarial y sueldos dignos, dignificación de la profesión y programas de modernización y actualización formativa y tecnológica. Reconocimiento de la profesión y servicio en la Guardia Civil y el Cuerpo Nacional de Policía como profesión de riesgo.",
+          "explicacion_medida": "Plantea la equiparación salarial real de Policía Nacional y Guardia Civil con las policías autonómicas, el reconocimiento como profesión de riesgo y la mejora de equipamiento y jubilación.",
+          "datos_a_favor": "Corregir la brecha retributiva y reconocer formalmente la peligrosidad laboral homologa condiciones con Mossos d'Esquadra y Ertzaintza y mejora la cobertura de plantillas en destinos conflictivos.",
+          "datos_en_contra": "Su aplicación completa (incluyendo pasivos e indemnizaciones de jubilación anticipada) implica un coste presupuestario consolidado anual superior a varios cientos de millones de euros en clases pasivas y Seguridad Social.",
+          "id_bloque_comun": "bloque_13",
+          "titulo_bloque_comun": "Justicia, Seguridad Ciudadana y Cumplimiento de la Ley"
+        },
+        {
+          "numero_medida": 85,
+          "id_medida": "VOX-85",
+          "seccion_original": "SEGURIDAD Y DEFENSA",
+          "titulo_medida": "Protección integral para los funcionarios de prisiones.",
+          "texto_oficial": "Protección integral para los funcionarios de prisiones. Plantillas adecuadamente dimensionadas, equiparación salarial y sueldos dignos, medios materiales y formación frente a los módulos conflictivos y reconocimiento como profesión de riesgo.",
+          "explicacion_medida": "Refuerza las plantillas, equipamiento defensivo, retribuciones y reconocimiento como profesión de riesgo para los funcionarios de Instituciones Penitenciarias frente a agresiones en módulos conflictivos.",
+          "datos_a_favor": "Las estadísticas penitenciarias muestran déficits de cobertura médica y de vigilancia en numerosos centros, lo que incrementa incidentes internos y bajas laborales.",
+          "datos_en_contra": "Además de mejoras salariales y catalogación como agentes de autoridad, sindicatos penitenciarios subrayan que reducir agresiones exige también programas de salud mental y descongestión de módulos masificados.",
+          "id_bloque_comun": "bloque_13",
+          "titulo_bloque_comun": "Justicia, Seguridad Ciudadana y Cumplimiento de la Ley"
+        },
+        {
+          "numero_medida": 86,
+          "id_medida": "VOX-86",
+          "seccion_original": "SEGURIDAD Y DEFENSA",
+          "titulo_medida": "Combate total al narcotráfico.",
+          "texto_oficial": "Combate total al narcotráfico. Refuerzo urgente de los medios humanos y recursos materiales, técnicos y operativos dedicados a la lucha contra el narcotráfico y la criminalidad organizada que operan en el territorio y costas españolas. Restablecimiento inmediato del Organismo de Coordinación del Narcotráfico (OCON) Sur.",
+          "explicacion_medida": "Intensifica la lucha policial y judicial contra el narcotráfico y el crimen organizado, ampliando medios operativos en el Estrecho y costas españolas y restableciendo de inmediato el OCON Sur.",
+          "datos_a_favor": "La concentración operativa especializada permitió importantes incautaciones en el Campo de Gibraltar antes de la reorganización de las unidades antidroga, mejorando la seguridad de la población local.",
+          "datos_en_contra": "Los propios cuerpos de seguridad señalan que desmantelar redes transnacionales requiere no solo más patrulleras y unidades de choque, sino refuerzo simultáneo de fiscalías antidroga, juzgados saturados e investigación de blanqueo de capitales.",
+          "id_bloque_comun": "bloque_13",
+          "titulo_bloque_comun": "Justicia, Seguridad Ciudadana y Cumplimiento de la Ley"
+        },
+        {
+          "numero_medida": 87,
+          "id_medida": "VOX-87",
+          "seccion_original": "SEGURIDAD Y DEFENSA",
+          "titulo_medida": "Protección efectiva de las mujeres frente a la violencia y las agresiones sexuales.",
+          "texto_oficial": "Protección efectiva de las mujeres frente a la violencia y las agresiones sexuales. Reforzar la prevención, la protección policial y judicial y la asistencia integral a las víctimas, evitando que ninguna mujer quede desamparada.",
+          "explicacion_medida": "Propone reforzar la prevención policial, judicial y asistencial para proteger de manera efectiva a mujeres víctimas de violencia y agresiones sexuales.",
+          "datos_a_favor": "Aumentar medios de vigilancia de órdenes de alejamiento y juzgados agiliza la respuesta protectora cuando existe riesgo acreditado tras una denuncia.",
+          "datos_en_contra": "Al proponerse simultáneamente la derogación de la Ley integral de violencia de género (medida 47), críticos y operadores jurídicos señalan una contradicción operativa sobre la arquitectura especializada hoy vigente.",
+          "id_bloque_comun": "bloque_13",
+          "titulo_bloque_comun": "Justicia, Seguridad Ciudadana y Cumplimiento de la Ley"
+        },
+        {
+          "numero_medida": 91,
+          "id_medida": "VOX-91",
+          "seccion_original": "SEGURIDAD Y DEFENSA",
+          "titulo_medida": "Refuerzo de la ciberseguridad y protección de las infraestructuras críticas.",
+          "texto_oficial": "Refuerzo de la ciberseguridad y protección de las infraestructuras críticas. Mejorar las capacidades nacionales de prevención y respuesta frente a ciberataques, espionaje, sabotajes y amenazas contra los servicios esenciales, las redes de comunicaciones y las infraestructuras estratégicas.",
+          "explicacion_medida": "Refuerza las capacidades nacionales de ciberseguridad ante ciberataques, sabotajes o espionaje contra infraestructuras críticas, redes de comunicaciones y servicios esenciales.",
+          "datos_a_favor": "La digitalización de redes eléctricas, hospitales y banca hace prioritaria la inversión continua en detección temprana y respuesta autónoma frente a amenazas híbridas.",
+          "datos_en_contra": "Exige coordinación estrecha entre sector privado propietario de infraestructuras, CCN-CERT, INCIBE y agencias europeas bajo la Directiva NIS2, más allá de respuestas meramente centralizadas.",
+          "id_bloque_comun": "bloque_13",
+          "titulo_bloque_comun": "Justicia, Seguridad Ciudadana y Cumplimiento de la Ley"
+        },
+        {
+          "numero_medida": 100,
+          "id_medida": "VOX-100",
+          "seccion_original": "INDEPENDENCIA DE LA JUSTICIA Y LUCHA CONTRA LA CORRUPCIÓN",
+          "titulo_medida": "Independencia y despolitización de la Justicia.",
+          "texto_oficial": "Independencia y despolitización de la Justicia. Modificar la Ley Orgánica del Poder Judicial para que los doce vocales de procedencia judicial del Consejo General del Poder Judicial sean elegidos mediante voto personal, directo y secreto por y entre los propios jueces y magistrados, terminando con el sistema de cuotas partidistas. Acabar con la colonización partidista de cualquier institución judicial. Garantizar la idoneidad, imparcialidad, competencia profesional e independencia del Fiscal General del Estado.",
+          "explicacion_medida": "Reforma la Ley Orgánica del Poder Judicial para que los doce vocales de extracción judicial del CGPJ sean elegidos directamente mediante voto personal y secreto por los propios jueces y magistrados.",
+          "datos_a_favor": "La elección por los propios jueces responde a recomendaciones recurrentes del Consejo de Europa (GRECO) y de la Comisión Europea para reducir la apariencia de politización en los nombramientos judiciales.",
+          "datos_en_contra": "Sectores jurídicos advierten que una elección estrictamente corporativa sin contrapeso parlamentario puede favorecer la hegemonía de las asociaciones judiciales mayoritarias frente al pluralismo democrático previsto en la Constitución.",
+          "id_bloque_comun": "bloque_13",
+          "titulo_bloque_comun": "Justicia, Seguridad Ciudadana y Cumplimiento de la Ley"
+        },
+        {
+          "numero_medida": 102,
+          "id_medida": "VOX-102",
+          "seccion_original": "INDEPENDENCIA DE LA JUSTICIA Y LUCHA CONTRA LA CORRUPCIÓN",
+          "titulo_medida": "Administración de Justicia rápida, eficiente para los españoles.",
+          "texto_oficial": "Administración de Justicia rápida, eficiente para los españoles. Reforma integral del sistema judicial que deje atrás los desvaríos ideológicos de este Gobierno y permita que los españoles puedan contar con una Administración de Justicia rápida y eficiente. Aumento de las inversiones en sedes judiciales y profesionales de la justicia.",
+          "explicacion_medida": "Plantea una reforma integral de la Administración de Justicia dotándola de más medios materiales, sedes judiciales y plantillas profesionales para acabar con los retrasos endémicos.",
+          "datos_a_favor": "Invertir en digitalización interoperable y crear más plazas de jueces, fiscales y letrados ataca directamente la congestión histórica de los juzgados civiles, penales y sociales.",
+          "datos_en_contra": "Su éxito exige consenso institucional entre el Ministerio de Justicia, el CGPJ y las comunidades autónomas con competencias transferidas en medios materiales y personal auxiliar.",
+          "id_bloque_comun": "bloque_13",
+          "titulo_bloque_comun": "Justicia, Seguridad Ciudadana y Cumplimiento de la Ley"
+        },
+        {
+          "numero_medida": 111,
+          "id_medida": "VOX-111",
+          "seccion_original": "INDEPENDENCIA DE LA JUSTICIA Y LUCHA CONTRA LA CORRUPCIÓN",
+          "titulo_medida": "Garantizar la libertad de expresión de todos los españoles frente a la deriva censora del Gobierno de Sánchez.",
+          "texto_oficial": "Garantizar la libertad de expresión de todos los españoles frente a la deriva censora del Gobierno de Sánchez.",
+          "explicacion_medida": "Garantiza jurídicamente la libertad de expresión e información frente a restricciones normativas, leyes de censura digital o presiones sobre medios y ciudadanos en redes sociales.",
+          "datos_a_favor": "Proteger la pluralidad de medios independientes y limitar definiciones ambiguas de desinformación previene abusos de poder gubernamentales o censura administrativa sobre opiniones incómodas.",
+          "datos_en_contra": "Al mismo tiempo, el Reglamento europeo de Servicios Digitales (DSA) obliga a equilibrar esa libertad con mecanismos verificables frente a la incitación ilícita al odio, fraude digital o acoso coordinado en plataformas.",
+          "id_bloque_comun": "bloque_13",
+          "titulo_bloque_comun": "Justicia, Seguridad Ciudadana y Cumplimiento de la Ley"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_14",
+      "numero_bloque": 14,
+      "titulo_bloque": "Inmigración, Control de Fronteras, Integración y Nacionalidad",
+      "alcance_medidas": "Medidas 9 a 88 (14 medidas)",
+      "total_medidas_bloque": 14,
+      "medidas_incluidas": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        21,
+        26,
+        88
+      ],
+      "medidas": [
+        {
+          "numero_medida": 9,
+          "id_medida": "VOX-9",
+          "seccion_original": "INMIGRACIÓN",
+          "titulo_medida": "Ni uno más.",
+          "texto_oficial": "Ni uno más. Después de recibir a 5 millones de personas en 5 años España no puede acoger a más inmigrantes. Prohibición de las regularizaciones masivas. Quien entra de forma ilegal jamás podrá regularizar su situación.",
+          "explicacion_medida": "Propone frenar los flujos migratorios de entrada y prohibir legalmente las regularizaciones extraordinarias, estableciendo que ninguna persona que acceda al país de manera irregular pueda regularizar posteriormente su situación administrativa.",
+          "datos_a_favor": "Limitar las vías de regularización tras entradas irregulares busca reducir el efecto llamada y reforzar el mensaje de que el acceso residencial y laboral debe producirse exclusivamente por cauces legales con contrato o visado previo en origen.",
+          "datos_en_contra": "Excluir de cualquier vía de regularización a quienes ya residen en España dificulta el control fiscal y policial de la economía sumergida, agrava la exclusión laboral en sectores con vacantes estructurales (agricultura, construcción, cuidados) y tensiona la gestión municipal cuando la repatriación no es viable diplomáticamente.",
+          "id_bloque_comun": "bloque_14",
+          "titulo_bloque_comun": "Inmigración, Control de Fronteras, Integración y Nacionalidad"
+        },
+        {
+          "numero_medida": 10,
+          "id_medida": "VOX-10",
+          "seccion_original": "INMIGRACIÓN",
+          "titulo_medida": "Endurecimiento de los requisitos de adquisición de la nacionalidad española.",
+          "texto_oficial": "Endurecimiento de los requisitos de adquisición de la nacionalidad española. Revisión de las concesiones fraudulentas de la nacionalidad. Aumento de los supuestos de pérdida de nacionalidad española para los españoles no de origen en casos de delitos graves o reiterados.",
+          "explicacion_medida": "Plantea endurecer los requisitos de acceso a la nacionalidad española, auditar concesiones previas ante posibles fraudes y ampliar los supuestos de pérdida de la nacionalidad para extranjeros nacionalizados condenados por delitos graves o reiterados.",
+          "datos_a_favor": "Exigir mayor arraigo efectivo, dominio lingüístico e integración cívica alinea la naturalización con estándares más estrictos de otros Estados europeos y refuerza la trazabilidad administrativa frente a fraudes documentales.",
+          "datos_en_contra": "El artículo 11.2 de la Constitución prohíbe privar de su nacionalidad a los españoles de origen y el Derecho internacional restringe la privación cuando produzca apatridia; asimismo, las causas de nulidad o pérdida deben ajustarse a la doctrina del Tribunal Supremo y del TJUE sobre proporcionalidad y ciudadanía europea.",
+          "id_bloque_comun": "bloque_14",
+          "titulo_bloque_comun": "Inmigración, Control de Fronteras, Integración y Nacionalidad"
+        },
+        {
+          "numero_medida": 11,
+          "id_medida": "VOX-11",
+          "seccion_original": "INMIGRACIÓN",
+          "titulo_medida": "Supresión de la institución del arraigo como forma de atajar la inmigración ilegal y revocación de las pasarelas rápidas para adquirir la nacionalidad española.",
+          "texto_oficial": "Supresión de la institución del arraigo como forma de atajar la inmigración ilegal y revocación de las pasarelas rápidas para adquirir la nacionalidad española.",
+          "explicacion_medida": "Propone suprimir las figuras de autorización de residencia por arraigo (social, laboral, familiar o formativo) recogidas en la normativa de extranjería y eliminar las vías aceleradas hacia la nacionalidad.",
+          "datos_a_favor": "Suprimir el arraigo como pasarela ordinaria pretende evitar incentivos a la permanencia en situación irregular tras el vencimiento de visados turísticos o entradas clandestinas y priorizar los contingentes regulados desde origen.",
+          "datos_en_contra": "El arraigo ha funcionado históricamente como mecanismo práctico de afloramiento fiscal y cotización a la Seguridad Social para trabajadores ya integrados en empresas y hogares españoles; su supresión podría incrementar el empleo informal y la saturación de los sistemas asistenciales locales.",
+          "id_bloque_comun": "bloque_14",
+          "titulo_bloque_comun": "Inmigración, Control de Fronteras, Integración y Nacionalidad"
+        },
+        {
+          "numero_medida": 12,
+          "id_medida": "VOX-12",
+          "seccion_original": "INMIGRACIÓN",
+          "titulo_medida": "Repatriación de quienes permanezcan en situación ilegal en nuestra nación.",
+          "texto_oficial": "Repatriación de quienes permanezcan en situación ilegal en nuestra nación.",
+          "explicacion_medida": "Establece la ejecución efectiva de las resoluciones de repatriación para todas las personas extranjeras que permanezcan en situación administrativa irregular en territorio español.",
+          "datos_a_favor": "Reforzar la ejecución de órdenes de expulsión ya dictadas pretende restaurar la eficacia de la legislación de extranjería y la seguridad jurídica del sistema de permisos de residencia.",
+          "datos_en_contra": "En la práctica europea, la tasa efectiva de retornos forzosos depende de convenios de readmisión con los países de origen, identificación consular y recursos judiciales de habeas corpus y asilo, lo que genera elevados costes operativos y bloqueos diplomáticos frecuentes.",
+          "id_bloque_comun": "bloque_14",
+          "titulo_bloque_comun": "Inmigración, Control de Fronteras, Integración y Nacionalidad"
+        },
+        {
+          "numero_medida": 13,
+          "id_medida": "VOX-13",
+          "seccion_original": "INMIGRACIÓN",
+          "titulo_medida": "Remigración.",
+          "texto_oficial": "Remigración. Plan para facilitar el retorno a sus países de los extranjeros que no contribuyan o vivan de subsidios públicos que no alcanzan a los españoles.",
+          "explicacion_medida": "Plantea un programa de retorno voluntario y asistido ('remigración') orientado a ciudadanos extranjeros sin cotización laboral suficiente o perceptores de subsidios asistenciales públicos.",
+          "datos_a_favor": "Los programas de retorno asistido pueden aliviar la presión sobre prestaciones no contributivas locales y ofrecer reintegración económica en origen para migrantes que no han logrado inserción laboral estable.",
+          "datos_en_contra": "Vincular el derecho de residencia o ayudas de residentes legales regulares a su nivel puntual de cotización vulnera la igualdad de trato reconocida en la normativa europea de residentes de larga duración (Directiva 2003/109/CE) y los convenios bilaterales de Seguridad Social.",
+          "id_bloque_comun": "bloque_14",
+          "titulo_bloque_comun": "Inmigración, Control de Fronteras, Integración y Nacionalidad"
+        },
+        {
+          "numero_medida": 14,
+          "id_medida": "VOX-14",
+          "seccion_original": "INMIGRACIÓN",
+          "titulo_medida": "Deportación de quienes cometan delitos graves o hagan del delito leve su forma de vida, así como de quienes traten de imponer costumbres, hábitos o culturas ajenas a nuestro modo de vida o incompatibles con el respeto a la dignidad de las mujeres.",
+          "texto_oficial": "Deportación de quienes cometan delitos graves o hagan del delito leve su forma de vida, así como de quienes traten de imponer costumbres, hábitos o culturas ajenas a nuestro modo de vida o incompatibles con el respeto a la dignidad de las mujeres.",
+          "explicacion_medida": "Propone la deportación automática de extranjeros condenados por delitos graves o multirreincidencia en delitos leves, así como de quienes intenten imponer costumbres incompatibles con la igualdad y dignidad de las mujeres o el ordenamiento español.",
+          "datos_a_favor": "La expulsión penal sustitutiva o complementaria en delitos graves o reincidencia responde a demandas de seguridad ciudadana y evita la saturación penitenciaria cuando existen acuerdos de traslado o readmisión.",
+          "datos_en_contra": "La expulsión automática ante delitos leves o criterios culturales indeterminados choca con el principio constitucional de tipicidad penal (art. 25 CE) y con la jurisprudencia del TEDH y TJUE, que exige valoración individualizada de arraigo familiar y prohibición de trato inhumano en el país de destino.",
+          "id_bloque_comun": "bloque_14",
+          "titulo_bloque_comun": "Inmigración, Control de Fronteras, Integración y Nacionalidad"
+        },
+        {
+          "numero_medida": 15,
+          "id_medida": "VOX-15",
+          "seccion_original": "INMIGRACIÓN",
+          "titulo_medida": "Los MENAS, con sus familias.",
+          "texto_oficial": "Los MENAS, con sus familias. Devolución de menores extranjeros no acompañados a sus padres o a las\ninstituciones de tutela de sus países de origen, atendiendo al interés superior del menor. Persecución de ONG's o redes criminales que participen o colaboren en la sustracción o secuestro de menores.",
+          "explicacion_medida": "Aboga por repatriar a los menores extranjeros no acompañados (MENA) junto con sus padres o a los servicios de tutela de sus países de origen, además de perseguir penalmente a redes o entidades que colaboren en traslados irregulares.",
+          "datos_a_favor": "La reunificación familiar en origen, cuando existen garantías de protección acreditadas, reduce el desarraigo y alivia la sobrecarga financiera y de plazas que soportan los sistemas autonómicos de tutela de menores en territorios frontera como Canarias o Ceuta.",
+          "datos_en_contra": "Tanto la Convención sobre los Derechos del Niño de la ONU como la Ley de Protección Jurídica del Menor obligan a evaluar caso por caso el interés superior del menor antes de cualquier retorno y prohíben devoluciones a países donde no esté garantizada su integridad o tutela efectiva.",
+          "id_bloque_comun": "bloque_14",
+          "titulo_bloque_comun": "Inmigración, Control de Fronteras, Integración y Nacionalidad"
+        },
+        {
+          "numero_medida": 16,
+          "id_medida": "VOX-16",
+          "seccion_original": "INMIGRACIÓN",
+          "titulo_medida": "Ni un euro a ONGs que colaboren con el efecto llamada.",
+          "texto_oficial": "Ni un euro a ONGs que colaboren con el efecto llamada. Eliminación de todas las subvenciones, ayudas, convenios y conciertos con ONG u otras entidades que participen directa o indirectamente en la promoción, facilitación o sostenimiento de la inmigración ilegal, o que actúen como cooperadores necesarios de las mafias de tráfico de personas.",
+          "explicacion_medida": "Propone suprimir toda subvención, concierto o ayuda pública a ONG y entidades del tercer sector que participen en labores vinculadas a flujos migratorios irregulares.",
+          "datos_a_favor": "Auditar el destino de las subvenciones públicas busca concentrar el presupuesto en organismos estatales de seguridad y evitar que fondos públicos financien indirectamente redes logísticas no sometidas a control público.",
+          "datos_en_contra": "Muchas entidades subvencionadas gestionan por encomienda estatal o autonómica servicios legales básicos de acogida humanitaria, salvamento, traducción y tutela delegada por la propia Administración; cortar sus fondos obligaría al Estado a asumir directamente esos dispositivos legales.",
+          "id_bloque_comun": "bloque_14",
+          "titulo_bloque_comun": "Inmigración, Control de Fronteras, Integración y Nacionalidad"
+        },
+        {
+          "numero_medida": 17,
+          "id_medida": "VOX-17",
+          "seccion_original": "INMIGRACIÓN",
+          "titulo_medida": "Fin de la cooperación al desarrollo con los países que no colaboren en la gestión de los flujos migratorios.",
+          "texto_oficial": "Fin de la cooperación al desarrollo con los países que no colaboren en la gestión de los flujos migratorios. Retirar ayudas y fondos de cooperación y promover sanciones a aquellos Estados que fomenten la inmigración ilegal o la utilicen como arma de presión política.",
+          "explicacion_medida": "Condiciona las ayudas oficiales al desarrollo y los acuerdos de cooperación internacional a que los terceros países colaboren activamente en la prevención de salidas irregulares y la aceptación de repatriaciones.",
+          "datos_a_favor": "Utilizar la cooperación y visados como palanca diplomática ha demostrado en la UE capacidad para acelerar acuerdos de readmisión consular y control en origen con países emisores o de tránsito.",
+          "datos_en_contra": "Retirar ayuda humanitaria y cooperación técnica básica en origen puede empeorar la estabilidad socioeconómica de las regiones emisoras, provocando paradojalmente mayor emigración a medio plazo y debilitando la influencia diplomática española frente a terceros actores.",
+          "id_bloque_comun": "bloque_14",
+          "titulo_bloque_comun": "Inmigración, Control de Fronteras, Integración y Nacionalidad"
+        },
+        {
+          "numero_medida": 18,
+          "id_medida": "VOX-18",
+          "seccion_original": "PRIORIDAD NACIONAL",
+          "titulo_medida": "En España, los españoles primero.",
+          "texto_oficial": "En España, los españoles primero. Acceso preferente de los españoles a vivienda pública, plazas de guardería, bonos de comedor o transporte, ayudas, prestaciones y servicios sociales. Modificación o derogación de cuantas normativas pudieran dificultar la consecución plena y efectiva del principio de prioridad nacional.",
+          "explicacion_medida": "Instaura el principio de 'prioridad nacional' para que ciudadanos españoles tengan acceso preferente frente a extranjeros en vivienda pública, guarderías, becas escolares, comedor, transporte y prestaciones sociales.",
+          "datos_a_favor": "Ante recursos presupuestarios finitos y listas de espera elevadas en vivienda pública o escuelas infantiles, la prioridad para nacionales pretende reforzar la cohesión de los contribuyentes autóctonos y reducir la percepción de competencia por ayudas.",
+          "datos_en_contra": "La exclusión general de extranjeros residentes legales y cotizantes de servicios públicos y prestaciones choca con el artículo 14 CE, la Carta de Derechos Fundamentales de la UE (Directiva 2011/98/UE de permiso único) y el principio de igualdad tributaria respecto a quienes cotizan y pagan impuestos en España.",
+          "id_bloque_comun": "bloque_14",
+          "titulo_bloque_comun": "Inmigración, Control de Fronteras, Integración y Nacionalidad"
+        },
+        {
+          "numero_medida": 19,
+          "id_medida": "VOX-19",
+          "seccion_original": "PRIORIDAD NACIONAL",
+          "titulo_medida": "Suprimir toda ayuda y beneficio social a los inmigrantes ilegales.",
+          "texto_oficial": "Suprimir toda ayuda y beneficio social a los inmigrantes ilegales.",
+          "explicacion_medida": "Propone eliminar todas las ayudas económicas y beneficios asistenciales financiados con fondos públicos para personas extranjeras en situación administrativa irregular.",
+          "datos_a_favor": "Limitar las prestaciones sociales exclusivamente a residentes regulares pretende reforzar la coherencia jurídica del sistema de permisos y evitar incentivos económicos a la permanencia sin autorización.",
+          "datos_en_contra": "Suprimir ayudas de emergencia social o escolarización básica genera riesgos de marginalidad urbana, exclusión infantil severa y mayor coste posterior para los servicios municipales de emergencia social y urgencias.",
+          "id_bloque_comun": "bloque_14",
+          "titulo_bloque_comun": "Inmigración, Control de Fronteras, Integración y Nacionalidad"
+        },
+        {
+          "numero_medida": 21,
+          "id_medida": "VOX-21",
+          "seccion_original": "PRIORIDAD NACIONAL",
+          "titulo_medida": "Gravamen sobre las remesas al extranjero.",
+          "texto_oficial": "Gravamen sobre las remesas al extranjero. El dinero generado aquí ha de mejorar la economía y los servicios de quienes viven en España.",
+          "explicacion_medida": "Plantea crear un impuesto o gravamen específico sobre las transferencias internacionales de remesas enviadas por residentes hacia el extranjero.",
+          "datos_a_favor": "Un tributo reducido sobre remesas recaudaría ingresos adicionales vinculados a flujos de salida de divisas y estimularía la trazabilidad bancaria de envíos monetarios frecuentemente fraccionados.",
+          "datos_en_contra": "Gravar las remesas puede provocar un rápido desvío hacia canales informales no bancarizados (tipo hawala) difíciles de supervisar fiscalmente, encarecer transferencias ya tributadas en origen como salario neto y generar fricciones bilaterales con países iberoamericanos.",
+          "id_bloque_comun": "bloque_14",
+          "titulo_bloque_comun": "Inmigración, Control de Fronteras, Integración y Nacionalidad"
+        },
+        {
+          "numero_medida": 26,
+          "id_medida": "VOX-26",
+          "seccion_original": "VIVIENDA",
+          "titulo_medida": "Todos los españoles tienen derecho a disfrutar de una vivienda digna y adecuada para satisfacer sus necesidades y las de su familia. El punto de partida de todo programa de vivienda es el control férreo de las fronteras.",
+          "texto_oficial": "Todos los españoles tienen derecho a disfrutar de una vivienda digna y adecuada para satisfacer sus necesidades y las de su familia. El punto de partida de todo programa de vivienda es el control férreo de las fronteras.",
+          "explicacion_medida": "Vincula el acceso a la vivienda protegida y las tensiones residenciales al control estricto de fronteras exteriores, situando el control migratorio como punto de partida de la política de vivienda.",
+          "datos_a_favor": "Contener el rápido crecimiento demográfico concentrado en grandes áreas metropolitanas aliviaría parcialmente la presión inmediata de demanda sobre el alquiler de habitaciones y pisos económicos.",
+          "datos_en_contra": "La evidencia del mercado residencial señala como determinantes principales del déficit habitacional la escasa construcción de vivienda nueva, la falta de suelo finalista, el parque público reducido (muy por debajo de la media europea) y los usos turísticos, factores que persisten con independencia del saldo migratorio.",
+          "id_bloque_comun": "bloque_14",
+          "titulo_bloque_comun": "Inmigración, Control de Fronteras, Integración y Nacionalidad"
+        },
+        {
+          "numero_medida": 88,
+          "id_medida": "VOX-88",
+          "seccion_original": "SEGURIDAD Y DEFENSA",
+          "titulo_medida": "Protección y defensa de las fronteras españolas.",
+          "texto_oficial": "Protección y defensa de las fronteras españolas. Establecer un nuevo modelo de protección permanente de las fronteras terrestres, marítimas y aéreas, con participación de las Fuerzas Armadas, en apoyo a la Guardia Civil y el Cuerpo Nacional de Policía, reforzando la lucha contra la inmigración ilegal, las mafias de tráfico\nde personas y las amenazas híbridas, especialmente en Ceuta y Melilla. Lucha incesante contra el terrorismo islámico.",
+          "explicacion_medida": "Despliega un nuevo modelo de control fronterizo permanente en tierra, mar y aire que incorpora apoyo operativo estable de las Fuerzas Armadas junto a Guardia Civil y Policía Nacional.",
+          "datos_a_favor": "Sumar vigilancia marítima y radar militar refuerza la detección temprana frente a mafias de tráfico ilícito y amenazas híbridas en el flanco sur europeo.",
+          "datos_en_contra": "El ordenamiento constitucional español distingue entre defensa nacional (Fuerzas Armadas, art. 8 CE) y seguridad ciudadana interior (FCSE, art. 104 CE), lo que exige salvaguardas legales estrictas para evitar que unidades militares realicen funciones policiales.",
+          "id_bloque_comun": "bloque_14",
+          "titulo_bloque_comun": "Inmigración, Control de Fronteras, Integración y Nacionalidad"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_15",
+      "numero_bloque": 15,
+      "titulo_bloque": "Regeneración Democrática, Independencia Institucional y Lucha contra la Corrupción",
+      "alcance_medidas": "Medidas 101 a 107 (5 medidas)",
+      "total_medidas_bloque": 5,
+      "medidas_incluidas": [
+        101,
+        103,
+        105,
+        106,
+        107
+      ],
+      "medidas": [
+        {
+          "numero_medida": 101,
+          "id_medida": "VOX-101",
+          "seccion_original": "INDEPENDENCIA DE LA JUSTICIA Y LUCHA CONTRA LA CORRUPCIÓN",
+          "titulo_medida": "Liberar el Tribunal Constitucional de las manos de los políticos.",
+          "texto_oficial": "Liberar el Tribunal Constitucional de las manos de los políticos. El control de la constitucionalidad de las leyes no puede depender de un órgano político. Velar por el respeto del papel funcional del Tribunal Supremo y evitar que el Tribunal Constitucional actúe como un tribunal extraordinario por encima del mismo.",
+          "explicacion_medida": "Reforma la composición y funciones del Tribunal Constitucional para reducir la influencia partidista en sus magistrados y evitar que revise resoluciones firmes del Tribunal Supremo como si fuera una instancia ordinaria.",
+          "datos_a_favor": "Aumentar la independencia e idoneidad técnica de los magistrados y delimitar claramente los recursos de amparo alivia la sobrecarga del Constitucional y protege la autoridad jurisprudencial del Supremo.",
+          "datos_en_contra": "El Tribunal Constitucional ejerce por mandato expreso de la Constitución (arts. 159-161 CE) el control último de derechos fundamentales, incluso frente a sentencias del Tribunal Supremo, por lo que limitar sus facultades requiere reforma constitucional.",
+          "id_bloque_comun": "bloque_15",
+          "titulo_bloque_comun": "Regeneración Democrática, Independencia Institucional y Lucha contra la Corrupción"
+        },
+        {
+          "numero_medida": 103,
+          "id_medida": "VOX-103",
+          "seccion_original": "INDEPENDENCIA DE LA JUSTICIA Y LUCHA CONTRA LA CORRUPCIÓN",
+          "titulo_medida": "Respuesta contundente frente a los ataques contra la Unidad Nacional.",
+          "texto_oficial": "Respuesta contundente frente a los ataques contra la Unidad Nacional. Recuperar el delito de sedición,\nagravar el tipo delictivo de la malversación de caudales públicos y prohibir los indultos para delitos relacionados con la corrupción política, la forma política del Estado o la integridad territorial. Ilegalización de los partidos políticos, asociaciones u organizaciones de cualquier tipo que atenten contra la soberanía e independencia de España, su unidad e integridad territorial.",
+          "explicacion_medida": "Recupera el delito de sedición, agrava las penas por malversación, prohíbe indultos por corrupción o delitos contra la integridad territorial e impulsa la ilegalización de partidos que persigan romper la unidad nacional.",
+          "datos_a_favor": "Restablecer tipos penales severos ante malversaciones institucionales o desórdenes constitucionales pretende reforzar la prevención jurídica del orden constitucional y la probidad en el manejo de fondos públicos.",
+          "datos_en_contra": "La ilegalización de partidos políticos por fines ideológicos pacíficos choca frontalmente con la jurisprudencia del Tribunal Constitucional (STC 48/2003) y del TEDH, que en España exige vinculación con medios violentos y no meras aspiraciones programáticas.",
+          "id_bloque_comun": "bloque_15",
+          "titulo_bloque_comun": "Regeneración Democrática, Independencia Institucional y Lucha contra la Corrupción"
+        },
+        {
+          "numero_medida": 105,
+          "id_medida": "VOX-105",
+          "seccion_original": "INDEPENDENCIA DE LA JUSTICIA Y LUCHA CONTRA LA CORRUPCIÓN",
+          "titulo_medida": "Dotar de la máxima protección jurídica a los símbolos de la Nación, especialmente la Bandera, el Escudo y el Himno o la Corona. Las penas por las ofensas y ultrajes a España y sus símbolos o emblemas deben agravarse para que ninguna afrenta a ellos quede impune.",
+          "texto_oficial": "Dotar de la máxima protección jurídica a los símbolos de la Nación, especialmente la Bandera, el Escudo y el Himno o la Corona. Las penas por las ofensas y ultrajes a España y sus símbolos o emblemas deben agravarse para que ninguna afrenta a ellos quede impune.",
+          "explicacion_medida": "Aumenta la protección penal de los símbolos nacionales (Bandera, Escudo, Himno y Corona), agravando las penas previstas por ultrajes y ofensas.",
+          "datos_a_favor": "Proteger penalmente los símbolos comunes refuerza el respeto institucional hacia emblemas representativos de todo el Estado conforme al vigente artículo 543 del Código Penal.",
+          "datos_en_contra": "El Tribunal Europeo de Derechos Humanos ha condenado reiteradamente a España (caso Stern Taulats y otros) por imponer sanciones penales desproporcionadas sobre actos simbólicos amparados por la libertad de expresión política.",
+          "id_bloque_comun": "bloque_15",
+          "titulo_bloque_comun": "Regeneración Democrática, Independencia Institucional y Lucha contra la Corrupción"
+        },
+        {
+          "numero_medida": 106,
+          "id_medida": "VOX-106",
+          "seccion_original": "INDEPENDENCIA DE LA JUSTICIA Y LUCHA CONTRA LA CORRUPCIÓN",
+          "titulo_medida": "Revertir y poner fin a la gravísima degradación institucional promovida desde el Gobierno de Sánchez, la cual amenaza con romper la unidad y la igualdad de los españoles y quebrar nuestro Estado de Derecho. Máximo respeto por la actuación de todos los servidores públicos en su lucha contra la corrupción. Mayores medios y recursos a los juzgados y las unidades de la Guardia Civil y del Cuerpo Nacional de Policía especializadas en la lucha contra la corrupción.",
+          "texto_oficial": "Revertir y poner fin a la gravísima degradación institucional promovida desde el Gobierno de Sánchez, la cual amenaza con romper la unidad y la igualdad de los españoles y quebrar nuestro Estado de Derecho. Máximo respeto por la actuación de todos los servidores públicos en su lucha contra la corrupción. Mayores medios y recursos a los juzgados y las unidades de la Guardia Civil y del Cuerpo Nacional de Policía especializadas en la lucha contra la corrupción.",
+          "explicacion_medida": "Propone dotar de mayores recursos y respeto institucional a jueces, fiscales, inspectores y fuerzas policiales dedicados a investigar casos de corrupción política.",
+          "datos_a_favor": "Blindar la autonomía de las unidades policiales de investigación patrimonial y de la Fiscalía Anticorrupción acelera la instrucción de macrocausas complejas.",
+          "datos_en_contra": "Reforzar juzgados instructores requiere también reformar leyes procesales vetustas (LECrim) para evitar dilaciones indebidas y prescripciones de delitos complejos.",
+          "id_bloque_comun": "bloque_15",
+          "titulo_bloque_comun": "Regeneración Democrática, Independencia Institucional y Lucha contra la Corrupción"
+        },
+        {
+          "numero_medida": 107,
+          "id_medida": "VOX-107",
+          "seccion_original": "INDEPENDENCIA DE LA JUSTICIA Y LUCHA CONTRA LA CORRUPCIÓN",
+          "titulo_medida": "Lucha contra la corrupción.",
+          "texto_oficial": "Lucha contra la corrupción. Auditoría integral de todas las Administraciones con el fin destapar cualquier indicio de corrupción y llevarlo ante la Justicia. Reforzaremos la responsabilidad patrimonial personal de los cargos públicos condenados por delitos de corrupción, garantizando que respondan con todos sus bienes presentes y futuros por la totalidad del perjuicio económico causado a las arcas públicas, hasta su completa recuperación de los fondos públicos desviados.",
+          "explicacion_medida": "Establece auditorías integrales de las Administraciones contra la corrupción y endurece la responsabilidad patrimonial personal de cargos condenados para que respondan íntegramente con todo su patrimonio presente y futuro.",
+          "datos_a_favor": "Asegurar la recuperación íntegra de activos defraudados con responsabilidad patrimonial personal directa incrementa el efecto disuasorio sobre gestores públicos.",
+          "datos_en_contra": "La responsabilidad civil derivada de delito ya existe en el Código Penal y la Ley de Contratos; su eficacia real tropieza a menudo con ocultaciones societarias en el extranjero más que con ausencia normativa.",
+          "id_bloque_comun": "bloque_15",
+          "titulo_bloque_comun": "Regeneración Democrática, Independencia Institucional y Lucha contra la Corrupción"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_16",
+      "numero_bloque": 16,
+      "titulo_bloque": "Cohesión Territorial, Financiación Autonómica, Presencia del Estado y Ceuta y Melilla",
+      "alcance_medidas": "Medidas 1 a 25 (4 medidas)",
+      "total_medidas_bloque": 4,
+      "medidas_incluidas": [
+        1,
+        4,
+        24,
+        25
+      ],
+      "medidas": [
+        {
+          "numero_medida": 1,
+          "id_medida": "VOX-1",
+          "seccion_original": "CEUTA Y MELILLA",
+          "titulo_medida": "Recuperar Ceuta para los ceutíes",
+          "texto_oficial": "Recuperar Ceuta para los ceutíes\n- Expulsión de todos los invasores con carácter inmediato. Defender la españolidad de Ceuta y Melilla, y a los trabajadores, familias y empresas de estas dos ciudades españolas.\n- Militarización de la frontera para repeler cualquier intento futuro de invasión o ataque híbrido. Refuerzo de la protección de las fronteras terrestres de Ceuta y Melilla, sus aguas bajo soberanía española y su espacio aéreo.\n- Realizar un plan de inversiones que garantice el futuro y la prosperidad de ambas ciudades y su protección. Garantizar la libertad y seguridad de las familias españolas residentes en territorio nacional atacado y establecer medidas para evitar futuras invasiones así como reparar las consecuencias sociales, económicas y psicológicas de la producida en Ceuta.\n- Promover ante la Justicia el procesamiento a Pedro Sánchez y su gobierno por traición y delitos contra la seguridad del Estado por su actuación durante la invasión sufrida en Ceuta.\n- Impulsar sanciones, suspender acuerdos internacionales y revisar las relaciones diplomáticas hasta que Marruecos respete las fronteras y la soberanía de España.",
+          "explicacion_medida": "Propone reforzar la protección territorial y fronteriza de Ceuta y Melilla mediante el despliegue militar en las lindes terrestres, marítimas y aéreas, la expulsión inmediata de entradas irregulares, un plan estatal de inversiones para ambas ciudades autónomas, acciones judiciales contra responsables políticos y la revisión de acuerdos con Marruecos hasta garantizar el respeto fronterizo.",
+          "datos_a_favor": "La presión migratoria intermitente sobre los perímetros de Ceuta y Melilla y la dependencia comercial tras el cierre unilateral de aduanas generan inseguridad jurídica para residentes y pymes locales. Reforzar inversiones estatales en conectividad, puerto y empleo busca compensar la ultraperifericidad y reducir el desempleo estructural de ambas ciudades autónomas.",
+          "datos_en_contra": "La militarización permanente de fronteras y la devolución sumaria sin procedimiento individualizado chocan con la Directiva europea de Retorno, el principio de no devolución (CEDH) y los acuerdos bilaterales España-Marruecos. Además, la suspensión unilateral de convenios y sanciones diplomáticas podría desencadenar represalias comerciales o reducir la cooperación antiterrorista y de control de flujos.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Cohesión Territorial, Financiación Autonómica, Presencia del Estado y Ceuta y Melilla"
+        },
+        {
+          "numero_medida": 4,
+          "id_medida": "VOX-4",
+          "seccion_original": "ECONOMÍA, INDUSTRIA Y ENERGÍA",
+          "titulo_medida": "Alivio del esfuerzo fiscal extra soportado en las Islas Baleares y las Islas Canarias.",
+          "texto_oficial": "Alivio del esfuerzo fiscal extra soportado en las Islas Baleares y las Islas Canarias. Actualizar el complemento de insularidad para el personal en activo del sector público estatal en los territorios insulares con el fin de adaptarlo al coste de vida real. Rebaja general del Impuesto General Indirecto Canario y supresión del Arbitrio sobre Importaciones y Entregas de Mercancías en las Islas Canarias. Mejora de las ayudas al transporte a la Península.",
+          "explicacion_medida": "Plantea actualizar el complemento salarial por insularidad para el personal público estatal en Baleares y Canarias conforme al coste real de la vida, además de rebajar el IGIC canario y suprimir el Arbitrio sobre Importaciones y Entregas de Mercancías en las Islas Canarias (AIEM).",
+          "datos_a_favor": "Los territorios insulares soportan sobrecostes estructurales de transporte marítimo y aéreo, vivienda y cesta básica que erosionan el poder adquisitivo real de los empleados públicos destinados y encarecen los bienes importados; aliviar los tributos al consumo reduce el coste de vida insular.",
+          "datos_en_contra": "Suprimir el AIEM eliminaría un instrumento arancelario autorizado por la UE específicamente para proteger la producción agrícola e industrial local canaria frente a importaciones exteriores, y mermaría los recursos propios del Régimen Económico y Fiscal de Canarias sin detallar compensación financiera para los cabildos y el Gobierno autonómico.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Cohesión Territorial, Financiación Autonómica, Presencia del Estado y Ceuta y Melilla"
+        },
+        {
+          "numero_medida": 24,
+          "id_medida": "VOX-24",
+          "seccion_original": "PRIORIDAD NACIONAL",
+          "titulo_medida": "Garantizar la atención a los españoles más desfavorecidos.",
+          "texto_oficial": "Garantizar la atención a los españoles más desfavorecidos. Plan de inversiones para recuperar y revitalizar barrios, municipios y provincias abandonadas durante décadas por los poderes públicos.",
+          "explicacion_medida": "Establece un plan estatal extraordinario de inversiones públicas dirigido a barrios urbanos vulnerables, municipios pequeños y provincias con déficit histórico de infraestructuras y servicios.",
+          "datos_a_favor": "Concentrar inversión pública en territorios con menor renta per cápita y deterioro urbano corrige brechas de cohesión territorial, mejora los servicios cotidianos y reduce la desafección cívica en áreas olvidadas.",
+          "datos_en_contra": "La ejecución real depende de la capacidad de gestión técnica de los ayuntamientos beneficiarios y de las competencias autonómicas en urbanismo y cohesión, existiendo riesgo de solapamiento con fondos FEDER o retrasos crónicos de licitación.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Cohesión Territorial, Financiación Autonómica, Presencia del Estado y Ceuta y Melilla"
+        },
+        {
+          "numero_medida": 25,
+          "id_medida": "VOX-25",
+          "seccion_original": "PRIORIDAD NACIONAL",
+          "titulo_medida": "Poner en marcha todas las medidas necesarias para garantizar la calidad de los servicios públicos, la igualdad y los derechos de todos los españoles con independencia del lugar de España en el que residan, especialmente en los ámbitos de Educación, Sanidad, Seguridad y Justicia.",
+          "texto_oficial": "Poner en marcha todas las medidas necesarias para garantizar la calidad de los servicios públicos, la igualdad y los derechos de todos los españoles con independencia del lugar de España en el que residan, especialmente en los ámbitos de Educación, Sanidad, Seguridad y Justicia.",
+          "explicacion_medida": "Plantea garantizar la igualdad de acceso y calidad en Educación, Sanidad, Seguridad y Justicia para todos los ciudadanos con independencia de la comunidad autónoma en que residan.",
+          "datos_a_favor": "Reforzar estándares mínimos homogéneos en servicios fundamentales reduce las asimetrías territoriales entre comunidades, garantiza la portabilidad de derechos al cambiar de provincia y consolida la cohesión del Estado.",
+          "datos_en_contra": "La homogeneización estatal en materias transferidas (sanidad y educación) exige complejas reformas del sistema de financiación autonómica (LOFCA) y suele generar conflictividad competencial ante el Tribunal Constitucional si invade facultades estatutarias.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Cohesión Territorial, Financiación Autonómica, Presencia del Estado y Ceuta y Melilla"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_17",
+      "numero_bloque": 17,
+      "titulo_bloque": "Cultura, Deporte, Historia Común y Víctimas del Terrorismo",
+      "alcance_medidas": "Medidas 46 a 110 (7 medidas)",
+      "total_medidas_bloque": 7,
+      "medidas_incluidas": [
+        46,
+        76,
+        77,
+        78,
+        104,
+        109,
+        110
+      ],
+      "medidas": [
+        {
+          "numero_medida": 46,
+          "id_medida": "VOX-46",
+          "seccion_original": "DESREGULACIÓN",
+          "titulo_medida": "Superación de las divisivas leyes ideológicas que enfrentan a los españoles, tales como la de Memoria Democrática, que dañan la convivencia y dividen y enfrentan a los españoles tratando de imponer una verdad oficial.",
+          "texto_oficial": "Superación de las divisivas leyes ideológicas que enfrentan a los españoles, tales como la de Memoria Democrática, que dañan la convivencia y dividen y enfrentan a los españoles tratando de imponer una verdad oficial.",
+          "explicacion_medida": "Plantea derogar las leyes de Memoria Democrática al considerarlas normas ideológicas que dividen a los ciudadanos y tratan de fijar una interpretación oficial de la historia.",
+          "datos_a_favor": "Los defensores de su derogación argumentan que la historia debe quedar en manos de historiadores académicos evitando intervenciones legislativas que reabran debates superados por la Ley de Amnistía de 1977 y el espíritu de la Transición.",
+          "datos_en_contra": "La ONU (Relatoría de Verdad, Justicia y Reparación) y asociaciones de familiares sostienen que mantener políticas públicas de búsqueda e identificación en fosas comunes cumple obligaciones humanitarias internacionales pendientes más allá de disputas partidistas.",
+          "id_bloque_comun": "bloque_17",
+          "titulo_bloque_comun": "Cultura, Deporte, Historia Común y Víctimas del Terrorismo"
+        },
+        {
+          "numero_medida": 76,
+          "id_medida": "VOX-76",
+          "seccion_original": "EDUCACIÓN, CULTURA Y DEPORTE",
+          "titulo_medida": "Promoción de la cultura nacional.",
+          "texto_oficial": "Promoción de la cultura nacional. Afirmación y difusión de la historia común española. Conservación y rehabilitación del patrimonio nacional, con especial atención al\nmedio rural, sus iglesias y monumentos. Protección de nuestro patrimonio histórico frente al vandalismo. Reducción de impuestos para el arte y los espectáculos en vivo. Nueva Ley de Mecenazgo para elevar las deducciones del IRPF.",
+          "explicacion_medida": "Promueve la cultura nacional y la conservación del patrimonio histórico y rural (monumentos e iglesias) con rebajas fiscales para el arte y los espectáculos en vivo y protección frente al vandalismo.",
+          "datos_a_favor": "Reducir el IVA o incentivar mecenazgo para artes escénicas en vivo y patrimonio rural ayuda a mantener vivos municipios pequeños y atrae turismo cultural sostenible.",
+          "datos_en_contra": "Priorizar un enfoque exclusivamente nacional-tradicional de las ayudas culturales puede marginar expresiones culturales contemporáneas diversas y competir con competencias culturales autonómicas y locales.",
+          "id_bloque_comun": "bloque_17",
+          "titulo_bloque_comun": "Cultura, Deporte, Historia Común y Víctimas del Terrorismo"
+        },
+        {
+          "numero_medida": 77,
+          "id_medida": "VOX-77",
+          "seccion_original": "EDUCACIÓN, CULTURA Y DEPORTE",
+          "titulo_medida": "Defensa de la Tauromaquia y promoción de la difusión del arte taurino y potenciación del conjunto de actividades alrededor de esta tradición.",
+          "texto_oficial": "Defensa de la Tauromaquia y promoción de la difusión del arte taurino y potenciación del conjunto de actividades alrededor de esta tradición.",
+          "explicacion_medida": "Respalda activamente la Tauromaquia como patrimonio cultural, promoviendo su difusión y el impulso económico de toda la actividad ganadera y festiva vinculada.",
+          "datos_a_favor": "La ganadería de lidia mantiene dehesas de alto valor ecológico y genera actividad económica estacional en ferias locales de varias regiones españolas.",
+          "datos_en_contra": "La asistencia y valoración social de los festejos taurinos muestra una tendencia descendente sostenida y genera un intenso debate ético sobre financiación pública y bienestar animal.",
+          "id_bloque_comun": "bloque_17",
+          "titulo_bloque_comun": "Cultura, Deporte, Historia Común y Víctimas del Terrorismo"
+        },
+        {
+          "numero_medida": 78,
+          "id_medida": "VOX-78",
+          "seccion_original": "EDUCACIÓN, CULTURA Y DEPORTE",
+          "titulo_medida": "Fomento del deporte como motor de desarrollo y cohesión nacional.",
+          "texto_oficial": "Fomento del deporte como motor de desarrollo y cohesión nacional. Despolitizar el deporte y garantizar que las selecciones nacionales representen a España en las competiciones internacionales, reforzando la Unidad Nacional frente a las cesiones al separatismo. Compromiso con la defensa del deporte femenino, que debe regirse por criterios biológicos y deportivos objetivos para garantizar la igualdad real en la competición. Impulso de becas a deportistas, rebajas fiscales y apoyo a clubes y federaciones deportivas.",
+          "explicacion_medida": "Promueve el deporte base y de élite como cohesión nacional, rechazando selecciones autonómicas internacionales y reservando las categorías deportivas femeninas estrictamente según sexo biológico.",
+          "datos_a_favor": "Garantizar la equidad fisiológica en categorías femeninas responde a criterios adoptados ya por federaciones internacionales (atletismo, natación) y reforzar el deporte base mejora la salud pública.",
+          "datos_en_contra": "Impedir selecciones autonómicas incluso en modalidades no olímpicas reconocidas estatutariamente reabre conflictos federativos, mientras las regulaciones sobre participación trans siguen en discusión jurídica y ética internacional.",
+          "id_bloque_comun": "bloque_17",
+          "titulo_bloque_comun": "Cultura, Deporte, Historia Común y Víctimas del Terrorismo"
+        },
+        {
+          "numero_medida": 104,
+          "id_medida": "VOX-104",
+          "seccion_original": "INDEPENDENCIA DE LA JUSTICIA Y LUCHA CONTRA LA CORRUPCIÓN",
+          "titulo_medida": "Defensa y protección de nuestra identidad, tradiciones, usos y costumbres.",
+          "texto_oficial": "Defensa y protección de nuestra identidad, tradiciones, usos y costumbres. España es el quehacer común de los españoles de ayer, hoy y mañana y nuestra Nación merece que se garantice la promoción, conservación y transmisión de nuestro rico patrimonio material y espiritual. Protección de nuestros usos y costumbres y de las tradiciones religiosas y populares de España, frente a cualquier intento de imposición ideológica o de oposición extranjera.",
+          "explicacion_medida": "Garantiza la protección jurídica e institucional de usos, costumbres, tradiciones religiosas y patrimonio material y espiritual español.",
+          "datos_a_favor": "Preservar festividades, ritos locales y arquitectura histórica refuerza el arraigo comunitario en municipios rurales y atrae turismo patrimonial.",
+          "datos_en_contra": "Definir qué tradiciones gozan de protección pública preferente en un Estado aconfesional (art. 16.3 CE) puede generar fricciones respecto a la neutralidad religiosa de las administraciones.",
+          "id_bloque_comun": "bloque_17",
+          "titulo_bloque_comun": "Cultura, Deporte, Historia Común y Víctimas del Terrorismo"
+        },
+        {
+          "numero_medida": 109,
+          "id_medida": "VOX-109",
+          "seccion_original": "INDEPENDENCIA DE LA JUSTICIA Y LUCHA CONTRA LA CORRUPCIÓN",
+          "titulo_medida": "Memoria, dignidad y justicia para las víctimas del terrorismo.",
+          "texto_oficial": "Memoria, dignidad y justicia para las víctimas del terrorismo. Aprobación de una ley que impida de forma efectiva el enaltecimiento del terrorismo, homenajes a terroristas, actos de humillación de las víctimas o ataques a instituciones y símbolos de España. Promover la investigación de todos los crímenes de ETA aún no resueltos e impulsar la consideración de todos y cada uno de los delitos cometidos por la organización terrorista ETA como crímenes de lesa humanidad, para que no prescriban nunca. Garantizar la efectiva imprescriptibilidad de todos los delitos de terrorismo. Fin de los privilegios penitenciarios de los condenados por terrorismo.",
+          "explicacion_medida": "Aprueba una ley de protección a las víctimas del terrorismo que impida efectivamente homenajes a terroristas, fomente la investigación de los crímenes de ETA aún no resueltos y prohíba pactos o beneficios penitenciarios sin colaboración.",
+          "datos_a_favor": "Impulsar judicialmente las causas históricas pendientes de resolver satisface el derecho a la verdad y la justicia de las víctimas y mantiene viva la memoria democrática frente al terrorismo.",
+          "datos_en_contra": "Endurecer tipos penales de enaltecimiento debe redactarse con precisión milimétrica para respetar la jurisprudencia constitucional y europea sobre intención incitadora y libertad de expresión, mientras la prescripción penal limita causas muy antiguas.",
+          "id_bloque_comun": "bloque_17",
+          "titulo_bloque_comun": "Cultura, Deporte, Historia Común y Víctimas del Terrorismo"
+        },
+        {
+          "numero_medida": 110,
+          "id_medida": "VOX-110",
+          "seccion_original": "INDEPENDENCIA DE LA JUSTICIA Y LUCHA CONTRA LA CORRUPCIÓN",
+          "titulo_medida": "Limpiar RTVE de comisarios políticos, acabar con el despilfarro y ponerla al servicio de los españoles.",
+          "texto_oficial": "Limpiar RTVE de comisarios políticos, acabar con el despilfarro y ponerla al servicio de los españoles. Reforma integral de la Radio y la Televisión pública para que preste un verdadero servicio público informando con objetividad y pluralidad. Garantizar el derecho a comunicar o recibir libremente información veraz.",
+          "explicacion_medida": "Reforma íntegramente RTVE para recortar gasto estructural, eliminar nombramientos partidistas y garantizar objetividad informativa y pluralidad en la radiotelevisión pública.",
+          "datos_a_favor": "Desvincular los consejos de administración de mayorías partidistas coyunturales mediante concursos independientes acreditados mejora la credibilidad periodística y optimiza el coste anual por contribuyente.",
+          "datos_en_contra": "Reformas sucesivas de RTVE han demostrado dificultad práctica para lograr consensos parlamentarios duraderos, y un recorte drástico puede mermar la capacidad de producción propia y la cobertura territorial.",
+          "id_bloque_comun": "bloque_17",
+          "titulo_bloque_comun": "Cultura, Deporte, Historia Común y Víctimas del Terrorismo"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_18",
+      "numero_bloque": 18,
+      "titulo_bloque": "Gestión de Emergencias y Protección Civil",
+      "alcance_medidas": "Medidas 55 a 114 (3 medidas)",
+      "total_medidas_bloque": 3,
+      "medidas_incluidas": [
+        55,
+        90,
+        114
+      ],
+      "medidas": [
+        {
+          "numero_medida": 55,
+          "id_medida": "VOX-55",
+          "seccion_original": "SECTOR PRIMARIO Y MUNDO RURAL",
+          "titulo_medida": "Lucha contra los incendios.",
+          "texto_oficial": "Lucha contra los incendios. Limpieza y aprovechamiento de los montes. Revisión de las restricciones ambientales que obstaculizan las labores de prevención y aprovechamiento forestal. Prevención y lucha contra los incendios: protocolos comunes, coordinación de bomberos y protección civil de distintas administraciones y aumento de los medios humanos, materiales y tecnológicos. Endurecimiento de las penas a los incendiarios.",
+          "explicacion_medida": "Plantea combatir los incendios forestales revisando prohibiciones ambientales que impiden limpiar montes y aprovechar biomasa, junto con protocolos unificados y más medios coordinados de bomberos y protección civil.",
+          "datos_a_favor": "Permitir aprovechamientos forestales, pastoreo extensivo y desbroces preventivos reduce la carga de combustible vegetal acumulado por el abandono rural y mejora la operatividad conjunta entre administraciones en grandes incendios.",
+          "datos_en_contra": "El aprovechamiento extractivo intensivo sin criterios ecológicos puede dañar suelos forestales frágiles y hábitats protegidos, mientras que la gestión forestal ordinaria corresponde constitucionalmente a las comunidades autónomas.",
+          "id_bloque_comun": "bloque_18",
+          "titulo_bloque_comun": "Gestión de Emergencias y Protección Civil"
+        },
+        {
+          "numero_medida": 90,
+          "id_medida": "VOX-90",
+          "seccion_original": "SEGURIDAD Y DEFENSA",
+          "titulo_medida": "Refuerzo del Sistema Nacional de Protección Civil.",
+          "texto_oficial": "Refuerzo del Sistema Nacional de Protección Civil. Mejorar la prevención, preparación, coordinación y respuesta ante incendios, inundaciones, catástrofes naturales y emergencias de especial gravedad, garantizando la protección de la población y la recuperación de las zonas afectadas.",
+          "explicacion_medida": "Fortalece el Sistema Nacional de Protección Civil mejorando protocolos preventivos, coordinación multiterritorial y rapidez de recuperación tras incendios, riadas y catástrofes.",
+          "datos_a_favor": "La gestión coordinada en catástrofes suprarregionales (como la DANA de 2024 o grandes incendios) evidenció cuellos de botella en cadenas de mando, alertas tempranas y movilización de recursos estatales.",
+          "datos_en_contra": "Centralizar decisiones de emergencia puede entrar en fricción con los estatutos de autonomía y planes territoriales autonómicos que otorgan el mando ordinario de emergencias nivel 1 y 2 a las comunidades autónomas.",
+          "id_bloque_comun": "bloque_18",
+          "titulo_bloque_comun": "Gestión de Emergencias y Protección Civil"
+        },
+        {
+          "numero_medida": 114,
+          "id_medida": "VOX-114",
+          "seccion_original": "INFRAESTRUCTURAS Y TRANSPORTES",
+          "titulo_medida": "Obras contra las inundaciones para proteger vidas y hogares.",
+          "texto_oficial": "Obras contra las inundaciones para proteger vidas y hogares. Poner fin al planeamiento y abandono ideológico de las infraestructuras esenciales contra las inundaciones. Conclusión de las obras pendientes, conservación de cauces, adecuación de barrancos y desarrollo de las infraestructuras hidráulicas necesarias para garantizar la seguridad y el bienestar de los españoles.",
+          "explicacion_medida": "Reactiva un plan urgente de obras hidráulicas contra inundaciones: limpieza y conservación de cauces, adecuación de barrancos y ejecución de infraestructuras de defensa frente a riadas y DANAs.",
+          "datos_a_favor": "Completar encauzamientos pendientes y mantener limpios cauces y ramblas reduce drásticamente el riesgo de desbordamientos mortales en cuencas mediterráneas altamente expuestas a lluvias torrenciales.",
+          "datos_en_contra": "La hidrología moderna advierte que las obras grises de canalización y dragado deben combinarse con infraestructuras verdes de laminación y renaturalización urbana para no trasladar simplemente el pico de crecida aguas abajo.",
+          "id_bloque_comun": "bloque_18",
+          "titulo_bloque_comun": "Gestión de Emergencias y Protección Civil"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_19",
+      "numero_bloque": 19,
+      "titulo_bloque": "Defensa Nacional, Fuerzas Armadas y Política Exterior",
+      "alcance_medidas": "Medidas 83 a 93 (4 medidas)",
+      "total_medidas_bloque": 4,
+      "medidas_incluidas": [
+        83,
+        89,
+        92,
+        93
+      ],
+      "medidas": [
+        {
+          "numero_medida": 83,
+          "id_medida": "VOX-83",
+          "seccion_original": "SEGURIDAD Y DEFENSA",
+          "titulo_medida": "Dotar de suficientes medios humanos y recursos materiales, técnicos, tecnológicos, jurídicos, organizativos y presupuestarios, así como de las infraestructuras, instalaciones y demás capacidades a las Fuerzas Armadas, Ejército de Tierra, la Armada y el Ejército del Aire; al Centro Nacional de Inteligencia (CNI); a las Fuerzas y Cuerpos de Seguridad del Estado, Guardia Civil (GC) y Cuerpo Nacional de Policía (CNP); así como al Servicio de Vigilancia Aduanera (SVA) e Instituciones Penitenciarias (IIPP).",
+          "texto_oficial": "Dotar de suficientes medios humanos y recursos materiales, técnicos, tecnológicos, jurídicos, organizativos y presupuestarios, así como de las infraestructuras, instalaciones y demás capacidades a las Fuerzas Armadas, Ejército de Tierra, la Armada y el Ejército del Aire; al Centro Nacional de Inteligencia (CNI); a las Fuerzas y Cuerpos de Seguridad del Estado, Guardia Civil (GC) y Cuerpo Nacional de Policía (CNP); así como al Servicio de Vigilancia Aduanera (SVA) e Instituciones Penitenciarias (IIPP).",
+          "explicacion_medida": "Incrementa de forma sustancial los recursos humanos, técnicos, jurídicos y presupuestarios de los tres ejércitos y del Centro Nacional de Inteligencia (CNI) para adecuar sus capacidades estratégicas.",
+          "datos_a_favor": "España arrastra años de infrafinanciación operativa en determinados sistemas de armas y ciberdefensa; reforzar capacidades tecnológicas propias impulsa también la industria nacional de defensa.",
+          "datos_en_contra": "Elevar sustancialmente los Programas Especiales de Armamento detrae recursos fiscales alternativos y requiere planificación industrial rigurosa para evitar sobrecostes y retrasos históricos.",
+          "id_bloque_comun": "bloque_19",
+          "titulo_bloque_comun": "Defensa Nacional, Fuerzas Armadas y Política Exterior"
+        },
+        {
+          "numero_medida": 89,
+          "id_medida": "VOX-89",
+          "seccion_original": "SEGURIDAD Y DEFENSA",
+          "titulo_medida": "Aumento de la inversión en Defensa, sueldos dignos y ayudas a la movilidad geográfica y a la vivienda y alojamiento.",
+          "texto_oficial": "Aumento de la inversión en Defensa, sueldos dignos y ayudas a la movilidad geográfica y a la vivienda y alojamiento. Dignificación de la vocación profesional militar. Reconocimiento de la profesión y servicio en las Fuerzas Armadas como profesión de riesgo. Difusión de la Cultura de Seguridad y Defensa.",
+          "explicacion_medida": "Aumenta la inversión en Defensa, dignifica los salarios militares, amplía ayudas a movilidad geográfica y alojamiento y reconoce a las Fuerzas Armadas como profesión de riesgo.",
+          "datos_a_favor": "Las retribuciones iniciales de tropa y marinería se sitúan entre las más bajas de la función pública; mejorar su sueldo y facilitar vivienda ante traslados obligatorios es clave para retener profesionales cualificados.",
+          "datos_en_contra": "Los compromisos internacionales con la OTAN obligan además a priorizar el gasto de modernización material (equipos), por lo que elevar simultáneamente gasto de personal y adquisiciones exige reordenar prioridades presupuestarias.",
+          "id_bloque_comun": "bloque_19",
+          "titulo_bloque_comun": "Defensa Nacional, Fuerzas Armadas y Política Exterior"
+        },
+        {
+          "numero_medida": 92,
+          "id_medida": "VOX-92",
+          "seccion_original": "SEGURIDAD Y DEFENSA",
+          "titulo_medida": "Defender nuestra soberanía ante injerencias extranjeras y recuperar una posición internacional que priorice la defensa de los intereses reales de los españoles y de la Unidad Nacional. Uno de los legados más siniestros de Pedro Sánchez es la sumisión constante del interés nacional a los planes de organizaciones y potencias extranjeras, ajenas a la realidad y necesidades de nuestros compatriotas.",
+          "texto_oficial": "Defender nuestra soberanía ante injerencias extranjeras y recuperar una posición internacional que priorice la defensa de los intereses reales de los españoles y de la Unidad Nacional. Uno de los legados más siniestros de Pedro Sánchez es la sumisión constante del interés nacional a los planes de organizaciones y potencias extranjeras, ajenas a la realidad y necesidades de nuestros compatriotas.",
+          "explicacion_medida": "Promueve una política exterior basada exclusivamente en la prioridad nacional y la soberanía española, rechazando injerencias de potencias u organismos internacionales percibidas como contrarias al interés nacional.",
+          "datos_a_favor": "Alinear la acción exterior con prioridades comerciales, energéticas y migratorias nacionales protege sectores sensibles frente a decisiones multilaterales desfavorables.",
+          "datos_en_contra": "Como economía abierta integrada en la UE, la eurozona y la OTAN, las posiciones unilaterales alejadas del consenso europeo reducen la capacidad de España para influir en reglamentos, fondos y tratados estratégicos.",
+          "id_bloque_comun": "bloque_19",
+          "titulo_bloque_comun": "Defensa Nacional, Fuerzas Armadas y Política Exterior"
+        },
+        {
+          "numero_medida": 93,
+          "id_medida": "VOX-93",
+          "seccion_original": "SEGURIDAD Y DEFENSA",
+          "titulo_medida": "Aplicación de toda la presión internacional necesaria para la recuperación de la soberanía española sobre el Peñón de Gibraltar. Desmantelamiento de las redes de piratería, narcotráfico, contrabando y blanqueo de capitales que se originan en la colonia y afectan a España. Recuperación del control de las aguas españolas. Plan de inversiones para recuperar la prosperidad del Campo de Gibraltar.",
+          "texto_oficial": "Aplicación de toda la presión internacional necesaria para la recuperación de la soberanía española sobre el Peñón de Gibraltar. Desmantelamiento de las redes de piratería, narcotráfico, contrabando y blanqueo de capitales que se originan en la colonia y afectan a España. Recuperación del control de las aguas españolas. Plan de inversiones para recuperar la prosperidad del Campo de Gibraltar.",
+          "explicacion_medida": "Plantea ejercer máxima presión internacional para recuperar la soberanía sobre Gibraltar, combatir contrabando y blanqueo en la zona y ejecutar un plan estatal de inversiones para el Campo de Gibraltar.",
+          "datos_a_favor": "Invertir en infraestructuras ferroviarias, empleo industrial y lucha contra el contrabando en el Campo de Gibraltar responde a una demanda histórica de la comarca ante los desequilibrios económicos transfronterizos.",
+          "datos_en_contra": "Bloquear los acuerdos prácticos pos-Brexit sobre fluidez de la Verja perjudicaría a miles de trabajadores transfronterizos españoles que cruzan diariamente a trabajar al Peñón si no existe una alternativa inmediata de empleo local.",
+          "id_bloque_comun": "bloque_19",
+          "titulo_bloque_comun": "Defensa Nacional, Fuerzas Armadas y Política Exterior"
+        }
+      ]
+    }
+  ]
+}

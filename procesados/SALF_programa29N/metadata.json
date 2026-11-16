@@ -1,0 +1,14 @@
+{
+  "archivo_original": "SALF_Contrato_Electoral_29N.pdf",
+  "nombre": "SALF_programa29N",
+  "sha256": "073425B9522DA77608A0399923C2E0D3B9153776E8A0436AC8F0AEA794B7893B",
+  "fecha_procesamiento": "2026-11-11T14:52:46.3010371+01:00",
+  "herramienta": "Docling",
+  "formatos": [
+    "md",
+    "json",
+    "txt"
+  ],
+  "codigo_salida": 0,
+  "archivo_estandar": "SALF_programa29N.pdf"
+}

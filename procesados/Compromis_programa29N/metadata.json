@@ -1,0 +1,20 @@
+{
+  "archivo_original": "Compromis_programa29N.pdf",
+  "nombre": "Compromis_programa29N",
+  "sha256": "37b569d6ac31a21a8f972dcfd5be3740c32f50fe1c6f3e87c9a1f68027ee6b55",
+  "fecha_procesamiento": "2026-11-15T22:31:44+0100",
+  "herramienta": "Docling (PyPdfiumBackend)",
+  "formatos": [
+    "md",
+    "json",
+    "txt"
+  ],
+  "paginas": 64,
+  "duracion_segundos": 146.27,
+  "tamano_bytes": {
+    "pdf": 325329,
+    "md": 131833,
+    "json": 890906,
+    "txt": 131653
+  }
+}

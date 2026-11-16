@@ -1,0 +1,401 @@
+{
+  "nombre_partido": "Soria ¡YA!",
+  "siglas": "Soria ¡YA!",
+  "titulo_programa": "Del Olvido al Futuro · Programa Electoral 29N",
+  "fecha_publicacion": "2026-11-15",
+  "elecciones": "Elecciones Generales 29 de noviembre de 2026 (29N)",
+  "url_programa_oficial": "https://soriaya.org",
+  "web_oficial": "https://soriaya.org",
+  "total_medidas": 22,
+  "total_bloques_comunes_con_medidas": 9,
+  "total_otros_bloques": 0,
+  "nota_metodologica": "Documento y JSON estructurado que recogen literalmente las 22 medidas extraídas del programa oficial de Soria ¡YA! para las Elecciones Generales del 29N, conservando su texto original junto a su encuadre en los bloques temáticos comunes del proyecto 29N, explicación analítica y argumentos a favor y en contra.",
+  "bloques": [
+    {
+      "id_bloque": "bloque_01",
+      "numero_bloque": 1,
+      "titulo_bloque": "Vivienda, Urbanismo, Alquiler y Lucha contra la Okupación",
+      "alcance_medidas": "Medida 5 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        5
+      ],
+      "medidas": [
+        {
+          "numero_medida": 5,
+          "id_medida": "SY-5",
+          "seccion_original": "PLAN DE VIVIENDA PARA ZONAS DESPOBLADAS",
+          "titulo_medida": "Programa rural de construcción, rehabilitación y garantías de alquiler de vivienda",
+          "texto_oficial": "Impulsar un programa nacional de construcción de viviendas, especialmente en el medio rural; ayudas a la rehabilitación vinculadas al alquiler asequible, garantías para propietarios que incorporen sus viviendas al mercado; incentivos para adquisición de primera vivienda y fórmulas de alquiler con opción a compra.",
+          "explicacion_medida": "Combina promoción estatal de vivienda nueva, ayudas a rehabilitación condicionadas a alquiler asequible, avales frente a impagos para propietarios e incentivos a la compra o alquiler con opción.",
+          "datos_a_favor": "Ataca simultáneamente el déficit de vivienda habitable en pueblos con casas vacías pero deterioradas y ofrece seguridad jurídica a dueños reticentes a sacar inmuebles al mercado del alquiler.",
+          "datos_en_contra": "La intervención pública en rehabilitación y avales exige alta gestión municipal en ayuntamientos pequeños y puede resultar ineficiente si la demanda residencial sigue condicionada por falta de empleo.",
+          "id_bloque_comun": "bloque_01",
+          "titulo_bloque_comun": "Vivienda, Urbanismo, Alquiler y Lucha contra la Okupación"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_02",
+      "numero_bloque": 2,
+      "titulo_bloque": "Economía, Productividad, Industria, Innovación y Turismo",
+      "alcance_medidas": "Medida 20 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        20
+      ],
+      "medidas": [
+        {
+          "numero_medida": 20,
+          "id_medida": "SY-20",
+          "seccion_original": "IMPULSO LOGÍSTICO, INVERSIÓN, EMPRENDIMIENTO Y NÓMADAS DIGITALES",
+          "titulo_medida": "Incentivos empresariales y reforma de residencia para atraer nómadas digitales",
+          "texto_oficial": "Establecer incentivos específicos a la inversión empresarial y a la creación de empleo en territorios escasamente poblados. Favorecer la atracción de profesionales y nómadas digitales mediante una reforma normativa que permita ampliar los plazos de autorización de residencia y teletrabajo para quienes se establezcan en estas provincias.",
+          "explicacion_medida": "Propone aprobar incentivos específicos a la inversión y al empleo en provincias despobladas, junto con una reforma legal para ampliar los plazos de residencia y teletrabajo de profesionales remotos.",
+          "datos_a_favor": "Atrae gasto directo, renta cualificada y consumo local sin requerir grandes infraestructuras industriales, integrando talento internacional en municipios con buena conectividad.",
+          "datos_en_contra": "La llegada de teletrabajadores con rentas externas elevadas puede presionar al alza los alquileres locales, mientras las ventajas migratorias exigen reforma de la legislación estatal de extranjería.",
+          "id_bloque_comun": "bloque_02",
+          "titulo_bloque_comun": "Economía, Productividad, Industria, Innovación y Turismo"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_04",
+      "numero_bloque": 4,
+      "titulo_bloque": "Empleo, Autónomos, Emprendimiento y Mercado Laboral",
+      "alcance_medidas": "Medidas 4 a 21 (2 medidas)",
+      "total_medidas_bloque": 2,
+      "medidas_incluidas": [
+        4,
+        21
+      ],
+      "medidas": [
+        {
+          "numero_medida": 4,
+          "id_medida": "SY-4",
+          "seccion_original": "PLAN DE RELEVO GENERACIONAL",
+          "titulo_medida": "Ayudas directas y financiación para el relevo generacional de negocios",
+          "texto_oficial": "Establecer ayudas directas para facilitar que jóvenes asuman negocios, empresas y explotaciones agrarias cuyos titulares se jubilen, mediante mecanismos de financiación, asesoramiento y apoyo a la transmisión de la actividad para evitar el cierre de negocios viables, preservar el empleo y la actividad en nuestros pueblos.",
+          "explicacion_medida": "Establece subvenciones, líneas de financiación y asesoramiento técnico para que jóvenes adquieran empresas, comercios y explotaciones agrarias cuyos titulares alcanzan la jubilación.",
+          "datos_a_favor": "Preserva tejido productivo viable, clientela y licencias ya existentes en el medio rural, evitando la destrucción de empleo y de servicios de proximidad al cerrarse negocios rentables.",
+          "datos_en_contra": "Existe riesgo de financiar traspasos de explotaciones con baja viabilidad estructural si no se evalúa previamente el modelo de negocio, además de exigir tutela técnica administrativa.",
+          "id_bloque_comun": "bloque_04",
+          "titulo_bloque_comun": "Empleo, Autónomos, Emprendimiento y Mercado Laboral"
+        },
+        {
+          "numero_medida": 21,
+          "id_medida": "SY-21",
+          "seccion_original": "IMPULSO LOGÍSTICO, INVERSIÓN, EMPRENDIMIENTO Y NÓMADAS DIGITALES",
+          "titulo_medida": "Cuota reducida permanente de 80 euros para autónomos en zonas despobladas",
+          "texto_oficial": "Implantar una cuota reducida permanente de 80 euros mensuales para los trabajadores autónomos que desarrollen su actividad en zonas escasamente pobladas, con el objetivo de favorecer el emprendimiento, la continuidad de los negocios y la fijación de población.",
+          "explicacion_medida": "Plantea implantar una cotización fija mensual de 80 euros de carácter permanente en el RETA para trabajadores por cuenta propia que ejerzan su actividad en territorios escasamente poblados.",
+          "datos_a_favor": "Alivia los costes fijos de los pequeños negocios rurales de baja facturación, favoreciendo el autoempleo, el mantenimiento de oficios locales y la regularización de actividades.",
+          "datos_en_contra": "Reduce la recaudación de la Seguridad Social, disminuye la futura pensión contributiva del autónomo acogido y podría incentivar deslocalizaciones ficticias de domicilio fiscal.",
+          "id_bloque_comun": "bloque_04",
+          "titulo_bloque_comun": "Empleo, Autónomos, Emprendimiento y Mercado Laboral"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_05",
+      "numero_bloque": 5,
+      "titulo_bloque": "Pensiones, Mayores, Reto Demográfico, Discapacidad e Igualdad",
+      "alcance_medidas": "Medidas 1 a 2 (2 medidas)",
+      "total_medidas_bloque": 2,
+      "medidas_incluidas": [
+        1,
+        2
+      ],
+      "medidas": [
+        {
+          "numero_medida": 1,
+          "id_medida": "SY-1",
+          "seccion_original": "PLAN EXTRAORDINARIO DE 10 AÑOS CONTRA LA DESPOBLACIÓN",
+          "titulo_medida": "Plan decenal contra la despoblación con Fondo de Inversiones para Soria",
+          "texto_oficial": "Impulsar un programa específico para Soria, con financiación estable mediante un Fondo de Inversiones (similar al existente en Teruel) que permita aplicar medidas excepcionales de fiscalidad para residentes, empresas y autónomos, así como actuaciones especiales en vivienda, empleo, inversión y servicios públicos.",
+          "explicacion_medida": "Propone crear un programa a diez años dotado con un fondo estable análogo al FITE, integrando ventajas fiscales para residentes, autónomos y empresas junto a gasto en vivienda, empleo y servicios.",
+          "datos_a_favor": "La planificación plurianual aporta previsibilidad a inversores y ayuntamientos rurales, permitiendo combinar incentivos fiscales y dotación de servicios para frenar la pérdida continuada de población.",
+          "datos_en_contra": "Implica comprometer partidas presupuestarias plurianuales exclusivas para una provincia, lo que puede generar agravios comparativos territoriales y tensionar reglas europeas sobre ayudas de Estado.",
+          "id_bloque_comun": "bloque_05",
+          "titulo_bloque_comun": "Pensiones, Mayores, Reto Demográfico, Discapacidad e Igualdad"
+        },
+        {
+          "numero_medida": 2,
+          "id_medida": "SY-2",
+          "seccion_original": "PLAN EXTRAORDINARIO DE 10 AÑOS CONTRA LA DESPOBLACIÓN",
+          "titulo_medida": "Aplicación íntegra de las ayudas europeas al funcionamiento en Soria",
+          "texto_oficial": "Ayudas al funcionamiento al máximo legal permitido por la Unión Europea.",
+          "explicacion_medida": "Reclama elevar hasta el tope jurídico autorizado por la Unión Europea las ayudas al funcionamiento destinadas a compensar sobrecostes estructurales de actividad económica en zonas muy despobladas.",
+          "datos_a_favor": "Reduce de forma directa los costes operativos de las empresas ya instaladas en territorios con baja densidad, mejorando su competitividad frente a polos urbanos sin distorsionar el mercado laboral.",
+          "datos_en_contra": "Supone una merma recurrente de ingresos públicos o mayor gasto estatal sin garantía automática de que las bonificaciones se traduzcan en nuevos empleos netos ni en fijación residencial.",
+          "id_bloque_comun": "bloque_05",
+          "titulo_bloque_comun": "Pensiones, Mayores, Reto Demográfico, Discapacidad e Igualdad"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_08",
+      "numero_bloque": 8,
+      "titulo_bloque": "Educación, Formación Profesional y Universidad",
+      "alcance_medidas": "Medida 17 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        17
+      ],
+      "medidas": [
+        {
+          "numero_medida": 17,
+          "id_medida": "SY-17",
+          "seccion_original": "EDUCACIÓN Y TALENTO: ESTUDIAR FUERA, VOLVER A SORIA",
+          "titulo_medida": "Becas de movilidad y ayudas al retorno laboral de jóvenes titulados",
+          "texto_oficial": "Becas especiales de movilidad y residencia, prácticas remuneradas, incentivos al primer empleo y ayudas al retorno de jóvenes titulados a zonas escasamente pobladas.",
+          "explicacion_medida": "Combina becas específicas de desplazamiento y residencia para estudiantes con prácticas remuneradas, incentivos al primer contrato y subvenciones de retorno dirigidas a titulados en zonas despobladas.",
+          "datos_a_favor": "Reduce la penalización económica que sufren las familias rurales cuando sus hijos estudian fuera y facilita que el talento formado regrese al mercado laboral provincial al graduarse.",
+          "datos_en_contra": "Las ayudas al retorno pierden eficacia si la oferta local de empleo cualificado es escasa, generando riesgo de subsidiar brevemente estancias que concluyen en nueva emigración.",
+          "id_bloque_comun": "bloque_08",
+          "titulo_bloque_comun": "Educación, Formación Profesional y Universidad"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_09",
+      "numero_bloque": 9,
+      "titulo_bloque": "Energía, Transición Ecológica y Soberanía Energética",
+      "alcance_medidas": "Medida 15 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        15
+      ],
+      "medidas": [
+        {
+          "numero_medida": 15,
+          "id_medida": "SY-15",
+          "seccion_original": "ENERGÍA DE SORIA PARA EL DESARROLLO DE SORIA",
+          "titulo_medida": "Refuerzo de redes eléctricas industriales y compensación por generación en Soria",
+          "texto_oficial": "No podemos seguir generando energía que favorece el crecimiento de otras comunidades autónomas mientras Soria carece de capacidad eléctrica para atraer inversiones y crear empleo. Reclamamos inversiones urgentes en las redes de transporte y distribución que garanticen el suministro y la capacidad de acceso en nuestros polos industriales, así como compensaciones económicas por la energía generada.",
+          "explicacion_medida": "Exige invertir en redes de transporte y distribución eléctrica para garantizar potencia y acceso en los polígonos industriales sorianos, junto con compensaciones económicas por la energía exportada.",
+          "datos_a_favor": "Evita que la saturación de nudos eléctricos impida instalar nuevas fábricas en territorios que ya aportan generación renovable, ligando transición energética a desarrollo industrial local.",
+          "datos_en_contra": "Ampliar redes de distribución choca con los límites anuales de inversión regulada en la tarifa eléctrica, mientras las compensaciones territoriales pueden encarecer el coste del sistema eléctrico.",
+          "id_bloque_comun": "bloque_09",
+          "titulo_bloque_comun": "Energía, Transición Ecológica y Soberanía Energética"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_10",
+      "numero_bloque": 10,
+      "titulo_bloque": "Agricultura, Ganadería, Pesca, Agua y Mundo Rural",
+      "alcance_medidas": "Medidas 6 a 7 (2 medidas)",
+      "total_medidas_bloque": 2,
+      "medidas_incluidas": [
+        6,
+        7
+      ],
+      "medidas": [
+        {
+          "numero_medida": 6,
+          "id_medida": "SY-6",
+          "seccion_original": "IMPULSO A NUESTRO CAMPO, MONTES Y MEDIOAMBIENTE",
+          "titulo_medida": "Simplificación burocrática y ayudas específicas para agricultura y ganadería sorianas",
+          "texto_oficial": "Apoyo a agricultores y ganaderos, con menos burocracia, ayudas adaptadas a las dificultades del medio rural despoblado y medidas que garanticen la rentabilidad de las explotaciones, el relevo generacional y la transformación de nuestros productos en Soria.",
+          "explicacion_medida": "Propone reducir cargas administrativas al sector primario, adaptar las ayudas a la desventaja territorial e impulsar la rentabilidad, el relevo juvenil y la transformación agroalimentaria en origen.",
+          "datos_a_favor": "Fomentar la transformación local retiene mayor valor añadido en la provincia y alivia la carga administrativa de pequeñas explotaciones que carecen de estructura técnica para gestionar trámites.",
+          "datos_en_contra": "Muchas exigencias documentales derivan de reglamentos europeos de la PAC y controles sanitarios vinculantes, por lo que el margen estatal para suprimir trámites sin perder fondos es limitado.",
+          "id_bloque_comun": "bloque_10",
+          "titulo_bloque_comun": "Agricultura, Ganadería, Pesca, Agua y Mundo Rural"
+        },
+        {
+          "numero_medida": 7,
+          "id_medida": "SY-7",
+          "seccion_original": "IMPULSO A NUESTRO CAMPO, MONTES Y MEDIOAMBIENTE",
+          "titulo_medida": "Impulso a la industria forestal y compensación ambiental a municipios",
+          "texto_oficial": "Aprovechamiento de nuestros recursos forestales, favoreciendo la creación de industrias y empleo. Reconocimiento y compensación económica a nuestros municipios por los beneficios ambientales de sus montes.",
+          "explicacion_medida": "Promueve el aprovechamiento económico de los montes mediante industrias madereras locales y plantea retribuir económicamente a los ayuntamientos por los servicios ecosistémicos forestales.",
+          "datos_a_favor": "La gestión forestal activa genera empleo verde estable, limpia masas arbóreas reduciendo el riesgo de grandes incendios y aporta ingresos propios a entidades locales propietarias de montes.",
+          "datos_en_contra": "Cuantificar objetivamente los beneficios ambientales para repartir compensaciones entre municipios resulta complejo técnicamente y requiere financiación estable desde presupuestos autonómicos o estatales.",
+          "id_bloque_comun": "bloque_10",
+          "titulo_bloque_comun": "Agricultura, Ganadería, Pesca, Agua y Mundo Rural"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_11",
+      "numero_bloque": 11,
+      "titulo_bloque": "Infraestructuras, Transporte, Ferrocarril y Conectividad",
+      "alcance_medidas": "Medidas 3 a 19 (10 medidas)",
+      "total_medidas_bloque": 10,
+      "medidas_incluidas": [
+        3,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        18,
+        19
+      ],
+      "medidas": [
+        {
+          "numero_medida": 3,
+          "id_medida": "SY-3",
+          "seccion_original": "CONECTIVIDAD DIGITAL PARA TODOS",
+          "titulo_medida": "Cobertura universal de internet de alta velocidad y telefonía móvil",
+          "texto_oficial": "Acceso a internet de alta velocidad y cobertura de telefonía móvil de calidad en todos los municipios sorianos, sin excepción.",
+          "explicacion_medida": "Plantea extender el acceso a banda ancha de alta velocidad y señal móvil de calidad al cien por cien de los municipios de la provincia de Soria, eliminando zonas sin cobertura.",
+          "datos_a_favor": "La conectividad ubicua habilita el teletrabajo, la telemedicina, la gestión agrícola digital y la tramitación administrativa telemática en núcleos pequeños aislados geográficamente.",
+          "datos_en_contra": "Desplegar fibra y repetidores en localidades muy dispersas y con baja demanda tiene un elevado coste por habitante que requiere subvenciones públicas continuadas para su mantenimiento.",
+          "id_bloque_comun": "bloque_11",
+          "titulo_bloque_comun": "Infraestructuras, Transporte, Ferrocarril y Conectividad"
+        },
+        {
+          "numero_medida": 8,
+          "id_medida": "SY-8",
+          "seccion_original": "AUTOVÍAS Y FERROCARRIL: ACABAR CON EL AISLAMIENTO DE SORIA",
+          "titulo_medida": "Finalización de las autovías A-11 hasta Valladolid y A-15 hasta Navarra",
+          "texto_oficial": "Finalización de la A-11 hasta Valladolid y de la A-15 hasta Navarra.",
+          "explicacion_medida": "Exige concluir todos los tramos pendientes de ejecución de la Autovía del Duero (A-11) en dirección a Valladolid y completar la A-15 hacia la Comunidad Foral de Navarra.",
+          "datos_a_favor": "Articula la salida natural de mercancías y viajeros de Soria hacia los principales ejes del norte y centro peninsular, reduciendo tiempos de viaje y siniestralidad en carreteras convencionales.",
+          "datos_en_contra": "Implica un fuerte desembolso en obra civil sobre corredores de intensidad media diaria moderada, compitiendo por inversión frente al mantenimiento de la red viaria existente.",
+          "id_bloque_comun": "bloque_11",
+          "titulo_bloque_comun": "Infraestructuras, Transporte, Ferrocarril y Conectividad"
+        },
+        {
+          "numero_medida": 9,
+          "id_medida": "SY-9",
+          "seccion_original": "AUTOVÍAS Y FERROCARRIL: ACABAR CON EL AISLAMIENTO DE SORIA",
+          "titulo_medida": "Nuevas conexiones por autovía y variante viaria de San Esteban de Gormaz",
+          "texto_oficial": "Impulso de las conexiones por autovía Soria–Logroño, Soria–Calamocha y Soria–Segovia y ejecución de la variante de San Esteban de Gormaz, A11 con la N 110.",
+          "explicacion_medida": "Plantea impulsar ejes de gran capacidad desde Soria hacia Logroño, Calamocha y Segovia, así como ejecutar la variante de enlace entre la A-11 y la N-110 en San Esteban de Gormaz.",
+          "datos_a_favor": "Mejora la permeabilidad interprovincial de Soria con La Rioja, Aragón y Castilla y León, mientras la variante elimina tráfico pesado del casco urbano de San Esteban de Gormaz.",
+          "datos_en_contra": "Desplegar simultáneamente tres nuevos corredores de autovía en tramos de orografía compleja exige largos plazos de tramitación ambiental y una inversión multimillonaria difícil de priorizar.",
+          "id_bloque_comun": "bloque_11",
+          "titulo_bloque_comun": "Infraestructuras, Transporte, Ferrocarril y Conectividad"
+        },
+        {
+          "numero_medida": 10,
+          "id_medida": "SY-10",
+          "seccion_original": "AUTOVÍAS Y FERROCARRIL: ACABAR CON EL AISLAMIENTO DE SORIA",
+          "titulo_medida": "Modernización integral de la carretera de circunvalación SO-20",
+          "texto_oficial": "Modernización integral de la circunvalación SO-20.",
+          "explicacion_medida": "Propone acometer una reforma completa de la circunvalación SO-20 en torno a la capital soriana para actualizar su trazado, enlaces y capacidad viaria.",
+          "datos_a_favor": "Alivia los cuellos de botella en los accesos periurbanos de Soria y mejora la seguridad vial en los entronques donde confluyen tráficos locales y de largo recorrido.",
+          "datos_en_contra": "Las obras de ampliación o desdoblamiento periurbano conllevan afecciones temporales al tráfico diario y expropiaciones costosas respecto al volumen total de vehículos absorbidos.",
+          "id_bloque_comun": "bloque_11",
+          "titulo_bloque_comun": "Infraestructuras, Transporte, Ferrocarril y Conectividad"
+        },
+        {
+          "numero_medida": 11,
+          "id_medida": "SY-11",
+          "seccion_original": "AUTOVÍAS Y FERROCARRIL: ACABAR CON EL AISLAMIENTO DE SORIA",
+          "titulo_medida": "Electrificación, doble vía y más frecuencias ferroviarias entre Soria y Torralba",
+          "texto_oficial": "Electrificación y doble vía de la línea férrea Soria–Torralba, y aumento de frecuencias a Madrid.",
+          "explicacion_medida": "Reclama electrificar y duplicar la vía de la línea férrea Soria-Torralba, además de ampliar el número diario de circulaciones ferroviarias con destino a Madrid.",
+          "datos_a_favor": "Permite operar trenes eléctricos más fiables y rápidos sin trasbordos diésel, reduciendo emisiones y ofreciendo horarios útiles para desplazamientos laborales o de estudios en el día.",
+          "datos_en_contra": "La duplicación y electrificación de un ramal convencional de baja densidad de viajeros presenta un retorno financiero muy reducido y exige ampliar material rodante y subvención OSP.",
+          "id_bloque_comun": "bloque_11",
+          "titulo_bloque_comun": "Infraestructuras, Transporte, Ferrocarril y Conectividad"
+        },
+        {
+          "numero_medida": 12,
+          "id_medida": "SY-12",
+          "seccion_original": "AUTOVÍAS Y FERROCARRIL: ACABAR CON EL AISLAMIENTO DE SORIA",
+          "titulo_medida": "Reapertura de la línea ferroviaria entre Soria y Castejón",
+          "texto_oficial": "Reapertura de la línea Soria–Castejón.",
+          "explicacion_medida": "Propone rehabilitar y reabrir al tráfico ferroviario la línea cerrada entre Soria y Castejón de Ebro para restablecer la conexión por tren hacia Navarra y el valle del Ebro.",
+          "datos_a_favor": "Recupera un corredor norte-sur ya trazado para conectar el interior castellano con la red ferroviaria navarra y vasca, facilitando el transporte de mercancías industriales y viajeros.",
+          "datos_en_contra": "Tras décadas sin servicio, la infraestructura exige reconstrucción casi integral de plataforma, puentes, señalización y pasos a nivel, con elevado coste de capital y demanda incierta.",
+          "id_bloque_comun": "bloque_11",
+          "titulo_bloque_comun": "Infraestructuras, Transporte, Ferrocarril y Conectividad"
+        },
+        {
+          "numero_medida": 13,
+          "id_medida": "SY-13",
+          "seccion_original": "AUTOVÍAS Y FERROCARRIL: ACABAR CON EL AISLAMIENTO DE SORIA",
+          "titulo_medida": "Nueva estación de alta velocidad en el sur de la provincia de Soria",
+          "texto_oficial": "Estación de AVE en el sur de Soria, para conexión directa a Madrid-Zaragoza-Barcelona.",
+          "explicacion_medida": "Plantea construir una estación de AVE en el sur soriano aprovechando el corredor de alta velocidad existente para enlazar de forma directa con Madrid, Zaragoza y Barcelona.",
+          "datos_a_favor": "Integraría a la provincia en la red nacional de alta velocidad con un coste menor que construir un ramal nuevo, reduciendo drásticamente el tiempo de acceso a tres grandes polos económicos.",
+          "datos_en_contra": "Las paradas intermedias en líneas de alta velocidad penalizan los tiempos de viaje del eje principal Madrid-Barcelona y suelen quedar alejadas de la capital provincial si no cuentan con lanzaderas.",
+          "id_bloque_comun": "bloque_11",
+          "titulo_bloque_comun": "Infraestructuras, Transporte, Ferrocarril y Conectividad"
+        },
+        {
+          "numero_medida": 14,
+          "id_medida": "SY-14",
+          "seccion_original": "AUTOVÍAS Y FERROCARRIL: ACABAR CON EL AISLAMIENTO DE SORIA",
+          "titulo_medida": "Impulso al corredor ferroviario transversal entre Valladolid, Soria y Zaragoza",
+          "texto_oficial": "Impulso del corredor ferroviario Valladolid-Aranda-San Esteban de Gormaz- El Burgo de Osma-Soria-Zaragoza.",
+          "explicacion_medida": "Defiende desarrollar una conexión ferroviaria continua a lo largo del eje Valladolid, Aranda de Duero, San Esteban de Gormaz, El Burgo de Osma, Soria y Zaragoza.",
+          "datos_a_favor": "Crearía un eje transversal oeste-este en el valle del Duero conectado al nodo logístico de Zaragoza, favoreciendo la vertebración de comarcas ribereñas hoy desconectadas del ferrocarril.",
+          "datos_en_contra": "Exigiría reactivar tramos clausurados y construir enlaces intermedios de altísima inversión presupuestaria que no figuran priorizados en las redes transeuropeas de transporte.",
+          "id_bloque_comun": "bloque_11",
+          "titulo_bloque_comun": "Infraestructuras, Transporte, Ferrocarril y Conectividad"
+        },
+        {
+          "numero_medida": 18,
+          "id_medida": "SY-18",
+          "seccion_original": "ACCESO SEGURO A LA SANIDAD",
+          "titulo_medida": "Construcción de la autovía Soria-Burgos para conexión sanitaria segura",
+          "texto_oficial": "Autovía Soria-Burgos: infraestructura imprescindible para garantizar conexión rápida y segura con Burgos, donde se encuentra el hospital de referencia de Soria.",
+          "explicacion_medida": "Reclama ejecutar la autovía entre Soria y Burgos como eje prioritario para asegurar desplazamientos rápidos y seguros de pacientes hacia el hospital universitario de referencia en Burgos.",
+          "datos_a_favor": "Acorta los traslados sanitarios urgentes y programados en una ruta de montaña invernal frecuente en tráfico pesado y con elevada vulnerabilidad ante heladas o nieblas.",
+          "datos_en_contra": "El trazado discurre por zonas de alto valor ambiental y relieve montañoso, lo que encarece la obra civil y prolonga las declaraciones de impacto ambiental frente a mejoras puntuales en la N-234.",
+          "id_bloque_comun": "bloque_11",
+          "titulo_bloque_comun": "Infraestructuras, Transporte, Ferrocarril y Conectividad"
+        },
+        {
+          "numero_medida": 19,
+          "id_medida": "SY-19",
+          "seccion_original": "IMPULSO LOGÍSTICO, INVERSIÓN, EMPRENDIMIENTO Y NÓMADAS DIGITALES",
+          "titulo_medida": "Desarrollo de un puerto seco logístico en la comarca del Alto Jalón",
+          "texto_oficial": "Corregir el déficit de infraestructuras logísticas de la provincia, aprovechando su posición estratégica entre el corredor del Henares y el valle del Ebro mediante el desarrollo de un puerto seco en el Alto Jalón.",
+          "explicacion_medida": "Plantea crear una plataforma logística intermodal en el Alto Jalón para aprovechar la ubicación geográfica de paso entre el corredor industrial del Henares y el valle del Ebro.",
+          "datos_a_favor": "Capta tráficos ferroviarios y viarios de mercancías entre Madrid y Zaragoza, diversificando la economía comarcal hacia la logística de almacenamiento y distribución.",
+          "datos_en_contra": "Un puerto seco requiere masa crítica de carga, conexión ferroviaria de altas prestaciones y demanda empresarial firme para no duplicar infraestructuras infrautilizadas de áreas cercanas.",
+          "id_bloque_comun": "bloque_11",
+          "titulo_bloque_comun": "Infraestructuras, Transporte, Ferrocarril y Conectividad"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_16",
+      "numero_bloque": 16,
+      "titulo_bloque": "Cohesión Territorial, Financiación Autonómica, Presencia del Estado y Ceuta y Melilla",
+      "alcance_medidas": "Medidas 16 a 22 (2 medidas)",
+      "total_medidas_bloque": 2,
+      "medidas_incluidas": [
+        16,
+        22
+      ],
+      "medidas": [
+        {
+          "numero_medida": 16,
+          "id_medida": "SY-16",
+          "seccion_original": "GARANTÍA DE SERVICIOS PÚBLICOS EN EL MEDIO RURAL",
+          "titulo_medida": "Garantía de servicios en 30 minutos e incentivos para empleados públicos rurales",
+          "texto_oficial": "Garantizar los servicios públicos esenciales en un máximo de 30 minutos, con independencia del lugar de residencia, mediante una financiación suficiente, estable y adaptada a la dispersión territorial y al envejecimiento de la población, incluyendo los servicios prestados por las entidades locales. Establecer incentivos económicos, profesionales y de vivienda para atraer y retener empleados públicos en zonas despobladas, asegurando la cobertura efectiva de las plazas y la continuidad y calidad de los servicios.",
+          "explicacion_medida": "Propone asegurar acceso a servicios esenciales en menos de media hora financiando el sobrecoste por dispersión y envejecimiento, e implantar incentivos económicos y de vivienda para funcionarios rurales.",
+          "datos_a_favor": "Combate la alta rotación y las vacantes crónicas en sanidad, educación y administración local, garantizando equidad territorial efectiva independientemente del código postal de residencia.",
+          "datos_en_contra": "Exige coordinación presupuestaria entre Estado, comunidad autónoma y diputación, además de incrementar el gasto corriente en complementos retributivos y vivienda pública de difícil reversión.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Cohesión Territorial, Financiación Autonómica, Presencia del Estado y Ceuta y Melilla"
+        },
+        {
+          "numero_medida": 22,
+          "id_medida": "SY-22",
+          "seccion_original": "SORIA, SEDE DE ORGANISMOS PÚBLICOS",
+          "titulo_medida": "Sede en Soria de la Academia de Bomberos Forestales y base UME",
+          "texto_oficial": "Descentralización de organismos estatales en Soria, garantizando su funcionamiento mediante la dotación de personal, recursos y competencias reales: creación de la Academia Nacional de Bomberos Forestales y de una Unidad Militar de Emergencias (UME) permanente en Soria.",
+          "explicacion_medida": "Reclama descentralizar organismos estatales con personal y competencias efectivas, ubicando en Soria una Academia Nacional de Bomberos Forestales y un destacamento permanente de la UME.",
+          "datos_a_favor": "Genera empleo público cualificado estable en la provincia y sitúa recursos especializados de extinción en un entorno con amplia masa forestal y alta exposición a incendios estivales.",
+          "datos_en_contra": "La reubicación o creación de unidades militares y centros nacionales responde a criterios operativos de despliegue estatal y puede chocar con competencias autonómicas en prevención forestal.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Cohesión Territorial, Financiación Autonómica, Presencia del Estado y Ceuta y Melilla"
+        }
+      ]
+    }
+  ],
+  "otros_bloques": []
+}

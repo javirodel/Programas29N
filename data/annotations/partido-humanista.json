@@ -1,0 +1,305 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "partido-humanista",
+  "entries": {
+    "partido-humanista-001": {
+      "status": "corregida",
+      "summary": "Propone ampliar la Ley 44/2015 con exenciones fiscales suficientes para crear y desarrollar Sociedades Laborales (más del 50% del capital en manos de los trabajadores) y empresas participadas con cogestión paritaria entre trabajadores y propiedad. Incluye crear Fondos de Accionariado Laboral dotados con el 25% de los beneficios netos anuales para transferir progresivamente la propiedad accionarial a la plantilla.",
+      "arguments_for": "Según datos de CEPES (respaldados por análisis de Funcas), las más de 43.000 empresas y entidades de la economía social en España representan en torno al 10% del PIB y destruyeron durante las crisis 6,5 puntos menos de empleo que las empresas mercantiles convencionales gracias a la flexibilidad interna y la implicación de sus socios trabajadores.",
+      "sources_for": [
+        {
+          "title": "La Economía Social resiste la crisis mejor que el resto de la economía, según Funcas",
+          "publisher": "CEPES",
+          "url": "https://www.cepes.es/boletin_digital/noticia/507_economia-social-resiste-crisis-mejor-resto-economia-segun-funcas"
+        },
+        {
+          "title": "Informe 'Las empresas más relevantes de la Economía Social 2022-2023'",
+          "publisher": "CEPES",
+          "url": "https://www.cepes.es/nota-prensa/811_informe-las-empresas-mas-relevantes-economia-social-2022-2023-refleja-pluralidad-diversidad-este-mod"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "La participación de los trabajadores en los consejos de administración vuelve al debate empresarial",
+          "publisher": "Acountax Madrid",
+          "url": "https://acountaxmadrid.es/la-participacion-de-los-trabajadores-en-los-consejos-de-administracion-vuelve-al-debate-empresarial/"
+        },
+        {
+          "title": "Comisión de Economía y Fiscalidad de CEOE",
+          "publisher": "CEOE",
+          "url": "https://www.ceoe.es/es/conocenos/areas-de-trabajo/comision-de-economia-y-fiscalidad"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Corregido summary (eliminadas exenciones del 99% no recogidas en el texto y añadido el Fondo de Accionariado Laboral del 25%) y precisada la cifra de CEPES/Funcas (6,5 puntos menos de destrucción de empleo)."
+    },
+    "partido-humanista-002": {
+      "status": "corregida",
+      "summary": "Propone garantizar por ley una Renta Básica Universal e Incondicional (RBUI) de 950 € al mes (120% del umbral de pobreza) para toda persona mayor de edad residente en España, con un coste bruto estimado de 433.200 millones de euros y un coste neto de 140.000 millones. Se financiaría mediante reforma progresiva del IRPF a rentas superiores a 120.000 € (55.000 M€), impuesto a grandes fortunas de más de 3 M€ (25.000 M€), Tasa Tobin del 0,5% (20.000 M€), lucha contra el fraude fiscal (30.000 M€) y ahorro administrativo al sustituir prestaciones redundantes (10.000 M€).",
+      "arguments_for": "La Encuesta de Condiciones de Vida del INE sitúa la tasa de riesgo de pobreza o exclusión social (AROPE) en el 25,7% de la población. Evaluaciones de la AIReF y FEDEA sobre el Ingreso Mínimo Vital constatan además un elevado porcentaje de no solicitud (superior al 50% de los hogares elegibles) por barreras burocráticas, mientras simulaciones académicas de la Red Renta Básica señalan que una prestación universal eliminaría la pobreza severa.",
+      "arguments_against": "Financiar una RBUI de 950 € mensuales para unos 38 millones de adultos supondría un desembolso bruto de 433.200 millones de euros anuales según la propia memoria del programa. Economistas de FEDEA advierten de que su coste neto exigiría elevar sustancialmente los tipos marginales del IRPF y podría desincentivar la oferta laboral, defendiendo frente a prestaciones universales ayudas focalizadas y condicionadas a la renta.",
+      "sources_for": [
+        {
+          "title": "Encuesta de Condiciones de Vida (ECV)",
+          "publisher": "INE",
+          "url": "https://www.ine.es/dyngs/Prensa/ECV2025.htm"
+        },
+        {
+          "title": "¿Cuánto cuesta y cómo se costea el fin de la pobreza?",
+          "publisher": "Red Renta Básica",
+          "url": "https://www.redrentabasica.org/rb/cuanto-cuesta-y-como-se-costea-el-fin-de-la-pobreza/"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Los expertos reclaman mejoras en el diseño y gestión del Ingreso Mínimo Vital para hacerlo más eficaz",
+          "publisher": "FEDEA",
+          "url": "https://fedea.net/los-expertos-reclaman-mejoras-en-el-diseno-y-gestion-del-ingreso-minimo-vital-para-hacerlo-mas-eficaz/"
+        },
+        {
+          "title": "Evaluación del Ingreso Mínimo Vital y sistemas de garantía de ingresos",
+          "publisher": "FEDEA",
+          "url": "https://documentos.fedea.net/documento/eee2023-02/texto"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Corregido summary (el texto oficial establece 950 €/mes y 5 fuentes concretas de financiación, no 900 € ni tasa a la robótica), ajustada cobertura IMV según AIReF/FEDEA y corregido el importe de 900 € a 950 € en argumentos en contra. Nota: official_text en data/reviews/partido-humanista.json está truncado en N1."
+    },
+    "partido-humanista-003": {
+      "status": "corregida",
+      "summary": "Propone reducir por ley la jornada laboral ordinaria a 30 horas semanales distribuidas en 4 días sin rebaja salarial, con el fin de redistribuir el trabajo ante la automatización, mejorar la salud física y mental de los trabajadores y favorecer la conciliación personal y comunitaria.",
+      "arguments_for": "El ensayo piloto de 4 Day Week Global en el Reino Unido (61 empresas y unos 2.900 trabajadores) registró un incremento medio de ingresos del 1,4%, una reducción del 65% en las bajas por enfermedad y un descenso del 71% en los niveles de agotamiento profesional (burnout). En España, la jornada máxima legal de 40 horas semanales permanece vigente desde 1983.",
+      "arguments_against": "CEPYME y análisis del Banco de España advierten de que recortar de forma abrupta la jornada legal sin ganancias previas equivalentes de productividad eleva los costes laborales unitarios y penaliza especialmente a las pymes y a los sectores presenciales de menor productividad relativa (hostelería, comercio o cuidados), con riesgo de pérdida de competitividad y empleo.",
+      "sources_for": [
+        {
+          "title": "Trabajar cuatro días a la semana mejora la productividad y el bienestar, según un ensayo de seis meses en Reino Unido",
+          "publisher": "RTVE",
+          "url": "https://www.rtve.es/noticias/20230221/trabajar-cuatro-dias-a-semana-mejora-productividad-bienestar-segun-ensayo-6-meses-reino-unido/2426594.shtml",
+          "date": "2023"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "La pyme será la más afectada por la reducción de la jornada laboral",
+          "publisher": "CEPYME",
+          "url": "https://cepyme.es/la-pyme-sera-la-mas-afectada-por-la-reduccion-de-la-jornada-laboral-a-375-horas-semanales/"
+        },
+        {
+          "title": "Productividad y crecimiento económico en España",
+          "publisher": "Banco de España",
+          "url": "https://www.bde.es/f/webbde/SSICOM/informes/video4.pdf"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Corregido summary (eliminadas referencias al art. 34 ET y huella de carbono no presentes en el texto) y ajustados datos del piloto británico (65% bajas médicas, 71% burnout) y análisis de CEPYME/Banco de España."
+    },
+    "partido-humanista-004": {
+      "status": "corregida",
+      "summary": "Propone crear una Red Bancaria Pública consolidando entidades con participación estatal para conceder créditos al 0% de interés (cobrando solo gastos mínimos de gestión), destinados exclusivamente a primera vivienda habitual, economía social y cooperativa, transición ecológica, pequeñas empresas, sociedades laborales y empresas participadas por trabajadores.",
+      "arguments_for": "Los cinco grandes bancos españoles alcanzaron beneficios récord conjuntos superiores a 26.000 millones de euros en 2023 impulsados por las subidas de tipos del BCE y una limitada remuneración del ahorro. Modelos de banca pública de desarrollo como el KfW alemán muestran que es posible canalizar financiación estatal hacia pymes, transición energética e infraestructuras.",
+      "sources_for": [
+        {
+          "title": "Los grandes bancos ganan más de 26.000 millones en 2023 tras pagar el impuesto a la banca",
+          "publisher": "Público",
+          "url": "https://www.publico.es/economia/grandes-bancos-ganan-26-000-millones-2023-despues-pagar-1-200-nuevo-impuesto-banca.html",
+          "date": "2024"
+        },
+        {
+          "title": "Cooperación al desarrollo y papel del KfW en Alemania",
+          "publisher": "Deutschland.de",
+          "url": "https://www.deutschland.de/es/topic/politica/cooperacion-al-desarrollo-con-alemania"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Tratado de Funcionamiento de la Unión Europea - Artículo 107 (Ayudas de Estado)",
+          "publisher": "EUR-Lex",
+          "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:12008E107"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Corregido summary (eliminadas menciones a CaixaBank/FROB/ICO ausentes del programa e incorporadas sociedades laborales y empresas participadas) y precisado el dato de beneficios bancarios de 2023."
+    },
+    "partido-humanista-005": {
+      "status": "corregida",
+      "summary": "Propone una inversión pública sostenida durante 10 años para incorporar 2,5 millones de viviendas al Parque Público de Alquiler Social mediante edificación ecológica en suelo público, rehabilitación urbana e incorporación forzosa de viviendas en manos de entidades financieras y Sareb.",
+      "arguments_against": "Construir o incorporar 2,5 millones de viviendas en una década supondría un esfuerzo presupuestario de gran magnitud en infraestructuras públicas y toparía con cuellos de botella operativos: patronales y sindicatos de la construcción estiman un déficit superior a 500.000 trabajadores en el sector, lo que dificultaría ejecutar ese ritmo de edificación y rehabilitación.",
+      "sources_for": [
+        {
+          "title": "AVIVAS, la primera alianza estatal por la vivienda asequible y social",
+          "publisher": "Provivienda",
+          "url": "https://provivienda.org/avivas-la-primera-alianza-estatal-por-la-vivienda-asequible-y-social/"
+        },
+        {
+          "title": "España en la senda de crear más vivienda social (2,5% frente al 9,3% de la UE)",
+          "publisher": "El Economista",
+          "url": "https://www.eleconomista.es/vivienda-inmobiliario/noticias/12882668/06/24/espana-en-la-senda-de-crear-mas-vivienda-social-con-acompanamiento-para-familias-vulnerables.html",
+          "date": "2024"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "La construcción necesita más de 500.000 trabajadores: patronal y sindicatos apuestan por contratar en origen",
+          "publisher": "El Español",
+          "url": "https://www.elespanol.com/invertia/economia/macroeconomia/20240214/construccion-necesita-trabajadores-patronal-sindicatos-apuestan-contratar-origen/832417037_0.html",
+          "date": "2024"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Corregido summary (eliminadas metas del 15%-20% y 100% de Sareb no incluidas en la medida e incorporada la rehabilitación urbana) y retirada estimación de costes no contrastada en arguments_against, manteniendo el déficit laboral verificado (>500.000 trabajadores)."
+    },
+    "partido-humanista-006": {
+      "status": "corregida",
+      "summary": "Propone prohibir por ley que fondos de capital riesgo y fondos buitre adquieran viviendas residenciales, y derogar el régimen fiscal privilegiado de las SOCIMIs para que tributen al tipo general del Impuesto sobre Sociedades.",
+      "sources_for": [
+        {
+          "title": "El régimen fiscal de las SOCIMI",
+          "publisher": "Gestoría Pastor",
+          "url": "https://gestoriapastor.org/2024/08/16/el-regimen-fiscal-de-las-socimi/",
+          "date": "2024"
+        },
+        {
+          "title": "El Sindicato de Inquilinas e Inquilinos de Madrid demanda a Blackstone por cláusulas contractuales",
+          "publisher": "Sindicato de Inquilinas",
+          "url": "https://inquilinato.org/el-sindicato-de-inquilinas-e-inquilinos-de-madrid-sienta-en-el-banquillo-al-fondo-buitre-blackstone-por-vulnerar-la-ley-en-la-redaccion-de-sus-contratos/"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Tratado de Funcionamiento de la Unión Europea - Artículo 63 (Libre circulación de capitales)",
+          "publisher": "EUR-Lex",
+          "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:12008E063"
+        },
+        {
+          "title": "Informe parlamentario sobre el impacto de las SOCIMI en el mercado de alquiler",
+          "publisher": "Senado de España",
+          "url": "https://www.senado.es/web/expedientdocblobservlet?legis=12&id=134892"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Corregido summary para evitar inferencias no literales (reserva exclusiva a personas físicas o entidades públicas y tipos numéricos concretos en Sociedades)."
+    },
+    "partido-humanista-007": {
+      "status": "corregida",
+      "summary": "Propone fijar un límite máximo legal al precio del alquiler residencial para que ningún contrato supere el 30% de la renta media disponible del código postal correspondiente, junto con la publicación obligatoria del Índice de Renta Máxima Residencial.",
+      "arguments_against": "Experiencias como el tope al alquiler de Berlín (Mietendeckel) muestran que las restricciones rígidas de precios pueden reducir drásticamente la oferta disponible en el mercado de alquiler tradicional y derivarla hacia contratos temporales o venta. En el plano jurídico español, la STC 37/2022 anuló los topes autonómicos catalanes al entender que fijar límites contractuales afecta a las bases de las obligaciones civiles (art. 149.1.8 CE), competencia reservada al Estado y sujeta además al equilibrio constitucional entre el derecho de propiedad y el acceso a la vivienda.",
+      "sources_for": [
+        {
+          "title": "Acceso a la vivienda y tasa de esfuerzo residencial en España en comparación europea",
+          "publisher": "Dialnet / Universidad de La Rioja",
+          "url": "https://dialnet.unirioja.es/descarga/articulo/9720659.pdf"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "El Tribunal Constitucional alemán anula la congelación de precios del alquiler en Berlín",
+          "publisher": "Ronda Cas",
+          "url": "https://www.rondacas.com/blog/el-tc-aleman-anula-congelacion-precios-alquiler-berlin.html"
+        },
+        {
+          "title": "Nota informativa sobre la STC 37/2022 relativa a la Ley catalana de contención de rentas",
+          "publisher": "Poder Judicial / Tribunal Constitucional",
+          "url": "https://www.poderjudicial.es/portal/site/cgpj/menuitem.0cb0942ae6fbda1c1ef62232dc432ea0/?vgnextoid=c5427dd880ba5810VgnVCM1000004648ac0aRCRD&vgnextchannel=9f2188faa7e81610VgnVCM1000006f48ac0aRCRD&vgnextfmt=default&vgnextlocale=en&lang_choosen=en"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Corregido summary (renta media disponible en lugar de salario medio, sin referencias no literales a LAU o Ministerio) y corregida la interpretación de la STC 37/2022 en arguments_against."
+    },
+    "partido-humanista-008": {
+      "status": "corregida",
+      "summary": "Propone obligar a las personas jurídicas y grandes tenedores (con más de 4 inmuebles residenciales) que mantengan viviendas desocupadas sin justificación durante más de 12 meses a ceder temporalmente su uso al parque público de alquiler por un período de hasta 8 años, con una compensación basada en el mantenimiento de la propiedad.",
+      "sources_for": [
+        {
+          "title": "Viviendas vacías en España según el Censo del INE (datos y gráficos)",
+          "publisher": "EpData / INE",
+          "url": "https://www.epdata.es/datos/viviendas-vacias-espana-graficos/622"
+        },
+        {
+          "title": "STC 97/2018 sobre la Ley 3/2015 de Vivienda del País Vasco (alquiler forzoso de viviendas deshabitadas)",
+          "publisher": "Tribunal Constitucional",
+          "url": "https://hj.tribunalconstitucional.es/es/Resolucion/Show/25739",
+          "date": "2018"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Análisis sobre la distribución territorial de los 3,8 millones de viviendas vacías del censo del INE",
+          "publisher": "Idealista News",
+          "url": "https://www.idealista.com/news/inmobiliario/vivienda/2026/10/19/919191-el-mito-de-los-3-8-millones-de-viviendas-vacias-en-espana-una-estadistica-desfasada"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Corregido summary para ajustarlo literalmente a sujetos (personas jurídicas y grandes tenedores >4 inmuebles), plazo (hasta 8 años) y compensación (mantenimiento de la propiedad)."
+    },
+    "partido-humanista-009": {
+      "status": "corregida",
+      "summary": "Propone reformar la Ley de Enjuiciamiento Civil para prohibir de forma absoluta cualquier lanzamiento o desahucio por motivos socioeconómicos sin que los servicios públicos garanticen previamente una alternativa habitacional digna en la misma localidad.",
+      "arguments_against": "Informes del sector y del Ministerio de Vivienda muestran que más del 80%-85% de las viviendas en alquiler en España pertenecen a particulares pequeños propietarios, y estudios de ASVAL indican que el 85% teme afrontar procesos de impago o desahucio. Las asociaciones de arrendadores advierten de que suspender los lanzamientos sin una oferta pública suficiente traslada la carga asistencial al propietario privado y reduce la oferta de alquiler residencial.",
+      "sources_for": [
+        {
+          "title": "Estadística sobre ejecuciones hipotecarias y lanzamientos judiciales en España",
+          "publisher": "Consejo General del Poder Judicial",
+          "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Consejo-General-del-Poder-Judicial/En-Portada/Las-ejecuciones-hipotecarias-y-los-concursos-registrados-en-los-organos-judiciales-crecieron-en-2025-un-30---respecto-al-ano-anterior"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Pequeños propietarios y grandes tenedores en el mercado de alquiler en España",
+          "publisher": "RTVE",
+          "url": "https://www.rtve.es/noticias/20261007/pequenos-propietarios-grandes-tenedores-viviendas-alquiler/17257574.shtml"
+        },
+        {
+          "title": "El 85% de los pequeños propietarios de vivienda temen tener que iniciar un desahucio, según ASVAL",
+          "publisher": "Idealista News",
+          "url": "https://www.idealista.com/news/inmobiliario/vivienda/2021/11/23/793500-el-85-de-los-pequenos-propietarios-de-vivienda-temen-tener-que-iniciar-un-desahucio-segun-asval",
+          "date": "2021"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Corregido summary (retirados números concretos de artículos de la LEC no mencionados en el texto) y ajustados los datos en contra a informes contrastados de ASVAL/pequeños propietarios."
+    },
+    "partido-humanista-010": {
+      "status": "corregida",
+      "summary": "Propone derogar de inmediato la Ley 15/1997 y toda fórmula de colaboración público-privada o concesión administrativa en la sanidad pública, blindando en el artículo 43 de la Constitución la gestión pública directa, universal y gratuita del Sistema Nacional de Salud.",
+      "arguments_against": "El Tribunal Constitucional ha avalado la compatibilidad constitucional de la gestión indirecta y la colaboración público-privada sanitaria. Según datos del Ministerio de Sanidad y de ASPE, los conciertos con centros privados suponen en torno al 8,5%-10,1% del gasto sanitario público y aportan capacidad quirúrgica y diagnóstica para aliviar listas de espera, advirtiendo el sector privado de los elevados costes de reversión e indemnización.",
+      "sources_for": [
+        {
+          "title": "Ley 15/1997, de 25 de abril, sobre habilitación de nuevas formas de gestión del Sistema Nacional de Salud",
+          "publisher": "BOE",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1997-9021",
+          "date": "1997"
+        },
+        {
+          "title": "Análisis del gasto sanitario público y conciertos privados",
+          "publisher": "FADSP",
+          "url": "https://fadsp.es/gasto-sanitario-publico-2023/",
+          "date": "2023"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "El Tribunal Constitucional avala la constitucionalidad de la externalización de la gestión hospitalaria",
+          "publisher": "iSanidad",
+          "url": "https://isanidad.com/49848/el-tc-declara-que-la-externalizacion-de-la-gestion-los-hospitales-era-constitucional/"
+        },
+        {
+          "title": "Análisis de la Sanidad Privada Española y conciertos con el SNS",
+          "publisher": "ASPE",
+          "url": "https://www.aspesanidad.es/wp-content/uploads/1.-NACIONAL-Analisis-de-la-Sanidad-Privada-Espanola-actualizacion-1.pdf"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Corregido summary (la medida blinda el art. 43 CE, no eleva el derecho al Capítulo II, ni cita el modelo Alzira) y precisada la horquilla del peso de los conciertos en el gasto sanitario público (8,5%-10,1%)."
+    }
+  }
+}

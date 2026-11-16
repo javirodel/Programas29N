@@ -1,0 +1,1700 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "teruel-existe",
+  "entries": {
+    "teruel-existe-002": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            3
+          ],
+          "snippet": "Presupuestos con mirada territorial. Daremos prioridad a la cohesión territorial y a la eficiencia del gasto, e incorporaremos la perspectiva rural al diseño de las cuentas y a su rendición.",
+          "docling_refs": [
+            "#/texts/62",
+            "#/texts/63",
+            "#/texts/64",
+            "#/texts/65",
+            "#/texts/66",
+            "#/texts/67"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 3; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-003": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            3
+          ],
+          "snippet": "Despoblación, un problema de Estado. La brecha de la despoblación y de los desequilibrios territoriales es un problema estructural de España. Las políticas públicas se diseñarán y evaluarán con el objetivo de equilibrar el territorio.",
+          "docling_refs": [
+            "#/texts/73"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 3; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-006": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            3
+          ],
+          "snippet": "Revertir el abandono institucional. La población se ha concentrado en una porción mínima del territorio. En los últimos años se han perdido 10 millones de cabezas de ovino y caprino y 20.000 empleos en ganadería extensiva, y se abandonan parcelas agrícolas en muchos pueblos. Una visión extractivista sobre los recursos del territorio, sin comprometerse con su desarrollo sostenible, ignora que aquí viven personas con derechos -entre ellos el de poder llevar a cabo su propio proyecto vital aquí sin tener que emigrar-, deteriora de forma irreversible el paisaje y renuncia a rep",
+          "docling_refs": [
+            "#/texts/79"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 3; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-007": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            3
+          ],
+          "snippet": "Moratoria en grandes parques renovables y líneas de muy alta tensión, para ordenar el proceso. Oposición al cluster del Maestrazgo y los parques eólicos en el Matarraña.",
+          "docling_refs": [
+            "#/texts/87"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 3; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-008": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            3
+          ],
+          "snippet": "Ordenación del despliegue. Aplicaremos la normativa ambiental, de ordenación del territorio y de paisaje, con un nuevo modelo físico de implantación que respete los derechos de los propietarios del suelo y compense a las comunidades locales. Los macroparques pagarán un canon que se destinará al desarrollo local. Propuestas 01 / 06",
+          "docling_refs": [
+            "#/texts/62",
+            "#/texts/63",
+            "#/texts/64",
+            "#/texts/65",
+            "#/texts/66",
+            "#/texts/67"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 3; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-009": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            4
+          ],
+          "snippet": "Actualizar la ley de cambio climático con instrumentos para llevarla al territorio: planes estratégicos municipales de energía, planes sectoriales y modelo físico de implantación. Cambiaremos el sistema de subastas para que accedan pequeños inversores y comunidades.",
+          "docling_refs": [
+            "#/texts/91",
+            "#/texts/92",
+            "#/texts/93",
+            "#/texts/94",
+            "#/texts/95",
+            "#/texts/96"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 4; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-010": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            4
+          ],
+          "snippet": "Puertas giratorias. Las renovables no pueden ser el nuevo pelotazo urbanístico ni una vía para la corrupción. Impulsaremos un control estricto de las instituciones que intervienen en estos asuntos y de las relaciones entre quienes las dirigen y las empresas del sector.",
+          "docling_refs": [
+            "#/texts/97"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 4; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-016": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            4
+          ],
+          "snippet": "Comunidades energéticas. Apuesta decidida por las comunidades ciudadanas de energía y las de energías renovables, en las ciudades y en el medio rural, y por sistemas municipales de almacenamiento.",
+          "docling_refs": [
+            "#/texts/112"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 4; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-017": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            4
+          ],
+          "snippet": "Acción local. Compromiso voluntario de comarcas, ciudades y gobiernos locales contra el cambio climático, con más participación ciudadana, mejores espacios públicos y mejor diseño urbano.",
+          "docling_refs": [
+            "#/texts/114"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 4; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-018": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            4
+          ],
+          "snippet": "Comunidades de regantes y renovables. Fomentaremos proyectos renovables ligados a las comunidades de regantes.",
+          "docling_refs": [
+            "#/texts/91",
+            "#/texts/92",
+            "#/texts/93",
+            "#/texts/94",
+            "#/texts/95",
+            "#/texts/96"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 4; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-021": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            4
+          ],
+          "snippet": "Fondo Soberano. Impulsaremos la creación de un instrumento que grave las actividades extractivas para generar beneficios a la ciudadanía como mejora de infraestructuras y servicios públicos.",
+          "docling_refs": [
+            "#/texts/120"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 4; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-022": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            4
+          ],
+          "snippet": "Recuperar el cánon energético. Recuperaremos el canon que existió en los años 80 por el que las provincias productoras de energía eran compensadas por aquellas consumidoras.",
+          "docling_refs": [
+            "#/texts/122"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 4; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-023": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            4
+          ],
+          "snippet": "Exigir contrapartidas. Todos los proyectos extractivos deben ir acompañados de un plan de Propuestas 01 / 06",
+          "docling_refs": [
+            "#/texts/124"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 4; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-024": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            5
+          ],
+          "snippet": "Reforma de la financiación autonómica para que los criterios reflejen el coste efectivo real de los servicios, con la despoblación, orografía, dispersión y densidad de población tenidas en cuenta.",
+          "docling_refs": [
+            "#/texts/138"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 5; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-025": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            5
+          ],
+          "snippet": "El Estado garantiza el mínimo. Asumirá el coste del nivel mínimo de los servicios públicos del Estado del bienestar (sanidad, educación y servicios sociales) según su coste efectivo. Las comunidades autónomas financiarán las mejoras sobre ese mínimo.",
+          "docling_refs": [
+            "#/texts/139"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 5; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-026": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            5
+          ],
+          "snippet": "Financiación local para los pueblos pequeños. Reforma urgente y prioritaria de la financiación local, con un marco estable y suficiente para los ayuntamientos de menos de 2.000 habitantes.",
+          "docling_refs": [
+            "#/texts/141"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 5; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-029": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            5
+          ],
+          "snippet": "Fondo de Inversiones de Teruel (FITE). Pediremos que se incremente hasta los 100 millones de euros y exigiremos que se destinen a proyectos estratégicos de desarrollo, que generen actividad económica y empleo, no a gastos e inversiones ordinarias que corresponden al Gobierno de Aragón.",
+          "docling_refs": [
+            "#/texts/149"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 5; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-030": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "teruel-existe-031": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            5
+          ],
+          "snippet": "Fondo específico para financiación de proyectos empresariales, creado y gestionado desde la SEPI (Sociedad Estatal de Participaciones Industriales) en colaboración con entidades bancarias.",
+          "docling_refs": [
+            "#/texts/153"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 5; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-032": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            5
+          ],
+          "snippet": "Atención primaria. Un pacto nacional para llevar su financiación hasta el 25 % del presupuesto sanitario, con recursos suficientes que lleguen al medio rural. Propuestas 01 / 06",
+          "docling_refs": [
+            "#/texts/164"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 5; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-034": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            6
+          ],
+          "snippet": "Listas de espera. Situación insoportable. Reducirlas, en diagnóstico y en cirugía, actuando sobre los cuellos de botella: consulta, diagnóstico, pruebas e intervención. Las listas de espera deben ser únicas, accesibles y con los mismos parámetros asumidos por todas las CCAA.",
+          "docling_refs": [
+            "#/texts/171"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 6; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-036": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            6
+          ],
+          "snippet": "Gestión profesional. Los centros y administraciones sanitarias serán dirigidos por profesionales con formación en gestión sanitaria, y se creará una red pública de formación.",
+          "docling_refs": [
+            "#/texts/174"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 6; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-037": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            6
+          ],
+          "snippet": "Historia clínica electrónica que funcione plenamente y esté operativa al 100% en todos centros sanitarios y en cualquier punto del Estado.",
+          "docling_refs": [
+            "#/texts/175"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 6; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-039": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            6
+          ],
+          "snippet": "Panel de indicadores de salud, público, con datos del sistema sanitario y de sus efectos en la calidad de vida (esperanza de vida, esperanza de vida en buena salud, acceso a cuidados).",
+          "docling_refs": [
+            "#/texts/181"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 6; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-040": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "teruel-existe-041": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            6
+          ],
+          "snippet": "Sistema público de servicios sociales universal, cercano, profesionalizado y suficientemente financiado, que asegure el derecho de todas las personas a vivir con dignidad, independientemente del municipio en el que residan. Para ello, impulsaremos el reconocimiento de los servicios sociales como un derecho subjetivo y universal mediante una Ley Estatal General Básica que garantice unas prestaciones básicas para toda la ciudadanía. Promoveremos servicios sociales de proximidad en todos los municipios, facilitando el acceso efectivo a la atención primaria y especializada, esp",
+          "docling_refs": [
+            "#/texts/188"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 6; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-042": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            7
+          ],
+          "snippet": "Atención a la dependencia que garantice que todos los recursos y servicios lleguen al conjunto del territorio, independientemente del municipio de residencia. Para ello, es imprescindible adaptar los modelos de atención a las características y necesidades del medio rural, teniendo en cuenta la dispersión poblacional, el envejecimiento, las distancias y las dificultades para acceder a determinados servicios. Apostamos por reforzar la atención domiciliaria y comunitaria, la ayuda a domicilio, la teleasistencia y los centros de proximidad; impulsar modelos flexibles e innovado",
+          "docling_refs": [
+            "#/texts/193"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 7; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-043": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            7
+          ],
+          "snippet": "Personas mayores. Combatiremos la soledad no deseada y ampliaremos los servicios de comedor. Impulsaremos las «islas de cuidados», un modelo de vecindad sociosanitaria con actividad, deporte, alimentación sana y rutinas que favorezcan el bienestar emocional.",
+          "docling_refs": [
+            "#/texts/196"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 7; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-045": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            7
+          ],
+          "snippet": "Parques Público de Vivienda en todos los municipios en modalidad de alquiler. Sin vivienda no podemos luchar contra la despoblación. El gobierno debe implicarse y promover directamente vivienda en cada municipio, independientemente del tamaño. Para localidades pequeñas, al menos cuatro vivendas por localidad.",
+          "docling_refs": [
+            "#/texts/204"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 7; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-046": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            7
+          ],
+          "snippet": "Impulso a la rehabilitación para recuperar nuestros pueblos y ciudades",
+          "docling_refs": [
+            "#/texts/205"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 7; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-048": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "teruel-existe-050": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            7
+          ],
+          "snippet": "Incentivos al alquiler. Impulsaremos medidas para poner más viviendas en alquiler en el medio rural para potenciar la repoblación.",
+          "docling_refs": [
+            "#/texts/210"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 7; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-051": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            7
+          ],
+          "snippet": "Zonas tensionadas, viviendas de uso turístico. En municipios con posible alta presión turística, permitir la limitación del número de viviendas de uso turístico a un porcentaje (5% por ejemplo) sobre el parque de vivienda existente, de forma que se garantice la disponibilidad de viviendas para el uso residencial normal de los vecinos, y por otro lado se difunda hacia localidades cercanas la actividad económica generada por el turismo. Propuestas 01 / 06",
+          "docling_refs": [
+            "#/texts/212"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 7; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-052": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            8
+          ],
+          "snippet": "Vivienda protegida rural, como elemento competitivo para atraer población. Aprovechar la amplia oferta de suelo y su menor coste para ofrecer un tipo de vivienda más atractivo que garantice mayor calidad de vida frente a la vivienda urbana, con más superficie y espacios libres propios. Tanto para obra nueva como para rehabilitación.",
+          "docling_refs": [
+            "#/texts/214",
+            "#/texts/215",
+            "#/texts/216",
+            "#/texts/217",
+            "#/texts/218",
+            "#/texts/219"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 8; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-053": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            8
+          ],
+          "snippet": "Arco mediterráneo interior. Un plan de infraestructuras que una de norte a sur Teruel y el sector oriental de Aragón con el interior peninsular y el litoral mediterráneo, mediante la conexión de autovías.",
+          "docling_refs": [
+            "#/texts/227"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 8; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-055": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            8
+          ],
+          "snippet": "Autovía A-40. Desbloquear el Anteproyecto Cuenca-Teruel, aprobar la realización de la autovía, así como de manera paralela el arreglo de la N 330 entre Villastar y Ademuz. Prolongación de la A40 por las Cuencas Mineras, Alcañiz, Reus y Tarragona, así como Caspe, Fraga y Lleida..",
+          "docling_refs": [
+            "#/texts/229"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 8; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-056": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            8
+          ],
+          "snippet": "Autovía A-25. Aprobar el nuevo estudio informativo, redactar los proyectos y licitar los tramos para conectar Monreal del campo (Jiloca) con Alcolea del Pinar. Planificar la continuidad de la autovía hasta Montalbán (allí conexión con la prolongación de la A40).",
+          "docling_refs": [
+            "#/texts/235"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 8; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-057": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            8
+          ],
+          "snippet": "Nueva autovía Teruel–Requena–Almansa, para conectar la A23 con Alicante y Murcia. Planificarla y construirla sobre el eje de la N-330, que coincide en un tramo con la A-40",
+          "docling_refs": [
+            "#/texts/214",
+            "#/texts/215",
+            "#/texts/216",
+            "#/texts/217",
+            "#/texts/218",
+            "#/texts/219"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 8; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-058": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            8
+          ],
+          "snippet": "Variantes y mejoras en las nacionales. Continuar (o iniciar) los trámites de las variantes incluidas en el PITVI: Utrillas, Montalbán, Calanda (DIA caducada),La Mata de los Olmos (DIA caducada), Villalba Baja, Gargallo, Valdeltormo, Calaceite, Vivel del Río y Martín del Río. Llevar a cabo la mejora comprometida la N-330 entre Villastar y Ademuz (Rincón de Ademuz–Teruel) para los tráficos de proximidad.",
+          "docling_refs": [
+            "#/texts/239"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 8; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-060": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            8
+          ],
+          "snippet": "Red mallada de carreteras para permeabilizar el territorio y superar el aislamiento del interior, con rutas que lleguen a todas las comarcas, mejor integración de las carreteras autonómicas y provinciales con la estatal y un plan estatal para ayudar a la modernización de las provinciales. Propuestas 01 / 06",
+          "docling_refs": [
+            "#/texts/241"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 8; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-064": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            9
+          ],
+          "snippet": "Estación intermodal de Teruel, combinando ferrocarril, autovía y aeropuerto. De acuerdo con los estudios previos del Ministerio; entre PLATEA, el aeropuerto y la N-234.",
+          "docling_refs": [
+            "#/texts/248",
+            "#/texts/249",
+            "#/texts/250",
+            "#/texts/251",
+            "#/texts/252",
+            "#/texts/253"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 9; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-067": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            9
+          ],
+          "snippet": "Tren directo Teruel–Madrid, con trenes de altas prestaciones, en ambas direcciones y de forma inmediata.",
+          "docling_refs": [
+            "#/texts/248",
+            "#/texts/249",
+            "#/texts/250",
+            "#/texts/251",
+            "#/texts/252",
+            "#/texts/253"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 9; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-068": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "teruel-existe-069": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            9
+          ],
+          "snippet": "Transporte por carretera. No perder líneas ni paradas en el Plan estatal de viajeros, modernizar el servicio y desarrollar el transporte bajo demanda para que nadie se quede sin transporte público en el medio rural. Sistemas integrados, con información actualizada al usuario.",
+          "docling_refs": [
+            "#/texts/268"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 9; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-070": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            9
+          ],
+          "snippet": "Internet para todos. Cumplir el Mecanismo «Conectar Europa»: nodos de fibra a menos de 20 km de cada población y al menos 300 Mbps simétricos en zonas rurales, usando las ayudas estatales para llevar fibra o accesos equivalentes a las zonas blancas NGA.",
+          "docling_refs": [
+            "#/texts/269"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 9; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-072": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            9
+          ],
+          "snippet": "Digitalización. Formación en competencias digitales, estudios universitarios y de FP centrados en digitalización, administración electrónica accesible, digitalización de agricultura, industria, turismo, sanidad y educación, y más seguridad digital. Propuestas 01 / 06",
+          "docling_refs": [
+            "#/texts/273"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 9; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-073": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            10
+          ],
+          "snippet": "Agricultura familiar frente a los fondos de inversión. Defenderemos la agricultura familiar frente a la uberización del campo y frente a fondos de inversión que solo buscan rentabilizar la tierra, sin fijar población ni generar riqueza local.",
+          "docling_refs": [
+            "#/texts/287"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 10; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-074": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            10
+          ],
+          "snippet": "Prioridad agrícola. La tierra y el agua, antes para la agricultura que para proyectos tecnológicos que no dejan retorno real en el territorio.",
+          "docling_refs": [
+            "#/texts/289"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 10; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-076": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            10
+          ],
+          "snippet": "Ganadería extensiva. Apoyo extraordinario, por su aportación a la biodiversidad y a la limpieza de los montes, que durante milenios han protegido el territorio del fuego.",
+          "docling_refs": [
+            "#/texts/292"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 10; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-077": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            10
+          ],
+          "snippet": "Precios justos y valor añadido. Defenderemos precios justos, modernizaremos el sector agroalimentario y reforzaremos su peso en los beneficios de la cadena alimentaria.",
+          "docling_refs": [
+            "#/texts/293"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 10; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-078": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            10
+          ],
+          "snippet": "Una PAC más equilibrada. Revisar y equiparar las diferencias de asignación entre actividades y estratos similares de distintos territorios colindantes, y compensar las que la PAC 2023-2027 no ha corregido. Pagar por lo que se produce hoy, no por lo que se sembraba hace veinte años.",
+          "docling_refs": [
+            "#/texts/294"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 10; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-079": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            10
+          ],
+          "snippet": "Ciencia agroalimentaria. Una política de I+D+i centrada en el sector agroalimentario y la silvicultura, coordinada por los institutos tecnológicos, con más bioseguridad en las explotaciones.",
+          "docling_refs": [
+            "#/texts/300"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 10; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-084": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            10
+          ],
+          "snippet": "Agua en Aragón. Adaptar el Pacto del Agua al cambio climático y garantizar las demandas de los afectados por embalses, la reserva estratégica y los caudales para cada uso y los ecológicos. Defender los embalses, canales y regadíos que sean sostenibles social, ecológica y económicamente.",
+          "docling_refs": [
+            "#/texts/308"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 10; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-085": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            10
+          ],
+          "snippet": "Agua en Teruel. Defensa de los usuarios del Guadalope ante la CHE tras liberar a ENDESA de sus obligaciones en el pantano de Santolea. Completar la elevación de aguas del Ebro a la zona de Andorra sin limitar usos. Balsas laterales en el Matarraña. Propuestas 01 / 06",
+          "docling_refs": [
+            "#/texts/281",
+            "#/texts/282",
+            "#/texts/283",
+            "#/texts/284",
+            "#/texts/285",
+            "#/texts/286"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 10; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-086": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            11
+          ],
+          "snippet": "Riberas y dominio público hidráulico. Mantenimiento, limpieza y conservación de la vegetación natural, así como de los cauces; parque lineal y usos lúdico-deportivos en el embalse de Lechago.",
+          "docling_refs": [
+            "#/texts/312",
+            "#/texts/313",
+            "#/texts/314",
+            "#/texts/315",
+            "#/texts/316",
+            "#/texts/317"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 11; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-093": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            11
+          ],
+          "snippet": "Desconcentración de empresas. Exigiremos que las empresas que reciben ayudas públicas se desconcentren, y atraeremos capital humano cualificado.",
+          "docling_refs": [
+            "#/texts/335"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 11; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-094": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            5
+          ],
+          "snippet": "Ayudas al funcionamiento de las empresas y autónomos en la provincia de Teruel, en los niveles máximos autorizados por la UE (20% de los costes laborales) y mejora en las retribuciones de los empleados",
+          "docling_refs": [
+            "#/texts/136"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 5; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-097": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            11
+          ],
+          "snippet": "Economía social y solidaria. Las personas por delante de los beneficios. Los pequeños comercios y bares de localidades de menos de 200 habitantes dirigidos al mercado local serán reconocidos como economía de alto contenido social y recibirán ayudas y tratamiento fiscal específico por su función.",
+          "docling_refs": [
+            "#/texts/339"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 11; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-098": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            11
+          ],
+          "snippet": "Turismo rural con medidas concretas según el potencial de cada zona, y su digitalización.",
+          "docling_refs": [
+            "#/texts/341"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 11; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-099": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            11
+          ],
+          "snippet": "LEADER. Más financiación para los Grupos de Acción Local. Propuestas 01 / 06",
+          "docling_refs": [
+            "#/texts/343"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 11; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-105": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            12
+          ],
+          "snippet": "Universidad en el territorio. Más investigación sobre el entorno, más transferencia de conocimiento, nuevos proyectos de formación e investigación en los campus y más grados y másteres. Apoyo a UNIZAR para la creación de los grados de Ingeniería Aeronáutica y de Medicina. Consolidar la extensión de la UNED por la provincia (Teruel, Alcañiz, Calamocha).",
+          "docling_refs": [
+            "#/texts/360"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 12; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-106": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            12
+          ],
+          "snippet": "Centros de ciencia e investigación en la provincia. Potenciaremos el Instituto de Investigación Astrofísica de Teruel, el CEFCA con su Observatorio Astronómico de Javalambre y la red del CSIC en Aragón, y sus sinergias con universidades y empresas, así como otros institutos vinculados al Gobierno de Aragón.",
+          "docling_refs": [
+            "#/texts/362"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 12; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-107": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            12
+          ],
+          "snippet": "Centro Nacional de Investigación sobre Paleontología de dinosaurios, a partir del trabajo de la Fundación Conjunto Paleontológico de Teruel-Dinópolis, y de la Unidad de Paleontología de Dinosaurios, ya creada a instancias de Teruel Existe.",
+          "docling_refs": [
+            "#/texts/364"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 12; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-109": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            12
+          ],
+          "snippet": "Centro Nacional de Diseño Contemporáneo “Manuel Pertegaz”. Creación de mencionado centro, con sedes en Olba y Teruel, a partir de la exposición de la obra y legado del modisto turolense, que incluiría también docencia, investigación, talleres de Propuestas 01 / 06",
+          "docling_refs": [
+            "#/texts/368"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 12; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-110": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            13
+          ],
+          "snippet": "Desarrollo de la iniciativa “Power Experience”, para la dinamización económica y cultural de la provincia a partir de la protección y recuperación del patrimonio industrial minero de las comarcas turolenses, con la participación del Instituto de Transición Justa y el propio Ministerio de Transición Ecológica y Reto Demográfico.",
+          "docling_refs": [
+            "#/texts/374"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 13; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-111": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            13
+          ],
+          "snippet": "Teruel, ciudad de museos. Impulsar Teruel como destino de turismo cultural de calidad en torno a actividad museística, que podría articularse en el eje ribera del río-avda. Zaragoza con el Centro Pertegaz + Museo Nacional de Etnografía + Museo de la Guerra Civil.",
+          "docling_refs": [
+            "#/texts/370",
+            "#/texts/371",
+            "#/texts/372",
+            "#/texts/373",
+            "#/texts/374",
+            "#/texts/375"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 13; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-112": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            13
+          ],
+          "snippet": "Cultura en red. Redes de patrimonio cultural y natural, bibliotecas, creación literaria, artística, musical y científica, fomento de la lectura y festivales que dinamizan el medio rural. Turismo cultural en pueblos y ciudades pequeñas, y patrimonio material e inmaterial protegido según la legislación de la UNESCO, la UE y la Constitución.",
+          "docling_refs": [
+            "#/texts/377"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 13; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-115": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            13
+          ],
+          "snippet": "Pacto de Estado por el Desarrollo Rural, la Repoblación y el Reequilibrio Territorial, con un mecanismo estable de financiación, que destine anualmente, durante 30 años, al menos el equivalente al 2% del PIB para corregir los desequilibrios territoriales internos.",
+          "docling_refs": [
+            "#/texts/370",
+            "#/texts/371",
+            "#/texts/372",
+            "#/texts/373",
+            "#/texts/374",
+            "#/texts/375"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 13; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-116": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            13
+          ],
+          "snippet": "Fiscalidad diferenciada positiva. En localidades de menos de 5.000 habitantes de zonas afectadas por la despoblación, los residentes y propietarios de rentas bajas y medias podrán quedar exentos del IBI si utilizan o alquilan sus viviendas y ver reducido en un 80 % el impuesto de transmisiones patrimoniales al comprar vivienda. El Estado compensará a cada administración local los ingresos que deje de percibir por las exenciones de IBI. Igualmente, a estos residentes se les podrá reducir en un 25% la cuota del IRPF.",
+          "docling_refs": [
+            "#/texts/389"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 13; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-117": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            13
+          ],
+          "snippet": "Plan 300/30/30. 300 megas simétricos y cobertura móvil en todos los municipios; servicios públicos básicos (sanidad, educación, servicios sociales, seguridad) a un máximo de 30 minutos; y vía de alta capacidad a no más de 30 kilómetros.",
+          "docling_refs": [
+            "#/texts/370",
+            "#/texts/371",
+            "#/texts/372",
+            "#/texts/373",
+            "#/texts/374",
+            "#/texts/375"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 13; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-120": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            13
+          ],
+          "snippet": "Complemento de territorialidad para empleados públicos en zonas menos pobladas y subida salarial en las plazas de difícil cobertura. Propuestas 01 / 06",
+          "docling_refs": [
+            "#/texts/394"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 13; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-122": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            14
+          ],
+          "snippet": "Empleo y teletrabajo. Apoyo a todos los sectores económicos del medio rural, sobre todo a los basados en recursos endógenos, y fomento del teletrabajo, en la Administración y en el sector privado, para fijar población.",
+          "docling_refs": [
+            "#/texts/399"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 14; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-124": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            14
+          ],
+          "snippet": "Orgullo rural. Más participación ciudadana en las decisiones y un relato positivo del medio rural. Promover un cambio cultural.",
+          "docling_refs": [
+            "#/texts/401"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 14; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-125": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            3
+          ],
+          "snippet": "Moratoria en grandes parques renovables y líneas de muy alta tensión, para ordenar el proceso. Oposición al cluster del Maestrazgo, los parques eólicos en el Matarraña y en la Sierra de Albarracín.",
+          "docling_refs": [
+            "#/texts/87"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 3; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-126": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            3
+          ],
+          "snippet": "Ordenación del despliegue. Aplicaremos la normativa ambiental, de ordenación del territorio y de paisaje, con un nuevo modelo físico de implantación que respete los derechos de los propietarios del suelo y compense a las comunidades locales. Los macroparques pagarán un canon que se destinará al desarrollo local.",
+          "docling_refs": [
+            "#/texts/89"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 3; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-128": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            14
+          ],
+          "snippet": "Espacios naturales protegidos y Red Natura 2000, hoy amenazados por el despliegue de renovables. Debe impulsarse la creación de parques naturales en la provincia y figuras de protección más potentes para nuestros mejores paisajes (Maestrazgo, Pinares de Rodeno, Puertos de Beceite).",
+          "docling_refs": [
+            "#/texts/413"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 14; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-130": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            14
+          ],
+          "snippet": "Recursos naturales. Reducir el uso de recursos y la presión sobre el medio, avanzar hacia un crecimiento regenerativo y acelerar la economía circular.",
+          "docling_refs": [
+            "#/texts/417"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 14; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-131": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            14
+          ],
+          "snippet": "Conciliación y corresponsabilidad. Impulsaremos políticas que faciliten la conciliación de la vida laboral, personal y familiar, fomentando el teletrabajo y la flexibilidad laboral, así como el reparto corresponsable de los cuidados y las tareas domésticas entre mujeres y hombres. Garantizaremos servicios y recursos de apoyo a la conciliación, especialmente en el medio rural, para que ninguna mujer tenga que renunciar a su desarrollo profesional por asumir responsabilidades familiares. Propuestas 01 / 06",
+          "docling_refs": [
+            "#/texts/422"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 14; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-132": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            15
+          ],
+          "snippet": "Igualdad laboral en el empleo, en los puestos de responsabilidad y en los salarios, y medidas para facilitar el acceso al empleo de mujeres con hijos e hijas, mayores o dependientes a su cargo.",
+          "docling_refs": [
+            "#/texts/424",
+            "#/texts/425",
+            "#/texts/426",
+            "#/texts/427",
+            "#/texts/428",
+            "#/texts/429"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 15; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-134": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            15
+          ],
+          "snippet": "Natalidad y crianza. Reparto de la crianza, ampliación del permiso de lactancia hasta un año con disfrute acumulativo, emancipación de los jóvenes, ayuda a domicilio, flexibilidad horaria, días de asuntos propios y jornada continuada por cuidado de hijos, y educación infantil de 0 a 3 años.",
+          "docling_refs": [
+            "#/texts/428"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 15; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-135": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            15
+          ],
+          "snippet": "Violencia de género. Garantizar el cumplimiento íntegro, la actualización y el seguimiento del Pacto de Estado contra la Violencia de Género, reforzando la educación, la prevención, la atención y la protección de las víctimas. Asegurar que las medidas y recursos lleguen a todos los territorios, adaptándose a las necesidades y particularidades del medio rural, para que ninguna mujer quede desprotegida por vivir en un municipio pequeño o alejado.",
+          "docling_refs": [
+            "#/texts/430"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 15; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-137": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            15
+          ],
+          "snippet": "Comportamiento de partidos y representantes públicos. Principios democráticos y Carta de los Derechos Fundamentales de la UE como referencia, y fin de la deshumanización de los adversarios políticos.",
+          "docling_refs": [
+            "#/texts/439"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 15; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-139": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            15
+          ],
+          "snippet": "Buen gobierno. Participación ciudadana, transparencia, rendición de cuentas y políticas antifraude efectivas contra la corrupción.",
+          "docling_refs": [
+            "#/texts/442"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 15; extracción Docling intercalada/fragmentada en columna)."
+    },
+    "teruel-existe-140": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            15
+          ],
+          "snippet": "Democracia de proximidad. Elección directa de los representantes en las diputaciones provinciales y en las entidades comarcales. Propuestas 01 / 06",
+          "docling_refs": [
+            "#/texts/444"
+          ]
+        }
+      ],
+      "clear_flags": [
+        "texto_no_literal"
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-16",
+      "note": "Verificada íntegramente frente al PDF oficial (pág. 15; extracción Docling intercalada/fragmentada en columna)."
+    }
+  }
+}

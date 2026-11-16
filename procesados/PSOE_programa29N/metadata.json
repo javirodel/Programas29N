@@ -1,0 +1,20 @@
+{
+  "archivo_original": "PSOE_programa29N.pdf",
+  "nombre": "PSOE_programa29N",
+  "sha256": "e9c8341339538b550641b6ddb1c3fdfeef7fda6a8a1a4be9e8d6a44cbc229bf5",
+  "fecha_procesamiento": "2026-11-15T22:37:36+0100",
+  "herramienta": "Docling (PyPdfiumBackend)",
+  "formatos": [
+    "md",
+    "json",
+    "txt"
+  ],
+  "paginas": 114,
+  "duracion_segundos": 306.71,
+  "tamano_bytes": {
+    "pdf": 11983706,
+    "md": 269152,
+    "json": 1726579,
+    "txt": 266102
+  }
+}

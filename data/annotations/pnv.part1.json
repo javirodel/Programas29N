@@ -1,0 +1,303 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "pnv",
+  "entries": {
+    "pnv-001": {
+      "status": "corregida",
+      "summary": "Propone agilizar los trámites urbanísticos con plazos razonables y garantías legales para facilitar la construcción de nuevas viviendas y aumentar la oferta disponible.",
+      "arguments_for": "Según datos del Observatorio Vasco de la Vivienda, la vivienda nueva iniciada en Euskadi cayó un 34 % en 2025 hasta 1.395 unidades, mientras el precio medio de la vivienda libre ronda los 3.489 €/m², lo que muestra una fuerte restricción de oferta nueva.",
+      "arguments_against": "De acuerdo con el artículo 10.31 del Estatuto de Gernika y la doctrina constitucional (STC 61/1997), el urbanismo, la ordenación del territorio y la vivienda son competencia exclusiva de Euskadi, por lo que el grueso de la tramitación urbanística depende de normas autonómicas y municipales, no estatales.",
+      "sources_for": [
+        {
+          "title": "La vivienda nueva iniciada cae un 34% en Euskadi en 2025, pero aumenta la vivienda protegida hasta las 1.034 unidades",
+          "publisher": "Gobierno Vasco (Observatorio Vasco de la Vivienda)",
+          "url": "https://www.euskadi.eus/gobierno-vasco/-/noticia/2026/la-vivienda-nueva-iniciada-cae-34-euskadi-2025-pero-aumenta-vivienda-protegida-1-034-unidades-segundo-mejor-dato-2015/",
+          "date": "2026"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Competencias de Euskadi (Estatuto de Gernika, art. 10.31)",
+          "publisher": "Gobierno Vasco",
+          "url": "https://www.euskadi.eus/contenidos/informacion/estatuto_de_gernika/es_def/adjuntos/competencias_euskadi.pdf"
+        },
+        {
+          "title": "Sentencia del Tribunal Constitucional 61/1997, de 20 de marzo",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-T-1997-8872",
+          "date": "1997-04-25"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles al PDF (p. 7). Corregida la explicación (añadía leyes y detalles de informes sectoriales ausentes en el texto) y actualizados los argumentos con cifras verificadas del OVV (2025) y doctrina constitucional."
+    },
+    "pnv-002": {
+      "status": "corregida",
+      "summary": "Plantea movilizar viviendas vacías y rehabilitar edificios existentes para incrementar la oferta residencial en el mercado.",
+      "arguments_for": "Según la Encuesta sobre el Uso de la Vivienda del Gobierno Vasco, aunque Euskadi tiene un parque relativamente movilizado, existen algo más de 25.000 viviendas deshabitadas potencialmente gestionables que podrían reforzar la oferta de alquiler en zonas de alta demanda.",
+      "arguments_against": "El estudio del INE sobre vivienda vacía refleja que Euskadi presenta un 6,5 % de viviendas vacías (69.952 unidades), una de las tasas más bajas de España frente a una media estatal superior al 14 %, por lo que el margen adicional de movilización mediante el canon autonómico existente (Decreto 149/2021) es limitado.",
+      "sources_for": [
+        {
+          "title": "Estadística sobre la Vivienda Vacía de la CAE",
+          "publisher": "Observatorio Vasco de la Vivienda (Gobierno Vasco)",
+          "url": "https://observatoriovivienda.euskadi.eus/estadistica/tablas-estadisticas-de-la-estadistica-sobre-vivienda-vacia-de-cae/webovv00-content/es/"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "El parque de viviendas vacías en España y en Euskadi (Censo INE)",
+          "publisher": "Observatorio Vasco de la Vivienda (Gobierno Vasco)",
+          "url": "https://observatoriovivienda.euskadi.eus/contenidos/documentacion/ovv_vv_estado_23/es_def/adjuntos/INE_vivienda_vacia.pdf",
+          "date": "2023"
+        },
+        {
+          "title": "Decreto 149/2021, de vivienda deshabitada",
+          "publisher": "Boletín Oficial del País Vasco (BOPV)",
+          "url": "https://www.euskadi.eus/web01-bopv/es/p43aBOPVWebWar/VerParalelo.do?cd2021006319",
+          "date": "2021"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles al PDF (p. 7). Corregida la explicación (añadía programas e incentivos concretos no citados) y ajustadas las cifras de vivienda vacía según datos oficiales del OVV e INE."
+    },
+    "pnv-003": {
+      "status": "corregida",
+      "summary": "Propone evitar el uso fraudulento de los contratos de arrendamiento de temporada cuando se emplean para eludir las garantías legales del alquiler de vivienda habitual.",
+      "arguments_for": "Tras la aplicación de topes de renta en zonas tensionadas como Donostia-San Sebastián, estudios del sector y análisis recogidos en prensa indican que los contratos de temporada y por habitaciones han llegado a superar la mitad de los anuncios en varios mercados urbanos para esquivar prórrogas y límites de la LAU.",
+      "arguments_against": "Operadores inmobiliarios y estudios jurídicos advierten de que restringir o asimilar en exceso los contratos temporales a los habituales puede retraer la oferta de propietarios que sí necesitan disponibilidad a medio plazo o atienden demanda estacional legítima, además de que la jurisprudencia ya permite anular la simulación bajo el art. 6.4 del Código Civil.",
+      "sources_for": [
+        {
+          "title": "El alquiler de temporada y por habitaciones engulle la oferta de pisos y copa más de la mitad de los anuncios",
+          "publisher": "20 Minutos",
+          "url": "https://www.20minutos.es/nacional/alquiler-temporada-por-habitaciones-engulle-oferta-pisos-copa-mas-mitad-los-anuncios_7058868_0.html"
+        },
+        {
+          "title": "Simulador y consulta de zonas de mercado residencial tensionado",
+          "publisher": "Gobierno Vasco",
+          "url": "https://eremutentsionatua.euskadi.eus/webzte00-indicesreferencia/es/"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "El sector inmobiliario cree que se abusa del alquiler temporal para escapar de las limitaciones",
+          "publisher": "El Diario Vasco",
+          "url": "https://www.diariovasco.com/gipuzkoa/sector-inmobilario-cree-abusa-alquiler-temporal-escapar-20260902064516-nt.html",
+          "date": "2026-09-02"
+        },
+        {
+          "title": "Fraude en falsos alquileres de temporada y protección de inquilinos",
+          "publisher": "Confilegal",
+          "url": "https://confilegal.com/20261027-fraude-falsos-alquileres-temporada-proteccion-inquilinos/",
+          "date": "2026-10-27"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Medida ya verificada en data/reviews/pnv.json; título y texto literales (p. 8). Corregida la explicación (añadía reformas específicas del art. 3 LAU no escritas en el programa) y contrastados los argumentos."
+    },
+    "pnv-004": {
+      "status": "corregida",
+      "summary": "Plantea regular los alquileres de temporada y turísticos con el fin de evitar que reduzcan el parque de viviendas disponible para alquiler residencial habitual.",
+      "arguments_for": "Aunque en el conjunto de Euskadi las viviendas turísticas activas medidas por el INE rondan algo más de 5.000 unidades, se concentran fuertemente en Donostia-San Sebastián (en torno al 1,4 % del parque) y Bilbao (0,7-0,8 %), tensionando los barrios céntricos con alquileres más caros.",
+      "arguments_against": "Según la estadística experimental del INE, las viviendas turísticas representan apenas entre el 0,4 % y el 0,47 % del parque total residencial vasco —una de las proporciones más bajas de España—, por lo que limitarlas tiene un impacto agregado reducido frente al déficit general de vivienda en alquiler.",
+      "sources_for": [
+        {
+          "title": "El Observatorio Vasco de la Vivienda analiza 137.123 viviendas principales en alquiler en Euskadi",
+          "publisher": "Gobierno Vasco (OVV)",
+          "url": "https://www.euskadi.eus/gobierno-vasco/-/noticia/2026/el-observatorio-vasco-vivienda-ovv-analiza-137-123-viviendas-principales-alquiler-euskadi-y-constata-que-precio-es-principal-dificultad-acceso/",
+          "date": "2026"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Medición del número de viviendas turísticas en España (Estadística experimental)",
+          "publisher": "Instituto Nacional de Estadística (INE)",
+          "url": "https://ine.es/experimental/viv_turistica/experimental_viv_turistica.htm"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Medida ya verificada en data/reviews/pnv.json; título y texto literales (p. 8). Corregida la explicación (atribuía normas concretas no citadas) y contrastados los datos de VUT con INE y OVV."
+    },
+    "pnv-005": {
+      "status": "corregida",
+      "summary": "Propone reducir las prácticas especulativas que encarecen la vivienda y obstaculizan tanto el alquiler como la compra residencial.",
+      "arguments_for": "Según datos notariales recogidos en prensa y por el Colegio Notarial del País Vasco, en torno a la mitad de las compraventas de vivienda en Euskadi se realizan sin hipoteca y el encarecimiento sostenido del metro cuadrado dificulta el acceso de los hogares asalariados al mercado libre.",
+      "arguments_against": "Según la encuesta ENALQ del Observatorio Vasco de la Vivienda, cerca del 80 % de las viviendas en alquiler en Euskadi pertenecen a personas físicas particulares (74,6 % un único propietario y 4,7 % cotitulares), por lo que medidas pensadas para grandes inversores pueden generar incertidumbre en pequeños arrendadores.",
+      "sources_for": [
+        {
+          "title": "Los altos precios frenan el mercado de la vivienda en Euskadi",
+          "publisher": "Colegio Notarial del País Vasco",
+          "url": "https://paisvasco.notariado.org/portal/-/noticias-de-%C3%81lava-los-altos-precios-frenan-el-mercado-de-la-vivienda-en-euskadi"
+        },
+        {
+          "title": "La mitad de los pisos se compra sin hipoteca en Euskadi",
+          "publisher": "elDiario.es",
+          "url": "https://www.eldiario.es/euskadi/euskadi/mitad-pisos-compra-hipoteca-euskadi_1_5848600.html"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "El Observatorio Vasco de la Vivienda analiza 137.123 viviendas principales en alquiler en Euskadi",
+          "publisher": "Gobierno Vasco (OVV)",
+          "url": "https://www.euskadi.eus/gobierno-vasco/-/noticia/2026/el-observatorio-vasco-vivienda-ovv-analiza-137-123-viviendas-principales-alquiler-euskadi-y-constata-que-precio-es-principal-dificultad-acceso/",
+          "date": "2026"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles al PDF (p. 8). Corregida la explicación (añadía menciones a fondos buitre y la Ley 3/2015 ausentes en el texto) y ajustadas las cifras al OVV (80 % particulares, no 93 %) y Notariado."
+    },
+    "pnv-006": {
+      "status": "corregida",
+      "summary": "Busca dotar de seguridad jurídica tanto a las personas inquilinas como a los pequeños propietarios con el objetivo de fomentar el mercado de alquiler de vivienda habitual.",
+      "arguments_for": "En Euskadi, donde alrededor del 80 % de los arrendadores son pequeños propietarios particulares según el OVV, reforzar la certidumbre jurídica frente a impagos y conflictos contractuales incentiva que los pisos disponibles permanezcan en el alquiler residencial estable en lugar de desviarse a modalidades temporales.",
+      "arguments_against": "El Banco de España advierte que mantener controles de precios prolongados o modificar de forma asimétrica las reglas contractuales puede reducir la oferta de alquiler de larga duración, mientras que las asociaciones de inquilinos señalan que agilizar desahucios sin suficiente parque público social aumenta la vulnerabilidad residencial.",
+      "sources_for": [
+        {
+          "title": "El Observatorio Vasco de la Vivienda analiza 137.123 viviendas principales en alquiler en Euskadi",
+          "publisher": "Gobierno Vasco (OVV)",
+          "url": "https://www.euskadi.eus/gobierno-vasco/-/noticia/2026/el-observatorio-vasco-vivienda-ovv-analiza-137-123-viviendas-principales-alquiler-euskadi-y-constata-que-precio-es-principal-dificultad-acceso/",
+          "date": "2026"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "De los topes al alquiler a los avales públicos: el Banco de España analiza el impacto de las medidas de vivienda",
+          "publisher": "Idealista News (citando al Banco de España)",
+          "url": "https://www.idealista.com/news/inmobiliario/vivienda/2026/06/19/902707-de-los-topes-al-alquiler-a-los-avales-publicos-el-banco-de-espana-desinfla-el",
+          "date": "2026-06-19"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles al PDF (p. 8). Corregida la explicación (añadía ocupación ilegal y programas no mencionados) y eliminadas cifras no verificadas de demora judicial."
+    },
+    "pnv-007": {
+      "status": "corregida",
+      "summary": "Propone garantizar alternativas habitacionales a las familias vulnerables evitando que toda la carga de esa protección recaiga sobre los pequeños propietarios.",
+      "arguments_for": "Tanto el Defensor del Pueblo como análisis jurídicos del Consejo General de la Abogacía han señalado la tensión sobre la seguridad jurídica y el derecho de propiedad cuando las prórrogas extraordinarias de suspensión de lanzamientos (desde el RDL 11/2020) se prolongan sin realojo efectivo ni compensación ágil.",
+      "arguments_against": "Garantizar un realojo inmediato exige un parque público de emergencia y alquiler social suficiente; aunque la Ley 3/2015 de Vivienda de Euskadi prioriza el alquiler público y el derecho subjetivo, la demanda inscrita en Etxebide supera ampliamente la disponibilidad inmediata en los municipios más tensionados.",
+      "sources_for": [
+        {
+          "title": "Seis años de prórrogas: la suspensión de lanzamientos por vulnerabilidad tensiona el equilibrio entre propiedad y vivienda",
+          "publisher": "Consejo General de la Abogacía Española",
+          "url": "https://www.abogacia.es/publicaciones/blogs/blog-de-derecho-de-los-los-consumidores/seis-anos-de-prorrogas-la-suspension-de-lanzamientos-por-vulnerabilidad-tensiona-el-equilibrio-entre-propiedad-y-vivienda/"
+        },
+        {
+          "title": "Resolución sobre recurso de inconstitucionalidad frente al RDL 20/2022 (suspensión de desahucios)",
+          "publisher": "Defensor del Pueblo",
+          "url": "https://www.defensordelpueblo.es/wp-content/uploads/2023/05/2_RI-RDL-20-2022_1.pdf",
+          "date": "2023-05"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Ley 3/2015, de 18 de junio, de Vivienda del País Vasco (texto consolidado)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/pdf/2015/BOE-A-2015-7802-consolidado.pdf",
+          "date": "2015"
+        },
+        {
+          "title": "Servicio Vasco de Vivienda — Etxebide",
+          "publisher": "Gobierno Vasco",
+          "url": "https://www.etxebide.euskadi.eus/webetxe00-apps/es/x91aEtxebideWar/viviendasSegundasTransmision/seleccion/maint?locale=es"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles al PDF (p. 8). Corregida la explicación (atribuía reforma específica del RDL 11/2020 y Ley 12/2023 no citadas en la medida) y eliminadas cifras no verificadas de demora y parque de Alokabide."
+    },
+    "pnv-008": {
+      "status": "corregida",
+      "summary": "Plantea promover medidas específicas que faciliten el acceso de las personas jóvenes a su primera vivienda, tanto en alquiler como en propiedad.",
+      "arguments_for": "Según el Observatorio Vasco de la Juventud, la edad media de emancipación en Euskadi se sitúa en los 29,8 años —más de tres años por encima de la media de la UE-27— y solo el 32,3 % de las personas jóvenes de 18 a 34 años vive fuera del hogar familiar, debido en gran medida al coste de acceso a la vivienda.",
+      "arguments_against": "El Banco de España y análisis de organismos fiscales advierten de que las ayudas directas a la demanda juvenil (subvenciones al alquiler o avales hipotecarios a la entrada) pueden acabar trasladándose a mayores precios si no se incrementa simultáneamente la oferta de vivienda nueva.",
+      "sources_for": [
+        {
+          "title": "Euskadi debe subir su tasa de emancipación juvenil casi 18 puntos en cuatro años para llegar al 50% fijado para 2030",
+          "publisher": "Europa Press (citando al Observatorio Vasco de la Juventud)",
+          "url": "https://www.europapress.es/euskadi/noticia-euskadi-debe-subir-tasa-emancipacion-juvenil-casi-18-puntos-cuatro-anos-llegar-50-fijado-2030-20251013125806.html",
+          "date": "2025-10-13"
+        },
+        {
+          "title": "El Gobierno Vasco fija el adelanto de la edad de emancipación juvenil hacia la media de la UE-27",
+          "publisher": "Gobierno Vasco",
+          "url": "https://www.euskadi.eus/gobierno-vasco/-/noticia/2023/el-gobierno-vasco-ha-fijado-centro-sus-prioridades-adelanto-edad-emancipacion-personas-jovenes-situarlo-2030-nivel-que-se-situa-media-ue-27-50-6/",
+          "date": "2023"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "De los topes al alquiler a los avales públicos: el Banco de España analiza las políticas de vivienda",
+          "publisher": "Idealista News (citando al Banco de España)",
+          "url": "https://www.idealista.com/news/inmobiliario/vivienda/2026/06/19/902707-de-los-topes-al-alquiler-a-los-avales-publicos-el-banco-de-espana-desinfla-el",
+          "date": "2026-06-19"
+        },
+        {
+          "title": "Aumentar la oferta y facilitar el ahorro, claves para el acceso de los jóvenes a la vivienda",
+          "publisher": "Capital (citando al Banco de España)",
+          "url": "https://capital.es/economia/aumentar-la-oferta-y-facilitar-el-ahorro-son-claves-para-el-acceso-de-los-jovenes-a-la-vivienda/234860/"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles al PDF (p. 8). Corregida la explicación (añadía programas ICO, Gaztelagun y Emantzipa no citados) y ajustada la edad de emancipación al dato verificado (29,8 años y 32,3 %)."
+    },
+    "pnv-009": {
+      "status": "corregida",
+      "summary": "Propone garantizar que las políticas públicas de vivienda incluyan diversas vías de emancipación para las personas jóvenes, evitando que el alquiler protegido sea la única alternativa disponible.",
+      "arguments_for": "Aunque la tasa de propiedad juvenil ha caído de forma acusada en España por la dificultad para reunir el ahorro previo de entrada, facilitar fórmulas variadas de acceso (incluyendo compra protegida o tasada junto al alquiler) responde a la demanda de quienes tienen capacidad de pago mensual estable pero no acceden al mercado libre.",
+      "arguments_against": "La Ley 3/2015 de Vivienda del País Vasco priorizó presupuestariamente el parque público de alquiler precisamente para conservar la titularidad pública y garantizar la rotación hacia nuevas cohortes de solicitantes, mientras que destinar suelo o recursos a propiedad reduce el patrimonio público permanente.",
+      "sources_for": [
+        {
+          "title": "Aumentar la oferta y facilitar el ahorro, claves para el acceso de los jóvenes a la vivienda",
+          "publisher": "Capital (citando al Banco de España)",
+          "url": "https://capital.es/economia/aumentar-la-oferta-y-facilitar-el-ahorro-son-claves-para-el-acceso-de-los-jovenes-a-la-vivienda/234860/"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Ley 3/2015, de 18 de junio, de Vivienda del País Vasco (texto consolidado)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/pdf/2015/BOE-A-2015-7802-consolidado.pdf",
+          "date": "2015"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles al PDF (p. 8). Corregida la explicación (añadía cooperativas, ADAs y crítica explícita a la Ley 3/2015 ausentes en el texto) y eliminadas cifras no verificadas de renta (>70 %, <28 %)."
+    },
+    "pnv-010": {
+      "status": "corregida",
+      "summary": "Plantea impulsar medidas que refuercen el vínculo entre formación y empleo para facilitar la inserción de las personas jóvenes en puestos de trabajo de calidad acordes con su cualificación.",
+      "arguments_for": "Según datos oficiales del Gobierno Vasco y Eustat, la formación superior actúa como un factor clave frente al desempleo juvenil y ha contribuido a situar el paro de la juventud vasca (16-29 años) en niveles mínimos de los últimos quince años, aunque persiste el reto de ajustar la oferta formativa a puestos cualificados.",
+      "arguments_against": "Las evaluaciones del gasto público (Spending Review) de la AIReF advierten de que las bonificaciones generalizadas a la contratación juvenil tienen un impacto modesto sobre la empleabilidad a largo plazo y generan un elevado efecto «peso muerto» al subvencionar empleos que las empresas habrían creado igualmente.",
+      "sources_for": [
+        {
+          "title": "La tasa de paro de la juventud vasca de 16 a 29 años alcanza el nivel más bajo de los últimos quince años",
+          "publisher": "Gobierno Vasco (Eustat)",
+          "url": "https://www.euskadi.eus/noticia/2025/la-tasa-de-paro-de-la-juventud-vasca-de-16-a-29-anos-en-el-cuarto-trimestre-de-2024-es-la-mas-baja-de-los-ultimos-quince-anos/web01-ejeduki/es/",
+          "date": "2025"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "La AIReF cuestiona la eficacia de los incentivos públicos a la contratación por su efecto peso muerto",
+          "publisher": "Diario de Sevilla (citando Spending Review AIReF)",
+          "url": "https://www.diariodesevilla.es/economia/Airef-eficacia-incentivos-publicos-contratacion_0_1510349594.html"
+        },
+        {
+          "title": "La AIReF recomienda reducir los incentivos a la contratación por su baja eficacia",
+          "publisher": "Vozpópuli (citando AIReF)",
+          "url": "https://www.vozpopuli.com/economia/airef-incentivos-contratacion-reformas_0_1400860402.html"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial y título fieles al PDF (p. 8). Corregida la explicación (añadía art. 11 ET y programas como Lehen Aukera no citados) y corregida la referencia al paro juvenil vasco según Eustat."
+    }
+  }
+}

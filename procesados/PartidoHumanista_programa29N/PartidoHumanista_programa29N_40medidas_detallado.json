@@ -1,0 +1,754 @@
+{
+  "nombre_partido": "Partido Humanista",
+  "siglas": "PH",
+  "titulo_programa": "Elecciones Generales 2026. Hay futuro si lo primero es la gente",
+  "fecha_publicacion": "2026-11-09",
+  "elecciones": "Elecciones Generales 29 de noviembre de 2026 (29N)",
+  "url_programa_oficial": "https://www.partidohumanista.es/Documentos/Programas/Programa%20Generales%202026.pdf",
+  "web_oficial": "https://www.partidohumanista.es",
+  "total_medidas": 40,
+  "total_bloques_comunes_con_medidas": 14,
+  "total_otros_bloques": 0,
+  "nota_metodologica": "El presente documento y su archivo JSON asociado recogen y analizan de forma íntegra y exhaustiva las 40 medidas programáticas que componen la propuesta electoral del Partido Humanista (PH) para las Elecciones Generales del 29 de noviembre de 2026. Se respeta escrupulosamente la estructura original en 11 bloques sectoriales y temáticos del programa oficial, desarrollando una por una cada propuesta concreta (incluyendo las propuestas de los bloques monográficos de Inteligencia Artificial y Libertad de Ideas y Creencias), sin omitir ni agrupar ninguna medida y vinculando cada una con los 19 bloques temáticos estandarizados para su comparación interpartidista.",
+  "bloques": [
+    {
+      "id_bloque": "bloque_01",
+      "numero_bloque": 1,
+      "titulo_bloque": "Vivienda, Urbanismo, Alquiler y Lucha contra la Okupación",
+      "alcance_medidas": "Medidas 5 a 9 (5 medidas)",
+      "total_medidas_bloque": 5,
+      "medidas_incluidas": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "explicacion_bloque": "Propuestas de vivienda del Bloque 2: Plan decenal de 2,5M de viviendas de alquiler social, prohibición a fondos buitre y fin de SOCIMIs, tope del 30% indexado, cesión obligatoria de pisos vacíos de grandes tenedores y blindaje procesal frente a desahucios.",
+      "medidas": [
+        {
+          "numero_medida": 5,
+          "id_medida": "PH-005",
+          "seccion_original": "2. Derecho a una Vivienda Digna",
+          "id_bloque_comun": "bloque_01",
+          "titulo_bloque_comun": "Vivienda, Urbanismo, Alquiler y Lucha contra la Okupación",
+          "titulo_medida": "Plan Estatal de Alquiler Social para crear 2,5 millones de viviendas públicas en 10 años",
+          "texto_oficial": "Inversión pública sostenida durante 10 años para incorporar 2,5 millones de viviendas al Parque Público de Alquiler Social, mediante edificación ecológica en suelo público, rehabilitación urbana y la incorporación forzosa de viviendas en manos de entidades financieras y Sareb.",
+          "explicacion_medida": "Propone un plan nacional decenal de inversión masiva del Estado para situar el parque de vivienda social en el 15%-20% del total nacional (homologándose a modelos como el de Viena), sumando 2,5 millones de viviendas públicas en régimen de alquiler asequible indefinido a través de la movilización de todo el suelo público disponible, industrialización ecológica de la construcción y la cesión forzosa del 100% de los activos residenciales de la Sareb y de las carteras adjudicadas a la banca rescatada.",
+          "datos_a_favor": "El parque de vivienda social en alquiler en España representa apenas el 2,5% del parque total (unas 290.000 viviendas) frente al 9,3% de media de la Unión Europea, el 17% en Francia, el 24% en Austria o el 30% en los Países Bajos según el Observatorio Europeo de la Vivienda. Esta anomalía estructural deja el mercado residencial a expensas de la especulación privada y obliga a más del 40% de los inquilinos a soportar una sobrecarga habitacional severa al destinar más del 40% de sus ingresos al alquiler.",
+          "datos_en_contra": "La Asociación de Promotores Constructores de España (APCE) y consultoras del sector estiman que construir o adquirir 2,5 millones de viviendas públicas en una década exigiría una inversión superior a los 250.000-300.000 millones de euros (entre 25.000 y 30.000 millones anuales), un esfuerzo fiscal equivalente a duplicar el gasto en infraestructuras de todo el país. Además, el sector constructor padece una grave escasez de mano de obra cualificada (con un déficit de más de 500.000 obreros) que impediría cumplir tales ritmos de entrega."
+        },
+        {
+          "numero_medida": 6,
+          "id_medida": "PH-006",
+          "seccion_original": "2. Derecho a una Vivienda Digna",
+          "id_bloque_comun": "bloque_01",
+          "titulo_bloque_comun": "Vivienda, Urbanismo, Alquiler y Lucha contra la Okupación",
+          "titulo_medida": "Prohibición de adquisición residencial a fondos buitre y derogación del régimen fiscal privilegiado de las SOCIMIs",
+          "texto_oficial": "Prohibición por ley de la adquisición de viviendas residenciales por parte de fondos de capital riesgo y fondos buitre. Derogación del régimen fiscal privilegiado de las SOCIMIs (Sociedades Anónimas Cotizadas de Inversión en el Mercado Inmobiliario), equiparando su tributación al tipo general del Impuesto de Sociedades.",
+          "explicacion_medida": "Propone vetar legalmente la compraventa de inmuebles residenciales a fondos de inversión internacionales, entidades de capital riesgo y corporaciones especulativas, reservando la adquisición de vivienda a personas físicas para uso habitual o a entidades públicas. Asimismo, deroga la Ley 11/2009 de las SOCIMIs, suprimiendo su gravamen especial del 0% en el Impuesto sobre Sociedades para que tributen al tipo general ordinario del 25% o 30%.",
+          "datos_a_favor": "Informes del Sindicato de Inquilinos y de la Plataforma de Afectados por la Hipoteca (PAH) demuestran que la proliferación de SOCIMIs y macrofondos (como Blackstone, Cerberus o Lone Star) tras la crisis de 2008 concentró decenas de miles de viviendas en carteras especulativas que aplican subidas agresivas del alquiler, expulsan a familias mediante no renovaciones de contrato y eluden millones de euros en impuestos gracias a su tributación al 0% en Sociedades.",
+          "datos_en_contra": "El Banco de España y patronales inmobiliarias argumentan que las SOCIMIs canalizan inversión institucional imprescindible para el desarrollo de promociones de alquiler profesional (*build to rent*) con altos estándares energéticos y de mantenimiento. Prohibir su actividad o elevar abruptamente su tributación podría provocar desinversiones masivas de capital internacional, litigios en tribunales europeos por vulnerar la libre circulación de capitales (art. 63 TFUE) y paralizar la construcción de nueva oferta en alquiler."
+        },
+        {
+          "numero_medida": 7,
+          "id_medida": "PH-007",
+          "seccion_original": "2. Derecho a una Vivienda Digna",
+          "id_bloque_comun": "bloque_01",
+          "titulo_bloque_comun": "Vivienda, Urbanismo, Alquiler y Lucha contra la Okupación",
+          "titulo_medida": "Regla del 30%: Tope legal vinculante al alquiler indexado a la renta media por código postal",
+          "texto_oficial": "Establecimiento de un límite máximo legal al precio del alquiler residencial: ningún contrato podrá superar el 30% de la renta media disponible del código postal correspondiente. Publicación obligatoria del Índice de Renta Máxima Residencial.",
+          "explicacion_medida": "Propone una reforma de la Ley de Arrendamientos Urbanos para establecer un tope de precios rígido y de obligado cumplimiento en todo el territorio nacional: el importe mensual del alquiler de cualquier vivienda no podrá superar el 30% del salario medio disponible declarado en el código postal de ubicación del inmueble. El Ministerio de Vivienda publicaría un Índice de Renta Máxima Residencial vinculante.",
+          "datos_a_favor": "Según datos de Eurostat y del Banco de España, el esfuerzo financiero para alquilar una vivienda en grandes capitales como Madrid, Barcelona, Valencia, Málaga o Palma de Mallorca supera el 50%-60% del salario mediano de los menores de 35 años, provocando que más de tres de cada cuatro jóvenes no puedan emanciparse antes de los 30 años. Fijar un límite del 30% devolvería los precios a niveles asumibles para la mayoría trabajadora y alinearía a España con los estándares de asequibilidad de Naciones Unidas.",
+          "datos_en_contra": "La evidencia empírica acumulada en ciudades como Berlín (con el *Mietendeckel* de 2020) o San Francisco demuestra que topar los precios de forma coercitiva provoca una drástica contracción de la oferta de alquiler permanente (hasta un 40% de caída) y un desvío masivo hacia el mercado de temporada, habitaciones o venta, perjudicando a los nuevos demandantes. Además, la doctrina del Tribunal Constitucional (STC 37/2022) exige respetar las competencias exclusivas autonómicas en materia de ordenación de la vivienda (art. 148.1.3 CE)."
+        },
+        {
+          "numero_medida": 8,
+          "id_medida": "PH-008",
+          "seccion_original": "2. Derecho a una Vivienda Digna",
+          "id_bloque_comun": "bloque_01",
+          "titulo_bloque_comun": "Vivienda, Urbanismo, Alquiler y Lucha contra la Okupación",
+          "titulo_medida": "Cesión forzosa temporal de viviendas desocupadas de grandes tenedores al parque público de alquiler",
+          "texto_oficial": "Las personas jurídicas y grandes tenedores (poseedores de más de 4 inmuebles residenciales) que mantengan viviendas desocupadas de forma injustificada por más de 12 meses deberán ceder temporalmente el uso del inmueble al parque público de alquiler por un período de hasta 8 años, garantizándoles una compensación basada en el mantenimiento de la propiedad.",
+          "explicacion_medida": "Propone habilitar por ley la cesión forzosa del usufructo o uso temporal (por un plazo de 5 a 8 años) de aquellas viviendas en manos de entidades bancarias, fondos y grandes propietarios (más de 4 pisos) que permanezcan desocupadas e inhabitadas sin causa justificada durante más de un año consecutivo, incorporándolas a bolsas públicas de alquiler asequible a cambio de una renta tasada y el mantenimiento del inmueble.",
+          "datos_a_favor": "El Censo de Población y Viviendas del INE cifra en más de 3,8 millones las viviendas vacías existentes en España. Mientras millones de familias sufren exclusión residencial, grandes tenedores retienen miles de pisos vacíos con fines puramente especulativos a la espera de revalorizaciones patrimoniales. Mecanismos de cesión temporal forzosa ya existen con aval legal en legislaciones autonómicas como la Ley de Vivienda del País Vasco o de Navarra, cumpliendo la función social de la propiedad consagrada en el artículo 33.2 de la Constitución.",
+          "datos_en_contra": "Propietarios y juristas civiles advierten de que la cesión forzosa roza la expropiación temporal sin el justiprecio garantizado por el artículo 33.3 CE, generando una enorme inseguridad jurídica que puede retraer la inversión en rehabilitación y mantenimiento. Asimismo, la mayor parte de las viviendas vacías del INE se localizan en pequeños municipios rurales y no en las zonas metropolitanas donde se concentra la tensión de demanda de alquiler social."
+        },
+        {
+          "numero_medida": 9,
+          "id_medida": "PH-009",
+          "seccion_original": "2. Derecho a una Vivienda Digna",
+          "id_bloque_comun": "bloque_01",
+          "titulo_bloque_comun": "Vivienda, Urbanismo, Alquiler y Lucha contra la Okupación",
+          "titulo_medida": "Blindaje procesal absoluto frente a desahucios de familias vulnerables sin alternativa habitacional digna",
+          "texto_oficial": "Reforma de la Ley de Enjuiciamiento Civil para prohibir de forma absoluta cualquier lanzamiento o desahucio por motivos socioeconómicos sin que los servicios públicos garanticen con carácter previo una alternativa habitacional digna en la misma localidad.",
+          "explicacion_medida": "Propone modificar los artículos 440, 549 y 704 de la Ley de Enjuiciamiento Civil para prohibir de manera preceptiva a los jueces dictar u ordenar mandamientos de lanzamiento y desahucio judicial sobre vivienda habitual de personas o familias en situación acreditada de vulnerabilidad económica o social, hasta que las administraciones públicas (servicios sociales municipales o autonómicos) provean y entreguen efectivamente una vivienda pública alternativa en la misma localidad.",
+          "datos_a_favor": "El Comité de Derechos Económicos, Sociales y Culturales (DESC) de Naciones Unidas ha condenado reiteradamente a España en decenas de dictámenes por vulnerar el derecho humano a una vivienda adecuada (art. 11 del Pacto Internacional de Derechos Económicos, Sociales y Culturales) al permitir desahucios de menores y familias sin realojo efectivo. Según datos del Consejo General del Poder Judicial (CGPJ), en España se practican anualmente más de 25.000 lanzamientos derivados de impagos de alquiler e hipoteca.",
+          "datos_en_contra": "Asociaciones de propietarios y el Consejo General de la Abogacía alertan de que paralizar los lanzamientos indefinidamente sin dotación suficiente de vivienda pública traslada la carga asistencial del Estado a los hombros de los pequeños arrendadores particulares (que representan más del 85% de los propietarios en España), provocando situaciones de quiebra familiar ('inquiokupación') y expulsando miles de pisos del mercado por el temor de los dueños a no poder recuperar su patrimonio."
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_02",
+      "numero_bloque": 2,
+      "titulo_bloque": "Economía, Productividad, Industria, Innovación y Turismo",
+      "alcance_medidas": "Medidas 4, 35 (2 medidas)",
+      "total_medidas_bloque": 2,
+      "medidas_incluidas": [
+        4,
+        35
+      ],
+      "explicacion_bloque": "Propuestas de política económica, sector financiero e innovación de los Bloques 1 y 9: creación de una Banca Pública sin Interés para primera vivienda y cooperativas, y control democrático de la Inteligencia Artificial frente a oligopolios transnacionales.",
+      "medidas": [
+        {
+          "numero_medida": 4,
+          "id_medida": "PH-004",
+          "seccion_original": "1. Economía y Empleo",
+          "id_bloque_comun": "bloque_02",
+          "titulo_bloque_comun": "Economía, Productividad, Industria, Innovación y Turismo",
+          "titulo_medida": "Creación de una Red de Banca Pública sin Interés orientada a vivienda social, economía cooperativa y pymes",
+          "texto_oficial": "Creación de una Red Bancaria Pública a partir de la consolidación de entidades con participación estatal. La Banca Pública concederá créditos a tipo de interés 0% (cobrando únicamente gastos mínimos de gestión). Estos créditos serán destinados exclusivamente a la adquisición de primera vivienda habitual, proyectos de economía social y cooperativa, transición ecológica, pequeñas empresas y sociedades laborales y empresas participadas por los trabajadores.",
+          "explicacion_medida": "Propone articular una Banca Pública Estatal (aprovechando la participación pública en CaixaBank a través del FROB y la estructura del ICO) que opere sin ánimo de lucro y preste crédito a tipo de interés del 0% más gastos estrictos de gestión administrativa, concibiendo el dinero como un servicio público y no como una mercancía especulativa. El crédito se dirigirá con prioridad a primera vivienda habitual, cooperativas, transición ecológica y proyectos productivos de autónomos y pymes.",
+          "datos_a_favor": "Los cinco grandes bancos españoles obtuvieron beneficios récord conjuntos superiores a los 26.000 millones de euros en 2023 y 2024 impulsados por la subida de los tipos de interés del Banco Central Europeo, mientras retribuían con tipos cercanos a cero el ahorro de las familias y restringían la financiación al tejido productivo local. Modelos públicos de éxito como el KfW en Alemania o los bancos públicos cantonales en Suiza demuestran la eficacia de una banca pública para guiar la inversión hacia fines de interés social.",
+          "datos_en_contra": "El Tratado de Funcionamiento de la Unión Europea (art. 107 TFUE) y las directrices bancarias del Banco Central Europeo y del Mecanismo Único de Supervisión (MUS) exigen que las entidades de crédito operen bajo condiciones de mercado y preserven ratios estrictos de solvencia (Basilea III). Prestar al 0% en un entorno de inflación positiva generaría pérdidas reales de capital que obligarían a inyecciones continuas con cargo a los Presupuestos Generales del Estado, asumiendo el contribuyente el riesgo de morosidad crediticia."
+        },
+        {
+          "numero_medida": 35,
+          "id_medida": "PH-035",
+          "seccion_original": "9. La Inteligencia Artificial, un ejemplo de la crisis del sistema",
+          "id_bloque_comun": "bloque_02",
+          "titulo_bloque_comun": "Economía, Productividad, Industria, Innovación y Turismo",
+          "titulo_medida": "Control democrático público y socialización de la Inteligencia Artificial frente a monopolios oligárquicos",
+          "texto_oficial": "La IA debe ponerse al servicio de la especie, no ser una herramienta en manos de unos pocos para acumular mayor poder y riqueza. Creación de organismos públicos de control democrático y auditoría de algoritmos para impedir la concentración oligárquica de la tecnología, garantizando que la inteligencia artificial sea un bien común de la humanidad desarrollado bajo principios humanistas de no violencia y transparencia.",
+          "explicacion_medida": "Propone una regulación estatal y comunitaria estricta que impida que los grandes modelos de lenguaje e inteligencia artificial queden monopolizados por corporaciones tecnológicas transnacionales privadas. Plantea la creación de centros públicos de supercomputación e IA abierta, con auditorías obligatorias de código y algoritmos para evitar sesgos discriminatorios y poner la automatización al servicio del bienestar colectivo.",
+          "datos_a_favor": "El desarrollo acelerado de la IA generativa está concentrado en un puñado de gigantes tecnológicos globales (Microsoft, Google, Meta, OpenAI, Amazon) cuyo valor de mercado conjunto supera el PIB de decenas de naciones soberanas, permitiéndoles moldear la opinión pública y concentrar rentas sin control democrático. Informes de la UNESCO sobre ética de la IA reclaman que los algoritmos sean transparentes, auditables y sometidos a la gobernanza pública para salvaguardar los derechos humanos y la tecnodiversidad.",
+          "datos_en_contra": "La Unión Europea ya aprobó el Reglamento de Inteligencia Artificial (AI Act de 2024), pionero a escala global en clasificación de riesgos y exigencias de transparencia técnica. Imponer sobrerregulaciones o nacionalizaciones a escala puramente estatal en España podría provocar la fuga de centros de datos, startups y talento investigador hacia Estados Unidos o Asia, aislando tecnológicamente a la economía española."
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_03",
+      "numero_bloque": 3,
+      "titulo_bloque": "Fiscalidad e Impuestos",
+      "alcance_medidas": "Sin medidas específicas en este bloque (0 medidas)",
+      "total_medidas_bloque": 0,
+      "medidas_incluidas": [],
+      "explicacion_bloque": "Propuestas de reforma tributaria y fiscalidad del programa: fiscalidad progresiva sobre grandes fortunas, gravamen a la automatización/robótica y exención de privilegios fiscales a la Iglesia Católica.",
+      "medidas": []
+    },
+    {
+      "id_bloque": "bloque_04",
+      "numero_bloque": 4,
+      "titulo_bloque": "Empleo, Autónomos, Emprendimiento y Mercado Laboral",
+      "alcance_medidas": "Medidas 1, 3, 36 (3 medidas)",
+      "total_medidas_bloque": 3,
+      "medidas_incluidas": [
+        1,
+        3,
+        36
+      ],
+      "explicacion_bloque": "Propuestas laborales y de empleo de los Bloques 1 y 9: Ley de Propiedad Participada y cogestión paritaria, semana laboral de 30 horas en 4 días sin reducción de salario y nuevo paradigma de reparto de la productividad ('que trabajen las máquinas').",
+      "medidas": [
+        {
+          "numero_medida": 1,
+          "id_medida": "PH-001",
+          "seccion_original": "1. Economía y Empleo",
+          "id_bloque_comun": "bloque_04",
+          "titulo_bloque_comun": "Empleo, Autónomos, Emprendimiento y Mercado Laboral",
+          "titulo_medida": "Ley de Propiedad Participada de los Trabajadores y cogestión empresarial paritaria",
+          "texto_oficial": "Establecimiento de una batería de exenciones fiscales para la creación y desarrollo de Sociedades Laborales (en las que más del 50% del capital social es propiedad de los trabajadores) y para empresas participadas por los trabajadores (que no alcanzan el requisito anterior) que también implementen mecanismos de cogestión, es decir, participación de los trabajadores paritaria con la propiedad en la gestión de la empresa. Estas exenciones deben ser sustanciales y progresivas en función del porcentaje de capital en manos de la plantilla y del nivel de cogestión real.",
+          "explicacion_medida": "Propone una reforma en profundidad de la Ley 44/2015 de Sociedades Laborales y Participadas para crear un régimen fiscal altamente bonificado (con exenciones de hasta el 99% en el Impuesto sobre Sociedades y en Transmisiones Patrimoniales) para aquellas empresas donde los trabajadores posean más de la mitad del capital o ejerzan una cogestión paritaria en los consejos de administración. El objetivo doctrinal humanista es transformar la relación capital-trabajo, vinculando la ganancia a la reinversión productiva y evitando la deslocalización, la especulación financiera y la expulsión de empleo.",
+          "datos_a_favor": "Según datos de la Confederación Empresarial Española de la Economía Social (CEPES), las más de 43.000 empresas de economía social en España (cooperativas y sociedades laborales) representan cerca del 10% del PIB y han demostrado una resiliencia frente a las crisis económicas muy superior a las sociedades de capital convencionales, destruyendo un 6,5% menos de empleo durante las recesiones gracias a la flexibilidad interna y al reparto equitativo de esfuerzos acordado democráticamente por los socios trabajadores.",
+          "datos_en_contra": "La Confederación Española de Organizaciones Empresariales (CEOE) y juristas mercantiles señalan que imponer por vía de incentivos fiscales desproporcionados la cogestión paritaria o el control accionarial laboral puede desincentivar la captación de inversión extranjera directa y capital riesgo internacional, al restringir la libertad de dirección del inversor privado. Además, una exención masiva en Sociedades erosionaría la recaudación tributaria en un momento de estricto cumplimiento de las reglas fiscales de la UE."
+        },
+        {
+          "numero_medida": 3,
+          "id_medida": "PH-003",
+          "seccion_original": "1. Economía y Empleo",
+          "id_bloque_comun": "bloque_04",
+          "titulo_bloque_comun": "Empleo, Autónomos, Emprendimiento y Mercado Laboral",
+          "titulo_medida": "Reducción de la jornada laboral legal a 30 horas semanales en 4 días sin minoración salarial",
+          "texto_oficial": "Reducción inmediata de la jornada máxima legal ordinaria laboral a 30 horas semanales distribuidas en 4 días, sin reducción del salario. Esta medida redistribuye el trabajo existente frente al impacto de la automatización, mejora la salud física y mental de los trabajadores y fomenta la conciliación personal y comunitaria.",
+          "explicacion_medida": "Propone modificar el artículo 34 del Estatuto de los Trabajadores para rebajar la jornada máxima legal de las actuales 40 horas semanales a 30 horas, fijando la semana laboral de cuatro días laborables sin merma salarial. Pretende repartir el empleo disponible ante el avance de la inteligencia artificial, disminuir el estrés laboral, conciliar vida familiar y personal y reducir la huella de carbono asociada al transporte.",
+          "datos_a_favor": "Ensayos piloto de la semana laboral de cuatro días (como los desarrollados en Reino Unido por 4 Day Week Global con más de 60 empresas o el proyecto piloto de la ciudad de Valencia) constataron un aumento medio de los ingresos del 1,4%, una reducción del 65% en bajas por enfermedad o agotamiento profesional (*burnout*) y un mantenimiento o incremento de la productividad por hora trabajada. España no reduce su jornada legal máxima de 40 horas desde el año 1983, a pesar de que la productividad por hora se ha duplicado.",
+          "datos_en_contra": "Cepyme y el Banco de España advierten de que una reducción abrupta de 40 a 30 horas (un recorte del 25% del tiempo de trabajo) sin reducción de sueldo dispararía los costes laborales unitarios en un 33%, golpeando de forma letal a sectores de atención continua y baja productividad relativa (hostelería, comercio de proximidad, agricultura y residencias de mayores) que no pueden automatizar sus turnos y se verían abocados a cierres, recortes de plantilla o aumento de la economía sumergida."
+        },
+        {
+          "numero_medida": 36,
+          "id_medida": "PH-036",
+          "seccion_original": "9. La Inteligencia Artificial, un ejemplo de la crisis del sistema",
+          "id_bloque_comun": "bloque_04",
+          "titulo_bloque_comun": "Empleo, Autónomos, Emprendimiento y Mercado Laboral",
+          "titulo_medida": "Nuevo paradigma laboral humanista: 'Que trabajen las máquinas' y reparto de la productividad tecnológica",
+          "texto_oficial": "Transformación del modelo productivo para que el avance de la sustitución del trabajo humano por trabajo mecánico permita hacer realidad la aspiración humanista de QUE TRABAJEN LAS MÁQUINAS. Creación de un Fondo Público de Compensación Tecnológica financiado con un gravamen a la robotización y la IA, redistribuyendo las ganancias de productividad en forma de tiempo libre, reducción de jornada y Renta Básica.",
+          "explicacion_medida": "Propone un cambio civilizatorio en la concepción del trabajo y la riqueza: en lugar de que la automatización genere paro y precariedad para la mayoría y beneficios desorbitados para el capital, se establece un gravamen fiscal específico a las empresas que sustituyan puestos humanos por software o robots. Esta recaudación nutrirá un fondo estatal para financiar la reducción general de la jornada y la Renta Básica Universal.",
+          "datos_a_favor": "Informes del Fondo Monetario Internacional (FMI) y de la OCDE (2024) estiman que la inteligencia artificial afectará a cerca del 60% de los empleos en las economías avanzadas, amenazando con destruir o desvalorizar millones de empleos administrativos, creativos y técnicos cualificados sin precedentes. Sin un mecanismo de reparto social de la productividad algorítmica, la desigualdad salarial y la concentración de capital se dispararán exponencialmente.",
+          "datos_en_contra": "Economistas de la Comisión Europea y del MIT argumentan que un 'impuesto a los robots' o gravámenes a la IA desincentivarían la innovación y la modernización industrial, ralentizando el crecimiento de la productividad agregado. La historia económica muestra que las revoluciones tecnológicas pasadas (mecanización agraria, informática) transformaron el mercado pero terminaron creando nuevas industrias y más empleos netos de mayor valor añadido que los destruidos."
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_05",
+      "numero_bloque": 5,
+      "titulo_bloque": "Pensiones, Mayores, Reto Demográfico, Discapacidad e Igualdad",
+      "alcance_medidas": "Medidas 2, 14, 28 (3 medidas)",
+      "total_medidas_bloque": 3,
+      "medidas_incluidas": [
+        2,
+        14,
+        28
+      ],
+      "explicacion_bloque": "Propuestas de inclusión, igualdad y cuidados de los Bloques 1, 3 y 6: Renta Básica Universal e Incondicional (RBUI) de 900 €/mes, Sistema Nacional Público de Cuidados Comunitarios y erradicación integral de toda discriminación y violencia machista.",
+      "medidas": [
+        {
+          "numero_medida": 2,
+          "id_medida": "PH-002",
+          "seccion_original": "1. Economía y Empleo",
+          "id_bloque_comun": "bloque_05",
+          "titulo_bloque_comun": "Pensiones, Mayores, Reto Demográfico, Discapacidad e Igualdad",
+          "titulo_medida": "Renta Básica Universal e Incondicional (RBUI) individual de 900 euros mensuales financiada por reforma fiscal progresiva",
+          "texto_oficial": "Implantación progresiva de una Renta Básica Universal e Incondicional (RBUI) para toda persona residente en el territorio del Estado, con una cuantía inicial de 900 € mensuales (equivalente al umbral de pobreza relativa individual), individual, incondicional y universal (sin comprobación de recursos ni obligación de trabajar). La RBUI erradicará la pobreza material de forma inmediata, dotará a los trabajadores de poder de negociación real frente al capital y reconocerá el trabajo de cuidados no remunerado.",
+          "explicacion_medida": "Propone reconocer la Renta Básica Universal e Incondicional como un derecho de ciudadanía individual, universal y no contributivo desde la mayoría de edad, percibiendo 900 euros al mes con independencia de cualquier otro ingreso. Se financiaría mediante una reforma integral del IRPF (tipo único o altamente progresivo que integra subsidios previos), un impuesto a las grandes fortunas, el gravamen a las transacciones financieras (Tasa Tobin) y la tributación de la productividad algorítmica de la robótica.",
+          "datos_a_favor": "La Encuesta de Condiciones de Vida del INE sitúa la tasa de riesgo de pobreza o exclusión social (AROPE) en el 25,7% de la población (12,5 millones de personas) y revela que el Ingreso Mínimo Vital (IMV) apenas llega al 40%-45% de los hogares en pobreza extrema debido a su asfixiante trampa burocrática y estigmatización. Modelos de simulación de la Red Renta Básica y estudios econométricos de Arcarons, Raventós y Torrens demuestran que una RBUI erradicaría de raíz la pobreza severa y redistribuiría la renta hacia el 80% de la población.",
+          "datos_en_contra": "La Autoridad Independiente de Responsabilidad Fiscal (AIReF) y economistas de Fedea calculan que financiar una RBUI de 900 euros al mes para todos los adultos en España exigiría un desembolso bruto superior a los 300.000 millones de euros anuales (más del 20% del PIB), lo que requeriría tipos marginales efectivos de IRPF superiores al 50%-60% para las clases medias asalariadas y plantearía riesgos severos de fuga de capitales, desincentivo a la oferta laboral en ocupaciones básicas y tensiones insostenibles en el déficit público."
+        },
+        {
+          "numero_medida": 14,
+          "id_medida": "PH-014",
+          "seccion_original": "3. Sanidad Pública, Cuidados y Salud Mental",
+          "id_bloque_comun": "bloque_05",
+          "titulo_bloque_comun": "Pensiones, Mayores, Reto Demográfico, Discapacidad e Igualdad",
+          "titulo_medida": "Sistema Nacional Público de Cuidados Comunitarios y desmercantilización de las residencias de mayores",
+          "texto_oficial": "Creación del Sistema Nacional Público de Cuidados y Atención a la Dependencia, de gestión 100% pública y financiado con cargo a los Presupuestos Generales del Estado. Financiación estatal del 100% de la Ley de Dependencia, eliminando el copago, reduciendo los plazos de resolución a un máximo de 30 días y transformando el modelo residencial hacia unidades de convivencia comunitarias y cuidados a domicilio dignos.",
+          "explicacion_medida": "Propone una refundación de la Ley 39/2006 de Dependencia mediante la asunción íntegra de su financiación por parte del Estado (eliminando la asimetría del 50% autonómico y suprimiendo el copago de los usuarios), garantizando la resolución del PIA en 30 días y prohibiendo la gestión de residencias públicas de mayores por fondos de inversión especulativos para transitar hacia un modelo desinstitucionalizado de cuidados.",
+          "datos_a_favor": "Los informes del Observatorio de la Dependencia de la Asociación de Directoras y Gerentes de Servicios Sociales revelan que cada 15 minutos fallece en España una persona en las listas de espera de la dependencia sin haber llegado a recibir la prestación reconocida, acumulando más de 290.000 personas en el 'limbo de la dependencia' con demoras medias de tramitación superiores a los 320 días. La tragedia de las residencias durante la pandemia de COVID-19 demostró las fallas éticas del modelo mercantilizado gestionado por fondos buitre.",
+          "datos_en_contra": "Asumir la financiación pública del 100% del Sistema para la Autonomía y Atención a la Dependencia (SAAD) y suprimir el copago patrimonial requeriría triplicar la partida del Estado hasta superar los 10.000-12.000 millones de euros anuales. Además, transformar de inmediato el parque residencial privado (que concentra más del 70% de las plazas en España) colisiona con concesiones administrativas vigentes y requiere una gigantesca oferta de cuidadores profesionales hoy inexistente por los bajos salarios del convenio sectorial."
+        },
+        {
+          "numero_medida": 28,
+          "id_medida": "PH-028",
+          "seccion_original": "6. Cultura de No Violencia y Desarme",
+          "id_bloque_comun": "bloque_05",
+          "titulo_bloque_comun": "Pensiones, Mayores, Reto Demográfico, Discapacidad e Igualdad",
+          "titulo_medida": "Plan Integral contra la discriminación, erradicación de violencias machistas y protección del colectivo LGTBIQ+",
+          "texto_oficial": "Lucha integral contra la desigualdad y toda forma de discriminación por razón de género, origen étnico, orientación sexual, identidad de género o discapacidad. Refuerzo de los recursos públicos para la prevención y atención integral a víctimas de violencias machistas, garantizando la plena aplicación de la Ley Trans y LGTBI y erradicando los discursos de odio en la esfera pública e institucional.",
+          "explicacion_medida": "Propone una política transversal de no violencia activa institucional para dotar con recursos estables y suficientes a las redes de acogida y atención psicológica a víctimas de violencia de género, garantizar los derechos de autodeterminación de género y no discriminación del colectivo LGTBIQ+ y sancionar con contundencia los delitos de odio racistas, xenófobos o tránsfobos.",
+          "datos_a_favor": "Las estadísticas de la Delegación del Gobierno contra la Violencia de Género registran más de 1.250 mujeres asesinadas en España desde 2003 por sus parejas o exparejas, y el Ministerio del Interior constata un incremento sostenido de más del 30% en los delitos de odio por orientación sexual y racismo en los últimos tres años. La desarticulación cultural de la violencia machista y homófoba exige medidas de Estado continuadas y dotadas con financiación suficiente.",
+          "datos_en_contra": "Sectores críticos sostienen que ciertas medidas de discriminación positiva o leyes de autodeterminación de género sin informes médicos previos han suscitado debates jurídicos sobre la seguridad jurídica y los espacios deportivos o penitenciarios reservados para mujeres. Asimismo, se debate sobre los límites de la tipificación penal de los discursos de odio para no vulnerar el núcleo esencial de la libertad de expresión ideológica (art. 20 CE)."
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_06",
+      "numero_bloque": 6,
+      "titulo_bloque": "Familia, Natalidad, Conciliación, Infancia y Juventud",
+      "alcance_medidas": "Sin medidas específicas en este bloque (0 medidas)",
+      "total_medidas_bloque": 0,
+      "medidas_incluidas": [],
+      "explicacion_bloque": "El programa electoral de Partido Humanista (PH) no incluye medidas específicas encuadradas en este bloque temático.",
+      "medidas": []
+    },
+    {
+      "id_bloque": "bloque_07",
+      "numero_bloque": 7,
+      "titulo_bloque": "Sanidad Pública, Salud Mental y Dependencia",
+      "alcance_medidas": "Medidas 10 a 13, 40 (5 medidas)",
+      "total_medidas_bloque": 5,
+      "medidas_incluidas": [
+        10,
+        11,
+        12,
+        13,
+        40
+      ],
+      "explicacion_bloque": "Propuestas sanitarias y de soberanía corporal de los Bloques 3 y 11: blindaje constitucional de la gestión directa del SNS (derogación Ley 15/1997), presupuesto sanitario al 9,5% del PIB con 25% en Primaria, Plan Nacional de Salud Mental Comunitaria, odontología y óptica gratuitas, y aborto 100% público.",
+      "medidas": [
+        {
+          "numero_medida": 10,
+          "id_medida": "PH-010",
+          "seccion_original": "3. Sanidad Pública, Cuidados y Salud Mental",
+          "id_bloque_comun": "bloque_07",
+          "titulo_bloque_comun": "Sanidad Pública, Salud Mental y Dependencia",
+          "titulo_medida": "Blindaje constitucional de la gestión directa del SNS y prohibición de fórmulas privatizadoras",
+          "texto_oficial": "Reforma del artículo 43 de la Constitución para blindar la sanidad pública como un derecho fundamental de gestión directa, universal y gratuita. Derogación inmediata de la Ley 15/1997, de 25 de abril, sobre habilitación de nuevas formas de gestión del Sistema Nacional de Salud, recuperando para la gestión 100% pública todos los hospitales privatizados, concesiones administrativas y servicios externalizados.",
+          "explicacion_medida": "Propone elevar el derecho a la protección de la salud al Título I, Capítulo II de la Constitución (como derecho fundamental de tutela preferente) e introducir el principio de gestión pública directa obligatoria. Exige derogar la Ley 15/1997 que abrió la puerta a los conciertos y al modelo Alzira de concesión privada, revirtiendo al control público todos los hospitales y servicios clínicos externalizados.",
+          "datos_a_favor": "Informes de la Federación de Asociaciones para la Defensa de la Sanidad Pública (FADSP) y de la Sindicatura de Comptes de la Comunidad Valenciana sobre las reversiones hospitalarias (Alzira, Torrevieja, Dénia) han constatado que la gestión privada de centros públicos genera sobrecostes opacos, desvío de patologías complejas a hospitales de gestión tradicional y precarización de las plantillas médicas para maximizar el margen de beneficio de los fondos y aseguradoras concesionarias.",
+          "datos_en_contra": "El Tribunal Constitucional ha avalado de forma pacífica la compatibilidad de la colaboración público-privada con los mandatos del artículo 43 de la Constitución. La Alianza de la Sanidad Privada Española (ASPE) destaca que los conciertos sanitarios representan el 10%-12% del gasto sanitario público y permiten aligerar listas de espera quirúrgicas y pruebas diagnósticas, advirtiendo de que una reversión forzosa generalizada colapsaría los hospitales públicos y costaría miles de millones en indemnizaciones a las concesionarias."
+        },
+        {
+          "numero_medida": 11,
+          "id_medida": "PH-011",
+          "seccion_original": "3. Sanidad Pública, Cuidados y Salud Mental",
+          "id_bloque_comun": "bloque_07",
+          "titulo_bloque_comun": "Sanidad Pública, Salud Mental y Dependencia",
+          "titulo_medida": "Incremento de la inversión sanitaria pública hasta el 9,5% del PIB blindando el 25% para Atención Primaria",
+          "texto_oficial": "Incremento progresivo de la inversión sanitaria pública hasta alcanzar el 9,5% del PIB en 2030, con una partida específica y vinculante que garantice que al menos el 25% del presupuesto sanitario se destine a la Atención Primaria y Comunitaria. Plan de choque de contratación para garantizar un tiempo mínimo de 15 minutos por paciente y listas de espera máximas de 48 horas para médico de cabecera.",
+          "explicacion_medida": "Propone un pacto de Estado de financiación sanitaria que eleve el gasto público en salud del actual ~7% del PIB al 9,5% del PIB, imponiendo a todas las Comunidades Autónomas la obligación legal de asignar un mínimo del 25% de sus cuentas sanitarias a la Atención Primaria. Establece ratios máximos por profesional, un tiempo asistencial de 15 minutos por consulta y citas en centros de salud en un máximo de 48 horas.",
+          "datos_a_favor": "La Organización Mundial de la Salud (OMS) y la Sociedad Española de Medicina de Familia y Comunitaria (semFYC) recomiendan de forma unánime que los países destinen al menos el 25% de su presupuesto de salud al primer nivel asistencial para garantizar la prevención y la equidad. Actualmente, en España la media autonómica en Atención Primaria apenas ronda el 14%-15% del gasto sanitario, sufriendo demoras de más de 8 a 10 días para ver al médico de cabecera según el Barómetro Sanitario del CIS.",
+          "datos_en_contra": "Elevar el gasto sanitario público al 9,5% del PIB supondría un incremento presupuestario permanente de más de 35.000 millones de euros anuales para las arcas autonómicas, en un contexto de retorno de las reglas fiscales y de contención del gasto. Además, el principal cuello de botella hoy no es solo presupuestario sino demográfico: faltan más de 5.000 médicos de familia y pediatras en bolsa de empleo por las jubilaciones masivas y la falta de plazas MIR especializadas en Primaria."
+        },
+        {
+          "numero_medida": 12,
+          "id_medida": "PH-012",
+          "seccion_original": "3. Sanidad Pública, Cuidados y Salud Mental",
+          "id_bloque_comun": "bloque_07",
+          "titulo_bloque_comun": "Sanidad Pública, Salud Mental y Dependencia",
+          "titulo_medida": "Plan Nacional de Salud Mental Comunitaria y despatologización del sufrimiento psíquico",
+          "texto_oficial": "Aprobación de una Ley Estatal de Salud Mental con un Plan de Choque dotado con 2.500 millones de euros para incorporar de forma inmediata a 10.000 psicólogos clínicos y psiquiatras en la red de Atención Primaria y centros de salud comunitarios, alcanzando un ratio mínimo de 20 psicólogos por cada 100.000 habitantes. Enfoque centrado en la no violencia, la despatologización del sufrimiento psíquico, la erradicación de contenciones mecánicas y la prevención comunitaria del suicidio.",
+          "explicacion_medida": "Propone una Ley Orgánica de Salud Mental que cree una red asistencial comunitaria de atención psicológica directa en todos los centros de Atención Primaria, contratando a 10.000 profesionales para elevar el ratio a 20 psicólogos por 100.000 habitantes. Plantea prohibir por ley las contenciones mecánicas e ingresos forzosos en unidades psiquiátricas, promoviendo alternativas dialógicas y comunitarias frente a la sobremedicalización farmacéutica.",
+          "datos_a_favor": "España presenta un déficit crítico en salud mental pública: cuenta con apenas 6 psicólogos clínicos por cada 100.000 habitantes en el SNS, tres veces menos que la media europea de 18 y muy lejos de países como Suecia o Finlandia (más de 30). Esto provoca listas de espera de más de 6 a 9 meses para una primera consulta de psicología y sitúa a España como el país con mayor consumo per cápita mundial de ansiolíticos según la Agencia Española de Medicamentos (AEMPS), con más de 4.000 suicidios al año registrados por el INE.",
+          "datos_en_contra": "La formación de psicólogos especialistas en Psicología Clínica (vía PIR) está estrictamente limitada por la capacidad docente de las unidades acreditadas, convocándose apenas 247 plazas PIR anuales en todo el país, lo que hace técnicamente inviable incorporar 10.000 psicólogos clínicos a corto plazo sin reformar el sistema formativo o rebajar las exigencias de especialización clínica hospitalaria. Asimismo, la prohibición total de contenciones mecánicas en crisis agudas genera reticencias técnicas en sociedades psiquiátricas."
+        },
+        {
+          "numero_medida": 13,
+          "id_medida": "PH-013",
+          "seccion_original": "3. Sanidad Pública, Cuidados y Salud Mental",
+          "id_bloque_comun": "bloque_07",
+          "titulo_bloque_comun": "Sanidad Pública, Salud Mental y Dependencia",
+          "titulo_medida": "Ampliación de la cartera común de servicios del SNS: cobertura integral odontológica, óptica y fisioterapia",
+          "texto_oficial": "Ampliación integral de la cartera común de servicios del Sistema Nacional de Salud para incorporar de forma 100% gratuita y universal la atención bucodental completa (empastes, endodoncias, prótesis e implantes), la salud visual (gafas y lentillas graduadas gratuitas) y la fisioterapia comunitaria, eliminando la desigualdad que sufren las familias con menos recursos económicos.",
+          "explicacion_medida": "Propone modificar el Real Decreto 1030/2006 de la cartera de servicios comunes del SNS para financiar públicamente la totalidad de los tratamientos odontológicos conservadores y protésicos, la entrega gratuita de gafas y lentes de contacto graduadas a toda la población y unidades de fisioterapia preventiva en todos los centros de salud, erradicando el gasto de bolsillo privado en estas áreas esenciales.",
+          "datos_a_favor": "Según la Encuesta de Condiciones de Vida del INE y el Consejo General de Dentistas, más del 21% de la población española no puede acceder a tratamientos dentales necesarios por motivos económicos, y el gasto bucodental representa la mayor partida de gasto directo de bolsillo en salud de los hogares (más de 4.500 millones de euros anuales en clínicas privadas). La exclusión de la vista y los dientes de la cobertura pública genera una brecha clasista inasumible para la salud infantil y de las personas mayores.",
+          "datos_en_contra": "El Ministerio de Sanidad puso en marcha el Plan de Salud Bucodental (dotado con unos 68 millones de euros anuales) dirigido prioritariamente a población infantil, embarazadas y pacientes oncológicos, advirtiendo de que universalizar prótesis dentales e implantes a los 48 millones de habitantes exigiría un sobrecoste presupuestario estructural superior a los 6.000-8.000 millones de euros anuales, requiriendo además construir miles de gabinetes odontológicos públicos hoy inexistentes en los ambulatorios."
+        },
+        {
+          "numero_medida": 40,
+          "id_medida": "PH-040",
+          "seccion_original": "11. Libertad de Ideas y Creencias",
+          "id_bloque_comun": "bloque_07",
+          "titulo_bloque_comun": "Sanidad Pública, Salud Mental y Dependencia",
+          "titulo_medida": "Soberanía corporal plena, blindaje del derecho al aborto libre y gratuito en la sanidad pública y reproducción asistida universal",
+          "texto_oficial": "Garantía de la soberanía corporal inalienable de las mujeres y de todas las personas. El derecho a la interrupción voluntaria del embarazo debe garantizarse de forma libre, plenamente legal, gratuita y con prestación obligatoria en los servicios de la sanidad pública de la localidad de residencia, regulando estrictamente la objeción de conciencia del personal médico para que no obstaculice el derecho. Acceso universal y gratuito a medios anticonceptivos, educación sexual desde la infancia y técnicas de reproducción asistida sin discriminación por orientación o modelo familiar.",
+          "explicacion_medida": "Propone garantizar que el 100% de los abortos voluntarios se practiquen en hospitales públicos de la red del SNS, creando un registro de objetores de conciencia que garantice siempre equipos médicos disponibles y suprimiendo las derivaciones sistemáticas a clínicas privadas. Asegura el acceso universal y gratuito a la reproducción asistida para mujeres solas y parejas del mismo sexo en la sanidad pública y promueve la libre disposición absoluta de la persona sobre su propio cuerpo (incluida la muerte digna y el testamento vital).",
+          "datos_a_favor": "Según las estadísticas del Ministerio de Sanidad, más del 80%-85% de las interrupciones voluntarias del embarazo en España se siguen derivando y practicando en clínicas privadas concertadas debido a la objeción de conciencia en bloque de los servicios de ginecología de muchos hospitales públicos autonómicos, obligando a miles de mujeres a desplazarse cientos de kilómetros fuera de su provincia para abortar. El Tribunal Constitucional (STC 44/2023) ratificó la plena constitucionalidad de la ley de plazos y el derecho de la mujer a decidir sobre su maternidad.",
+          "datos_en_contra": "Colectivos médicos y comités de bioética recuerdan que la objeción de conciencia de los facultativos y profesionales sanitarios es un derecho fundamental emanado de la libertad ideológica y religiosa del artículo 16.1 de la Constitución, que no puede ser coartado ni sancionado administrativamente por el Estado. Asimismo, sectores provida defienden la protección del concebido y no nacido (*nasciturus*) conforme a la jurisprudencia clásica de la STC 53/1985."
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_08",
+      "numero_bloque": 8,
+      "titulo_bloque": "Educación, Formación Profesional y Universidad",
+      "alcance_medidas": "Medidas 15 a 19 (5 medidas)",
+      "total_medidas_bloque": 5,
+      "medidas_incluidas": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "explicacion_bloque": "Propuestas educativas del Bloque 4: blindaje de la inversión educativa pública al 7% del PIB, ratios máximas de 15 alumnos por aula, pedagogía de la No Violencia Activa, gratuidad total de Universidad y FP y extinción de conciertos educativos.",
+      "medidas": [
+        {
+          "numero_medida": 15,
+          "id_medida": "PH-015",
+          "seccion_original": "4. Educación Pública, Crítica y Formación Integral",
+          "id_bloque_comun": "bloque_08",
+          "titulo_bloque_comun": "Educación, Formación Profesional y Universidad",
+          "titulo_medida": "Blindaje de la inversión educativa pública al 7% del PIB por ley orgánica",
+          "texto_oficial": "Blindaje de la inversión educativa pública en el 7% del PIB mediante Ley Orgánica de Financiación del Sistema Educativo, garantizando la suficiencia presupuestaria para infraestructuras escolares sostenibles, dotación tecnológica abierta, gratuidad real de libros de texto y material escolar, comedores escolares ecológicos gratuitos y estabilidad del profesorado.",
+          "explicacion_medida": "Propone aprobar una Ley Orgánica de Financiación del Sistema Educativo que obligue por ley al Estado y a las Comunidades Autónomas a destinar de forma sostenida al menos el 7% del PIB a la educación pública, garantizando la gratuidad absoluta de todo el material escolar, libros, transporte y comedores escolares ecológicos para todo el alumnado matriculado en centros de titularidad pública.",
+          "datos_a_favor": "España destina actualmente en torno al 4,2%-4,4% de su PIB a educación pública según datos del Ministerio de Educación y Eurostat, situándose claramente por debajo de la media de la Unión Europea (4,8%) y a gran distancia de países de referencia como Dinamarca, Suecia o Islandia (que superan el 6,5%-7% del PIB). El gasto medio de las familias al inicio de curso supera los 500 euros por hijo en material y libros de texto según la OCU, generando una severa barrera económica para hogares vulnerables.",
+          "datos_en_contra": "Elevar el gasto educativo del 4,3% al 7% del PIB representaría un aumento del gasto público de más de 40.000 millones de euros anuales, lo que obligaría a reordenar drásticamente los presupuestos de las Comunidades Autónomas (titulares del 90% del gasto educativo). Expertos de la OCDE en el informe *Education at a Glance* han advertido de que un incremento cuantitativo del gasto sin reformas estructurales en la carrera docente y en la gestión pedagógica no garantiza por sí solo mejores resultados académicos."
+        },
+        {
+          "numero_medida": 16,
+          "id_medida": "PH-016",
+          "seccion_original": "4. Educación Pública, Crítica y Formación Integral",
+          "id_bloque_comun": "bloque_08",
+          "titulo_bloque_comun": "Educación, Formación Profesional y Universidad",
+          "titulo_medida": "Reducción generalizada de ratios máximas escolares a 15 alumnos por aula en todas las etapas",
+          "texto_oficial": "Reducción inmediata de las ratios escolares máximas a 15 alumnos por aula en Educación Infantil, Primaria, Secundaria y Bachillerato, aprovechando el descenso de la natalidad para mejorar de forma radical la calidad pedagógica y la atención individualizada a la diversidad, garantizando la codocencia y dos profesionales por aula en centros con alta vulnerabilidad.",
+          "explicacion_medida": "Propone modificar el Real Decreto 132/2010 de requisitos mínimos de centros para rebajar el número máximo de alumnos por aula de los actuales 25 en Primaria, 30 en Secundaria y 35 en Bachillerato a un máximo estricto de 15 alumnos en todos los niveles educativos. Aprovecha el invierno demográfico para no cerrar aulas públicas y destinar los recursos a la codocencia y a la inclusión educativa.",
+          "datos_a_favor": "Estudios pedagógicos internacionales y del Consejo Escolar del Estado constatan que las clases reducidas de 15 alumnos mejoran sustancialmente el clima escolar, reducen drásticamente los problemas de acoso escolar y conducta, disminuyen el fracaso escolar en entornos desfavorecidos y permiten una atención personalizada a alumnos con necesidades específicas de apoyo educativo (NEAE). Sindicatos docentes como STEs y CCOO han convocado movilizaciones unánimes en toda España reclamando la bajada de ratios.",
+          "datos_en_contra": "Mantener abiertas todas las unidades escolares reduciendo el ratio a 15 alumnos exigiría duplicar las contrataciones docentes (más de 120.000 nuevos profesores en toda España) con un coste añadido estimado por las consejerías autonómicas en más de 6.000 millones de euros anuales en salarios. Asimismo, muchos centros urbanos consolidados carecen de espacio físico e infraestructuras para desdoblar las aulas."
+        },
+        {
+          "numero_medida": 17,
+          "id_medida": "PH-017",
+          "seccion_original": "4. Educación Pública, Crítica y Formación Integral",
+          "id_bloque_comun": "bloque_08",
+          "titulo_bloque_comun": "Educación, Formación Profesional y Universidad",
+          "titulo_medida": "Implantación troncal de la Pedagogía de la No Violencia Activa, pensamiento crítico y resolución pacífica de conflictos",
+          "texto_oficial": "Incorporación obligatoria en todos los planes de estudio de la asignatura y práctica transversal de 'No Violencia Activa, Pensamiento Crítico y Convivencia', formando al alumnado en la resolución pacífica de conflictos, la cooperación frente a la competencia destructiva, la empatía, el autoconocimiento y la desarticulación de todo tipo de violencia (física, económica, racial, religiosa, psicológica y de género).",
+          "explicacion_medida": "Propone reformar los currículos educativos de la LOMLOE para situar como eje transversal obligatorio y materia troncal la Pedagogía de la No Violencia Activa, inspirada en la doctrina humanista universalista. Sustituye los paradigmas competitivos y mercantilistas por metodologías cooperativas, formación emocional, pensamiento crítico frente a la manipulación mediática y mediación comunitaria entre iguales.",
+          "datos_a_favor": "La UNESCO y UNICEF recomiendan la incorporación formal de la educación para la paz y la no violencia en las escuelas para atajar el aumento del ciberacoso y los problemas de salud mental infanto-juvenil. En España, los informes de la Fundación ANAR reflejan un aumento alarmante de los casos de acoso escolar y conductas autolíticas entre adolescentes, evidenciando el agotamiento de un modelo educativo centrado exclusivamente en la memorización de contenidos y la presión evaluadora sin herramientas de gestión emocional y comunitaria.",
+          "datos_en_contra": "Colectivos de familias y sectores conservadores suelen mostrar recelos ante asignaturas de formación ética o moral obligatoria, temiendo que puedan derivar en adoctrinamiento moral estatal ajeno al derecho de los padres a educar a sus hijos según sus propias convicciones (art. 27.3 CE). Además, añadir nuevas cargas lectivas troncales obliga a reducir horas lectivas de materias básicas como matemáticas o lengua."
+        },
+        {
+          "numero_medida": 18,
+          "id_medida": "PH-018",
+          "seccion_original": "4. Educación Pública, Crítica y Formación Integral",
+          "id_bloque_comun": "bloque_08",
+          "titulo_bloque_comun": "Educación, Formación Profesional y Universidad",
+          "titulo_medida": "Gratuidad total de las matrículas en la Universidad pública y en la Formación Profesional superior",
+          "texto_oficial": "Supresión inmediata de todas las tasas de matrícula en las universidades públicas y en los ciclos de Formación Profesional de grado medio y superior para todas las primeras y segundas matrículas, garantizando el acceso a la educación superior en función exclusiva de la vocación y el mérito, y no de la capacidad económica de las familias.",
+          "explicacion_medida": "Propone la eliminación absoluta de los precios públicos y tasas de matrícula académica en todos los grados y másteres habilitantes de las universidades públicas españolas, así como en todos los centros públicos de Formación Profesional, compensando el Estado a las universidades mediante transferencias directas consolidadas en los Presupuestos Generales del Estado.",
+          "datos_a_favor": "En la mayoría de los países de la Unión Europea (Alemania, Dinamarca, Suecia, Noruega, Finlandia, Austria, Grecia, Escocia), la universidad pública es 100% gratuita o cobra tasas meramente simbólicas de secretaría. En España, a pesar de las rebajas recientes, el precio medio de un curso universitario ronda los 1.000-1.500 euros (alcanzando más de 2.000 euros en másteres), lo que actúa como una barrera clasista que expulsa a jóvenes de familias trabajadoras que no obtienen beca del Ministerio por criterios patrimoniales rígidos.",
+          "datos_en_contra": "La Conferencia de Rectores de las Universidades Españolas (CRUE) advierte de que suprimir las tasas sin garantizar previamente una financiación pública compensatoria estable y blindada (unos 1.500-2.000 millones de euros anuales) asfixiaría las cuentas universitarias, deteriorando la investigación, los laboratorios y la contratación de profesorado. Economistas señalan además que la gratuidad universal sin progresividad fiscal beneficia proporcionalmente más a las rentas medias-altas, cuyos hijos copan las aulas universitarias."
+        },
+        {
+          "numero_medida": 19,
+          "id_medida": "PH-019",
+          "seccion_original": "4. Educación Pública, Crítica y Formación Integral",
+          "id_bloque_comun": "bloque_08",
+          "titulo_bloque_comun": "Educación, Formación Profesional y Universidad",
+          "titulo_medida": "Extinción progresiva de conciertos educativos y traspaso total de fondos públicos hacia la red escolar pública",
+          "texto_oficial": "Extinción progresiva de los conciertos educativos con centros privados en un plazo máximo de 6 años, no renovando ningún concierto a centros que segreguen por sexo o cobren cuotas 'voluntarias', e integrando los edificios, personal y alumnado que lo deseen en la red única de educación pública, destinando el 100% del dinero público a la escuela de todos y para todos.",
+          "explicacion_medida": "Propone un plan de retirada ordenada y paulatina de los conciertos educativos creados por la LODE de 1985, comenzando por los colegios que segregan por razón de sexo, los vinculados a órdenes religiosas y aquellos que cobran cuotas encubiertas ilegales a las familias. Los más de 7.000 millones de euros anuales destinados actualmente a subvencionar la enseñanza concertada se transferirían íntegramente a la pública.",
+          "datos_a_favor": "Informes de Save the Children y de la Fundación Cotec revelan que la escuela concertada en España actúa como un potente motor de segregación socioeconómica del alumnado: mientras la red pública escolariza a más del 80% de los alumnos de origen migrante y con bajo nivel de renta, la concertada selecciona socioeconómicamente a su alumnado mediante cuotas mensuales 'voluntarias' ilegales que superan los 150-300 euros al mes según estudios de la OCU y CCOO, vulnerando el principio de gratuidad financiado con impuestos públicos.",
+          "datos_en_contra": "La enseñanza concertada escolariza a más del 25%-30% del alumnado en España (más de 2 millones de estudiantes) y emplea a más de 130.000 docentes. El Tribunal Constitucional (STC 86/1985 y STC 34/2023) ha reconocido que el derecho a la libertad de enseñanza (art. 27.1 y 27.3 CE) ampara la existencia de centros concertados sostenidos con fondos públicos. Suprimir los conciertos colapsaría la red pública de golpe y provocaría una masiva conflictividad social con millones de familias que defienden su libertad de elección educativa."
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_09",
+      "numero_bloque": 9,
+      "titulo_bloque": "Energía, Transición Ecológica y Soberanía Energética",
+      "alcance_medidas": "Medidas 32 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        32
+      ],
+      "explicacion_bloque": "Propuesta energética del Bloque 8: creación de una Empresa Pública de Energía 100% renovable y democratización de tejados solares comunitarios para alcanzar la soberanía energética de los hogares.",
+      "medidas": [
+        {
+          "numero_medida": 32,
+          "id_medida": "PH-032",
+          "seccion_original": "8. Transición Ecosocial y Soberanía Comunitaria",
+          "id_bloque_comun": "bloque_09",
+          "titulo_bloque_comun": "Energía, Transición Ecológica y Soberanía Energética",
+          "titulo_medida": "Creación de una Empresa Pública de Energía y democratización comunitaria de tejados solares cooperativos",
+          "texto_oficial": "Creación inmediata de una Empresa Pública de Energía 100% renovable que recupere las concesiones de centrales hidroeléctricas caducadas y desarrolle un plan masivo de instalación gratuita de tejados solares en todas las comunidades de vecinos, colegios y edificios públicos, garantizando la soberanía energética comunitaria y el acceso universal a la electricidad a precio de coste.",
+          "explicacion_medida": "Propone fundar una eléctrica pública estatal que asuma la titularidad y explotación directa de los saltos hidroeléctricos a medida que expiren sus concesiones a Iberdrola, Endesa y Naturgy, y financie el 100% de la instalación de placas solares en azoteas de edificios residenciales, vertebrando comunidades energéticas locales y suministrando luz a precio de coste para erradicar la pobreza energética.",
+          "datos_a_favor": "El oligopolio eléctrico en España obtiene beneficios extraordinarios milmillonarios mientras más de 4,5 millones de personas sufren pobreza energética en invierno según el Ministerio para la Transición Ecológica. La recuperación de las concesiones hidráulicas por el Estado (como ha sucedido en saltos de Huesca o Asturias) ha demostrado generar ingresos limpios para reinvertir en la factura de los ciudadanos y abaratar el pool eléctrico frente a la especulación de las eléctricas privadas.",
+          "datos_en_contra": "Las grandes eléctricas privadas sostienen que operar complejas redes de generación y comercialización requiere músculo financiero y técnico que el sector público no puede asumir eficientemente sin incurrir en déficit público. Además, el despliegue masivo de tejados solares urbanos se enfrenta a complejas trabas técnicas de refuerzo de las redes de distribución de baja tensión y lentitud burocrática de enganche."
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_10",
+      "numero_bloque": 10,
+      "titulo_bloque": "Agricultura, Ganadería, Pesca, Agua y Mundo Rural",
+      "alcance_medidas": "Medidas 34 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        34
+      ],
+      "explicacion_bloque": "Propuesta agraria del Bloque 8: soberanía alimentaria, apoyo a la ganadería familiar agroecológica de proximidad y prohibición total de nuevas macrogranjas intensivas porcinas y avícolas.",
+      "medidas": [
+        {
+          "numero_medida": 34,
+          "id_medida": "PH-034",
+          "seccion_original": "8. Transición Ecosocial y Soberanía Comunitaria",
+          "id_bloque_comun": "bloque_10",
+          "titulo_bloque_comun": "Agricultura, Ganadería, Pesca, Agua y Mundo Rural",
+          "titulo_medida": "Soberanía alimentaria, fomento de la agroecología de proximidad y moratoria inmediata a las macrogranjas",
+          "texto_oficial": "Prohibición por ley de la instalación de nuevas explotaciones ganaderas industriales intensivas (macrogranjas) y plan de desmantelamiento progresivo de las existentes. Apoyo integral a la agricultura y ganadería familiar, extensiva y agroecológica de proximidad mediante canales cortos de comercialización, compra pública ecológica en colegios y hospitales y protección radical de acuíferos frente a la contaminación por nitratos.",
+          "explicacion_medida": "Propone prohibir de forma absoluta en todo el territorio estatal las macrogranjas de porcino y avícola de ganadería industrial intensiva, aprobando una moratoria inmediata y planes de reconversión hacia la ganadería extensiva y agroecología. Canaliza compras públicas en comedores hacia alimentos ecológicos locales y endurece las sanciones por vertidos de purines que contaminan aguas subterráneas.",
+          "datos_a_favor": "La Comisión Europea ha llevado a España ante el Tribunal de Justicia de la UE por el incumplimiento sistemático de la Directiva de Nitratos, con acuíferos gravemente contaminados en Castilla-La Mancha, Aragón, Cataluña y Murcia debido a la proliferación descontrolada de millones de cerdos estabulados en macrogranjas. Las macrogranjas consumen millones de litros de agua en zonas semiáridas y apenas fijan población en los pueblos al estar altamente automatizadas, expulsando a la ganadería tradicional familiar extensiva.",
+          "datos_en_contra": "La patronal cárnica (Interporc) y el sector agroindustrial destacan que España es el mayor productor de porcino de la Unión Europea y el tercero del mundo, generando exportaciones por valor de más de 8.000 millones de euros y cientos de miles de puestos de trabajo en comarcas rurales donde no existen otras industrias alternativas. Prohibir de golpe las explotaciones intensivas dispararía el precio de la carne para las familias y destruiría el tejido exportador agroalimentario nacional."
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_11",
+      "numero_bloque": 11,
+      "titulo_bloque": "Infraestructuras, Transporte, Ferrocarril y Conectividad",
+      "alcance_medidas": "Medidas 33 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        33
+      ],
+      "explicacion_bloque": "Propuesta de movilidad del Bloque 8: gratuidad universal permanente de trenes de Cercanías y Media Distancia y reorientación del 80% del presupuesto de infraestructuras desde el AVE hacia el tren convencional.",
+      "medidas": [
+        {
+          "numero_medida": 33,
+          "id_medida": "PH-033",
+          "seccion_original": "8. Transición Ecosocial y Soberanía Comunitaria",
+          "id_bloque_comun": "bloque_11",
+          "titulo_bloque_comun": "Infraestructuras, Transporte, Ferrocarril y Conectividad",
+          "titulo_medida": "Gratuidad total del transporte ferroviario público y reorientación de inversiones desde el AVE hacia Cercanías",
+          "texto_oficial": "Establecimiento de la gratuidad universal permanente de todos los abonos de transporte ferroviario de Cercanías, Media Distancia y transporte público metropolitano colectivo. Reorientación prioritaria de las inversiones del Ministerio de Transportes: congelación de nuevas líneas AVE y concentración del 80% del presupuesto de infraestructuras en el mantenimiento, electrificación y reapertura de líneas ferroviarias convencionales vertebradoras del mundo rural.",
+          "explicacion_medida": "Propone consolidar como derecho social gratuito permanente el uso de los trenes de Cercanías, Rodalies y Media Distancia convencional de Renfe, financiado mediante impuestos a los billetes de avión y a los combustibles fósiles. Detiene la construcción de nuevos tramos de Alta Velocidad millonarios para volcar toda la inversión en la red de tren convencional, mercancías y reapertura de líneas rurales clausuradas (como la Ruta de la Plata).",
+          "datos_a_favor": "Las bonificaciones al transporte ferroviario implantadas desde 2022 dispararon el uso del tren en más de un 30%, ahorrando millones de toneladas de CO2 y cientos de euros al mes a millones de trabajadores en desplazamientos diarios. España cuenta con la segunda red de Alta Velocidad más extensa del mundo (más de 4.000 km) pero apenas el 4% de las mercancías viaja en tren (frente al 18% de media europea), y las Cercanías sufren averías continuas por décadas de desinversión presupuestaria.",
+          "datos_en_contra": "Mantener la gratuidad permanente del ferrocarril sin límite temporal tiene un coste anual superior a los 1.500-2.000 millones de euros para las arcas públicas del Estado, generando tensiones financieras en las operadoras públicas y saturación en horas punta. Asimismo, frenar las conexiones de Alta Velocidad pendientes (como la llegada del AVE a Extremadura, Cantabria o País Vasco) genera un enorme agravio territorial."
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_12",
+      "numero_bloque": 12,
+      "titulo_bloque": "Administración Pública, Control del Gasto Público y Reducción de Burocracia",
+      "alcance_medidas": "Sin medidas específicas en este bloque (0 medidas)",
+      "total_medidas_bloque": 0,
+      "medidas_incluidas": [],
+      "explicacion_bloque": "El programa electoral de Partido Humanista (PH) no incluye medidas específicas encuadradas en este bloque temático.",
+      "medidas": []
+    },
+    {
+      "id_bloque": "bloque_13",
+      "numero_bloque": 13,
+      "titulo_bloque": "Justicia, Seguridad Ciudadana y Cumplimiento de la Ley",
+      "alcance_medidas": "Sin medidas específicas en este bloque (0 medidas)",
+      "total_medidas_bloque": 0,
+      "medidas_incluidas": [],
+      "explicacion_bloque": "Propuesta de justicia de proximidad del Bloque 5: democratización del sistema judicial, fortalecimiento de la mediación comunitaria y juzgados de paz vecinales.",
+      "medidas": []
+    },
+    {
+      "id_bloque": "bloque_14",
+      "numero_bloque": 14,
+      "titulo_bloque": "Inmigración, Control de Fronteras, Integración y Nacionalidad",
+      "alcance_medidas": "Medidas 29 a 31 (3 medidas)",
+      "total_medidas_bloque": 3,
+      "medidas_incluidas": [
+        29,
+        30,
+        31
+      ],
+      "explicacion_bloque": "Propuestas migratorias del Bloque 7: derogación de la Ley de Extranjería, cierre definitivo de todos los CIEs, vías legales y seguras con regularización extraordinaria de 500.000 personas migrantes y sufragio universal para residentes extranjeros.",
+      "medidas": [
+        {
+          "numero_medida": 29,
+          "id_medida": "PH-029",
+          "seccion_original": "7. Inmigración, Ciudadanía Universal y Derechos Humanos",
+          "id_bloque_comun": "bloque_14",
+          "titulo_bloque_comun": "Inmigración, Control de Fronteras, Integración y Nacionalidad",
+          "titulo_medida": "Derogación inmediata de la Ley de Extranjería y clausura definitiva de los Centros de Internamiento de Extranjeros (CIE)",
+          "texto_oficial": "Derogación inmediata de la Ley Orgánica sobre derechos y libertades de los extranjeros en España (Ley de Extranjería) y cierre definitivo e incondicional de todos los Centros de Internamiento de Extranjeros (CIE). Prohibición absoluta de las devoluciones en caliente y de las redadas policiales por perfil étnico, consagrando la libertad de circulación como un derecho humano universal inalienable.",
+          "explicacion_medida": "Propone la derogación íntegra de la Ley Orgánica 4/2000 (Ley de Extranjería), suprimiendo la figura de la situación administrativa irregular y cerrando con carácter inmediato todos los CIE del territorio nacional (como Aluche, Zona Franca o Barranco Seco), al considerarlos cárceles encubiertas para personas que no han cometido ningún delito penal sino una mera infracción administrativa.",
+          "datos_a_favor": "Informes del Defensor del Pueblo, de la Fiscalía General del Estado y de organizaciones de derechos humanos (como Amnistía Internacional y SOS Racismo) han denunciado de forma reiterada las condiciones inhumanas, hacinamiento, falta de asistencia médica adecuada y vulneraciones de derechos fundamentales en el interior de los CIE. Encerrar hasta 60 días a personas por carecer de permiso de residencia vulnera el espíritu del artículo 17 de la Constitución y de la Carta de Derechos Fundamentales de la UE.",
+          "datos_en_contra": "La Directiva de Retorno de la Unión Europea (Directiva 2008/115/CE) y los acuerdos de control fronterizo del Espacio Schengen obligan a los Estados miembros a disponer de centros de estancia temporal para ejecutar la repatriación o expulsión de personas extranjeras que acceden irregularmente a territorio europeo. Derogar la Ley de Extranjería sin fronteras comunes provocaría un conflicto normativo directo con la Comisión Europea y el colapso del sistema común de asilo y fronteras."
+        },
+        {
+          "numero_medida": 30,
+          "id_medida": "PH-030",
+          "seccion_original": "7. Inmigración, Ciudadanía Universal y Derechos Humanos",
+          "id_bloque_comun": "bloque_14",
+          "titulo_bloque_comun": "Inmigración, Control de Fronteras, Integración y Nacionalidad",
+          "titulo_medida": "Apertura de vías legales y seguras de migración y regularización extraordinaria de las 500.000 personas sin papeles",
+          "texto_oficial": "Apertura inmediata de vías migratorias legales y seguras mediante la concesión de visados humanitarios y de búsqueda de empleo en embajadas y consulados españoles. Aprobación urgente de la regularización extraordinaria de las más de 500.000 personas migrantes que ya viven, trabajan y aportan en nuestro país, garantizándoles plenitud de derechos laborales, sanitarios y sociales.",
+          "explicacion_medida": "Propone habilitar cauces formales para solicitar visados de residencia y trabajo en los consulados de origen, habilitar corredores humanitarios para evitar la muerte de miles de personas en la ruta atlántica y el Mediterráneo, y convalidar en el Congreso la Iniciativa Legislativa Popular (ILP) para la regularización extraordinaria de todas las personas migrantes presentes en España antes del 1 de noviembre de 2024.",
+          "datos_a_favor": "Más de 700.000 firmas ciudadanas avalaron la ILP para la regularización de personas migrantes en España. La Fundación Funcas y la Seguridad Social calculan que regularizar a las más de 500.000 personas en situación irregular aportaría más de 3.000 millones de euros anuales en cotizaciones sociales e impuestos netos, aflorando empleo sumergido en sectores clave (agricultura, cuidados, hostelería y construcción) y rescatando a miles de familias de la explotación laboral más descarnada.",
+          "datos_en_contra": "Críticos y partidos conservadores argumentan que una regularización extraordinaria masiva e incondicional puede generar un 'efecto llamada' hacia las redes criminales de tráfico de personas que operan en las costas de África occidental. Además, el nuevo Pacto de Migración y Asilo de la UE aprobado en 2024 prima el control estricto en frontera y el triaje biométrico previo sobre las regularizaciones individuales masivas."
+        },
+        {
+          "numero_medida": 31,
+          "id_medida": "PH-031",
+          "seccion_original": "7. Inmigración, Ciudadanía Universal y Derechos Humanos",
+          "id_bloque_comun": "bloque_14",
+          "titulo_bloque_comun": "Inmigración, Control de Fronteras, Integración y Nacionalidad",
+          "titulo_medida": "Convivencia intercultural, educación inclusiva y ciudadanía universal con derecho a voto para residentes extranjeros",
+          "texto_oficial": "Desarrollo de planes de acogida digna e inclusión comunitaria intercultural, reforzando la red pública de mediación y aprendizaje de idiomas. Reconocimiento del derecho al sufragio activo y pasivo en todas las convocatorias electorales (municipales, autonómicas y generales) para todas las personas extranjeras con residencia habitual acreditada en España de más de un año.",
+          "explicacion_medida": "Propone reconocer la ciudadanía política plena a todas las personas residentes en España con independencia de su nacionalidad de origen, reformando el artículo 13.2 de la Constitución para extender el derecho de voto en todas las elecciones a los residentes extranjeros con más de doce meses empadronados, desvinculando la ciudadanía política del requisito de reciprocidad diplomática internacional.",
+          "datos_a_favor": "En España residen de forma permanente más de 6 millones de personas extranjeras (cerca del 13% de la población total) que pagan sus impuestos (IRPF, IVA, IBI) y cotizan a la Seguridad Social pero carecen de derecho a elegir a los representantes políticos que deciden sobre sus vidas y servicios públicos. Países europeos como Irlanda o los países nórdicos reconocen el derecho de voto a residentes en elecciones locales sin reciprocidad.",
+          "datos_en_contra": "El artículo 13.2 de la Constitución Española reserva con carácter exclusivo el derecho de sufragio activo y pasivo en las elecciones generales a los ciudadanos de nacionalidad española, permitiendo el voto extranjero en municipales únicamente por tratado bilateral con reciprocidad o normas comunitarias. Otorgar el voto general a no nacionales desdibuja el vínculo jurídico fundamental de la soberanía nacional del pueblo español (art. 1.2 CE)."
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_15",
+      "numero_bloque": 15,
+      "titulo_bloque": "Regeneración Democrática, Independencia Institucional y Lucha contra la Corrupción",
+      "alcance_medidas": "Medidas 20 a 23, 38 (5 medidas)",
+      "total_medidas_bloque": 5,
+      "medidas_incluidas": [
+        20,
+        21,
+        22,
+        23,
+        38
+      ],
+      "explicacion_bloque": "Propuestas de regeneración democrática de los Bloques 5 y 10: Ley de Responsabilidad Política con referéndums revocatorios, democracia directa digital, proporcionalidad electoral estricta y proceso constituyente republicano.",
+      "medidas": [
+        {
+          "numero_medida": 20,
+          "id_medida": "PH-020",
+          "seccion_original": "5. Democracia Real, Responsabilidad Política y Justicia Cercana",
+          "id_bloque_comun": "bloque_15",
+          "titulo_bloque_comun": "Regeneración Democrática, Independencia Institucional y Lucha contra la Corrupción",
+          "titulo_medida": "Ley de Responsabilidad Política: carácter jurídicamente vinculante del programa electoral y revocabilidad de cargos",
+          "texto_oficial": "Aprobación de la Ley de Responsabilidad Política que establezca el carácter jurídicamente vinculante de los programas electorales. Los cargos electos que incumplan de forma manifiesta y reiterada sus compromisos programáticos fundamentales podrán ser revocados de su mandato mediante referéndum revocatorio popular a mitad de legislatura convocado por iniciativa del 5% del censo electoral.",
+          "explicacion_medida": "Propone una transformación constitucional y legal del mandato representativo para convertir el programa electoral en un contrato legal vinculante entre el representante y los electores, superando la prohibición del mandato imperativo del artículo 67.2 de la Constitución. Instituye la figura del referéndum revocatorio (*recall*) a mitad de mandato para destituir a alcaldes, presidentes autonómicos o al Presidente del Gobierno si la ciudadanía constata fraude o incumplimiento de sus promesas electorales clave.",
+          "datos_a_favor": "El barómetro del CIS refleja desde hace décadas que la clase política y los partidos figuran entre los principales problemas percibidos por los españoles, existiendo un sentimiento generalizado de desafección y engaño ante promesas electorales solemnes que se incumplen sistemáticamente tras llegar al poder sin ninguna consecuencia legal. Países como Suiza, diversos estados de Estados Unidos (California) o naciones latinoamericanas tienen regulados mecanismos de revocatoria del mandato (*recall election*) que obligan a los gobernantes a rendir cuentas.",
+          "datos_en_contra": "El artículo 67.2 de la Constitución Española de 1978 prohíbe expresamente que los miembros de las Cortes Generales estén ligados por mandato imperativo, principio angular de la democracia representativa liberal que garantiza que los diputados puedan actuar con libertad de conciencia y adaptarse a coyunturas imprevistas (crisis financieras, guerras, pandemias) sin incurrir en ilegalidad civil o penal. Introducir la revocabilidad exigiría una reforma agravada de la Constitución (art. 168 CE) y podría fomentar una inestabilidad política crónica."
+        },
+        {
+          "numero_medida": 21,
+          "id_medida": "PH-021",
+          "seccion_original": "5. Democracia Real, Responsabilidad Política y Justicia Cercana",
+          "id_bloque_comun": "bloque_15",
+          "titulo_bloque_comun": "Regeneración Democrática, Independencia Institucional y Lucha contra la Corrupción",
+          "titulo_medida": "Democracia directa digital, consultas populares vinculantes e iniciativas legislativas populares sin filtros",
+          "texto_oficial": "Implantación de mecanismos permanentes de democracia directa digital vinculante. Cualquier ley de especial trascendencia social, económica o internacional deberá someterse a referéndum vinculante si lo solicita el 1% del censo electoral. Eliminación de las restricciones del artículo 87.3 de la Constitución para que las Iniciativas Legislativas Populares (ILP) lleguen al pleno del Congreso de forma obligatoria y sin veto previo de la Mesa.",
+          "explicacion_medida": "Propone una reforma constitucional y legal del artículo 92 y 87.3 CE para suprimir el monopolio del Presidente del Gobierno en la convocatoria de referéndums, habilitando la iniciativa popular para convocar consultas vinculantes sobre cualquier materia (incluida la fiscal o internacional). Establece plataformas públicas de voto telemático seguro y garantiza que las ILP avaladas por firmas ciudadanas se debatan y voten preceptivamente en las Cortes sin filtros parlamentarios.",
+          "datos_a_favor": "El modelo de democracia semidirecta de Suiza, con centenares de votaciones populares vinculantes a escala federal, cantonal y comunal desde el siglo XIX, demuestra que la participación ciudadana continua incrementa la cohesión social, la corresponsabilidad fiscal y la calidad de las políticas públicas. En España, de las decenas de ILP promovidas por la sociedad civil en 45 años, menos del 5% han llegado a convertirse en ley, siendo sistemáticamente bloqueadas o desnaturalizadas por las mayorías partidistas en la Mesa del Congreso.",
+          "datos_en_contra": "Politólogos y constitucionalistas advierten de que una democracia plebiscitaria continua puede favorecer la polarización, la demagogia populista y la tiranía de la mayoría sobre los derechos fundamentales de minorías vulnerables. Asimismo, la experiencia internacional (como el Brexit o los referéndums de California) constata que consultas simplificadas de sí/no resultan inadecuadas para abordar problemas técnicos hipercomplejos de gestión presupuestaria, deuda pública o relaciones internacionales."
+        },
+        {
+          "numero_medida": 22,
+          "id_medida": "PH-022",
+          "seccion_original": "5. Democracia Real, Responsabilidad Política y Justicia Cercana",
+          "id_bloque_comun": "bloque_15",
+          "titulo_bloque_comun": "Regeneración Democrática, Independencia Institucional y Lucha contra la Corrupción",
+          "titulo_medida": "Reforma electoral de la LOREG hacia la proporcionalidad real: circunscripción única o colegio nacional de restos",
+          "texto_oficial": "Reforma integral de la Ley Orgánica del Régimen Electoral General (LOREG) para garantizar el principio democrático básico de 'una persona, un voto'. Sustitución del sistema D'Hondt por sistemas de resto mayor (Hare) y creación de una circunscripción única estatal o un colegio nacional de restos para compensar la sobrerrepresentación provincial, garantizando que todos los votos tengan exactamente el mismo peso en escaños.",
+          "explicacion_medida": "Propone reformar la LOREG y el artículo 68.2 de la Constitución para acabar con la distorsión del actual sistema electoral provincial. Plantea un modelo de proporcionalidad estricta (mediante circunscripción estatal única o reparto de restos sobrantes no asignados en provincias) para que el porcentaje de escaños de cada fuerza política coincida con exactitud matemática con su porcentaje de sufragios en todo el país.",
+          "datos_a_favor": "En las elecciones generales españolas, partidos de ámbito estatal minoritarios han llegado a necesitar más de 300.000 a 400.000 votos para conseguir un solo diputado en el Congreso, mientras que formaciones nacionalistas concentradas o los dos grandes partidos apenas requieren entre 40.000 y 60.000 votos por escaño. Millones de votos depositados en provincias pequeñas (Soria, Teruel, Segovia, Ávila) hacia terceras opciones quedan completamente desprovistos de representación y terminan en la papelera electoral.",
+          "datos_en_contra": "El artículo 68.2 de la Constitución Española consagra la provincia como circunscripción electoral básica con un mínimo inicial de dos diputados por provincia para garantizar el equilibrio territorial de las zonas rurales despobladas frente a las macrociudades como Madrid o Barcelona. Implantar la circunscripción única estatal exigiría una reforma constitucional agravada (art. 167 CE) y concentraría la atención de las campañas electorales y la inversión pública en las grandes urbes pobladas, vaciando de voz política a la España interior."
+        },
+        {
+          "numero_medida": 23,
+          "id_medida": "PH-023",
+          "seccion_original": "5. Democracia Real, Responsabilidad Política y Justicia Cercana",
+          "id_bloque_comun": "bloque_15",
+          "titulo_bloque_comun": "Regeneración Democrática, Independencia Institucional y Lucha contra la Corrupción",
+          "titulo_medida": "Descentralización democrática de la Justicia y elección popular de la cúpula judicial y juzgados de proximidad",
+          "texto_oficial": "Transformación democrática del Poder Judicial: descentralización del sistema judicial potenciando los juzgados de paz y mediación comunitaria de proximidad, e instauración de la elección democrática directa y por sufragio universal de los miembros del Consejo General del Poder Judicial, magistrados del Tribunal Constitucional y de las presidencias de los Tribunales Superiores de Justicia, erradicando el corporativismo y la tutela partidista.",
+          "explicacion_medida": "Propone democratizar la cúspide del sistema judicial sustituyendo el actual sistema de designación parlamentaria o corporativa por la elección popular directa por la ciudadanía de los vocales del CGPJ y de los magistrados del Tribunal Constitucional entre juristas de reconocido prestigio. Paralelamente, potencia los juzgados de paz y la justicia de proximidad vecinal basada en la mediación comunitaria.",
+          "datos_a_favor": "El bloqueo de cinco años en la renovación del CGPJ y el descarado reparto de cuotas entre los dos grandes partidos evidenció el secuestro partidista de la cúpula judicial, situando a España en el punto de mira del Grupo de Estados contra la Corrupción (GRECO) del Consejo de Europa. Abrir la designación a la deliberación y elección ciudadana o por jurados populares rompería los pactos de despacho entre cúpulas de partidos.",
+          "datos_en_contra": "El Tribunal Constitucional y los estándares de la Comisión de Venecia del Consejo de Europa advierten de que someter a los jueces o a los órganos disciplinarios judiciales a elecciones populares directas (como ocurre en ciertos condados de Estados Unidos o en la reforma judicial de México de 2024) politiza letalmente a la judicatura, comprometiendo la imparcialidad de los magistrados, quienes se verían forzados a hacer campaña electoral demagógica o buscar financiación privada de lobbies para ganar elecciones."
+        },
+        {
+          "numero_medida": 38,
+          "id_medida": "PH-038",
+          "seccion_original": "10. Descentralización y Modelo Territorial",
+          "id_bloque_comun": "bloque_15",
+          "titulo_bloque_comun": "Regeneración Democrática, Independencia Institucional y Lucha contra la Corrupción",
+          "titulo_medida": "Apertura de un proceso constituyente republicano y democratización electiva de todas las instituciones históricas del Estado",
+          "texto_oficial": "El Estado y sus diferentes instituciones, como cualquier otra construcción humana, son históricas y por tanto sujetas a variación. Además, deben ser elegidas democráticamente. Apertura de un proceso constituyente para elegir la forma de Estado (República) y avanzar hacia un modelo confederal o federal asimétrico fundamentado en la libre y voluntaria unión de los pueblos.",
+          "explicacion_medida": "Propone activar el procedimiento de revisión total de la Constitución (art. 168 CE) para convocar un proceso constituyente que permita a los ciudadanos votar democráticamente la jefatura del Estado (instaurando la III República y aboliendo la Corona) y reconocer el derecho a la libre determinación de los pueblos de España mediante acuerdos federales o confederales voluntarios y paritarios.",
+          "datos_a_favor": "El principio republicano y democrático elemental exige que ningún cargo público ni jefatura del Estado sea hereditaria por vía sanguínea o dinástica, incompatible con el principio de igualdad ante la ley consagrado en el artículo 14 de la Constitución. Diversas encuestas sociológicas reflejan que una mayoría de los ciudadanos jóvenes respalda someter la forma de Estado a referéndum ciudadano y defiende modelos territoriales basados en el pacto y no en la imposición centralista.",
+          "datos_en_contra": "La Monarquía parlamentaria constituye la forma política del Estado español según el artículo 1.3 de la Constitución de 1978, refrendada mayoritariamente por el pueblo español y considerada por los partidos de la Transición como el principal símbolo de continuidad histórica, arbitraje institucional y estabilidad democrática. La reforma agravada del artículo 168 CE exige mayorías de dos tercios de ambas Cámaras, disolución de Cortes y posterior referéndum vinculante, hoy inviable por falta de consenso político."
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_16",
+      "numero_bloque": 16,
+      "titulo_bloque": "Cohesión Territorial, Financiación Autonómica, Presencia del Estado y Ceuta y Melilla",
+      "alcance_medidas": "Medidas 37 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        37
+      ],
+      "explicacion_bloque": "Propuesta territorial del Bloque 10: máxima descentralización competencial y financiera en el nivel del municipio (principio de subsidiariedad radical de abajo hacia arriba).",
+      "medidas": [
+        {
+          "numero_medida": 37,
+          "id_medida": "PH-037",
+          "seccion_original": "10. Descentralización y Modelo Territorial",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Cohesión Territorial, Financiación Autonómica, Presencia del Estado y Ceuta y Melilla",
+          "titulo_medida": "Máxima descentralización municipalista de competencias y presupuestos: subsidiariedad radical de abajo hacia arriba",
+          "texto_oficial": "Hay que dotar de competencias, y de presupuesto, a las distintas administraciones llegando hasta el nivel del municipio, y colocando en este nivel el mayor grado de decisión, competencias y presupuesto. Y de ahí para arriba, por acuerdo y delegación.",
+          "explicacion_medida": "Propone una refundación del modelo de Estado basada en el principio humanista de subsidiariedad radical: transferir la mayor cuota posible de competencias públicas y de recursos tributarios a los municipios y concejos de proximidad, siendo la ciudadanía local en asamblea o mediante consultas vecinales quien decida sus prioridades. Los niveles territoriales superiores (comarcas, CCAA, Estado) solo actuarán por delegación acordada.",
+          "datos_a_favor": "La Carta Europea de Autonomía Local consagrada por el Consejo de Europa defiende que los asuntos públicos deben ser gestionados por la autoridad más cercana a la ciudadanía. En España, los ayuntamientos gestionan apenas el 12%-14% del gasto público total a pesar de ser la primera trinchera de respuesta social, frente al 35%-40% que gestionan los gobiernos locales en países descentralizados como Dinamarca, Suecia o Suiza, dotando de enorme agilidad y cercanía a los servicios comunitarios.",
+          "datos_en_contra": "España cuenta con 8.131 municipios, de los cuales cerca de 5.000 tienen menos de 1.000 habitantes y carecen de capacidad técnica, jurídica y financiera para gestionar competencias complejas de urbanismo, sanidad o regulación ambiental sin generar ineficiencias o duplicidades. Además, una hiperfragmentación municipalista desregulada podría quebrar la equidad y la igualdad básica de los derechos de los españoles en todo el territorio."
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_17",
+      "numero_bloque": 17,
+      "titulo_bloque": "Cultura, Deporte, Historia Común y Víctimas del Terrorismo",
+      "alcance_medidas": "Medidas 39 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        39
+      ],
+      "explicacion_bloque": "Propuestas culturales y de convicciones del Bloque 11: laicidad estricta del Estado, derogación de Acuerdos con la Santa Sede, supresión de la casilla del IRPF para la Iglesia y cobro del IBI a inmuebles religiosos.",
+      "medidas": [
+        {
+          "numero_medida": 39,
+          "id_medida": "PH-039",
+          "seccion_original": "11. Libertad de Ideas y Creencias",
+          "id_bloque_comun": "bloque_17",
+          "titulo_bloque_comun": "Cultura, Deporte, Historia Común y Víctimas del Terrorismo",
+          "titulo_medida": "Laicidad estricta del Estado, derogación de los Acuerdos con la Santa Sede y fin de privilegios fiscales religiosos",
+          "texto_oficial": "El Partido Humanista defiende la libertad de ideas y creencias y denuncia la violencia que se manifiesta en la acción de despojar de intención y de libertad al ser humano. Toda persona tiene derecho a pensar libremente, elegir y expresar sus propias creencias, sean religiosas, filosóficas, agnósticas o ateas y no sufrir discriminación ni persecución. El Estado debe garantizar esta libertad manteniendo una posición estrictamente laica: denuncia de los Acuerdos del Estado español con la Santa Sede de 1979, supresión de la casilla del IRPF para la Iglesia, cobro del IBI a los bienes inmuebles confesionales y eliminación de la religión confesional del currículo escolar público.",
+          "explicacion_medida": "Propone la separación estricta de la Iglesia y el Estado consagrando la laicidad plena del ordenamiento jurídico. Exige la denuncia inmediata de los cuatro Acuerdos de 1979 con el Vaticano, la supresión de la financiación pública directa a la Iglesia Católica a través de la asignación tributaria del IRPF (más de 300 millones anuales), la obligación de tributar en el IBI por todos sus inmuebles no afectos al culto y la salida de la religión confesional de las aulas de colegios e institutos públicos.",
+          "datos_a_favor": "El barómetro del CIS constata que más del 65% de la población española, y más del 80% de los jóvenes, se define como no practicante, agnóstica o atea, lo que choca con la pervivencia de privilegios fiscales y financieros decimonónicos a la Iglesia Católica incompatibles con el carácter aconfesional del Estado del artículo 16.3 CE. Europa Laica cifra en más de 11.000 millones de euros anuales los recursos públicos directos e indirectos que recibe la Iglesia en subvenciones, conciertos, exenciones de IBI e inmatriculaciones patrimoniales opacas.",
+          "datos_en_contra": "La Conferencia Episcopal Española y organizaciones benéficas religiosas destacan que la Iglesia Católica, a través de Cáritas y Manos Unidas, sostiene una inmensa red asistencial que atiende anualmente a más de 2,5 millones de personas vulnerables, ahorrando al Estado miles de millones de euros en servicios asistenciales. Además, los Acuerdos de 1979 son tratados internacionales vinculantes que no pueden denunciarse sin negociaciones diplomáticas conforme a la Convención de Viena sobre el Derecho de los Tratados."
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_18",
+      "numero_bloque": 18,
+      "titulo_bloque": "Gestión de Emergencias y Protección Civil",
+      "alcance_medidas": "Sin medidas específicas en este bloque (0 medidas)",
+      "total_medidas_bloque": 0,
+      "medidas_incluidas": [],
+      "explicacion_bloque": "El programa electoral de Partido Humanista (PH) no incluye medidas específicas encuadradas en este bloque temático.",
+      "medidas": []
+    },
+    {
+      "id_bloque": "bloque_19",
+      "numero_bloque": 19,
+      "titulo_bloque": "Defensa Nacional, Fuerzas Armadas y Política Exterior",
+      "alcance_medidas": "Medidas 24 a 27 (4 medidas)",
+      "total_medidas_bloque": 4,
+      "medidas_incluidas": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "explicacion_bloque": "Propuestas de política exterior, paz y defensa del Bloque 6: neutralidad activa y salida inmediata de la OTAN, firma y ratificación del TPAN contra las armas nucleares, cierre de bases de Rota y Morón y reducción del 50% del gasto militar con reconversión industrial civil.",
+      "medidas": [
+        {
+          "numero_medida": 24,
+          "id_medida": "PH-024",
+          "seccion_original": "6. Cultura de No Violencia y Desarme",
+          "id_bloque_comun": "bloque_19",
+          "titulo_bloque_comun": "Defensa Nacional, Fuerzas Armadas y Política Exterior",
+          "titulo_medida": "Declaración de neutralidad activa y salida inmediata y formal de España de la OTAN",
+          "texto_oficial": "Declaración de neutralidad activa en el plano internacional y salida inmediata y formal de España de la OTAN (Organización del Tratado del Atlántico Norte). Ruptura con las doctrinas belicistas de bloques imperialistas y defensa de una arquitectura de seguridad compartida basada en el desarme, la resolución pacífica de controversias y la diplomacia multilateral en el marco de Naciones Unidas.",
+          "explicacion_medida": "Propone que España abandone formalmente la Alianza Atlántica al amparo del artículo 13 del Tratado de Washington, retirando a todas las tropas y mandos españoles desplegados en misiones de la OTAN en el flanco este europeo y declarando la neutralidad perpetua activa de España en su Constitución, homologándose a los modelos históricos de Austria, Suiza o Irlanda para actuar como mediador de paz internacional.",
+          "datos_a_favor": "El Partido Humanista fue una de las fuerzas fundadoras y más activas en las masivas movilizaciones del 'OTAN No' en el referéndum de 1986. Organizaciones pacifistas internacionales y el Instituto Internacional de Estocolmo para la Investigación de la Paz (SIPRI) advierten de que la expansión militar de la OTAN y la lógica de rearme aceleran la confrontación nuclear entre superpotencias, desviando cientos de miles de millones de euros de los servicios públicos hacia el complejo militar-industrial.",
+          "datos_en_contra": "El Ministerio de Asuntos Exteriores y analistas geoestratégicos destacan que el paraguas de seguridad colectiva del artículo 5 del Tratado del Atlántico Norte es la máxima garantía de disuasión frente a amenazas exteriores para España, especialmente en un contexto de inestabilidad en el flanco sur (Sahel, norte de África) y la guerra de agresión rusa en Ucrania. Abandonar la OTAN dejaría a España aislada diplomática y militarmente de sus socios de la Unión Europea y exigiría duplicar el presupuesto de defensa nacional para sostener un ejército autosuficiente."
+        },
+        {
+          "numero_medida": 25,
+          "id_medida": "PH-025",
+          "seccion_original": "6. Cultura de No Violencia y Desarme",
+          "id_bloque_comun": "bloque_19",
+          "titulo_bloque_comun": "Defensa Nacional, Fuerzas Armadas y Política Exterior",
+          "titulo_medida": "Firma y ratificación inmediata del Tratado sobre la Prohibición de las Armas Nucleares (TPAN)",
+          "texto_oficial": "Firma y ratificación inmediata por parte del Estado español del Tratado sobre la Prohibición de las Armas Nucleares (TPAN) adoptado por la ONU en 2017. Prohibición expresa de que buques, submarinos o aeronaves de potencias extranjeras con armamento nuclear hagan escala o transiten por territorio, espacio aéreo o aguas jurisdiccionales españolas.",
+          "explicacion_medida": "Propone que el Congreso de los Diputados autorice la ratificación formal del Tratado sobre la Prohibición de las Armas Nucleares (TPAN) de Naciones Unidas (en vigor internacional desde enero de 2021). Compromete a España a la eliminación total y prohibición incondicional del desarrollo, ensayo, almacenamiento o tránsito de cabezas nucleares en su suelo, vetando la entrada de navíos con propulsión o armas atómicas.",
+          "datos_a_favor": "La Campaña Internacional para Abolir las Armas Nucleares (ICAN), galardonada con el Premio Nobel de la Paz en 2017, y encuestas sociológicas revelan que cerca del 80% de la ciudadanía española apoya que España ratifique el TPAN. Más de 90 Estados soberanos ya han firmado el tratado, que declara a las armas nucleares formalmente ilegales bajo el Derecho Internacional Humanitario por sus efectos catastróficos indiscriminados.",
+          "datos_en_contra": "El Gobierno de España y las principales potencias aliadas de la OTAN sostienen que, mientras existan armas nucleares en manos de regímenes autocráticos (como Rusia, China o Corea del Norte), la disuasión nuclear aliada es indispensable para evitar un conflicto global de grandes proporciones. Argumentan que el TPAN no compromete a los Estados poseedores de arsenales y debilita la posición negociadora del Tratado de No Proliferación Nuclear (TNP)."
+        },
+        {
+          "numero_medida": 26,
+          "id_medida": "PH-026",
+          "seccion_original": "6. Cultura de No Violencia y Desarme",
+          "id_bloque_comun": "bloque_19",
+          "titulo_bloque_comun": "Defensa Nacional, Fuerzas Armadas y Política Exterior",
+          "titulo_medida": "Cierre y desmantelamiento de las bases militares estadounidenses de Rota y Morón de la Frontera",
+          "texto_oficial": "Denuncia y no renovación del Convenio de Cooperación para la Defensa entre España y Estados Unidos, procediendo al cierre definitivo, desmantelamiento pacífico y reversión a uso civil y de soberanía nacional de las bases militares de utilización conjunta de Rota (Cádiz) y Morón de la Frontera (Sevilla).",
+          "explicacion_medida": "Propone denunciar formalmente el Convenio bilateral de Defensa de 1988 con Estados Unidos, exigiendo la salida progresiva del contingente militar norteamericano (incluidos los destructores del escudo antimisiles en Rota y las fuerzas de despliegue rápido del mando AFRICOM en Morón) y convirtiendo las instalaciones en polos de desarrollo civil, logístico, tecnológico y de energías limpias.",
+          "datos_a_favor": "Plataformas ciudadanas y marchas por la paz (como la tradicional Marcha a Rota) denuncian que albergar bases norteamericanas convierte a Andalucía y a toda España en un objetivo nuclear prioritario en caso de conflagración bélica entre superpotencias, habiendo servido de plataforma logística para invasiones militares unilaterales en Oriente Medio y África sin autorización del Parlamento español.",
+          "datos_en_contra": "Los ayuntamientos de Rota y Morón, junto a los comités de empresa laborales del personal laboral civil local, advierten del durísimo impacto económico que causaría el cierre de las bases, de las que dependen directamente más de 2.000 puestos de trabajo de trabajadores españoles y más de 400 millones de euros anuales de inyección económica directa en la comarca de la Bahía de Cádiz y la Campiña sevillana."
+        },
+        {
+          "numero_medida": 27,
+          "id_medida": "PH-027",
+          "seccion_original": "6. Cultura de No Violencia y Desarme",
+          "id_bloque_comun": "bloque_19",
+          "titulo_bloque_comun": "Defensa Nacional, Fuerzas Armadas y Política Exterior",
+          "titulo_medida": "Reducción del 50% del gasto militar y reconversión industrial de la fabricación armamentística hacia fines civiles",
+          "texto_oficial": "Reducción inmediata del 50% del presupuesto del Ministerio de Defensa y cancelación de los Programas Especiales de Armamento (PEAs). Reorientación de los fondos liberados (más de 12.000 millones de euros) hacia gasto sanitario, educativo y social, e impulso de un Plan de Reconversión Industrial de las fábricas de armas (Navantia, Airbus militar, Santa Bárbara) hacia industria civil y tecnologías ecológicas.",
+          "explicacion_medida": "Propone recortar a la mitad el presupuesto militar del Estado (que supera los 20.000 millones de euros anuales si se computan los créditos de I+D de Industria y los Programas Especiales de Modernización), cancelando la compra de cazas Eurofighter, submarinos S-80 y blindados Dragón. Plantea un plan de reconversión industrial que garantice todos los puestos de trabajo en los astilleros y plantas aeroespaciales reorientándolos a la fabricación de aerogeneradores marinos, trenes y tecnología médica.",
+          "datos_a_favor": "Informes del Centro Delàs de Estudios por la Paz revelan que el gasto militar real en España alcanza ya el 2,1% del PIB si se computan todas las partidas dispersas en otros ministerios, multiplicándose por dos en apenas cinco años mientras la sanidad pública y la atención a la dependencia sufren listas de espera crónicas. Reconvertir la industria armamentística hacia energías renovables generaría más del doble de empleos directos por euro invertido que la producción militar según estudios de la Universidad de Massachusetts.",
+          "datos_en_contra": "España ha asumido ante sus socios de la OTAN y la Unión Europea el compromiso de elevar el gasto en defensa al 2% del PIB para cumplir con los objetivos de disuasión europea tras la guerra de Ucrania. La industria de defensa y seguridad en España (TEDAE) factura más de 12.000 millones de euros anuales, aporta el 1,4% del PIB industrial y sostiene más de 50.000 empleos directos de alta cualificación técnica que serían destruidos si se cancelan los programas militares de golpe."
+        }
+      ]
+    }
+  ],
+  "otros_bloques": []
+}

@@ -1,0 +1,185 @@
+{
+  "schema_version": "1.0.0",
+  "themes": [
+    {
+      "id": "vivienda",
+      "legacy_id": "bloque_01",
+      "order": 1,
+      "is_canonical": true,
+      "title": "Vivienda, Urbanismo y Mercado del Alquiler",
+      "legacy_title": "Vivienda, Urbanismo, Alquiler y Lucha contra la Okupación",
+      "description": "Acceso a la vivienda, parque público, rehabilitación, regulación del alquiler, suelo urbanizable y seguridad jurídica residencial."
+    },
+    {
+      "id": "economia",
+      "legacy_id": "bloque_02",
+      "order": 2,
+      "is_canonical": true,
+      "title": "Economía, Industria, Innovación y Turismo",
+      "legacy_title": "Economía, Productividad, Industria, Innovación y Turismo",
+      "description": "Política industrial, productividad, I+D+i, comercio, digitalización y sector turístico."
+    },
+    {
+      "id": "fiscalidad",
+      "legacy_id": "bloque_03",
+      "order": 3,
+      "is_canonical": true,
+      "title": "Fiscalidad, Impuestos y Hacienda Pública",
+      "legacy_title": "Fiscalidad e Impuestos",
+      "description": "IRPF, IVA, Impuesto sobre Sociedades, fiscalidad patrimonial, incentivos tributarios y lucha contra el fraude fiscal."
+    },
+    {
+      "id": "empleo",
+      "legacy_id": "bloque_04",
+      "order": 4,
+      "is_canonical": true,
+      "title": "Empleo, Autónomos y Relaciones Laborales",
+      "legacy_title": "Empleo, Autónomos, Emprendimiento y Mercado Laboral",
+      "description": "Mercado de trabajo, salarios, jornada laboral, negociación colectiva, emprendimiento y régimen de trabajadores autónomos."
+    },
+    {
+      "id": "pensiones-bienestar",
+      "legacy_id": "bloque_05",
+      "order": 5,
+      "is_canonical": true,
+      "title": "Pensiones, Bienestar Social, Igualdad y Reto Demográfico",
+      "legacy_title": "Pensiones, Mayores, Reto Demográfico, Discapacidad e Igualdad",
+      "description": "Sistema público de pensiones, personas mayores, discapacidad, inclusión social, políticas de igualdad y despoblación."
+    },
+    {
+      "id": "familia-infancia",
+      "legacy_id": "bloque_06",
+      "order": 6,
+      "is_canonical": true,
+      "title": "Familia, Conciliación, Infancia y Juventud",
+      "legacy_title": "Familia, Natalidad, Conciliación, Infancia y Juventud",
+      "description": "Apoyo a las familias, permisos de crianza, conciliación corresponsable, protección a la infancia y emancipación juvenil."
+    },
+    {
+      "id": "sanidad",
+      "legacy_id": "bloque_07",
+      "order": 7,
+      "is_canonical": true,
+      "title": "Sanidad Pública, Salud Mental y Dependencia",
+      "legacy_title": "Sanidad Pública, Salud Mental y Dependencia",
+      "description": "Atención primaria, listas de espera, personal sanitario, salud mental, cartera de servicios y atención a la dependencia."
+    },
+    {
+      "id": "educacion",
+      "legacy_id": "bloque_08",
+      "order": 8,
+      "is_canonical": true,
+      "title": "Educación, Formación Profesional y Universidad",
+      "legacy_title": "Educación, Formación Profesional y Universidad",
+      "description": "Enseñanza obligatoria y postobligatoria, becas, profesorado, Formación Profesional y sistema universitario."
+    },
+    {
+      "id": "energia",
+      "legacy_id": "bloque_09",
+      "order": 9,
+      "is_canonical": true,
+      "title": "Energía, Transición Ecológica y Medio Ambiente",
+      "legacy_title": "Energía, Transición Ecológica y Soberanía Energética",
+      "description": "Mix energético, energías renovables, redes eléctricas, descarbonización, biodiversidad y gestión de residuos."
+    },
+    {
+      "id": "rural",
+      "legacy_id": "bloque_10",
+      "order": 10,
+      "is_canonical": true,
+      "title": "Sector Primario, Agua y Medio Rural",
+      "legacy_title": "Agricultura, Ganadería, Pesca, Agua y Mundo Rural",
+      "description": "Agricultura, ganadería, pesca, cadena alimentaria, PAC, planificación hidrológica y desarrollo rural."
+    },
+    {
+      "id": "infraestructuras",
+      "legacy_id": "bloque_11",
+      "order": 11,
+      "is_canonical": true,
+      "title": "Infraestructuras, Transporte, Movilidad y Conectividad",
+      "legacy_title": "Infraestructuras, Transporte, Ferrocarril y Conectividad",
+      "description": "Red ferroviaria, cercanías, carreteras, puertos, aeropuertos, transporte público y telecomunicaciones."
+    },
+    {
+      "id": "administracion",
+      "legacy_id": "bloque_12",
+      "order": 12,
+      "is_canonical": true,
+      "title": "Administración Pública, Gestión Presupuestaria y Simplificación",
+      "legacy_title": "Administración Pública, Control del Gasto Público y Reducción de Burocracia",
+      "description": "Función pública, digitalización administrativa, evaluación de políticas públicas y simplificación normativa."
+    },
+    {
+      "id": "justicia-seguridad",
+      "legacy_id": "bloque_13",
+      "order": 13,
+      "is_canonical": true,
+      "title": "Justicia, Seguridad Ciudadana y Derechos Civiles",
+      "legacy_title": "Justicia, Seguridad Ciudadana y Cumplimiento de la Ley",
+      "description": "Administración de justicia, medios judiciales, fuerzas y cuerpos de seguridad, legislación penal y garantías procesales."
+    },
+    {
+      "id": "inmigracion",
+      "legacy_id": "bloque_14",
+      "order": 14,
+      "is_canonical": true,
+      "title": "Política Migratoria, Fronteras, Integración y Nacionalidad",
+      "legacy_title": "Inmigración, Control de Fronteras, Integración y Nacionalidad",
+      "description": "Gestión de flujos migratorios, asilo, acogida, integración sociolaboral, fronteras y acceso a la nacionalidad."
+    },
+    {
+      "id": "regeneracion",
+      "legacy_id": "bloque_15",
+      "order": 15,
+      "is_canonical": true,
+      "title": "Calidad Democrática, Instituciones y Transparencia",
+      "legacy_title": "Regeneración Democrática, Independencia Institucional y Lucha contra la Corrupción",
+      "description": "Reforma institucional, sistema electoral, separación de poderes, transparencia pública y prevención de la corrupción."
+    },
+    {
+      "id": "territorial",
+      "legacy_id": "bloque_16",
+      "order": 16,
+      "is_canonical": true,
+      "title": "Organización Territorial, Autogobierno y Financiación Autonómica",
+      "legacy_title": "Cohesión Territorial, Financiación Autonómica, Presencia del Estado y Ceuta y Melilla",
+      "description": "Modelo territorial, competencias autonómicas y forales, financiación territorial, insularidad y ciudades autónomas."
+    },
+    {
+      "id": "cultura",
+      "legacy_id": "bloque_17",
+      "order": 17,
+      "is_canonical": true,
+      "title": "Cultura, Lenguas, Deporte y Memoria",
+      "legacy_title": "Cultura, Deporte, Historia Común y Víctimas del Terrorismo",
+      "description": "Políticas culturales, industrias creativas, lenguas oficiales, fomento del deporte, patrimonio y políticas de memoria."
+    },
+    {
+      "id": "emergencias",
+      "legacy_id": "bloque_18",
+      "order": 18,
+      "is_canonical": true,
+      "title": "Gestión de Emergencias y Protección Civil",
+      "legacy_title": "Gestión de Emergencias y Protección Civil",
+      "description": "Prevención de catástrofes naturales e incendios, coordinación de emergencias y servicios de protección civil."
+    },
+    {
+      "id": "defensa-exterior",
+      "legacy_id": "bloque_19",
+      "order": 19,
+      "is_canonical": true,
+      "title": "Política Exterior, Unión Europea, Cooperación y Defensa",
+      "legacy_title": "Defensa Nacional, Fuerzas Armadas y Política Exterior",
+      "description": "Acción exterior, Unión Europea, cooperación internacional al desarrollo, paz, seguridad y Fuerzas Armadas."
+    },
+    {
+      "id": "otros",
+      "legacy_id": "otro_bloque_01",
+      "order": 20,
+      "is_canonical": false,
+      "title": "Otras Materias Sectoriales (Bienestar Animal y Específicos)",
+      "legacy_title": "Protección y Bienestar Animal",
+      "description": "Bloques temáticos adicionales específicos de determinados programas electorales fuera de los 19 ejes comunes."
+    }
+  ]
+}

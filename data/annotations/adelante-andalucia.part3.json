@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "adelante-andalucia",
+  "entries": {
+    "adelante-andalucia-241": {
+      "status": "corregida",
+      "arguments_for": "En España los arrendamientos de viviendas turísticas sin servicios hoteleros están exentos de IVA mientras los hoteles tributan al 10 %, una asimetría que la Directiva europea ViDA (UE 2025/516) prevé eliminar obligando a gravar los alquileres de corta duración. Aplicar el tipo general del 21 % equipara o supera la carga fiscal del alojamiento reglado, amplía la recaudación y reduce el incentivo a destinar vivienda residencial al uso turístico.",
+      "arguments_against": "El sector turístico y organizaciones empresariales advierten de que elevar el IVA al 21 % frente al 10 % que pagan hoteles y apartamentos reglados en España (y tipos reducidos en otros destinos mediterráneos) penalizaría la competitividad, se trasladaría al precio final para el viajero y afectaría a pequeños propietarios.",
+      "sources_for": [
+        {
+          "title": "Alquilo un apartamento turístico, ¿tengo que declarar el IVA?",
+          "publisher": "Agencia Estatal de Administración Tributaria",
+          "url": "https://sede.agenciatributaria.gob.es/Sede/iva/iva-operaciones-inmobiliarias/alquilo-apartamento-turistico-tengo-que-iva.html"
+        },
+        {
+          "title": "La UE impulsa la eliminación de la exención de IVA en los alquileres de corta duración",
+          "publisher": "Garrigues",
+          "url": "https://blogturismo.garrigues.com/union-europea/la-ue-impulsa-la-eliminacion-de-la-exencion-de-iva-en-los-alquileres-de-corta-duracion"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "La subida del IVA turístico al 21%, como plantea Bruselas, restaría competitividad al sector",
+          "publisher": "Hosteltur",
+          "url": "https://www.hosteltur.com/177451_la-subida-del-iva-turistico-al-21-como-plantea-bruselas-restaria-competitividad-al-sector.html"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y resumen fieles al PDF (p. 58). Se sustituyen argumentos genéricos por datos contrastados sobre exención actual del IVA en alquiler turístico, Directiva ViDA y debate sobre competitividad."
+    },
+    "adelante-andalucia-242": {
+      "status": "corregida",
+      "arguments_for": "Según la Estadística de Gasto Sanitario Público del Ministerio de Sanidad, los conciertos sanitarios con entidades privadas absorben en torno al 8,5 %-10 % del gasto sanitario autonómico (más de 10.000 millones de euros anuales en el conjunto del SNS), por lo que gravar los beneficios derivados de esa contratación permitiría reforzar la financiación pública de la investigación oncológica a través de organismos como el ISCIII o la AEI.",
+      "arguments_against": "El sector sanitario privado (ASPE) sostiene que los conciertos funcionan como apoyo complementario para aliviar listas de espera quirúrgicas y pruebas diagnósticas y señala que el gravamen específico sobre beneficios concertados podría encarecer los convenios o reducir la disponibilidad de proveedores privados, además de plantear dudas de seguridad jurídica si introduce doble imposición respecto al Impuesto sobre Sociedades.",
+      "sources_for": [
+        {
+          "title": "Estadística de Gasto Sanitario Público — Tablas de conciertos",
+          "publisher": "Ministerio de Sanidad",
+          "url": "https://www.sanidad.gob.es/estadEstudios/sanidadDatos/tablas/tabla31.htm"
+        },
+        {
+          "title": "Ayudas destacadas en Ciencias de la Salud e investigación del cáncer",
+          "publisher": "Agencia Estatal de Investigación (AEI)",
+          "url": "https://www.aei.gob.es/ayudas-concedidas/ayudas-destacadas/ciencia-salud"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Análisis de la Sanidad Privada Española",
+          "publisher": "Alianza de la Sanidad Privada Española (ASPE)",
+          "url": "https://www.aspesanidad.es/wp-content/uploads/1.-NACIONAL-Analisis-de-la-Sanidad-Privada-Espanola.pdf"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y resumen fieles al PDF (p. 58). Se elimina la referencia errónea a 'directivas europeas de seguridad y fronteras' y se reemplazan los argumentos por datos reales de conciertos sanitarios y financiación de investigación."
+    },
+    "adelante-andalucia-243": {
+      "status": "corregida",
+      "arguments_for": "España ya contempla un impuesto de salida en el artículo 95 bis de la Ley del IRPF para plusvalías latentes cuando el contribuyente ha residido 10 de los últimos 15 años y posee participaciones superiores a 4 millones de euros (o más del 25 % si superan 1 millón), pero su aplicación permite aplazar o extinguir la deuda en traslados dentro de la UE/EEE; endurecerlo busca evitar la deslocalización fiscal de grandes patrimonios tras acumular riqueza en España.",
+      "arguments_against": "La jurisprudencia del TJUE sobre libertad de establecimiento limita el cobro inmediato del impuesto de salida cuando el traslado se produce a otro Estado miembro de la UE o del EEE, obligando a prever aplazamientos; además, fiscalistas advierten de posibles conflictos de doble imposición y pérdida de atractivo para la atracción de inversores y directivos.",
+      "sources_for": [
+        {
+          "title": "Régimen especial de ganancias patrimoniales por cambio de residencia (art. 95 bis LIRPF)",
+          "publisher": "Agencia Estatal de Administración Tributaria",
+          "url": "https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024/c11-ganancias-perdidas-patrimoniales/regimen-especial-ganancias-patrimoniales-cambio-residencia/introduccion-ambito-aplicacion.html"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "El exit tax español y su compatibilidad con el Derecho de la Unión Europea",
+          "publisher": "Uría Menéndez",
+          "url": "https://www.uria.com/documentos/publicaciones/4796/documento/foro02.pdf?id=5992"
+        },
+        {
+          "title": "Exit Tax: aspectos clave antes de cambiar tu residencia fiscal",
+          "publisher": "Jorge Borrajo Abogados",
+          "url": "https://jorgeborrajo.com/exit-tax-aspectos-clave-antes-de-cambiar-tu-residencia-fiscal/"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y resumen fieles al PDF (p. 58). Argumentos reformulados con referencia real al art. 95 bis LIRPF y los límites fijados por la normativa europea."
+    },
+    "adelante-andalucia-244": {
+      "status": "corregida",
+      "arguments_for": "Según las Cuentas de Impuestos Ambientales del INE, España recaudó 26.830 millones de euros en 2024 (7,0 % de los ingresos fiscales totales), situándose en proporción sobre el PIB por debajo de la media europea según análisis del Consejo General de Economistas y la OCDE; reforzar la fiscalidad verde aplica el principio de 'quien contamina paga' para desincentivar emisiones y residuos.",
+      "arguments_against": "Informes económicos y del Consejo General de Economistas señalan que la mayor parte de la recaudación ambiental recae sobre impuestos energéticos (alrededor del 80 %), lo que puede resultar regresivo para los hogares de menor renta si no se compensa con transferencias directas, y elevar los costes operativos de sectores industriales intensivos en energía.",
+      "sources_for": [
+        {
+          "title": "Cuenta de los impuestos ambientales. Año 2024",
+          "publisher": "Instituto Nacional de Estadística (INE)",
+          "url": "https://www.ine.es/dyngs/Prensa/CIA2024.htm"
+        },
+        {
+          "title": "Taxation and ecological transition during climate and energy crises",
+          "publisher": "Real Instituto Elcano",
+          "url": "https://www.realinstitutoelcano.org/en/work-document/taxation-and-ecological-transition-during-climate-and-energy-crises/"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Fiscalidad ambiental en España",
+          "publisher": "Consejo General de Economistas de España",
+          "url": "https://www.economistas.es/Contenido/Consejo/Estudios%20y%20trabajos/2024/Estudio%20CGE_Fiscalidad%20ambiental%20en%20Espa%C3%B1a.pdf"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y resumen fieles al PDF (p. 59). Se sustituyen argumentos genéricos sobre patrimonio por datos del INE y análisis sobre regresividad de los impuestos energéticos."
+    },
+    "adelante-andalucia-245": {
+      "status": "corregida",
+      "arguments_for": "Según el artículo 96 de la Ley del IRPF, el límite general de 22.000 euros para no declarar baja a 15.876 euros cuando hay dos o más pagadores y del segundo y siguientes se superan 1.500 euros anuales; dado que cada pagador calcula retenciones sin conocer los ingresos restantes, muchos trabajadores pluriempleados sufren regularizaciones en la Renta, por lo que unificar el umbral en 22.000 euros evitaría ese perjuicio.",
+      "arguments_against": "Elevar la exención de declarar hasta 22.000 euros con varios pagadores reduce el control tributario sobre rentas acumuladas entre distintos empleos o prestaciones y puede generar desigualdad horizontal frente a contribuyentes con un único pagador que sí soportaron retenciones ajustadas durante el año, además de disminuir la recaudación si no se ajustan los tipos de retención.",
+      "sources_for": [
+        {
+          "title": "Manual práctico de Renta: obligación de declarar con dos o más pagadores",
+          "publisher": "Agencia Estatal de Administración Tributaria",
+          "url": "https://sede.agenciatributaria.gob.es/Sede/Ayuda/25Presentacion/100/2.html"
+        },
+        {
+          "title": "Límite de obligación de declarar en el IRPF con dos pagadores (15.876 euros)",
+          "publisher": "Sincro",
+          "url": "https://sincro.es/blog/renta-15-876-euros-limite-obligacion-de-declarar/"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas (art. 96)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y resumen fieles al PDF (p. 59). Se elimina la frase fuera de lugar sobre 'estrés hídrico en el Guadalquivir' y se contrasta con el art. 96 de la Ley del IRPF."
+    },
+    "adelante-andalucia-246": {
+      "status": "corregida",
+      "arguments_for": "Tras aprobarse el Real Decreto 574/2023 de ayudas a las personas afectadas por la talidomida (1950-1985), la Agencia Tributaria determinó inicialmente su tributación como rendimientos del trabajo al no figurar en el artículo 7 de la LIRPF, a diferencia de otras indemnizaciones públicas (terrorismo, VIH o hepatitis C); declararlas exentas con efectos retroactivos desde 2023 evita mermar la reparación reconocida.",
+      "arguments_against": "La incorporación de nuevas exenciones en el artículo 7 de la Ley del IRPF amplía el catálogo de beneficios fiscales, reduce ligeramente la base imponible general y plantea debates de técnica tributaria sobre qué indemnizaciones públicas deben gozar de exención expresa frente al principio de generalidad tributaria.",
+      "sources_for": [
+        {
+          "title": "Real Decreto 574/2023, de 4 de julio, de concesión de ayudas a personas afectadas por la talidomida",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-15554"
+        },
+        {
+          "title": "Acuerdo parlamentario para eximir en el IRPF las ayudas a los afectados por la talidomida",
+          "publisher": "Demócrata",
+          "url": "https://www.democrata.es/politicas/psoe-sumar-pactan-eximir-irpf-ayudas-afectados-por-talidomida/"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Criterio de tributación en el IRPF de las ayudas por talidomida (RD 574/2023)",
+          "publisher": "Agencia Estatal de Administración Tributaria",
+          "url": "https://sede.agenciatributaria.gob.es/Sede/irpf/novedades-impuesto/novedades-publicadas-informa-2024/novedades-publicadas-informa-mes-septiembre.html"
+        },
+        {
+          "title": "Ley 35/2006 del IRPF (artículo 7, rentas exentas)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y resumen fieles al PDF (p. 59). Se sustituyen argumentos genéricos sobre patrimonio por el marco real del RD 574/2023 y el criterio de la AEAT sobre el art. 7 LIRPF."
+    },
+    "adelante-andalucia-247": {
+      "status": "corregida",
+      "arguments_for": "Según el Observatorio de Emancipación del Consejo de la Juventud de España, la tasa de emancipación juvenil ronda el 14,5 % y alquilar en solitario absorbe cerca del 98,7 % del salario neto joven, mientras la edad media de salida del hogar (en torno a 30 años según Eurostat) supera ampliamente la media de la UE (26,3 años). Recuperar deducciones en el IRPF por compra de primera vivienda habitual (suprimida en 2013) y alquiler juvenil aliviaría el esfuerzo financiero de acceso.",
+      "arguments_against": "La AIReF y análisis económicos advierten de que las deducciones fiscales generalizadas a la compra o el alquiler de vivienda suponen un elevado coste recaudatorio, tienen efectos regresivos al beneficiar en mayor medida a quienes disponen de mayor capacidad de ahorro y renta, y tienden a trasladarse a precios más altos de compraventa y alquiler cuando la oferta de vivienda es rígida.",
+      "sources_for": [
+        {
+          "title": "Observatorio de Emancipación",
+          "publisher": "Consejo de la Juventud de España (CJE)",
+          "url": "https://www.cje.org/en/observatorio_2025/"
+        },
+        {
+          "title": "Supresión de la deducción estatal por adquisición de vivienda habitual desde 2013",
+          "publisher": "TaxDown",
+          "url": "https://taxdown.es/deducciones/adquisicion-vivienda-habitual"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "La AIReF propone reformular las bonificaciones fiscales a la vivienda por su carácter regresivo",
+          "publisher": "elDiario.es",
+          "url": "https://www.eldiario.es/economia/autoridad-fiscal-propone-reformular-bonificaciones-fiscales-planes-pensiones-privados-viviendas-alquiler-iva-reducido-regresivos_1_6119952.html"
+        },
+        {
+          "title": "Informe sobre la evaluación de los beneficios fiscales en vivienda",
+          "publisher": "El Español (citando evaluación de AIReF)",
+          "url": "https://www.elespanol.com/invertia/observatorios/vivienda/20200722/airef-redisenar-beneficios-fiscales-duenos-viviendas-alquiler/507200141_0.html"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y resumen fieles al PDF (p. 59). Se reemplazan argumentos genéricos sobre tributación de sociedades por datos de emancipación del CJE y evaluaciones de AIReF sobre beneficios fiscales en vivienda."
+    },
+    "adelante-andalucia-248": {
+      "status": "corregida",
+      "arguments_for": "La AEAT destaca que las actuaciones de control sobre grandes empresas, multinacionales (más de 41.200 actuaciones anuales) y grandes patrimonios (547 millones de euros liquidados en 1.329 expedientes en 2025, además de miles de millones en minoración de bases y deducciones improcedentes) concentran el mayor potencial recaudatorio frente a estructuras de planificación fiscal agresiva.",
+      "arguments_against": "Organizaciones de autónomos como UPTA y estudios recogidos por el sector advierten por un lado de que el cruce masivo de datos sobre pequeños negocios genera presión administrativa y costes de cumplimiento, mientras especialistas fiscales señalan que reducir la inspección ordinaria sobre pymes y autónomos podría debilitar la prevención del fraude en economía sumergida y facturación en efectivo.",
+      "sources_for": [
+        {
+          "title": "La Agencia Tributaria liquida 547 millones de euros en inspecciones a grandes patrimonios en 2025",
+          "publisher": "Agencia Estatal de Administración Tributaria",
+          "url": "https://sede.agenciatributaria.gob.es/Sede/notas-prensa/notas-prensa/2026/julio/2/agencia-tributaria-liquida-547-millones-patrimonios.html"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "UPTA denuncia la presión inspectora sobre autónomos y pequeños negocios",
+          "publisher": "UPTA",
+          "url": "https://upta.es/upta-denuncia-la-persecucion-fiscal-a-los-autonomos-y-pequenos-negocios-por-parte-de-la-agencia-tributaria/"
+        },
+        {
+          "title": "Presión fiscal y costes de cumplimiento en los trabajadores autónomos",
+          "publisher": "Autónomos y Emprendedor",
+          "url": "https://www.autonomosyemprendedor.es/autonomos/aumenta-presion-fiscal-autonomos-destinan-544-ingresos-solo-pagar-impuestos-2025/20250801143200044565.html"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y resumen fieles al PDF (p. 60). Argumentos adaptados a datos reales de control de la AEAT sobre grandes patrimonios y al debate sobre inspección de autónomos y economía sumergida."
+    },
+    "adelante-andalucia-249": {
+      "status": "corregida",
+      "arguments_for": "La vigente Ley 9/2017 de Contratos del Sector Público (artículo 71) prohíbe contratar por condena firme por delito fiscal o impago tributario, pero no incluye una exclusión automática para empresas con filiales o cuentas en jurisdicciones no cooperativas (paraísos fiscales); introducir esta cláusula alineada con las listas de la UE y la OCDE refuerza la integridad del gasto público y desalienta la elusión fiscal.",
+      "arguments_against": "Expertos en contratación pública advierten de que prohibir de forma genérica a licitadores con filiales en territorios listados puede chocar con el principio comunitario de proporcionalidad y la normativa de contratación de la UE si no existe fraude acreditado, además de complicar la verificación de estructuras societarias internacionales en licitaciones.",
+      "sources_for": [
+        {
+          "title": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (art. 71 y D.A. 50.ª)",
+          "publisher": "Boletín Oficial del Estado (BOE)",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12902"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Contratación pública y paraísos fiscales: encaje jurídico en la LCSP",
+          "publisher": "Global Politics and Law",
+          "url": "https://globalpoliticsandlaw.com/contratacion-publica-paraisos-fiscales/"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y resumen fieles al PDF (p. 60). Se reemplazan argumentos erróneos sobre impuestos al patrimonio por el análisis jurídico real de la Ley 9/2017 (art. 71)."
+    },
+    "adelante-andalucia-250": {
+      "status": "corregida",
+      "arguments_for": "El Código Penal (art. 127 y ss.) y la creación de la Oficina de Recuperación y Gestión de Activos (ORGA) del Ministerio de Justicia permiten embargar, conservar y realizar bienes procedentes de delitos de corrupción para resarcir el daño público; reforzar el embargo preventivo y la devolución íntegra con intereses mejora la recuperación efectiva de fondos defraudados.",
+      "arguments_against": "La ejecución de embargos y decomisos definitivos antes de sentencia firme está limitada por garantías procesales y presunción de inocencia, y la experiencia de la ORGA muestra que la lentitud de los procedimientos judiciales, las tercerías de dominio y la depreciación de los bienes intervenidos dificultan recuperar el 100 % del importe con intereses.",
+      "sources_for": [
+        {
+          "title": "Oficina de Recuperación y Gestión de Activos (ORGA)",
+          "publisher": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes",
+          "url": "https://www.mjusticia.gob.es/es/areas-actuacion/oficina-recuperacion-gestion"
+        },
+        {
+          "title": "Estadísticas de la actividad de la Oficina de Recuperación y Gestión de Activos",
+          "publisher": "Consejo General del Poder Judicial (CGPJ)",
+          "url": "https://www.poderjudicial.es/cgpj/es/Temas/Estadistica-Judicial/Estadistica-por-temas/Aspectos-economicos-de-la-justicia/Estadisticas-de-la-actividad-de-la-Oficina-de-Recuperacion-y-Gestion-de-Activos/"
+        }
+      ],
+      "sources_against": [
+        {
+          "title": "Balance de recuperación de bienes incautados en casos de corrupción",
+          "publisher": "Público",
+          "url": "https://www.publico.es/politica/justicia-recuperado-12-millones-bienes-incautados-corruptos-2017.html"
+        }
+      ],
+      "reviewer": "contraste-ia-fuentes",
+      "date": "2026-11-13",
+      "note": "Texto oficial, título y resumen fieles al PDF (p. 60). Se sustituyen argumentos erróneos sobre impuestos al patrimonio por el marco real de la ORGA y la recuperación de activos en corrupción."
+    }
+  }
+}
