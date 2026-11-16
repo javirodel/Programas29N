@@ -203,6 +203,56 @@ export default async function MetodologiaPage() {
         ausencia de postura en el programa nunca suma ni resta puntos ni se interpreta como
         oposición.
       </Callout>
+
+      <section aria-labelledby="hemiciclo-metodologia-heading" className="space-y-4">
+        <div className="space-y-1">
+          <h2 id="hemiciclo-metodologia-heading" className="text-2xl font-bold text-ink">
+            Criterios del hemiciclo y Pactómetro (2023 vs. Estimación 29N)
+          </h2>
+          <p className="text-sm leading-relaxed text-ink-secondary">
+            El mapa interactivo de la portada permite alternar tanto en <em>Explorar partidos</em>{" "}
+            como en el <em>Pactómetro</em> entre dos composiciones distintas de los 350 escaños del
+            Congreso de los Diputados:
+          </p>
+        </div>
+
+        <div className="grid grid-cols-1 gap-4 md:grid-cols-2">
+          <div className="space-y-2 rounded-[4px] border border-line bg-surface p-5">
+            <h3 className="text-base font-extrabold text-ink">
+              Elecciones generales 2023 (Congreso saliente)
+            </h3>
+            <p className="text-xs leading-relaxed text-ink-secondary">
+              Recoge el reparto real de los 350 escaños resultante de las elecciones generales de
+              julio de 2023 (XV Legislatura), reflejando la distribución vigente al cierre de la
+              legislatura: PP (137), PSOE (121), Vox (33), Sumar/Frente Amplio (25), ERC (7), Junts
+              (7), EH Bildu (6), EAJ-PNV (5), Podemos (4), Compromís (2), BNG (1), Coalición Canaria
+              (1) y UPN (1).
+            </p>
+          </div>
+
+          <div className="space-y-2 rounded-[4px] border border-line bg-surface p-5">
+            <h3 className="text-base font-extrabold text-ink">
+              Estimación 29N (Media de 5 encuestas · nov. 2026)
+            </h3>
+            <p className="text-xs leading-relaxed text-ink-secondary">
+              Elaborada a partir de la mezcla y promedio de las 5 principales encuestas de ámbito
+              nacional publicadas al inicio de la campaña de noviembre de 2026 (
+              <strong>40dB / El País</strong>, <strong>Sigma Dos / El Mundo</strong>,{" "}
+              <strong>SocioMétrica / El Español</strong>, <strong>GAD3 / ABC</strong> y{" "}
+              <strong>CIS</strong>), contrastada con el agregador <strong>DatosRTVE</strong>. Solo
+              entran en el hemiciclo y en el Pactómetro 2026 las candidaturas con proyección de
+              escaños: PP (131), PSOE (110), Vox (65), Frente Amplio (11), ERC (9), EH Bildu (7),
+              Junts (5), EAJ-PNV (4), BNG (2), UPN (2), Compromís (2), Podemos (1) y CCa (1).
+            </p>
+          </div>
+        </div>
+
+        <p className="text-xs text-ink-muted">
+          Nota metodológica: las proyecciones demoscópicas son estrictamente orientativas, están
+          sujetas a error muestral y nunca alteran ni condicionan las medidas verificadas del corpus
+          documental (N0–N4).
+        </p>
+      </section>
     </div>
   );
 }
