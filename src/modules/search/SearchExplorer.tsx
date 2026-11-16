@@ -1,7 +1,6 @@
 "use client";
 
 import Link from "next/link";
-import { useRouter } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 import type { PublicProposal } from "@/modules/corpus/types";
 import type { SearchHit, SearchResult } from "@/modules/search/engine";
@@ -154,7 +153,6 @@ export function SearchExplorer({
   parties,
   themes,
 }: SearchExplorerProps) {
-  const router = useRouter();
   const [query, setQuery] = useState(initialResult.query);
   const [selectedParties, setSelectedParties] = useState<string[]>(initialParties);
   const [selectedThemes, setSelectedThemes] = useState<string[]>(initialThemes);
@@ -184,7 +182,10 @@ export function SearchExplorer({
       if (selectedThemes.length > 0) params.set("bloque", selectedThemes.join(","));
 
       const qs = params.toString();
-      router.replace(qs ? `/buscar?${qs}` : "/buscar", { scroll: false });
+      const nextUrl = qs ? `/buscar?${qs}` : "/buscar";
+      if (typeof window !== "undefined") {
+        window.history.replaceState(null, "", nextUrl);
+      }
 
       setLoading(true);
       setErrorMsg(null);
@@ -209,7 +210,7 @@ export function SearchExplorer({
       clearTimeout(timer);
       controller.abort();
     };
-  }, [query, selectedParties, selectedThemes, router]);
+  }, [query, selectedParties, selectedThemes]);
 
   const toggleParty = (id: string) => {
     setSelectedParties((prev) =>

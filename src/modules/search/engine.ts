@@ -162,7 +162,7 @@ export async function searchProposals(rawInput: SearchQuery = {}): Promise<Searc
   const { index, allDocs } = await getSearchRuntime();
   const trimmedQuery = parsed.q.trim();
 
-  let baseHits: SearchHit[];
+  let baseEntries: Array<{ doc: IndexedProposalDoc; score: number; termsMatched: string[] }>;
 
   if (trimmedQuery.length > 0) {
     let rawResults = index.search(trimmedQuery, {
@@ -181,12 +181,13 @@ export async function searchProposals(rawInput: SearchQuery = {}): Promise<Searc
       });
     }
 
-    baseHits = rawResults.map((res) => {
-      const stored = res as unknown as IndexedProposalDoc;
-      return docToHit(stored, res.score, res.terms ?? []);
-    });
+    baseEntries = rawResults.map((res) => ({
+      doc: res as unknown as IndexedProposalDoc,
+      score: res.score,
+      termsMatched: res.terms ?? [],
+    }));
   } else {
-    baseHits = allDocs.map((doc) => docToHit(doc, 1, []));
+    baseEntries = allDocs.map((doc) => ({ doc, score: 1, termsMatched: [] }));
   }
 
   // Calcular facetas antes de filtrar por la misma dimensión permite explorar cruces reales
@@ -198,25 +199,28 @@ export async function searchProposals(rawInput: SearchQuery = {}): Promise<Searc
   const partySet = new Set(parsed.parties);
   const themeSet = new Set(parsed.themes);
 
-  const filtered = baseHits.filter((hit) => {
-    const partyMatch = partySet.size === 0 || partySet.has(hit.partyId);
-    const themeMatch = themeSet.size === 0 || themeSet.has(hit.themeId);
+  const filtered: Array<{ doc: IndexedProposalDoc; score: number; termsMatched: string[] }> = [];
+  for (const entry of baseEntries) {
+    const { doc } = entry;
+    const partyMatch = partySet.size === 0 || partySet.has(doc.party_id as PartyId);
+    const themeMatch = themeSet.size === 0 || themeSet.has(doc.theme_id);
 
     if (themeMatch) {
-      byParty[hit.partyId] = (byParty[hit.partyId] ?? 0) + 1;
+      byParty[doc.party_id] = (byParty[doc.party_id] ?? 0) + 1;
     }
     if (partyMatch) {
-      byTheme[hit.themeId] = (byTheme[hit.themeId] ?? 0) + 1;
+      byTheme[doc.theme_id] = (byTheme[doc.theme_id] ?? 0) + 1;
     }
     if (partyMatch && themeMatch) {
-      if (hit.isVerified) verifiedCount += 1;
+      if (doc.is_verified) verifiedCount += 1;
       else unverifiedCount += 1;
+      filtered.push(entry);
     }
+  }
 
-    return partyMatch && themeMatch;
-  });
-
-  const hits = filtered.slice(parsed.offset, parsed.offset + parsed.limit);
+  const hits = filtered
+    .slice(parsed.offset, parsed.offset + parsed.limit)
+    .map((entry) => docToHit(entry.doc, entry.score, entry.termsMatched));
 
   return {
     query: trimmedQuery,
