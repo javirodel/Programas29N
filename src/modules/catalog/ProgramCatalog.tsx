@@ -6,7 +6,12 @@ import type { PartyProgramAnalytics } from "@/modules/corpus/stats";
 import { cn } from "@/modules/ui/cn";
 import { Badge } from "@/modules/ui/components/Badge";
 import { Card } from "@/modules/ui/components/Card";
-import { getPartyVisual, PENDING_CONGRESS_PARTIES } from "@/modules/ui/party-colors";
+import {
+  getPartyVisual,
+  isPartyInProvince,
+  PENDING_CONGRESS_PARTIES,
+  SPANISH_PROVINCES,
+} from "@/modules/ui/party-colors";
 import type { CatalogEntry } from "./view-model";
 
 type SortMode = "alphabetical" | "proposals_desc" | "pages_desc" | "seats_desc";
@@ -33,6 +38,7 @@ export function ProgramCatalog({
   const [query, setQuery] = useState("");
   const [sortBy, setSortBy] = useState<SortMode>("seats_desc");
   const [filterTab, setFilterTab] = useState<FilterTab>("all");
+  const [provinceFilter, setProvinceFilter] = useState<string>("all");
   const [activePartyAnchor, setActivePartyAnchor] = useState<string>("");
   const navRailRef = useRef<HTMLDivElement | null>(null);
 
@@ -52,6 +58,9 @@ export function ProgramCatalog({
       if (filterTab === "congress" && entry.outgoingCongressSeats === null) return false;
       if (filterTab === "estatal" && entry.scope !== "estatal") return false;
       if (filterTab === "autonomico" && entry.scope !== "autonomico") return false;
+      if (provinceFilter !== "all" && !isPartyInProvince(entry.partyId, provinceFilter)) {
+        return false;
+      }
       if (!q) return true;
       return (
         entry.partyName.toLowerCase().includes(q) ||
@@ -77,13 +86,16 @@ export function ProgramCatalog({
           return a.partyName.localeCompare(b.partyName, "es");
       }
     });
-  }, [entries, query, sortBy, filterTab]);
+  }, [entries, query, sortBy, filterTab, provinceFilter]);
 
   const filteredPending = useMemo(() => {
     const q = query.trim().toLowerCase();
     return PENDING_CONGRESS_PARTIES.filter((p) => {
       if (filterTab === "estatal" && p.scope !== "estatal") return false;
       if (filterTab === "autonomico" && p.scope !== "autonomico") return false;
+      if (provinceFilter !== "all" && !isPartyInProvince(p.partyId, provinceFilter)) {
+        return false;
+      }
       if (!q) return true;
       return (
         p.partyName.toLowerCase().includes(q) ||
@@ -91,7 +103,7 @@ export function ProgramCatalog({
         p.territory.toLowerCase().includes(q)
       );
     });
-  }, [query, filterTab]);
+  }, [query, filterTab, provinceFilter]);
 
   // Scrollspy sobre tarjetas de partidos
   useEffect(() => {
@@ -160,6 +172,23 @@ export function ProgramCatalog({
         </div>
 
         <div className="flex flex-wrap items-center gap-2.5">
+          <label htmlFor="catalog-province" className="sr-only">
+            Filtrar por provincia o circunscripción
+          </label>
+          <select
+            id="catalog-province"
+            value={provinceFilter}
+            onChange={(e) => setProvinceFilter(e.target.value)}
+            className="rounded-[3px] border border-line bg-surface px-2.5 py-1.5 text-xs font-semibold text-ink"
+          >
+            <option value="all">Todas las provincias</option>
+            {SPANISH_PROVINCES.map((prov) => (
+              <option key={prov.id} value={prov.id}>
+                {prov.label} ({prov.community})
+              </option>
+            ))}
+          </select>
+
           <label htmlFor="catalog-filter" className="sr-only">
             Filtrar partido o territorio
           </label>
@@ -169,7 +198,7 @@ export function ProgramCatalog({
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             placeholder="Filtrar partido o territorio…"
-            className="w-48 rounded-[3px] border border-line bg-surface px-3 py-1.5 text-xs text-ink placeholder:text-ink-muted"
+            className="w-44 rounded-[3px] border border-line bg-surface px-3 py-1.5 text-xs text-ink placeholder:text-ink-muted sm:w-48"
           />
 
           <label htmlFor="catalog-sort" className="sr-only">
@@ -188,6 +217,17 @@ export function ProgramCatalog({
           </select>
         </div>
       </div>
+
+      {provinceFilter !== "all" ? (
+        <p className="rounded-[3px] border border-line bg-surface-muted/60 px-3.5 py-2 text-xs text-ink-secondary">
+          Mostrando candidaturas de ámbito estatal y territorial correspondientes a{" "}
+          <strong className="text-ink">
+            {SPANISH_PROVINCES.find((p) => p.id === provinceFilter)?.label}
+          </strong>
+          . Las candidaturas extraparlamentarias estatales pueden no concurrir en todas las
+          provincias tras la proclamación oficial de listas.
+        </p>
+      ) : null}
 
       {/* Barra sticky horizontal con borde superior del color del partido + Scrollspy */}
       <nav
@@ -287,11 +327,22 @@ export function ProgramCatalog({
                     </div>
 
                     <div className="text-right text-[11px] text-ink-muted">
-                      <span>{item.territory}</span>
+                      <span
+                        className={cn(
+                          "inline-block rounded-[2px] border px-2 py-0.5 font-semibold",
+                          item.scope === "estatal"
+                            ? "border-line bg-canvas text-ink-secondary"
+                            : "border-civic/30 bg-civic-subtle/60 text-civic",
+                        )}
+                      >
+                        {item.scope === "estatal"
+                          ? "Ámbito estatal"
+                          : `Territorial · ${item.territory}`}
+                      </span>
                       {item.languages
                         .filter((lang) => lang !== "es")
                         .map((lang) => (
-                          <span key={lang} className="block">
+                          <span key={lang} className="mt-1 block">
                             {formatLanguageLabel(lang)}
                           </span>
                         ))}

@@ -81,17 +81,17 @@ const FEATURED_PARTIES: Array<{ id: PartyId; shortName: string }> = [
   { id: "pacma", shortName: "PACMA" },
 ];
 
-type SpectrumBucket = "against" | "neutral" | "favor";
+type SpectrumBucket = "against" | "neutral" | "favor" | "missing";
 
 function classifyStance(pos: PartyPosition | undefined): {
   bucket: SpectrumBucket;
   badge: string | null;
 } {
   if (!pos || pos.status === "sin_referencia") {
-    return { bucket: "neutral", badge: "Sin ref." };
+    return { bucket: "missing", badge: "Sin ref." };
   }
   if (pos.status === "insuficiente") {
-    return { bucket: "neutral", badge: "Ambiguo" };
+    return { bucket: "missing", badge: "Insuf." };
   }
   switch (pos.value) {
     case 2:
@@ -105,7 +105,7 @@ function classifyStance(pos: PartyPosition | undefined): {
     case -2:
       return { bucket: "against", badge: "Muy en contra" };
     default:
-      return { bucket: "neutral", badge: "Sin ref." };
+      return { bucket: "missing", badge: "Sin ref." };
   }
 }
 
@@ -267,6 +267,7 @@ export function HomeTopicSpotlight({ themes, questions }: HomeTopicSpotlightProp
                 against: [],
                 neutral: [],
                 favor: [],
+                missing: [],
               };
 
               for (const party of FEATURED_PARTIES) {
@@ -279,15 +280,15 @@ export function HomeTopicSpotlight({ themes, questions }: HomeTopicSpotlightProp
               }
 
               const spectrumCols: Array<{
-                key: SpectrumBucket;
+                key: "against" | "neutral" | "favor";
                 title: string;
                 borderTopClass: string;
               }> = [
                 { key: "against", title: "En contra", borderTopClass: "border-t-rose-600" },
                 {
                   key: "neutral",
-                  title: "Neutro o sin referencia",
-                  borderTopClass: "border-t-slate-400",
+                  title: "Postura neutra",
+                  borderTopClass: "border-t-amber-500",
                 },
                 { key: "favor", title: "A favor", borderTopClass: "border-t-emerald-600" },
               ];
@@ -347,6 +348,40 @@ export function HomeTopicSpotlight({ themes, questions }: HomeTopicSpotlightProp
                         );
                       })}
                     </div>
+
+                    {groups.missing.length > 0 ? (
+                      <div className="rounded-[3px] border border-dashed border-line bg-surface-muted/45 px-3 py-2.5">
+                        <div className="mb-1.5 flex flex-wrap items-baseline justify-between gap-2">
+                          <span className="text-[11px] font-bold uppercase tracking-wider text-ink-muted">
+                            Sin referencia explícita o dato insuficiente ({groups.missing.length})
+                          </span>
+                          <span className="text-[11px] text-ink-muted">
+                            El silencio no equivale a neutralidad ni oposición
+                          </span>
+                        </div>
+                        <div className="flex flex-wrap gap-1.5">
+                          {groups.missing.map((item) => {
+                            const visual = getPartyVisual(item.id);
+                            return (
+                              <Link
+                                key={item.id}
+                                href={`/comparar#cuestion-${question.id}`}
+                                title={`${item.shortName}: ${item.badge === "Insuf." ? "Información insuficiente" : "Sin referencia en el programa"}`}
+                                className="inline-flex items-center gap-1.5 rounded-[3px] border border-line bg-surface/80 px-2 py-0.5 text-xs font-medium text-ink-secondary transition-colors hover:border-ink hover:text-ink"
+                              >
+                                <span
+                                  aria-hidden="true"
+                                  className="h-2 w-2 shrink-0 rounded-full opacity-75"
+                                  style={{ backgroundColor: visual.bg }}
+                                />
+                                <span>{item.shortName}</span>
+                                <span className="text-[10px] text-ink-muted">({item.badge})</span>
+                              </Link>
+                            );
+                          })}
+                        </div>
+                      </div>
+                    ) : null}
                   </div>
 
                   <div className="flex flex-wrap items-center justify-between gap-2 border-t border-line pt-3 text-xs">

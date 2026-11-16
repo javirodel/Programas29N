@@ -218,8 +218,18 @@ export function VocabularyStatsExplorer({ analytics, conceptRadar }: VocabularyS
                     ¿Quién habla más de cada concepto?
                   </h2>
                   <p className="text-sm text-ink-secondary">
-                    Pulsa un término para ver qué candidaturas le dedican más peso proporcional o
-                    más menciones en su programa.
+                    Pulsa un término para ver qué candidaturas lo mencionan proporcionalmente o en
+                    cifras totales dentro de su programa.
+                  </p>
+                  <p className="rounded-[3px] border border-line bg-canvas px-3 py-2 text-xs text-ink-muted">
+                    <strong className="text-ink">Criterio metodológico:</strong> repetir más veces
+                    una palabra no equivale automáticamente a mayor prioridad política, inversión
+                    presupuestaria ni compromiso concreto. Contrasta siempre el dato léxico con las
+                    medidas reales en el{" "}
+                    <Link href="/buscar" className="font-semibold text-civic underline">
+                      buscador literal
+                    </Link>
+                    .
                   </p>
                 </div>
 
@@ -390,8 +400,8 @@ export function VocabularyStatsExplorer({ analytics, conceptRadar }: VocabularyS
                 </h2>
                 <p className="mt-0.5 text-sm text-ink-secondary">
                   {wordMode === "tfidf"
-                    ? "Vocabulario que diferencia a cada formación frente al resto del corpus (TF-IDF)."
-                    : "Términos más repetidos en términos absolutos dentro de cada programa."}
+                    ? "Vocabulario distintivo frente al resto del corpus (TF-IDF). Muestra rasgos de lenguaje propio, no prioridad presupuestaria ni grado de cumplimiento."
+                    : "Términos más repetidos en términos absolutos. Los programas más largos tienden a concentrar más repeticiones."}
                 </p>
               </div>
 

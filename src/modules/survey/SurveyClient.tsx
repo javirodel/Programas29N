@@ -19,7 +19,12 @@ import type {
 import { Badge } from "@/modules/ui/components/Badge";
 import { EvidenceModal } from "@/modules/ui/components/EvidenceModal";
 import { ScrollReveal } from "@/modules/ui/components/ScrollReveal";
-import { getPartyMeta, getPartyVisual } from "@/modules/ui/party-colors";
+import {
+  getPartyMeta,
+  getPartyVisual,
+  isPartyInProvince,
+  SPANISH_PROVINCES,
+} from "@/modules/ui/party-colors";
 import { calculateSurveyAffinity, type UserAnswersMap, type UserAnswerValue } from "./calculator";
 
 const STORAGE_KEY = "29n_survey_state_v1";
@@ -205,12 +210,31 @@ export function SurveyClient({
   );
 
   const [scopeFilter, setScopeFilter] = useState<"all" | "estatal">("all");
+  const [provinceFilter, setProvinceFilter] = useState<string>("all");
   const [summaryCopied, setSummaryCopied] = useState(false);
 
+  const totalAnsweredThemesCount = useMemo(() => {
+    const ids = new Set<string>();
+    for (const q of questions) {
+      const val = answers[q.id];
+      if (val !== undefined && val !== "skip") {
+        ids.add(q.theme_id);
+      }
+    }
+    return ids.size;
+  }, [questions, answers]);
+
   const visibleResults = useMemo(() => {
-    if (scopeFilter === "all") return calculation.results;
-    return calculation.results.filter((r) => getPartyMeta(r.partyId).scope === "estatal");
-  }, [calculation.results, scopeFilter]);
+    return calculation.results.filter((r) => {
+      if (scopeFilter === "estatal" && getPartyMeta(r.partyId).scope !== "estatal") {
+        return false;
+      }
+      if (provinceFilter !== "all" && !isPartyInProvince(r.partyId, provinceFilter)) {
+        return false;
+      }
+      return true;
+    });
+  }, [calculation.results, scopeFilter, provinceFilter]);
 
   const estatalCount = useMemo(
     () => calculation.results.filter((r) => getPartyMeta(r.partyId).scope === "estatal").length,
@@ -620,6 +644,23 @@ export function SurveyClient({
               >
                 Solo ámbito estatal ({estatalCount})
               </button>
+
+              <label htmlFor="survey-province-filter" className="sr-only">
+                Filtrar por circunscripción electoral
+              </label>
+              <select
+                id="survey-province-filter"
+                value={provinceFilter}
+                onChange={(e) => setProvinceFilter(e.target.value)}
+                className="rounded-[3px] border border-line bg-surface px-2.5 py-1 text-xs font-medium text-ink"
+              >
+                <option value="all">Todas las circunscripciones</option>
+                {SPANISH_PROVINCES.map((prov) => (
+                  <option key={prov.id} value={prov.id}>
+                    {prov.label} ({prov.community})
+                  </option>
+                ))}
+              </select>
             </div>
 
             {top3CompareIds.length >= 2 ? (
@@ -644,6 +685,10 @@ export function SurveyClient({
           {visibleResults.map((res, rankIdx) => {
             const isExpanded = expandedPartyId === res.partyId;
             const visual = getPartyVisual(res.partyId);
+            const meta = getPartyMeta(res.partyId);
+            const representedBlocks = res.byTheme.filter((b) => b.comparableCount > 0);
+            const isLowCoverage = res.answeredQuestionsCount > 0 && res.coveragePercent < 50;
+
             return (
               <ScrollReveal
                 as="article"
@@ -652,23 +697,48 @@ export function SurveyClient({
                 style={{ borderLeftColor: visual.bg }}
                 className="editorial-card space-y-4 border border-l-4 border-line bg-surface p-5"
               >
-                <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
-                  <div className="space-y-1">
+                <div className="flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
+                  <div className="space-y-1.5">
                     <div className="flex flex-wrap items-center gap-2">
                       <span className="font-mono text-xs font-bold text-ink-muted">
                         #{rankIdx + 1}
                       </span>
                       <h3 className="text-lg font-extrabold text-ink">{res.shortName}</h3>
                       <span className="text-sm text-ink-secondary">{res.partyName}</span>
+                      <span className="rounded-[3px] border border-line bg-surface-muted px-2 py-0.5 text-[11px] font-semibold text-ink-secondary">
+                        {meta.scope === "estatal" ? "Ámbito estatal" : meta.territory}
+                      </span>
+                      {isLowCoverage ? (
+                        <Badge variant="pending">Cobertura parcial ({res.coveragePercent}%)</Badge>
+                      ) : null}
                     </div>
                     <p className="text-xs text-ink-muted">
-                      Cobertura:{" "}
+                      Evaluado sobre{" "}
                       <strong className="text-ink-secondary">
-                        {res.comparableQuestionsCount} de {res.answeredQuestionsCount} preguntas
+                        {res.comparableQuestionsCount}/{res.answeredQuestionsCount} preguntas
                       </strong>{" "}
-                      ({res.coveragePercent}% · {res.insufficientOrMissingCount} sin referencia o
+                      ({res.coveragePercent}% de cobertura ·{" "}
+                      <strong>
+                        {representedBlocks.length} de {totalAnsweredThemesCount}
+                      </strong>{" "}
+                      bloques temáticos · {res.insufficientOrMissingCount} sin referencia o
                       insuficientes).
                     </p>
+                    {representedBlocks.length > 0 ? (
+                      <div className="flex flex-wrap items-center gap-1 pt-0.5">
+                        <span className="text-[11px] font-semibold text-ink-muted">
+                          Bloques evaluados:
+                        </span>
+                        {representedBlocks.map((b) => (
+                          <span
+                            key={`${res.partyId}-blk-${b.themeId}`}
+                            className="rounded-[2px] border border-line bg-canvas px-1.5 py-0.5 text-[10px] font-medium text-ink-secondary"
+                          >
+                            {b.themeTitle.split(",")[0]} ({b.comparableCount})
+                          </span>
+                        ))}
+                      </div>
+                    ) : null}
                   </div>
 
                   <div className="flex items-center gap-4">

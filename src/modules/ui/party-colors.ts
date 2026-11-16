@@ -148,3 +148,94 @@ export function getPartyMeta(partyId: string): PartyInstitutionalMeta {
 export function getPendingCongressParty(partyId: string): PendingCongressParty | undefined {
   return PENDING_CONGRESS_PARTIES.find((p) => p.partyId === partyId);
 }
+
+export interface ConstituencyProvince {
+  id: string;
+  label: string;
+  community: string;
+}
+
+export const SPANISH_PROVINCES: ConstituencyProvince[] = [
+  { id: "a-coruna", label: "A Coruña", community: "Galicia" },
+  { id: "alava", label: "Álava / Araba", community: "País Vasco" },
+  { id: "albacete", label: "Albacete", community: "Castilla-La Mancha" },
+  { id: "alicante", label: "Alicante / Alacant", community: "Comunitat Valenciana" },
+  { id: "almeria", label: "Almería", community: "Andalucía" },
+  { id: "asturias", label: "Asturias", community: "Asturias" },
+  { id: "avila", label: "Ávila", community: "Castilla y León" },
+  { id: "badajoz", label: "Badajoz", community: "Extremadura" },
+  { id: "barcelona", label: "Barcelona", community: "Cataluña" },
+  { id: "bizkaia", label: "Bizkaia", community: "País Vasco" },
+  { id: "burgos", label: "Burgos", community: "Castilla y León" },
+  { id: "caceres", label: "Cáceres", community: "Extremadura" },
+  { id: "cadiz", label: "Cádiz", community: "Andalucía" },
+  { id: "cantabria", label: "Cantabria", community: "Cantabria" },
+  { id: "castellon", label: "Castellón / Castelló", community: "Comunitat Valenciana" },
+  { id: "ceuta", label: "Ceuta", community: "Ceuta" },
+  { id: "ciudad-real", label: "Ciudad Real", community: "Castilla-La Mancha" },
+  { id: "cordoba", label: "Córdoba", community: "Andalucía" },
+  { id: "cuenca", label: "Cuenca", community: "Castilla-La Mancha" },
+  { id: "gipuzkoa", label: "Gipuzkoa", community: "País Vasco" },
+  { id: "girona", label: "Girona", community: "Cataluña" },
+  { id: "granada", label: "Granada", community: "Andalucía" },
+  { id: "guadalajara", label: "Guadalajara", community: "Castilla-La Mancha" },
+  { id: "huelva", label: "Huelva", community: "Andalucía" },
+  { id: "huesca", label: "Huesca", community: "Aragón" },
+  { id: "illes-balears", label: "Illes Balears", community: "Illes Balears" },
+  { id: "jaen", label: "Jaén", community: "Andalucía" },
+  { id: "la-rioja", label: "La Rioja", community: "La Rioja" },
+  { id: "las-palmas", label: "Las Palmas", community: "Canarias" },
+  { id: "leon", label: "León", community: "Castilla y León" },
+  { id: "lleida", label: "Lleida", community: "Cataluña" },
+  { id: "lugo", label: "Lugo", community: "Galicia" },
+  { id: "madrid", label: "Madrid", community: "Comunidad de Madrid" },
+  { id: "malaga", label: "Málaga", community: "Andalucía" },
+  { id: "melilla", label: "Melilla", community: "Melilla" },
+  { id: "murcia", label: "Murcia", community: "Región de Murcia" },
+  { id: "navarra", label: "Navarra", community: "Navarra" },
+  { id: "ourense", label: "Ourense", community: "Galicia" },
+  { id: "palencia", label: "Palencia", community: "Castilla y León" },
+  { id: "pontevedra", label: "Pontevedra", community: "Galicia" },
+  { id: "salamanca", label: "Salamanca", community: "Castilla y León" },
+  { id: "santa-cruz-tenerife", label: "Santa Cruz de Tenerife", community: "Canarias" },
+  { id: "segovia", label: "Segovia", community: "Castilla y León" },
+  { id: "sevilla", label: "Sevilla", community: "Andalucía" },
+  { id: "soria", label: "Soria", community: "Castilla y León" },
+  { id: "tarragona", label: "Tarragona", community: "Cataluña" },
+  { id: "teruel", label: "Teruel", community: "Aragón" },
+  { id: "toledo", label: "Toledo", community: "Castilla-La Mancha" },
+  { id: "valencia", label: "Valencia / València", community: "Comunitat Valenciana" },
+  { id: "valladolid", label: "Valladolid", community: "Castilla y León" },
+  { id: "zamora", label: "Zamora", community: "Castilla y León" },
+  { id: "zaragoza", label: "Zaragoza", community: "Aragón" },
+];
+
+const PROVINCE_MAP = new Map(SPANISH_PROVINCES.map((p) => [p.id, p]));
+
+const TERRITORIAL_PARTY_MATCHERS: Record<string, (prov: ConstituencyProvince) => boolean> = {
+  erc: (p) => p.community === "Cataluña",
+  junts: (p) => p.community === "Cataluña",
+  pnv: (p) => p.community === "País Vasco",
+  "eh-bildu": (p) => p.community === "País Vasco" || p.community === "Navarra",
+  upn: (p) => p.community === "Navarra",
+  compromis: (p) => p.community === "Comunitat Valenciana",
+  bng: (p) => p.community === "Galicia",
+  "coalicion-canaria": (p) => p.community === "Canarias",
+  "adelante-andalucia": (p) => p.community === "Andalucía",
+  "teruel-existe": (p) => p.id === "teruel",
+  "soria-ya": (p) => p.id === "soria",
+};
+
+export function isPartyInProvince(partyId: string, provinceId: string): boolean {
+  if (!provinceId || provinceId === "all") return true;
+  const province = PROVINCE_MAP.get(provinceId);
+  if (!province) return true;
+  const meta = getPartyMeta(partyId);
+  if (meta.scope === "estatal") return true;
+  const matcher = TERRITORIAL_PARTY_MATCHERS[partyId];
+  if (matcher) return matcher(province);
+  return (
+    meta.territory.toLowerCase() === province.community.toLowerCase() ||
+    meta.territory.toLowerCase() === province.label.toLowerCase()
+  );
+}
