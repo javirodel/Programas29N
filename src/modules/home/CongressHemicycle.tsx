@@ -27,7 +27,12 @@ interface CongressBlocOrder {
   seats: number;
 }
 
-const CONGRESS_SEATING_ORDER: CongressBlocOrder[] = [
+type CongressDatasetYear = "2023" | "2026";
+
+/**
+ * Elecciones generales de 2023 (Congreso saliente · XV Legislatura, 350 escaños).
+ */
+const SEATING_2023: CongressBlocOrder[] = [
   { partyId: "eh-bildu", seats: 6 },
   { partyId: "bng", seats: 1 },
   { partyId: "erc", seats: 7 },
@@ -43,24 +48,61 @@ const CONGRESS_SEATING_ORDER: CongressBlocOrder[] = [
   { partyId: "vox", seats: 33 },
 ];
 
-const COALITION_PRESETS: Array<{ label: string; ids: string[] }> = [
-  { label: "PP + Vox + UPN (171)", ids: ["pp", "vox", "upn"] },
+/**
+ * Estimación 29N (2026): consenso de las 5 principales encuestas publicadas en noviembre de 2026
+ * (40dB/El País, Sigma Dos/El Mundo, SocioMétrica/El Español, GAD3/ABC y CIS) + promedio DatosRTVE.
+ * Suma exacta = 350 escaños.
+ */
+const SEATING_2026_POLLS: CongressBlocOrder[] = [
+  { partyId: "eh-bildu", seats: 7 },
+  { partyId: "bng", seats: 2 },
+  { partyId: "erc", seats: 9 },
+  { partyId: "podemos", seats: 1 },
+  { partyId: "frente-amplio", seats: 11 },
+  { partyId: "compromis", seats: 2 },
+  { partyId: "psoe", seats: 110 },
+  { partyId: "pnv", seats: 4 },
+  { partyId: "junts", seats: 5 },
+  { partyId: "coalicion-canaria", seats: 1 },
+  { partyId: "upn", seats: 2 },
+  { partyId: "pp", seats: 131 },
+  { partyId: "vox", seats: 65 },
+];
+
+const SEATS_2023_MAP: Record<string, number> = Object.fromEntries(
+  SEATING_2023.map((item) => [item.partyId, item.seats]),
+);
+
+const SEATS_2026_MAP: Record<string, number> = Object.fromEntries(
+  SEATING_2026_POLLS.map((item) => [item.partyId, item.seats]),
+);
+
+const FIVE_POLLS_SUMMARY = [
+  { house: "40dB. (El País)", pp: "128–131", psoe: "119", vox: "61–62" },
+  { house: "Sigma Dos (El Mundo)", pp: "123–132", psoe: "105–113", vox: "62–68" },
+  { house: "SocioMétrica (El Español)", pp: "130", psoe: "110", vox: "67" },
+  { house: "GAD3 (ABC)", pp: "136", psoe: "103", vox: "63" },
+  { house: "CIS (Nov. 2026)", pp: "98–106", psoe: "134–143", vox: "57–65" },
+];
+
+const COALITION_PRESETS_2026: Array<{ label: string; ids: string[] }> = [
+  { label: "PP + Vox (196)", ids: ["pp", "vox"] },
+  { label: "PP + Vox + UPN (198)", ids: ["pp", "vox", "upn"] },
   {
-    label: "Investidura XV (179)",
+    label: "Bloque progresista + socios (147)",
     ids: [
       "psoe",
       "frente-amplio",
       "erc",
-      "junts",
       "eh-bildu",
       "pnv",
-      "podemos",
-      "compromis",
       "bng",
+      "compromis",
+      "podemos",
       "coalicion-canaria",
     ],
   },
-  { label: "Gran coalición PP + PSOE (258)", ids: ["pp", "psoe"] },
+  { label: "Gran coalición PP + PSOE (241)", ids: ["pp", "psoe"] },
 ];
 
 const RING_RADII = [118, 139, 160, 181, 202, 223, 244, 265, 286];
@@ -107,20 +149,23 @@ function generateHemicycleSeats(): SeatCoord[] {
 
 const HEMICYCLE_COORDS = generateHemicycleSeats();
 
-const SEAT_LOOKUP: Array<{ x: number; y: number; partyId: string }> = [];
-const SEAT_SLICES_BY_PARTY: Record<string, SeatCoord[]> = (() => {
-  const result: Record<string, SeatCoord[]> = {};
+function buildSeatLayout(seating: CongressBlocOrder[]) {
+  const slices: Record<string, SeatCoord[]> = {};
+  const lookup: Array<{ x: number; y: number; partyId: string }> = [];
   let cursor = 0;
-  for (const item of CONGRESS_SEATING_ORDER) {
+  for (const item of seating) {
     const slice = HEMICYCLE_COORDS.slice(cursor, cursor + item.seats);
-    result[item.partyId] = slice;
+    slices[item.partyId] = slice;
     for (const coord of slice) {
-      SEAT_LOOKUP.push({ x: coord.x, y: coord.y, partyId: item.partyId });
+      lookup.push({ x: coord.x, y: coord.y, partyId: item.partyId });
     }
     cursor += item.seats;
   }
-  return result;
-})();
+  return { slices, lookup };
+}
+
+const LAYOUT_2023 = buildSeatLayout(SEATING_2023);
+const LAYOUT_2026 = buildSeatLayout(SEATING_2026_POLLS);
 
 function runWithViewTransition(action: () => void) {
   if (typeof document !== "undefined") {
@@ -138,6 +183,8 @@ interface HydratedBloc {
   shortName: string;
   partyName: string;
   seats: number;
+  seats2023: number;
+  seats2026: number;
   territory: string;
   published?: CatalogEntry;
   pending?: PendingCongressParty;
@@ -147,8 +194,10 @@ interface HydratedBloc {
 
 export function CongressHemicycle({ publishedEntries }: CongressHemicycleProps) {
   const [mode, setMode] = useState<"explore" | "coalition">("explore");
+  const [exploreYear, setExploreYear] = useState<CongressDatasetYear>("2026");
   const [selectedPartyId, setSelectedPartyId] = useState<string>("pp");
-  const [coalitionIds, setCoalitionIds] = useState<string[]>(["pp", "vox", "upn"]);
+  const [coalitionIds, setCoalitionIds] = useState<string[]>(["pp", "vox"]);
+  const [showPollBreakdown, setShowPollBreakdown] = useState(false);
   const [otherScopeFilter, setOtherScopeFilter] = useState<"all" | "estatal" | "autonomico">("all");
   const [showAllOther, setShowAllOther] = useState(false);
   const [hemicycleVisible, setHemicycleVisible] = useState(false);
@@ -194,8 +243,13 @@ export function CongressHemicycle({ publishedEntries }: CongressHemicycleProps) 
     [],
   );
 
+  // En Pactómetro se usa únicamente la estimación de este año (2026)
+  const activeDatasetYear: CongressDatasetYear = mode === "coalition" ? "2026" : exploreYear;
+  const activeSeating = activeDatasetYear === "2026" ? SEATING_2026_POLLS : SEATING_2023;
+  const activeLayout = activeDatasetYear === "2026" ? LAYOUT_2026 : LAYOUT_2023;
+
   const blocs = useMemo<HydratedBloc[]>(() => {
-    return CONGRESS_SEATING_ORDER.map((item) => {
+    return activeSeating.map((item) => {
       const published = entryMap.get(item.partyId);
       const pending = pendingMap.get(item.partyId);
 
@@ -204,14 +258,16 @@ export function CongressHemicycle({ publishedEntries }: CongressHemicycleProps) 
         shortName: published?.shortName ?? pending?.shortName ?? item.partyId.toUpperCase(),
         partyName: published?.partyName ?? pending?.partyName ?? item.partyId,
         seats: item.seats,
+        seats2023: SEATS_2023_MAP[item.partyId] ?? 0,
+        seats2026: SEATS_2026_MAP[item.partyId] ?? 0,
         territory: published?.territory ?? pending?.territory ?? "España",
         published,
         pending,
-        seatsCoords: SEAT_SLICES_BY_PARTY[item.partyId] ?? [],
+        seatsCoords: activeLayout.slices[item.partyId] ?? [],
         visual: getPartyVisual(item.partyId),
       };
     });
-  }, [entryMap, pendingMap]);
+  }, [activeSeating, activeLayout, entryMap, pendingMap]);
 
   const selectedBloc = useMemo(
     () => blocs.find((bloc) => bloc.partyId === selectedPartyId) ?? blocs[0],
@@ -286,7 +342,7 @@ export function CongressHemicycle({ publishedEntries }: CongressHemicycleProps) 
 
     let bestParty: string | null = null;
     let bestDistSq = 35 * 35;
-    for (const seat of SEAT_LOOKUP) {
+    for (const seat of activeLayout.lookup) {
       const dx = seat.x - x;
       const dy = seat.y - y;
       const dSq = dx * dx + dy * dy;
@@ -329,64 +385,155 @@ export function CongressHemicycle({ publishedEntries }: CongressHemicycleProps) 
     ? ((selectedBloc.seats / TOTAL_CONGRESS_SEATS) * 100).toFixed(1).replace(".", ",")
     : "0,0";
   const maxThemeCount = selectedBloc?.published?.topThemes[0]?.count ?? 1;
+  const seatDeltaVs2023 = selectedBloc ? selectedBloc.seats2026 - selectedBloc.seats2023 : 0;
 
   return (
     <section
       ref={sectionRef}
       aria-labelledby="congreso-saliente-heading"
-      className={`space-y-8 ${hemicycleVisible ? "hemicycle-ready" : ""}`}
+      className={`space-y-6 ${hemicycleVisible ? "hemicycle-ready" : ""}`}
     >
       {/* Cabecera del cuadro de mando del Congreso */}
       <div className="flex flex-col gap-4 border-b border-line pb-5 lg:flex-row lg:items-end lg:justify-between">
-        <div className="space-y-1">
-          <p className="text-xs font-bold uppercase tracking-widest text-ink-muted">
-            Mapa interactivo · Congreso de los Diputados (350 escaños)
-          </p>
+        <div className="space-y-1.5">
+          <div className="flex flex-wrap items-center gap-2">
+            <span className="text-xs font-bold uppercase tracking-widest text-ink-muted">
+              Congreso de los Diputados (350 escaños)
+            </span>
+            <span
+              className={`rounded-[3px] border px-2 py-0.5 text-[11px] font-bold ${
+                activeDatasetYear === "2026"
+                  ? "border-civic/35 bg-civic-subtle text-civic"
+                  : "border-line bg-surface-muted text-ink-secondary"
+              }`}
+            >
+              {activeDatasetYear === "2026"
+                ? "Estimación 29N (2026 · Media 5 encuestas)"
+                : "Elecciones anteriores (2023 · Congreso saliente)"}
+            </span>
+          </div>
+
           <h2
             id="congreso-saliente-heading"
             className="text-2xl font-extrabold tracking-tight text-ink sm:text-3xl"
           >
             {mode === "explore"
-              ? "Hemiciclo vivo: inspecciona cada grupo sin perder el hilo"
-              : "Pactómetro: combina escaños hacia los 176 de la mayoría"}
+              ? activeDatasetYear === "2026"
+                ? "Hemiciclo estimado 29N: cómo apuntan las encuestas"
+                : "Hemiciclo de las elecciones anteriores (2023)"
+              : "Pactómetro 29N (2026): combina escaños hacia los 176"}
           </h2>
         </div>
 
-        <div
-          role="tablist"
-          aria-label="Modo del hemiciclo"
-          className="inline-flex w-fit rounded-[4px] border border-line bg-surface-muted p-1"
-        >
-          <button
-            type="button"
-            role="tab"
-            aria-selected={mode === "explore"}
-            onClick={() => switchMode("explore")}
-            className={`rounded-[3px] px-3 py-1.5 text-xs font-bold transition-all ${
-              mode === "explore"
-                ? "bg-surface text-ink shadow-2xs"
-                : "text-ink-secondary hover:text-ink"
-            }`}
+        <div className="flex flex-col gap-2 sm:flex-row sm:items-center">
+          {/* Selector de año solo en Explorar partidos (Pactómetro siempre es 2026) */}
+          {mode === "explore" ? (
+            <div
+              role="group"
+              aria-label="Seleccionar composición del Congreso"
+              className="inline-flex w-fit rounded-[4px] border border-line bg-surface-muted p-1"
+            >
+              <button
+                type="button"
+                aria-pressed={exploreYear === "2026"}
+                onClick={() => runWithViewTransition(() => setExploreYear("2026"))}
+                className={`rounded-[3px] px-2.5 py-1.5 text-xs font-bold transition-all ${
+                  exploreYear === "2026"
+                    ? "bg-civic text-white shadow-2xs"
+                    : "text-ink-secondary hover:text-ink"
+                }`}
+              >
+                Estimación 2026
+              </button>
+              <button
+                type="button"
+                aria-pressed={exploreYear === "2023"}
+                onClick={() => runWithViewTransition(() => setExploreYear("2023"))}
+                className={`rounded-[3px] px-2.5 py-1.5 text-xs font-bold transition-all ${
+                  exploreYear === "2023"
+                    ? "bg-surface text-ink shadow-2xs"
+                    : "text-ink-secondary hover:text-ink"
+                }`}
+              >
+                Elecciones 2023 (saliente)
+              </button>
+            </div>
+          ) : null}
+
+          <div
+            role="tablist"
+            aria-label="Modo del hemiciclo"
+            className="inline-flex w-fit rounded-[4px] border border-line bg-surface-muted p-1"
           >
-            Explorar partidos
-          </button>
-          <button
-            type="button"
-            role="tab"
-            aria-selected={mode === "coalition"}
-            onClick={() => switchMode("coalition")}
-            className={`rounded-[3px] px-3 py-1.5 text-xs font-bold transition-all ${
-              mode === "coalition"
-                ? "bg-surface text-ink shadow-2xs"
-                : "text-ink-secondary hover:text-ink"
-            }`}
-          >
-            Pactómetro (176 escaños)
-          </button>
+            <button
+              type="button"
+              role="tab"
+              aria-selected={mode === "explore"}
+              onClick={() => switchMode("explore")}
+              className={`rounded-[3px] px-3 py-1.5 text-xs font-bold transition-all ${
+                mode === "explore"
+                  ? "bg-surface text-ink shadow-2xs"
+                  : "text-ink-secondary hover:text-ink"
+              }`}
+            >
+              Explorar partidos
+            </button>
+            <button
+              type="button"
+              role="tab"
+              aria-selected={mode === "coalition"}
+              onClick={() => switchMode("coalition")}
+              className={`rounded-[3px] px-3 py-1.5 text-xs font-bold transition-all ${
+                mode === "coalition"
+                  ? "bg-surface text-ink shadow-2xs"
+                  : "text-ink-secondary hover:text-ink"
+              }`}
+            >
+              Pactómetro 2026 (176)
+            </button>
+          </div>
         </div>
       </div>
 
-      {/* Layout estable de 2 columnas (altura constante, cero saltos al mover el ratón) */}
+      {/* Nota transparente sobre las 5 encuestas en estimación 2026 */}
+      {activeDatasetYear === "2026" ? (
+        <div className="rounded-[4px] border border-line bg-surface-muted/50 px-4 py-3 text-xs text-ink-secondary">
+          <div className="flex flex-wrap items-center justify-between gap-2">
+            <p>
+              <strong className="text-ink">Proyección orientativa 29N (noviembre de 2026):</strong>{" "}
+              estimación calculada a partir del promedio de las 5 principales encuestas publicadas
+              (40dB/El País, Sigma Dos/El Mundo, SocioMétrica/El Español, GAD3/ABC y CIS) y el
+              agregador DatosRTVE.
+            </p>
+            <button
+              type="button"
+              aria-expanded={showPollBreakdown}
+              onClick={() => setShowPollBreakdown((prev) => !prev)}
+              className="shrink-0 font-bold text-civic underline underline-offset-4 hover:text-ink"
+            >
+              {showPollBreakdown ? "Ocultar las 5 encuestas ↑" : "Ver las 5 encuestas ↓"}
+            </button>
+          </div>
+
+          {showPollBreakdown ? (
+            <div className="mt-3 grid grid-cols-1 gap-2 border-t border-line pt-3 sm:grid-cols-2 lg:grid-cols-5">
+              {FIVE_POLLS_SUMMARY.map((poll) => (
+                <div
+                  key={poll.house}
+                  className="rounded-[3px] border border-line bg-surface px-2.5 py-2 text-[11px]"
+                >
+                  <p className="font-bold text-ink">{poll.house}</p>
+                  <p className="mt-1 font-mono text-ink-secondary">
+                    PP {poll.pp} · PSOE {poll.psoe} · Vox {poll.vox}
+                  </p>
+                </div>
+              ))}
+            </div>
+          ) : null}
+        </div>
+      ) : null}
+
+      {/* Layout estable de 2 columnas */}
       <div className="grid grid-cols-1 gap-6 lg:grid-cols-[1.15fr_0.85fr] lg:items-stretch">
         {/* Columna izquierda: Arco SVG de 350 escaños + chips */}
         <div className="flex flex-col justify-between rounded-[4px] border border-line bg-surface p-4 sm:p-5">
@@ -396,18 +543,13 @@ export function CongressHemicycle({ publishedEntries }: CongressHemicycleProps) 
               onMouseMove={handleSvgMouseMove}
               viewBox={`0 0 ${SVG_WIDTH} ${SVG_HEIGHT}`}
               role="img"
-              aria-labelledby="hemicycle-svg-title hemicycle-svg-desc"
+              aria-label={
+                activeDatasetYear === "2026"
+                  ? "Hemiciclo estimado del Congreso para el 29N de 2026 con 350 escaños según la media de 5 encuestas"
+                  : "Hemiciclo del Congreso saliente de las elecciones generales de 2023 con 350 escaños"
+              }
               className="mx-auto h-auto w-full max-w-2xl select-none overflow-visible"
             >
-              <title id="hemicycle-svg-title">
-                Hemiciclo del Congreso de los Diputados con 350 escaños distribuidos por candidatura
-              </title>
-              <desc id="hemicycle-svg-desc">
-                Diagrama interactivo de 350 escaños agrupados en 13 bloques políticos. Los círculos
-                sólidos indican programas publicados; los círculos discontinuos indican formaciones
-                pendientes de publicar su programa.
-              </desc>
-
               <path
                 d={`M ${SVG_CENTER_X - 96} ${SVG_CENTER_Y} A 96 96 0 0 1 ${SVG_CENTER_X + 96} ${SVG_CENTER_Y}`}
                 fill="none"
@@ -428,7 +570,7 @@ export function CongressHemicycle({ publishedEntries }: CongressHemicycleProps) 
 
                 return (
                   <g
-                    key={bloc.partyId}
+                    key={`${activeDatasetYear}-${bloc.partyId}`}
                     role="button"
                     tabIndex={0}
                     aria-label={`${bloc.shortName}: ${bloc.seats} ${bloc.seats === 1 ? "escaño" : "escaños"}${
@@ -450,7 +592,7 @@ export function CongressHemicycle({ publishedEntries }: CongressHemicycleProps) 
                     }}
                     className="cursor-pointer outline-none"
                     style={{
-                      opacity: isDimmed ? 0.34 : 1,
+                      opacity: isDimmed ? 0.32 : 1,
                       transition: "opacity 180ms ease",
                     }}
                   >
@@ -476,7 +618,7 @@ export function CongressHemicycle({ publishedEntries }: CongressHemicycleProps) 
                           className="hemicycle-seat pointer-events-none"
                           style={
                             {
-                              "--seat-delay": `${(coord.waveIndex * 1.2).toFixed(0)}ms`,
+                              "--seat-delay": `${(coord.waveIndex * 1.1).toFixed(0)}ms`,
                               transition: "r 150ms ease, stroke-width 150ms ease",
                             } as CSSProperties
                           }
@@ -564,20 +706,19 @@ export function CongressHemicycle({ publishedEntries }: CongressHemicycleProps) 
               })}
             </div>
 
-            {mode === "explore" ? (
-              <p className="text-center text-[11px] text-ink-muted">
-                Pasa el cursor por cualquier área del arco o por un grupo para seleccionarlo; se
-                mantiene activo al moverte al panel derecho hasta que pases por otro partido.
-              </p>
-            ) : null}
+            <p className="text-center text-[11px] text-ink-muted">
+              {mode === "explore"
+                ? "Pasa el cursor o pulsa sobre cualquier zona del arco para inspeccionar un partido. Arriba puedes alternar entre 2023 (elecciones anteriores) y 2026 (estimación de encuestas)."
+                : "Pulsa los bloques del arco o las píldoras inferiores para añadir o quitar partidos de tu pacto (datos de estimación 29N 2026)."}
+            </p>
           </div>
         </div>
 
-        {/* Columna derecha: Panel Inspector Persistente / Pactómetro */}
+        {/* Columna derecha: Panel Inspector / Pactómetro */}
         <div className="flex flex-col justify-between rounded-[4px] border border-line bg-surface p-5 sm:p-6">
           {mode === "explore" && selectedBloc ? (
             <div
-              key={`panel-${selectedBloc.partyId}`}
+              key={`panel-${activeDatasetYear}-${selectedBloc.partyId}`}
               className="flex h-full flex-col justify-between gap-5"
             >
               <div className="space-y-4">
@@ -603,10 +744,29 @@ export function CongressHemicycle({ publishedEntries }: CongressHemicycleProps) 
                     </div>
                   </div>
 
-                  <span className="shrink-0 rounded-[3px] border border-line bg-canvas px-2.5 py-1 text-xs font-bold text-ink">
-                    {selectedBloc.seats} {selectedBloc.seats === 1 ? "escaño" : "escaños"} ·{" "}
-                    {sharePct}%
-                  </span>
+                  <div className="text-right">
+                    <span className="inline-block shrink-0 rounded-[3px] border border-line bg-canvas px-2.5 py-1 text-xs font-bold text-ink">
+                      {selectedBloc.seats} {selectedBloc.seats === 1 ? "escaño" : "escaños"} ·{" "}
+                      {sharePct}%
+                    </span>
+                    <p className="mt-1 font-mono text-[11px] text-ink-muted">
+                      {activeDatasetYear === "2026"
+                        ? `2023: ${selectedBloc.seats2023} (${
+                            seatDeltaVs2023 > 0
+                              ? `+${seatDeltaVs2023}`
+                              : seatDeltaVs2023 === 0
+                                ? "="
+                                : seatDeltaVs2023
+                          })`
+                        : `Est. 2026: ${selectedBloc.seats2026} (${
+                            seatDeltaVs2023 > 0
+                              ? `+${seatDeltaVs2023}`
+                              : seatDeltaVs2023 === 0
+                                ? "="
+                                : seatDeltaVs2023
+                          })`}
+                    </p>
+                  </div>
                 </div>
 
                 {selectedBloc.published ? (
@@ -730,10 +890,10 @@ export function CongressHemicycle({ publishedEntries }: CongressHemicycleProps) 
               <div className="space-y-4">
                 <div className="flex flex-wrap items-baseline justify-between gap-2 border-b border-line pb-4">
                   <div>
-                    <p className="text-xs font-bold uppercase tracking-wider text-ink-muted">
-                      Suma de pacto seleccionada
+                    <p className="text-[11px] font-bold uppercase tracking-wider text-civic">
+                      Pactómetro 29N (Estimación 2026)
                     </p>
-                    <p className="text-2xl font-black text-ink">
+                    <p className="mt-0.5 text-2xl font-black text-ink">
                       <span className={hasMajority ? "text-civic" : "text-ink"}>
                         {coalitionSeats}
                       </span>{" "}
@@ -746,25 +906,24 @@ export function CongressHemicycle({ publishedEntries }: CongressHemicycleProps) 
                   <span
                     className={`rounded-[3px] border px-2.5 py-1 text-xs font-bold ${
                       hasMajority
-                        ? "border-civic bg-civic-subtle text-civic"
+                        ? "border-emerald-500/40 bg-emerald-500/10 text-emerald-700 dark:text-emerald-300"
                         : "border-line bg-canvas text-ink-secondary"
                     }`}
                   >
                     {hasMajority
-                      ? `Mayoría (+${coalitionSeats - ABSOLUTE_MAJORITY})`
+                      ? `Mayoría absoluta (+${coalitionSeats - ABSOLUTE_MAJORITY})`
                       : `Faltan ${ABSOLUTE_MAJORITY - coalitionSeats}`}
                   </span>
                 </div>
 
                 {/* Barra multicolor apilada sobre 350 escaños */}
                 <div className="space-y-1.5">
-                  <div className="relative flex h-4 w-full overflow-hidden rounded-[3px] border border-line bg-surface-muted">
+                  <div className="relative flex h-5 w-full overflow-hidden rounded-[3px] border border-line bg-surface-muted">
                     {coalitionBlocs.map((b) => {
                       const pct = (b.seats / TOTAL_CONGRESS_SEATS) * 100;
                       return (
                         <div
                           key={`seg-${b.partyId}`}
-                          title={`${b.shortName}: ${b.seats} escaños`}
                           style={{ width: `${pct}%`, backgroundColor: b.visual.bg }}
                           className="h-full border-r border-canvas/40 transition-all duration-300 last:border-r-0"
                         />
@@ -774,67 +933,75 @@ export function CongressHemicycle({ publishedEntries }: CongressHemicycleProps) 
                       aria-hidden="true"
                       className="pointer-events-none absolute inset-y-0 w-0.5 bg-ink"
                       style={{ left: "50.28%" }}
-                      title="Mayoría absoluta: 176 escaños"
                     />
                   </div>
-                  <p className="text-[11px] text-ink-muted">
-                    Línea vertical en <strong>176 escaños</strong> (mayoría absoluta de 350).
-                  </p>
+                  <div className="flex items-center justify-between text-[11px] text-ink-muted">
+                    <span>0</span>
+                    <span>
+                      <strong>176</strong> mayoría absoluta
+                    </span>
+                    <span>350</span>
+                  </div>
                 </div>
 
-                {/* Presets de acuerdos */}
+                {/* Escenarios rápidos 2026 */}
                 <div className="space-y-2">
-                  <p className="text-xs font-bold uppercase tracking-wider text-ink-muted">
-                    Escenarios rápidos
-                  </p>
-                  <div className="flex flex-wrap gap-1.5">
-                    {COALITION_PRESETS.map((preset) => (
-                      <button
-                        key={preset.label}
-                        type="button"
-                        onClick={() => setCoalitionIds(preset.ids)}
-                        className="rounded-[3px] border border-line bg-canvas px-2.5 py-1 text-xs font-semibold text-ink-secondary hover:border-ink hover:text-ink"
-                      >
-                        {preset.label}
-                      </button>
-                    ))}
+                  <div className="flex items-center justify-between">
+                    <p className="text-xs font-bold uppercase tracking-wider text-ink-muted">
+                      Escenarios rápidos 2026
+                    </p>
                     {coalitionIds.length > 0 ? (
                       <button
                         type="button"
                         onClick={() => setCoalitionIds([])}
-                        className="px-2 py-1 text-xs font-medium text-ink-muted underline underline-offset-4 hover:text-ink"
+                        className="text-xs font-semibold text-civic underline underline-offset-4 hover:text-ink"
                       >
-                        Limpiar
+                        Reiniciar a 0
                       </button>
                     ) : null}
                   </div>
+                  <div className="flex flex-wrap gap-1.5">
+                    {COALITION_PRESETS_2026.map((preset) => (
+                      <button
+                        key={preset.label}
+                        type="button"
+                        onClick={() => setCoalitionIds(preset.ids)}
+                        className="rounded-[3px] border border-line bg-canvas px-2.5 py-1 text-xs font-semibold text-ink-secondary transition-colors hover:border-ink hover:text-ink"
+                      >
+                        {preset.label}
+                      </button>
+                    ))}
+                  </div>
                 </div>
 
-                {/* Socios activos */}
-                <div className="flex flex-wrap gap-1.5">
-                  {coalitionBlocs.length === 0 ? (
-                    <p className="text-xs text-ink-muted">
-                      Pulsa los bloques del hemiciclo o de las píldoras inferiores para sumarlos.
-                    </p>
-                  ) : (
-                    coalitionBlocs.map((b) => (
-                      <button
-                        key={`partner-${b.partyId}`}
-                        type="button"
-                        onClick={() => handleClickBloc(b.partyId)}
-                        style={{ borderLeftColor: b.visual.bg }}
-                        className="inline-flex items-center gap-1.5 rounded-[3px] border border-l-4 border-line bg-canvas px-2 py-1 text-xs font-semibold text-ink hover:border-ink"
-                        title="Pulsa para quitar de la suma"
-                      >
-                        <span>
-                          {b.shortName} ({b.seats})
-                        </span>
-                        <span aria-hidden="true" className="text-ink-muted">
-                          ×
-                        </span>
-                      </button>
-                    ))
-                  )}
+                {/* Selector libre de cualquier combinación */}
+                <div className="space-y-2">
+                  <p className="text-xs font-bold uppercase tracking-wider text-ink-muted">
+                    Crea tu propia combinación ({coalitionBlocs.length} seleccionados)
+                  </p>
+                  <div className="flex flex-wrap gap-1.5">
+                    {blocs.map((b) => {
+                      const active = coalitionSet.has(b.partyId);
+                      return (
+                        <button
+                          key={`toggle-${b.partyId}`}
+                          type="button"
+                          aria-pressed={active}
+                          onClick={() => handleClickBloc(b.partyId)}
+                          style={{ borderLeftColor: b.visual.bg }}
+                          className={`inline-flex items-center gap-1.5 rounded-[3px] border border-l-4 px-2 py-1 text-xs font-semibold transition-all ${
+                            active
+                              ? "border-y-ink border-r-ink bg-ink text-canvas"
+                              : "border-y-line border-r-line bg-canvas text-ink-secondary hover:border-y-line-strong hover:text-ink"
+                          }`}
+                        >
+                          <span>{active ? "✓" : "+"}</span>
+                          <span>{b.shortName}</span>
+                          <span className="font-mono text-[11px] opacity-75">{b.seats}</span>
+                        </button>
+                      );
+                    })}
+                  </div>
                 </div>
               </div>
 
@@ -844,7 +1011,7 @@ export function CongressHemicycle({ publishedEntries }: CongressHemicycleProps) 
                   className={buttonClasses({ variant: "primary", size: "sm" })}
                 >
                   {coalitionPublishedIds.length >= 2
-                    ? `Comparar programas de estos socios (${coalitionPublishedIds.length}) →`
+                    ? `Comparar programas de este pacto (${coalitionPublishedIds.length}) →`
                     : "Abrir comparador →"}
                 </Link>
               </div>
