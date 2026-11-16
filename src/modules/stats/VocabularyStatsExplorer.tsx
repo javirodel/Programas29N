@@ -306,20 +306,27 @@ export function VocabularyStatsExplorer({ analytics, conceptRadar }: VocabularyS
                   return (
                     <div
                       key={`${activeConcept.id}-${m.partyId}`}
-                      className="grid grid-cols-[minmax(6.5rem,9.5rem)_1fr_auto] items-center gap-3 text-xs sm:text-sm"
+                      className="grid grid-cols-1 gap-1.5 text-xs sm:grid-cols-[minmax(6.5rem,9.5rem)_1fr_auto] sm:items-center sm:gap-3 sm:text-sm"
                     >
-                      <div className="flex items-center gap-2 truncate">
-                        <span
-                          aria-hidden="true"
-                          className="h-2.5 w-2.5 shrink-0 rounded-[2px]"
-                          style={{ backgroundColor: visual.bg }}
-                        />
-                        <Link
-                          href={`/buscar?partido=${encodeURIComponent(m.partyId)}&q=${encodeURIComponent(activeConcept.query)}`}
-                          className="truncate font-bold text-ink hover:text-civic hover:underline"
-                        >
-                          {m.shortName}
-                        </Link>
+                      <div className="flex items-center justify-between gap-2">
+                        <div className="flex min-w-0 items-center gap-2">
+                          <span
+                            aria-hidden="true"
+                            className="h-2.5 w-2.5 shrink-0 rounded-[2px]"
+                            style={{ backgroundColor: visual.bg }}
+                          />
+                          <Link
+                            href={`/buscar?partido=${encodeURIComponent(m.partyId)}&q=${encodeURIComponent(activeConcept.query)}`}
+                            className="truncate font-bold text-ink hover:text-civic hover:underline"
+                          >
+                            {m.shortName}
+                          </Link>
+                        </div>
+                        <span className="shrink-0 font-mono text-xs font-bold text-ink sm:hidden">
+                          {radarMetric === "mentions"
+                            ? `${m.mentions} citas`
+                            : `${m.per100Proposals} c/100`}
+                        </span>
                       </div>
 
                       <div className="h-2.5 w-full overflow-hidden rounded-[2px] bg-surface-muted">
@@ -336,13 +343,13 @@ export function VocabularyStatsExplorer({ analytics, conceptRadar }: VocabularyS
                         />
                       </div>
 
-                      <div className="shrink-0 text-right font-mono text-xs text-ink-secondary">
+                      <div className="hidden shrink-0 text-right font-mono text-xs text-ink-secondary sm:block">
                         <strong className="text-ink">
                           {radarMetric === "mentions"
                             ? `${m.mentions} citas`
                             : `${m.per100Proposals} c/100`}
                         </strong>
-                        <span className="hidden text-ink-muted sm:inline">
+                        <span className="text-ink-muted">
                           {" "}
                           ·{" "}
                           {radarMetric === "mentions"

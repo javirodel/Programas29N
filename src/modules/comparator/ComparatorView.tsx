@@ -110,8 +110,13 @@ export function ComparatorView({
     return initial;
   });
   const [expandAllQuestions, setExpandAllQuestions] = useState<boolean>(false);
+  const [expandedProposalIds, setExpandedProposalIds] = useState<Record<string, boolean>>({});
   const [activeEvidence, setActiveEvidence] = useState<PublicProposal | null>(null);
   const didMountRef = useRef(false);
+
+  const toggleProposalExpanded = (id: string) => {
+    setExpandedProposalIds((prev) => ({ ...prev, [id]: !prev[id] }));
+  };
 
   const partyMap = useMemo(() => new Map(parties.map((p) => [p.id, p])), [parties]);
   const themeMap = useMemo(() => new Map(themes.map((t) => [t.id, t])), [themes]);
@@ -454,14 +459,14 @@ export function ComparatorView({
           <div
             role="tablist"
             aria-label="Elegir vista de comparación"
-            className="inline-flex w-fit rounded-[4px] border border-line bg-surface-muted p-1"
+            className="flex w-full flex-wrap rounded-[4px] border border-line bg-surface-muted p-1 sm:inline-flex sm:w-fit"
           >
             <button
               type="button"
               role="tab"
               aria-selected={isSummaryMode}
               onClick={() => selectBlock("summary")}
-              className={`rounded-[3px] px-3.5 py-1.5 text-xs font-bold transition-all sm:text-sm ${
+              className={`flex-1 rounded-[3px] px-3 py-1.5 text-center text-xs font-bold transition-all sm:flex-initial sm:px-3.5 sm:text-sm ${
                 isSummaryMode
                   ? "bg-surface text-ink shadow-2xs"
                   : "text-ink-secondary hover:text-ink"
@@ -479,7 +484,7 @@ export function ComparatorView({
                   selectBlock(availableThemePills[0]?.theme.id ?? "vivienda");
                 }
               }}
-              className={`rounded-[3px] px-3.5 py-1.5 text-xs font-bold transition-all sm:text-sm ${
+              className={`flex-1 rounded-[3px] px-3 py-1.5 text-center text-xs font-bold transition-all sm:flex-initial sm:px-3.5 sm:text-sm ${
                 !isSummaryMode
                   ? "bg-surface text-ink shadow-2xs"
                   : "text-ink-secondary hover:text-ink"
@@ -681,17 +686,41 @@ export function ComparatorView({
                                 </div>
 
                                 {primaryProposal?.title.text ? (
-                                  <p className="line-clamp-2 text-sm font-bold leading-snug text-ink">
+                                  <p
+                                    className={`${
+                                      expandedProposalIds[primaryProposal.id] ? "" : "line-clamp-2"
+                                    } text-sm font-bold leading-snug text-ink`}
+                                  >
                                     {primaryProposal.title.text}
                                   </p>
                                 ) : null}
 
-                                <p className="line-clamp-4 font-serif text-sm leading-relaxed text-ink-secondary">
+                                <p
+                                  className={`${
+                                    primaryProposal && expandedProposalIds[primaryProposal.id]
+                                      ? "whitespace-pre-line"
+                                      : "line-clamp-4"
+                                  } font-serif text-sm leading-relaxed text-ink-secondary`}
+                                >
                                   {primaryProposal
                                     ? `«${primaryProposal.official_text.text}»`
                                     : (pos?.rationale ??
                                       "No se pronuncia sobre esta cuestión en su programa.")}
                                 </p>
+
+                                {primaryProposal &&
+                                primaryProposal.official_text.text.length > 170 ? (
+                                  <button
+                                    type="button"
+                                    aria-expanded={Boolean(expandedProposalIds[primaryProposal.id])}
+                                    onClick={() => toggleProposalExpanded(primaryProposal.id)}
+                                    className="font-sans text-xs font-bold text-civic underline underline-offset-4 hover:text-ink"
+                                  >
+                                    {expandedProposalIds[primaryProposal.id]
+                                      ? "Mostrar resumen"
+                                      : "Leer completa"}
+                                  </button>
+                                ) : null}
                               </div>
 
                               <div className="mt-auto space-y-2 border-t border-line pt-2.5">
@@ -712,7 +741,7 @@ export function ComparatorView({
                                       }
                                       className="text-xs font-medium text-ink-muted underline underline-offset-4 hover:text-ink"
                                     >
-                                      Cita completa
+                                      Ver cita documental
                                     </button>
                                   </div>
                                 ) : null}
@@ -761,14 +790,12 @@ export function ComparatorView({
             return (
               <>
                 {/* Cabecera sticky alineada con las columnas */}
-                <div className="sticky top-[3.35rem] z-20 -mx-4 border-b border-line bg-canvas/95 px-4 pb-3 pt-1 backdrop-blur sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8">
+                <div className="sticky top-[3.1rem] z-20 -mx-4 border-b border-line bg-canvas/95 px-4 pb-2 pt-1 backdrop-blur sm:top-[3.35rem] sm:-mx-6 sm:px-6 sm:pb-3 lg:-mx-8 lg:px-8">
                   <ReadingProgressBar />
 
-                  <div className="flex flex-wrap items-baseline justify-between gap-2 pb-2.5 pt-2">
+                  <div className="flex flex-wrap items-baseline justify-between gap-2 pb-1.5 pt-1.5 sm:pb-2.5 sm:pt-2">
                     <div className="flex flex-wrap items-baseline gap-2">
-                      <h2 className="text-base font-extrabold text-ink sm:text-lg">
-                        {activeTitle}
-                      </h2>
+                      <h2 className="text-sm font-extrabold text-ink sm:text-lg">{activeTitle}</h2>
                       <span className="text-xs font-medium text-ink-muted">
                         ({totalInBlock} {totalInBlock === 1 ? "medida" : "medidas"} entre estas
                         candidaturas)
@@ -776,7 +803,7 @@ export function ComparatorView({
                     </div>
                   </div>
 
-                  <div className={`grid gap-4 ${columnGridClass}`}>
+                  <div className={`hidden gap-4 md:grid ${columnGridClass}`}>
                     {selectedParties.map((party, colIdx) => {
                       const visual = getPartyVisual(party.id);
                       const short = party.short_name.value ?? party.id.toUpperCase();
@@ -859,6 +886,8 @@ export function ComparatorView({
 
                           const ev = proposal.evidence[0];
                           const text = proposal.official_text.text;
+                          const isExpanded = Boolean(expandedProposalIds[proposal.id]);
+                          const isLongText = text.length > 170;
 
                           return (
                             <article
@@ -868,9 +897,18 @@ export function ComparatorView({
                             >
                               <div className="space-y-2.5">
                                 <div className="flex items-center justify-between gap-2 text-xs">
-                                  <span className="font-mono font-bold text-ink-muted">
-                                    {short} · #{proposal.extraction_number}
-                                  </span>
+                                  <div className="flex items-center gap-2">
+                                    <span
+                                      className="inline-flex items-center gap-1.5 rounded-[3px] px-2 py-0.5 text-[11px] font-extrabold text-white md:hidden"
+                                      style={{ backgroundColor: visual.bg, color: visual.fg }}
+                                    >
+                                      {short}
+                                    </span>
+                                    <span className="font-mono font-bold text-ink-muted">
+                                      <span className="hidden md:inline">{short} · </span>#
+                                      {proposal.extraction_number}
+                                    </span>
+                                  </div>
                                   {ev ? (
                                     <a
                                       href={ev.pdf_href}
@@ -883,16 +921,33 @@ export function ComparatorView({
                                   ) : null}
                                 </div>
 
-                                <h3 className="line-clamp-2 text-base font-bold leading-snug text-ink">
+                                <h3
+                                  className={`${
+                                    isExpanded ? "" : "line-clamp-2"
+                                  } text-base font-bold leading-snug text-ink`}
+                                >
                                   {proposal.title.text || `Medida #${proposal.extraction_number}`}
                                 </h3>
 
                                 <p
                                   lang={proposal.official_text.language}
-                                  className="line-clamp-4 font-serif text-sm leading-relaxed text-ink-secondary"
+                                  className={`${
+                                    isExpanded ? "whitespace-pre-line" : "line-clamp-4"
+                                  } font-serif text-sm leading-relaxed text-ink-secondary`}
                                 >
                                   «{text}»
                                 </p>
+
+                                {isLongText ? (
+                                  <button
+                                    type="button"
+                                    aria-expanded={isExpanded}
+                                    onClick={() => toggleProposalExpanded(proposal.id)}
+                                    className="font-sans text-xs font-bold text-civic underline underline-offset-4 hover:text-ink"
+                                  >
+                                    {isExpanded ? "Mostrar resumen" : "Leer medida completa"}
+                                  </button>
+                                ) : null}
                               </div>
 
                               <div className="mt-auto space-y-2.5 border-t border-line pt-3">
@@ -900,9 +955,9 @@ export function ComparatorView({
                                   <button
                                     type="button"
                                     onClick={() => setActiveEvidence(proposal)}
-                                    className="font-bold text-civic underline underline-offset-4 hover:text-ink"
+                                    className="font-medium text-ink-muted underline underline-offset-4 hover:text-ink"
                                   >
-                                    Leer completa y cita
+                                    Ver cita documental
                                   </button>
                                   <Link
                                     href={`/programas/${party.id}#medida-${proposal.id}`}

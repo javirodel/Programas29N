@@ -233,7 +233,7 @@ export function ProgramViewer({
         <div className="sticky-topic-banner-inner overflow-hidden rounded-2xl border border-line bg-surface/95 backdrop-blur">
           <ReadingProgressBar accentColor={accentColor} />
 
-          <div className="space-y-3 p-3.5 sm:px-5 sm:py-4">
+          <div className="space-y-2 p-2.5 sm:space-y-3 sm:px-5 sm:py-4">
             <div className="flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
               {/* Indicador dinámico del tema que se está leyendo */}
               <div className="flex min-w-0 items-center gap-3">
@@ -346,7 +346,7 @@ export function ProgramViewer({
       ) : (
         <div
           key={`${singleThemeId}::${textFilter.trim().toLowerCase()}`}
-          className="animate-panel-switch space-y-10"
+          className="animate-panel-switch space-y-12 sm:space-y-14"
         >
           {grouped.map(({ theme, items }, groupIdx) => {
             const isBlockOpen =
@@ -365,10 +365,13 @@ export function ProgramViewer({
                   tabIndex={-1}
                   aria-labelledby={`tema-heading-${theme.id}`}
                   style={{ borderTopColor: accentColor }}
-                  className="scroll-mt-44 border border-t-4 border-line bg-surface p-5 outline-none sm:p-6"
+                  className="scroll-mt-44 rounded-xl border border-t-4 border-line bg-surface p-4 shadow-xs outline-none sm:p-6"
                 >
-                  <div className="flex flex-wrap items-baseline justify-between gap-2 border-b border-line pb-4">
+                  <div className="mb-5 flex flex-wrap items-baseline justify-between gap-3 rounded-lg border border-line/70 bg-surface-muted/50 px-4 py-3.5 sm:px-5 sm:py-4">
                     <div>
+                      <p className="mb-1 text-[11px] font-bold uppercase tracking-wider text-ink-muted">
+                        Bloque temático {groupIdx + 1} de {grouped.length}
+                      </p>
                       <h3
                         id={`tema-heading-${theme.id}`}
                         className="text-xl font-extrabold tracking-tight text-ink sm:text-2xl"
@@ -380,7 +383,7 @@ export function ProgramViewer({
                       ) : null}
                     </div>
                     <div className="flex flex-wrap items-center gap-2.5 text-xs">
-                      <span className="rounded-[3px] border border-line bg-surface-muted px-2.5 py-1 font-semibold text-ink-secondary">
+                      <span className="rounded-[3px] border border-line bg-canvas px-2.5 py-1 font-semibold text-ink-secondary">
                         {items.length} {items.length === 1 ? "medida" : "medidas"}
                       </span>
                       {singleThemeId === "all" && !hasActiveSearch ? (
@@ -413,7 +416,7 @@ export function ProgramViewer({
                   </div>
 
                   {isBlockOpen ? (
-                    <div className="animate-panel-switch divide-y divide-line">
+                    <div className="animate-panel-switch space-y-4">
                       {visibleItems.map((proposal) => {
                         const primaryEvidence = proposal.evidence[0];
                         const fullText = proposal.official_text.text;
@@ -429,14 +432,14 @@ export function ProgramViewer({
                           <article
                             key={proposal.id}
                             id={`medida-${proposal.id}`}
-                            className={`space-y-3 py-5 transition-colors first:pt-4 last:pb-2 ${
+                            className={`space-y-3 rounded-lg border p-4 transition-colors sm:p-5 ${
                               isHighlighted
-                                ? "bg-civic-subtle/30 px-3 -mx-3 rounded-[3px]"
-                                : "hover:bg-surface-muted/35 hover:px-3 hover:-mx-3"
+                                ? "border-civic bg-civic-subtle/30"
+                                : "border-line/80 bg-canvas/70 hover:border-line-strong"
                             }`}
                           >
                             <div className="flex items-baseline gap-2.5">
-                              <span className="shrink-0 font-mono text-xs font-bold text-ink-muted">
+                              <span className="shrink-0 rounded-[3px] border border-line bg-surface-muted px-2 py-0.5 font-mono text-xs font-bold text-ink-secondary">
                                 #{proposal.extraction_number}
                               </span>
                               {proposal.title.text ? (

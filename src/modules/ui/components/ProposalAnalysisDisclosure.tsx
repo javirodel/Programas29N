@@ -37,7 +37,7 @@ export function ProposalAnalysisDisclosure({
 
   return (
     <details open={defaultOpen} className={cn("accordion-panel group text-sm", className)}>
-      <summary className="inline-flex cursor-pointer list-none items-center gap-1.5 py-1 text-xs font-semibold text-ink-secondary underline decoration-line-strong underline-offset-4 select-none hover:text-ink">
+      <summary className="inline-flex cursor-pointer list-none items-center gap-1.5 rounded-[4px] border border-line bg-surface-muted/70 px-2.5 py-1.5 text-xs font-semibold text-ink-secondary transition-colors select-none hover:border-line-strong hover:bg-surface-muted hover:text-ink">
         <span
           aria-hidden="true"
           className="inline-block font-mono text-xs transition-transform duration-200 group-open:rotate-45"
