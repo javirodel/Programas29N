@@ -74,6 +74,22 @@ export default async function CompararPage({ searchParams }: CompararPageProps) 
   const rawBlock = typeof sp.bloque === "string" ? sp.bloque : "";
   const validBlock = themes.some((t) => t.id === rawBlock) ? rawBlock : "summary";
 
+  const selectedSet = new Set(initialPartyIds);
+  const themeCountsByParty: Record<string, Record<string, number>> = {};
+  for (const p of proposals) {
+    let byTheme = themeCountsByParty[p.party_id];
+    if (!byTheme) {
+      byTheme = {};
+      themeCountsByParty[p.party_id] = byTheme;
+    }
+    byTheme[p.theme_id] = (byTheme[p.theme_id] ?? 0) + 1;
+  }
+
+  const scopedProposals =
+    validBlock === "summary"
+      ? []
+      : proposals.filter((p) => selectedSet.has(p.party_id) && p.theme_id === validBlock);
+
   return (
     <Suspense
       fallback={
@@ -85,12 +101,15 @@ export default async function CompararPage({ searchParams }: CompararPageProps) 
       <ComparatorView
         parties={parties}
         themes={themes}
-        proposals={proposals}
+        proposals={scopedProposals}
         questions={questions}
-        evidenceProposalsMap={evidenceProposalsMap(questions, proposals)}
+        evidenceProposalsMap={evidenceProposalsMap(questions, proposals, selectedSet)}
         partyStatsMap={partyStatsMap}
         initialPartyIds={initialPartyIds}
         initialThemeFilter={validBlock}
+        themeCountsByParty={themeCountsByParty}
+        loadedBlockId={validBlock}
+        loadedPartyIds={initialPartyIds}
       />
     </Suspense>
   );
@@ -99,10 +118,12 @@ export default async function CompararPage({ searchParams }: CompararPageProps) 
 function evidenceProposalsMap(
   questions: Awaited<ReturnType<typeof getSurveyQuestions>>,
   proposals: Awaited<ReturnType<typeof getPublishedProposals>>,
+  selectedSet: Set<PartyId>,
 ) {
   const cited = new Set<string>();
   for (const question of questions) {
-    for (const pos of Object.values(question.positions)) {
+    for (const [partyId, pos] of Object.entries(question.positions)) {
+      if (!selectedSet.has(partyId as PartyId)) continue;
       for (const pid of pos.evidence_proposal_ids) {
         cited.add(pid);
       }

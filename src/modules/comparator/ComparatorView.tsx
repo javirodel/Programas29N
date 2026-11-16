@@ -44,6 +44,9 @@ interface ComparatorViewProps {
   partyStatsMap: Record<string, PartyCompareStats>;
   initialPartyIds: PartyId[];
   initialThemeFilter: string;
+  themeCountsByParty?: Record<string, Record<string, number>>;
+  loadedBlockId?: string;
+  loadedPartyIds?: PartyId[];
 }
 
 const MAX_PARTIES = 4;
@@ -95,6 +98,9 @@ export function ComparatorView({
   partyStatsMap,
   initialPartyIds,
   initialThemeFilter,
+  themeCountsByParty,
+  loadedBlockId,
+  loadedPartyIds,
 }: ComparatorViewProps) {
   const router = useRouter();
   const [selectedIds, setSelectedIds] = useState<PartyId[]>(initialPartyIds);
@@ -163,10 +169,20 @@ export function ComparatorView({
   // Temas con al menos una propuesta entre las candidaturas seleccionadas
   const availableThemePills = useMemo(() => {
     const counts = new Map<string, number>();
-    const selectedSet = new Set(selectedIds);
-    for (const p of proposals) {
-      if (!selectedSet.has(p.party_id)) continue;
-      counts.set(p.theme_id, (counts.get(p.theme_id) ?? 0) + 1);
+    if (themeCountsByParty) {
+      for (const partyId of selectedIds) {
+        const byTheme = themeCountsByParty[partyId];
+        if (!byTheme) continue;
+        for (const [themeId, count] of Object.entries(byTheme)) {
+          counts.set(themeId, (counts.get(themeId) ?? 0) + count);
+        }
+      }
+    } else {
+      const selectedSet = new Set(selectedIds);
+      for (const p of proposals) {
+        if (!selectedSet.has(p.party_id)) continue;
+        counts.set(p.theme_id, (counts.get(p.theme_id) ?? 0) + 1);
+      }
     }
     return [...themes]
       .filter((t) => t.is_canonical || (counts.get(t.id) ?? 0) > 0)
@@ -176,7 +192,7 @@ export function ComparatorView({
         count: counts.get(t.id) ?? 0,
       }))
       .filter((item) => item.count > 0);
-  }, [themes, proposals, selectedIds]);
+  }, [themes, proposals, selectedIds, themeCountsByParty]);
 
   const filteredQuestions = useMemo(() => {
     const qLower = textFilter.trim().toLowerCase();
@@ -848,7 +864,13 @@ export function ComparatorView({
                 </div>
 
                 {/* Cuadrícula emparejada fila por fila (cero descolocación) */}
-                {maxColumnCount === 0 ? (
+                {loadedBlockId !== undefined &&
+                (activeBlockId !== loadedBlockId ||
+                  (loadedPartyIds && selectedIds.some((id) => !loadedPartyIds.includes(id)))) ? (
+                  <div className="rounded-[4px] border border-line bg-surface p-8 text-center text-sm text-ink-secondary">
+                    Cargando medidas de {activeTitle}…
+                  </div>
+                ) : maxColumnCount === 0 ? (
                   <div className="rounded-[4px] border border-line bg-surface p-8 text-center text-sm text-ink-secondary">
                     Ninguno de los partidos seleccionados incluye propuestas en {activeTitle}
                     {textFilter.trim() ? ` que coincidan con «${textFilter.trim()}»` : ""}.
