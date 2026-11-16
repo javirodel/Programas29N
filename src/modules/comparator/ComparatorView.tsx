@@ -867,8 +867,26 @@ export function ComparatorView({
                 {loadedBlockId !== undefined &&
                 (activeBlockId !== loadedBlockId ||
                   (loadedPartyIds && selectedIds.some((id) => !loadedPartyIds.includes(id)))) ? (
-                  <div className="rounded-[4px] border border-line bg-surface p-8 text-center text-sm text-ink-secondary">
-                    Cargando medidas de {activeTitle}…
+                  <div className="space-y-4 rounded-[4px] border border-line bg-surface p-5">
+                    <div className="h-1 w-full overflow-hidden rounded-full bg-surface-muted">
+                      <div className="loading-bar-indeterminate h-full w-1/2 rounded-full bg-civic" />
+                    </div>
+                    <p className="text-center text-xs font-semibold text-ink-secondary">
+                      Cargando medidas y citas de {activeTitle}…
+                    </p>
+                    <div className={`grid gap-4 ${columnGridClass}`}>
+                      {selectedParties.map((party) => (
+                        <div
+                          key={`skel-${party.id}`}
+                          className="space-y-3 rounded-[4px] border border-line bg-canvas p-4"
+                        >
+                          <div className="skeleton-shimmer h-4 w-20 rounded-[3px]" />
+                          <div className="skeleton-shimmer h-5 w-4/5 rounded-[3px]" />
+                          <div className="skeleton-shimmer h-3.5 w-full rounded-[3px]" />
+                          <div className="skeleton-shimmer h-3.5 w-3/4 rounded-[3px]" />
+                        </div>
+                      ))}
+                    </div>
                   </div>
                 ) : maxColumnCount === 0 ? (
                   <div className="rounded-[4px] border border-line bg-surface p-8 text-center text-sm text-ink-secondary">

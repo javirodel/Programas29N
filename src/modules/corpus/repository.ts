@@ -31,6 +31,9 @@ const GENERATED_DIR = path.resolve(process.cwd(), ".generated");
 let cachedCorpus: CorpusDataset | null = null;
 let cachedCoverage: CoverageReport | null = null;
 let cachedSurvey: SurveyDataset | null = null;
+let corpusPromise: Promise<CorpusDataset> | null = null;
+let coveragePromise: Promise<CoverageReport> | null = null;
+let surveyPromise: Promise<SurveyDataset> | null = null;
 
 export function toPublicProposal(proposal: Proposal): PublicProposal {
   return proposal;
@@ -40,33 +43,63 @@ export async function loadCorpusDataset(): Promise<CorpusDataset> {
   if (cachedCorpus && process.env.NODE_ENV === "production") {
     return cachedCorpus;
   }
-  const filePath = path.join(GENERATED_DIR, "corpus.v1.json");
-  const raw = await readFile(filePath, "utf-8");
-  const parsed = CorpusDatasetSchema.parse(JSON.parse(raw));
-  cachedCorpus = parsed;
-  return parsed;
+  if (corpusPromise) {
+    return corpusPromise;
+  }
+  corpusPromise = (async () => {
+    try {
+      const filePath = path.join(GENERATED_DIR, "corpus.v1.json");
+      const raw = await readFile(filePath, "utf-8");
+      const parsed = CorpusDatasetSchema.parse(JSON.parse(raw));
+      cachedCorpus = parsed;
+      return parsed;
+    } finally {
+      corpusPromise = null;
+    }
+  })();
+  return corpusPromise;
 }
 
 export async function loadCoverageReport(): Promise<CoverageReport> {
   if (cachedCoverage && process.env.NODE_ENV === "production") {
     return cachedCoverage;
   }
-  const filePath = path.join(GENERATED_DIR, "reports", "coverage-report.json");
-  const raw = await readFile(filePath, "utf-8");
-  const parsed = CoverageReportSchema.parse(JSON.parse(raw));
-  cachedCoverage = parsed;
-  return parsed;
+  if (coveragePromise) {
+    return coveragePromise;
+  }
+  coveragePromise = (async () => {
+    try {
+      const filePath = path.join(GENERATED_DIR, "reports", "coverage-report.json");
+      const raw = await readFile(filePath, "utf-8");
+      const parsed = CoverageReportSchema.parse(JSON.parse(raw));
+      cachedCoverage = parsed;
+      return parsed;
+    } finally {
+      coveragePromise = null;
+    }
+  })();
+  return coveragePromise;
 }
 
 export async function loadSurveyDataset(): Promise<SurveyDataset> {
   if (cachedSurvey && process.env.NODE_ENV === "production") {
     return cachedSurvey;
   }
-  const filePath = path.join(GENERATED_DIR, "survey.v1.json");
-  const raw = await readFile(filePath, "utf-8");
-  const parsed = SurveyDatasetSchema.parse(JSON.parse(raw));
-  cachedSurvey = parsed;
-  return parsed;
+  if (surveyPromise) {
+    return surveyPromise;
+  }
+  surveyPromise = (async () => {
+    try {
+      const filePath = path.join(GENERATED_DIR, "survey.v1.json");
+      const raw = await readFile(filePath, "utf-8");
+      const parsed = SurveyDatasetSchema.parse(JSON.parse(raw));
+      cachedSurvey = parsed;
+      return parsed;
+    } finally {
+      surveyPromise = null;
+    }
+  })();
+  return surveyPromise;
 }
 
 export async function getParties(): Promise<Party[]> {

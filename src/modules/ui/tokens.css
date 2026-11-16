@@ -775,3 +775,40 @@
     }
   }
 }
+
+@keyframes indeterminate-slide {
+  0% {
+    transform: translateX(-100%) scaleX(0.45);
+  }
+  50% {
+    transform: translateX(35%) scaleX(0.75);
+  }
+  100% {
+    transform: translateX(180%) scaleX(0.45);
+  }
+}
+
+.loading-bar-indeterminate {
+  animation: indeterminate-slide 1.15s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+  transform-origin: left center;
+}
+
+@keyframes shimmer-sweep {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.skeleton-shimmer {
+  background: linear-gradient(
+    90deg,
+    var(--color-bg-muted) 25%,
+    var(--color-border-default) 50%,
+    var(--color-bg-muted) 75%
+  );
+  background-size: 200% 100%;
+  animation: shimmer-sweep 1.5s ease-in-out infinite;
+}

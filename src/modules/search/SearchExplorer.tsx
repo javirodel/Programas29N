@@ -377,19 +377,45 @@ export function SearchExplorer({
         </form>
       </div>
 
-      {/* Estado de resultados */}
-      <div aria-live="polite" className="flex flex-wrap items-center justify-between gap-2 text-sm">
-        <p className="font-medium text-ink-secondary">
-          {loading
-            ? "Buscando en el corpus…"
-            : `${result.total.toLocaleString("es-ES")} ${
+      {/* Estado de resultados + barra animada */}
+      <div aria-live="polite" className="space-y-2 text-sm">
+        {loading ? (
+          <div className="h-1 w-full overflow-hidden rounded-full bg-surface-muted">
+            <div className="loading-bar-indeterminate h-full w-1/2 rounded-full bg-civic" />
+          </div>
+        ) : null}
+        <div className="flex flex-wrap items-center justify-between gap-2">
+          <p className="inline-flex items-center gap-2 font-medium text-ink-secondary">
+            {loading ? (
+              <>
+                <span
+                  aria-hidden="true"
+                  className="inline-block h-2 w-2 animate-ping rounded-full bg-civic"
+                />
+                <span>Buscando en 5.681 propuestas oficiales…</span>
+              </>
+            ) : (
+              `${result.total.toLocaleString("es-ES")} ${
                 result.total === 1 ? "propuesta encontrada" : "propuestas encontradas"
-              }${result.total > result.hits.length ? ` (mostrando las primeras ${result.hits.length})` : ""}`}
-        </p>
-        {errorMsg ? <p className="font-medium text-red-700">{errorMsg}</p> : null}
+              }${result.total > result.hits.length ? ` (mostrando las primeras ${result.hits.length})` : ""}`
+            )}
+          </p>
+          {errorMsg ? <p className="font-medium text-red-700">{errorMsg}</p> : null}
+        </div>
       </div>
 
-      {result.hits.length === 0 ? (
+      {loading && result.hits.length === 0 ? (
+        <div className="space-y-4">
+          {[0, 1, 2].map((idx) => (
+            <div key={idx} className="space-y-3 rounded-[3px] border border-line bg-surface p-5">
+              <div className="skeleton-shimmer h-4 w-36 rounded-[3px]" />
+              <div className="skeleton-shimmer h-6 w-3/4 rounded-[3px]" />
+              <div className="skeleton-shimmer h-4 w-full rounded-[3px]" />
+              <div className="skeleton-shimmer h-4 w-5/6 rounded-[3px]" />
+            </div>
+          ))}
+        </div>
+      ) : result.hits.length === 0 ? (
         <div className="rounded-[3px] border border-line bg-surface py-10 text-center">
           <p className="font-bold text-ink">Sin coincidencias con los filtros actuales.</p>
           <p className="mt-1 text-sm text-ink-secondary">
@@ -397,7 +423,7 @@ export function SearchExplorer({
           </p>
         </div>
       ) : (
-        <div className="space-y-5">
+        <div className={`space-y-5 transition-opacity duration-150 ${loading ? "opacity-60" : ""}`}>
           <div key={resultSignature} className="animate-panel-switch space-y-4">
             {result.hits.slice(0, visibleCount).map((hit: SearchHit) => {
               const visual = getPartyVisual(hit.partyId);

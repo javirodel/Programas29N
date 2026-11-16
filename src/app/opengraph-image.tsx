@@ -7,6 +7,18 @@ export const size = {
 };
 export const contentType = "image/png";
 
+const SPECTRUM_STRIP = [
+  "#0055a4",
+  "#c8102e",
+  "#4e9a26",
+  "#be185d",
+  "#f59e0b",
+  "#047857",
+  "#0284c7",
+  "#c2410c",
+  "#6d28d9",
+];
+
 export default function Image() {
   return new ImageResponse(
     <div
@@ -16,140 +28,118 @@ export default function Image() {
         display: "flex",
         flexDirection: "column",
         justifyContent: "space-between",
-        backgroundColor: "#fafafa",
-        color: "#141414",
-        padding: "56px 64px",
-        borderTop: "14px solid #19233c",
+        backgroundColor: "#141d33",
+        color: "#ffffff",
         fontFamily: "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
       }}
     >
-      {/* Cabecera superior */}
+      {/* Franja superior simbólica del hemiciclo */}
+      <div style={{ display: "flex", width: "100%", height: "12px" }}>
+        {SPECTRUM_STRIP.map((color) => (
+          <div key={color} style={{ flex: 1, height: "100%", backgroundColor: color }} />
+        ))}
+      </div>
+
+      {/* Núcleo central minimalista (legible tanto a pantalla completa como en miniatura cuadrada de WhatsApp) */}
       <div
         style={{
           display: "flex",
+          flexDirection: "column",
           alignItems: "center",
-          justifyContent: "space-between",
+          justifyContent: "center",
+          textAlign: "center",
+          padding: "40px 64px",
+          gap: "24px",
         }}
       >
-        <div style={{ display: "flex", alignItems: "center", gap: "18px" }}>
-          <div
-            style={{
-              display: "flex",
-              alignItems: "center",
-              justifyContent: "center",
-              backgroundColor: "#19233c",
-              color: "#ffffff",
-              fontSize: "30px",
-              fontWeight: 800,
-              letterSpacing: "-0.03em",
-              padding: "10px 20px",
-              borderRadius: "6px",
-            }}
-          >
-            29N
-          </div>
-          <div
-            style={{
-              display: "flex",
-              fontSize: "24px",
-              fontWeight: 700,
-              color: "#3b3b3b",
-            }}
-          >
-            Elecciones generales · 29 de noviembre
-          </div>
-        </div>
-
+        {/* Emblema / Monograma */}
         <div
           style={{
             display: "flex",
             alignItems: "center",
-            backgroundColor: "#eef2ff",
-            color: "#1e40af",
-            border: "2px solid #c7d2fe",
-            borderRadius: "6px",
-            padding: "8px 16px",
-            fontSize: "20px",
+            justifyContent: "center",
+            width: "170px",
+            height: "170px",
+            borderRadius: "36px",
+            backgroundColor: "#1e2c4f",
+            border: "3px solid #3b538a",
+            fontSize: "74px",
+            fontWeight: 900,
+            letterSpacing: "-0.04em",
+            color: "#ffffff",
+          }}
+        >
+          29N
+        </div>
+
+        <div
+          style={{
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+            gap: "12px",
+          }}
+        >
+          <div
+            style={{
+              display: "flex",
+              fontSize: "58px",
+              fontWeight: 800,
+              letterSpacing: "-0.03em",
+              color: "#ffffff",
+            }}
+          >
+            Programa29N
+          </div>
+          <div
+            style={{
+              display: "flex",
+              fontSize: "26px",
+              fontWeight: 500,
+              color: "#cbd5e1",
+            }}
+          >
+            Programas electorales · Comparador · Test de afinidad
+          </div>
+        </div>
+
+        {/* Píldora limpia de métricas reales */}
+        <div
+          style={{
+            display: "flex",
+            alignItems: "center",
+            gap: "18px",
+            backgroundColor: "#1e2c4f",
+            border: "2px solid #2f4270",
+            borderRadius: "999px",
+            padding: "12px 28px",
+            fontSize: "22px",
             fontWeight: 700,
+            color: "#93c5fd",
           }}
         >
-          programa29n.app
+          <span>20 programas</span>
+          <span style={{ color: "#64748b" }}>·</span>
+          <span>5.681 medidas</span>
+          <span style={{ color: "#64748b" }}>·</span>
+          <span>100% PDF original</span>
         </div>
       </div>
 
-      {/* Bloque central */}
-      <div style={{ display: "flex", flexDirection: "column", gap: "20px" }}>
-        <div
-          style={{
-            display: "flex",
-            fontSize: "58px",
-            fontWeight: 800,
-            lineHeight: 1.1,
-            letterSpacing: "-0.03em",
-            color: "#141414",
-          }}
-        >
-          Programa29N — Consulta y compara los 20 programas electorales
-        </div>
-        <div
-          style={{
-            display: "flex",
-            fontSize: "28px",
-            lineHeight: 1.4,
-            color: "#3b3b3b",
-            maxWidth: "980px",
-          }}
-        >
-          Medidas literales con cita y enlace a la página exacta del PDF original, comparador frente
-          a frente y test de afinidad neutral.
-        </div>
-      </div>
-
-      {/* Pie con métricas reales del corpus */}
+      {/* Pie discreto */}
       <div
         style={{
           display: "flex",
           alignItems: "center",
-          justifyContent: "space-between",
-          borderTop: "2px solid #e2e2e2",
-          paddingTop: "28px",
+          justifyContent: "center",
+          paddingBottom: "28px",
+          fontSize: "20px",
+          fontWeight: 600,
+          color: "#94a3b8",
+          letterSpacing: "0.02em",
         }}
       >
-        <div style={{ display: "flex", gap: "28px", fontSize: "22px", fontWeight: 700 }}>
-          <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>
-            <span
-              style={{
-                width: "12px",
-                height: "12px",
-                borderRadius: "3px",
-                backgroundColor: "#1e40af",
-              }}
-            />
-            <span>20 candidaturas oficiales</span>
-          </div>
-          <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>
-            <span
-              style={{
-                width: "12px",
-                height: "12px",
-                borderRadius: "3px",
-                backgroundColor: "#166534",
-              }}
-            />
-            <span>5.681 medidas indexadas</span>
-          </div>
-          <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>
-            <span
-              style={{
-                width: "12px",
-                height: "12px",
-                borderRadius: "3px",
-                backgroundColor: "#19233c",
-              }}
-            />
-            <span>Trazabilidad 100% al PDF</span>
-          </div>
-        </div>
+        programa29n.app
       </div>
     </div>,
     {

@@ -1,9 +1,10 @@
 import type { Metadata, Viewport } from "next";
 import { Atkinson_Hyperlegible, Literata } from "next/font/google";
 import Link from "next/link";
-import type { ReactNode } from "react";
+import { Suspense, type ReactNode } from "react";
 import { loadCoverageReport } from "@/modules/corpus/repository";
 import { NavBar } from "@/modules/ui/components/NavBar";
+import { NavigationProgress } from "@/modules/ui/components/NavigationProgress";
 import { ScrollToTopButton } from "@/modules/ui/components/ScrollToTopButton";
 import { SkipToContent } from "@/modules/ui/components/SkipToContent";
 import "@/modules/ui/tokens.css";
@@ -85,6 +86,9 @@ export default async function RootLayout({ children }: Readonly<RootLayoutProps>
         <script dangerouslySetInnerHTML={{ __html: COLOR_SCHEME_INIT_SCRIPT }} />
       </head>
       <body className="flex min-h-screen flex-col bg-canvas text-ink antialiased">
+        <Suspense fallback={null}>
+          <NavigationProgress />
+        </Suspense>
         <SkipToContent />
 
         <NavBar />

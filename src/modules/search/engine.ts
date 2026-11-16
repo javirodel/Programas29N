@@ -67,6 +67,10 @@ export interface SearchResult {
 
 let cachedIndex: MiniSearch<IndexedProposalDoc> | null = null;
 let cachedDocs: IndexedProposalDoc[] | null = null;
+let runtimePromise: Promise<{
+  index: MiniSearch<IndexedProposalDoc>;
+  allDocs: IndexedProposalDoc[];
+}> | null = null;
 
 async function getSearchRuntime(): Promise<{
   index: MiniSearch<IndexedProposalDoc>;
@@ -75,57 +79,68 @@ async function getSearchRuntime(): Promise<{
   if (cachedIndex && cachedDocs) {
     return { index: cachedIndex, allDocs: cachedDocs };
   }
+  if (runtimePromise) {
+    return runtimePromise;
+  }
 
-  const [rawJson, proposals, parties, themes] = await Promise.all([
-    readFile(SEARCH_INDEX_PATH, "utf-8"),
-    getPublishedProposals(),
-    getParties(),
-    getThemes(),
-  ]);
+  runtimePromise = (async () => {
+    try {
+      const [rawJson, proposals, parties, themes] = await Promise.all([
+        readFile(SEARCH_INDEX_PATH, "utf-8"),
+        getPublishedProposals(),
+        getParties(),
+        getThemes(),
+      ]);
 
-  const index = MiniSearch.loadJSON<IndexedProposalDoc>(rawJson, {
-    fields: MINI_SEARCH_FIELDS,
-    storeFields: MINI_SEARCH_STORE_FIELDS,
-    tokenize: tokenizeCivicText,
-    processTerm: processCivicTerm,
-  });
+      const index = MiniSearch.loadJSON<IndexedProposalDoc>(rawJson, {
+        fields: MINI_SEARCH_FIELDS,
+        storeFields: MINI_SEARCH_STORE_FIELDS,
+        tokenize: tokenizeCivicText,
+        processTerm: processCivicTerm,
+      });
 
-  const partyMap = new Map(parties.map((p) => [p.id, p]));
-  const themeMap = new Map(themes.map((t) => [t.id, t]));
+      const partyMap = new Map(parties.map((p) => [p.id, p]));
+      const themeMap = new Map(themes.map((t) => [t.id, t]));
 
-  const allDocs: IndexedProposalDoc[] = proposals.map((p) => {
-    const party = partyMap.get(p.party_id);
-    const theme = themeMap.get(p.theme_id);
-    const primaryEv = p.evidence[0];
-    return {
-      id: p.id,
-      legacy_id: p.legacy_id,
-      party_id: p.party_id,
-      party_short_name: party?.short_name.value ?? p.party_id.toUpperCase(),
-      party_name: party?.name.value ?? p.party_id,
-      theme_id: p.theme_id,
-      theme_title: theme?.title ?? p.theme_id,
-      title: p.title.text,
-      official_text: p.official_text.text,
-      language: p.official_text.language,
-      original_section: p.original_section.value ?? "",
-      review_status: p.review.status,
-      is_verified: p.review.status === "verificada" || p.review.status === "corregida",
-      pages: primaryEv?.pages ?? [],
-      pdf_href: primaryEv?.pdf_href ?? `/pdfs/${p.party_id}.pdf`,
-      snippet: primaryEv?.snippet ?? p.official_text.text.slice(0, 280),
-      ai_summary: p.ai_annotations.summary,
-      ai_arguments_for: p.ai_annotations.arguments_for,
-      ai_arguments_against: p.ai_annotations.arguments_against,
-      ai_sources_for: p.ai_annotations.sources_for,
-      ai_sources_against: p.ai_annotations.sources_against,
-      ai_fact_check_status: p.ai_annotations.fact_check.status,
-    };
-  });
+      const allDocs: IndexedProposalDoc[] = proposals.map((p) => {
+        const party = partyMap.get(p.party_id);
+        const theme = themeMap.get(p.theme_id);
+        const primaryEv = p.evidence[0];
+        return {
+          id: p.id,
+          legacy_id: p.legacy_id,
+          party_id: p.party_id,
+          party_short_name: party?.short_name.value ?? p.party_id.toUpperCase(),
+          party_name: party?.name.value ?? p.party_id,
+          theme_id: p.theme_id,
+          theme_title: theme?.title ?? p.theme_id,
+          title: p.title.text,
+          official_text: p.official_text.text,
+          language: p.official_text.language,
+          original_section: p.original_section.value ?? "",
+          review_status: p.review.status,
+          is_verified: p.review.status === "verificada" || p.review.status === "corregida",
+          pages: primaryEv?.pages ?? [],
+          pdf_href: primaryEv?.pdf_href ?? `/pdfs/${p.party_id}.pdf`,
+          snippet: primaryEv?.snippet ?? p.official_text.text.slice(0, 280),
+          ai_summary: p.ai_annotations.summary,
+          ai_arguments_for: p.ai_annotations.arguments_for,
+          ai_arguments_against: p.ai_annotations.arguments_against,
+          ai_sources_for: p.ai_annotations.sources_for,
+          ai_sources_against: p.ai_annotations.sources_against,
+          ai_fact_check_status: p.ai_annotations.fact_check.status,
+        };
+      });
 
-  cachedIndex = index;
-  cachedDocs = allDocs;
-  return { index, allDocs };
+      cachedIndex = index;
+      cachedDocs = allDocs;
+      return { index, allDocs };
+    } finally {
+      runtimePromise = null;
+    }
+  })();
+
+  return runtimePromise;
 }
 
 function docToHit(doc: IndexedProposalDoc, score: number, termsMatched: string[]): SearchHit {

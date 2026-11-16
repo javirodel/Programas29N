@@ -117,12 +117,37 @@ export async function POST(request: NextRequest) {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           project: "Programa29N",
+          content: `**[Programa29N · ${sanitized.category}]** ${sanitized.name} (${sanitized.email}):\n${sanitized.message}`,
           ...sanitized,
         }),
         signal: AbortSignal.timeout(5000),
       });
     } catch (err) {
       console.error("[/api/contact] Error al reenviar al webhook:", err);
+    }
+  }
+
+  const resendApiKey = process.env.RESEND_API_KEY?.trim();
+  const contactToEmail = process.env.CONTACT_TO_EMAIL?.trim();
+  if (resendApiKey && contactToEmail) {
+    try {
+      await fetch("https://api.resend.com/emails", {
+        method: "POST",
+        headers: {
+          Authorization: `Bearer ${resendApiKey}`,
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          from: process.env.RESEND_FROM_EMAIL?.trim() || "Programa29N <onboarding@resend.dev>",
+          to: [contactToEmail],
+          reply_to: sanitized.email,
+          subject: `[Programa29N · ${sanitized.category}] Mensaje de ${sanitized.name}`,
+          text: `Nombre: ${sanitized.name}\nCorreo: ${sanitized.email}\nMotivo: ${sanitized.category}\nFecha: ${sanitized.submittedAt}\n\n${sanitized.message}`,
+        }),
+        signal: AbortSignal.timeout(5000),
+      });
+    } catch (err) {
+      console.error("[/api/contact] Error al enviar correo con Resend:", err);
     }
   }
 
