@@ -1484,6 +1484,80 @@
           }
         }
       }
+    },
+    {
+      "party": {
+        "id": "podemos",
+        "name": {
+          "value": "Podemos",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "Podemos",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "POD",
+        "website": {
+          "value": "https://podemos.info",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "podemos-29n-2026",
+        "party_id": "podemos",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "Así de básico: Paz, casa y trabajo · Programa Electoral 29N",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-11-18",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "Podemos_programa29N",
+        "languages": [
+          "es"
+        ]
+      },
+      "document": {
+        "id": "Podemos_programa29N",
+        "pdf_path": "pdfs_originales/Podemos_programa29N.pdf",
+        "expected_sha256": "086211fb272f0eeceddfa630796e58e5f4910e81efb0385a43b563a2e3f097fb",
+        "page_count": 141,
+        "expected_extracted_count": 442,
+        "requires_editorial_remediation": false,
+        "original_filename": "29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+        "official_url": {
+          "value": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling (PyPdfiumBackend)",
+          "processed_at": "2026-11-18T12:29:10+0100",
+          "artifacts": {
+            "md": "procesados/Podemos_programa29N/Podemos_programa29N.md",
+            "json": "procesados/Podemos_programa29N/Podemos_programa29N.json",
+            "txt": "procesados/Podemos_programa29N/Podemos_programa29N.txt",
+            "metadata": "procesados/Podemos_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/Podemos_programa29N/Podemos_programa29N_442medidas_detallado.json",
+            "md": "procesados/Podemos_programa29N/Podemos_programa29N_442medidas_detallado.md"
+          }
+        }
+      }
     }
   ]
 }

@@ -48,7 +48,7 @@ const PARTY_VISUALS: Record<string, PartyVisualIdentity> = {
   "partido-humanista": { bg: "#c2410c", fg: "#ffffff", accentBorder: "#f97316" },
   "iustitia-europa": { bg: "#1d4ed8", fg: "#ffffff", accentBorder: "#60a5fa" },
   falange: { bg: "#1f2937", fg: "#ffffff", accentBorder: "#4b5563" },
-  // Partidos del Congreso saliente con programa pendiente de publicación
+  // Partidos del Congreso saliente
   "frente-amplio": { bg: "#be185d", fg: "#ffffff", accentBorder: "#ec4899" },
   junts: { bg: "#0f766e", fg: "#ffffff", accentBorder: "#14b8a6" },
   "eh-bildu": { bg: "#65a30d", fg: "#0a0d14", accentBorder: "#84cc16" },
@@ -68,6 +68,7 @@ const PARTY_META: Record<string, PartyInstitutionalMeta> = {
     territory: "País Vasco y Navarra",
   },
   pnv: { outgoingCongressSeats: 5, scope: "autonomico", territory: "País Vasco" },
+  podemos: { outgoingCongressSeats: 4, scope: "estatal", territory: "Ámbito estatal" },
   compromis: { outgoingCongressSeats: 2, scope: "autonomico", territory: "Comunitat Valenciana" },
   bng: { outgoingCongressSeats: 1, scope: "autonomico", territory: "Galicia" },
   "coalicion-canaria": { outgoingCongressSeats: 1, scope: "autonomico", territory: "Canarias" },
@@ -106,17 +107,6 @@ export const PENDING_CONGRESS_PARTIES: PendingCongressParty[] = [
     website: "https://junts.cat",
     statusNote:
       "Formación con representación en el Congreso de los Diputados saliente (XV Legislatura). Todavía no ha publicado un documento programático completo en PDF para el 29N.",
-  },
-  {
-    partyId: "podemos",
-    shortName: "Podemos",
-    partyName: "Podemos",
-    outgoingCongressSeats: 4,
-    scope: "estatal",
-    territory: "Ámbito estatal",
-    website: "https://podemos.info",
-    statusNote:
-      "Formación con representación en el Congreso de los Diputados saliente (XV Legislatura). Aún no ha publicado un documento programático oficial en PDF para el 29N.",
   },
   {
     partyId: "upn",

@@ -30,21 +30,21 @@ export const metadata: Metadata = {
     template: "%s | 29N · Programas Electorales",
   },
   description:
-    "Plataforma cívica neutral y accesible para consultar los 20 programas electorales oficiales del 29N, comparar posturas con trazabilidad documental al PDF original y realizar el test de afinidad.",
+    "Plataforma cívica neutral y accesible para consultar los 21 programas electorales oficiales del 29N, comparar posturas con trazabilidad documental al PDF original y realizar el test de afinidad.",
   openGraph: {
     type: "website",
     locale: "es_ES",
     url: "https://programa29n.app",
     siteName: "Programa29N",
-    title: "Programa29N — Consulta y compara los 20 programas electorales",
+    title: "Programa29N — Consulta y compara los 21 programas electorales",
     description:
-      "Consulta 5.681 medidas oficiales de 20 candidaturas con cita exacta al PDF, compara posturas frente a frente y haz el test de afinidad.",
+      "Consulta 6.123 medidas oficiales de 21 candidaturas con cita exacta al PDF, compara posturas frente a frente y haz el test de afinidad.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Programa29N — Consulta y compara los 20 programas electorales",
+    title: "Programa29N — Consulta y compara los 21 programas electorales",
     description:
-      "Plataforma cívica neutral para consultar los 20 programas del 29N, comparar medidas con enlace al PDF original y realizar el test de afinidad.",
+      "Plataforma cívica neutral para consultar los 21 programas del 29N, comparar medidas con enlace al PDF original y realizar el test de afinidad.",
   },
 };
 

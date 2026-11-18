@@ -1,0 +1,20 @@
+{
+  "archivo_original": "Podemos_programa29N.pdf",
+  "nombre": "Podemos_programa29N",
+  "sha256": "086211fb272f0eeceddfa630796e58e5f4910e81efb0385a43b563a2e3f097fb",
+  "fecha_procesamiento": "2026-11-18T12:29:10+0100",
+  "herramienta": "Docling (PyPdfiumBackend)",
+  "formatos": [
+    "md",
+    "json",
+    "txt"
+  ],
+  "paginas": 141,
+  "duracion_segundos": 166.34,
+  "tamano_bytes": {
+    "pdf": 1830035,
+    "md": 355853,
+    "json": 1683310,
+    "txt": 353603
+  }
+}

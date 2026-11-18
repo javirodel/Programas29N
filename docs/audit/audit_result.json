@@ -2367,6 +2367,151 @@
    }
   },
   {
+   "id": "Podemos_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 1830035,
+    "sha256": "086211fb272f0eeceddfa630796e58e5f4910e81efb0385a43b563a2e3f097fb",
+    "paginas": 141
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 355853
+    },
+    "json": {
+     "existe": true,
+     "bytes": 1683310
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 353603
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 141,
+    "n_texts": 1137,
+    "n_tables": 1,
+    "n_pictures": 119,
+    "paginas_con_texto": 141,
+    "paginas_texto_escaso_lt200": [
+     1,
+     2,
+     3,
+     6,
+     15,
+     25,
+     27,
+     39,
+     49,
+     125,
+     140,
+     141
+    ],
+    "texts_con_prov": 1137,
+    "md_imagenes_embebidas_base64": 0,
+    "md_placeholders_image": 119,
+    "md_headings": 36,
+    "md_chars_texto_aprox": 348135,
+    "txt_chars": 346123,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "086211fb272f0eeceddfa630796e58e5f4910e81efb0385a43b563a2e3f097fb",
+    "herramienta": "Docling (PyPdfiumBackend)",
+    "fecha": "2026-11-18T12:29:10+0100",
+    "archivo_original": "Podemos_programa29N.pdf",
+    "paginas_meta": 141,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "paginas",
+     "duracion_segundos",
+     "tamano_bytes"
+    ],
+    "sha_coincide": true,
+    "tamanos_coinciden": true
+   },
+   "detallado": {
+    "json": [
+     "Podemos_programa29N_442medidas_detallado.json"
+    ],
+    "md": [
+     "Podemos_programa29N_442medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Podemos",
+    "siglas": "Podemos",
+    "titulo_programa": "Así de básico: Paz, casa y trabajo · Programa Electoral 29N",
+    "fecha_publicacion": "2026-11-18",
+    "url_programa_oficial": "https://podemos.info/wp-content/uploads/2026/11/29N-programa-Podemos.-Paz-casa-y-trabajo.pdf",
+    "web_oficial": "https://podemos.info",
+    "total_medidas_declarado": 442,
+    "total_en_nombre_archivo": 442,
+    "total_real": 442,
+    "n_bloques": 19,
+    "n_otros_bloques": 1,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     442
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 30,
+     "bloque_02": 8,
+     "bloque_03": 24,
+     "bloque_04": 23,
+     "bloque_05": 47,
+     "bloque_06": 20,
+     "bloque_07": 20,
+     "bloque_08": 21,
+     "bloque_09": 31,
+     "bloque_10": 29,
+     "bloque_11": 18,
+     "bloque_12": 1,
+     "bloque_13": 19,
+     "bloque_14": 25,
+     "bloque_15": 12,
+     "bloque_16": 3,
+     "bloque_17": 58,
+     "bloque_18": 7,
+     "bloque_19": 33,
+     "otro_bloque_01": 13
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [],
+    "md_n_ids_ausentes": 0
+   },
+   "trazabilidad": {
+    "resultado": {
+     "literal": 355,
+     "fragmentado": 84,
+     "parcial": 3
+    },
+    "con_pagina_localizable": 442,
+    "muestras_no_encontradas": []
+   }
+  },
+  {
    "id": "PorUnMundoMasJusto_programa29N",
    "pdf": {
     "existe": true,
@@ -3146,61 +3291,61 @@
  ],
  "titulos_bloques_canonicos": {
   "bloque_01": {
-   "Vivienda, Urbanismo, Alquiler y Lucha contra la Okupación": 20
+   "Vivienda, Urbanismo, Alquiler y Lucha contra la Okupación": 21
   },
   "bloque_02": {
-   "Economía, Productividad, Industria, Innovación y Turismo": 20
+   "Economía, Productividad, Industria, Innovación y Turismo": 21
   },
   "bloque_03": {
-   "Fiscalidad e Impuestos": 19
+   "Fiscalidad e Impuestos": 20
   },
   "bloque_04": {
-   "Empleo, Autónomos, Emprendimiento y Mercado Laboral": 20
+   "Empleo, Autónomos, Emprendimiento y Mercado Laboral": 21
   },
   "bloque_05": {
-   "Pensiones, Mayores, Reto Demográfico, Discapacidad e Igualdad": 20
+   "Pensiones, Mayores, Reto Demográfico, Discapacidad e Igualdad": 21
   },
   "bloque_06": {
-   "Familia, Natalidad, Conciliación, Infancia y Juventud": 19
+   "Familia, Natalidad, Conciliación, Infancia y Juventud": 20
   },
   "bloque_07": {
-   "Sanidad Pública, Salud Mental y Dependencia": 19
+   "Sanidad Pública, Salud Mental y Dependencia": 20
   },
   "bloque_08": {
-   "Educación, Formación Profesional y Universidad": 20
+   "Educación, Formación Profesional y Universidad": 21
   },
   "bloque_09": {
-   "Energía, Transición Ecológica y Soberanía Energética": 20
+   "Energía, Transición Ecológica y Soberanía Energética": 21
   },
   "bloque_10": {
-   "Agricultura, Ganadería, Pesca, Agua y Mundo Rural": 20
+   "Agricultura, Ganadería, Pesca, Agua y Mundo Rural": 21
   },
   "bloque_11": {
-   "Infraestructuras, Transporte, Ferrocarril y Conectividad": 20
+   "Infraestructuras, Transporte, Ferrocarril y Conectividad": 21
   },
   "bloque_12": {
-   "Administración Pública, Control del Gasto Público y Reducción de Burocracia": 19
+   "Administración Pública, Control del Gasto Público y Reducción de Burocracia": 20
   },
   "bloque_13": {
-   "Justicia, Seguridad Ciudadana y Cumplimiento de la Ley": 19
+   "Justicia, Seguridad Ciudadana y Cumplimiento de la Ley": 20
   },
   "bloque_14": {
-   "Inmigración, Control de Fronteras, Integración y Nacionalidad": 18
+   "Inmigración, Control de Fronteras, Integración y Nacionalidad": 19
   },
   "bloque_15": {
-   "Regeneración Democrática, Independencia Institucional y Lucha contra la Corrupción": 19
+   "Regeneración Democrática, Independencia Institucional y Lucha contra la Corrupción": 20
   },
   "bloque_16": {
-   "Cohesión Territorial, Financiación Autonómica, Presencia del Estado y Ceuta y Melilla": 19
+   "Cohesión Territorial, Financiación Autonómica, Presencia del Estado y Ceuta y Melilla": 20
   },
   "bloque_17": {
-   "Cultura, Deporte, Historia Común y Víctimas del Terrorismo": 19
+   "Cultura, Deporte, Historia Común y Víctimas del Terrorismo": 20
   },
   "bloque_18": {
-   "Gestión de Emergencias y Protección Civil": 19
+   "Gestión de Emergencias y Protección Civil": 20
   },
   "bloque_19": {
-   "Defensa Nacional, Fuerzas Armadas y Política Exterior": 17
+   "Defensa Nacional, Fuerzas Armadas y Política Exterior": 18
   },
   "otro_bloque_01": {
    "Protección y Bienestar Animal": 0

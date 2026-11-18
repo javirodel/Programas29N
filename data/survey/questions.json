@@ -414,6 +414,28 @@
               }
             ]
           }
+        },
+        "podemos": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "podemos-001",
+            "podemos-002",
+            "podemos-015"
+          ],
+          "rationale": "Propone bajar por ley un 40 % los precios del alquiler, contratos indefinidos por defecto y regular los alquileres de temporada y por habitaciones (pp. 8, 10).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-18",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
         }
       },
       "review": {
@@ -846,6 +868,28 @@
               }
             ]
           }
+        },
+        "podemos": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "podemos-030",
+            "podemos-031",
+            "podemos-047"
+          ],
+          "rationale": "Plantea hacer permanente el Impuesto a las Grandes Fortunas y los gravámenes a banca y eléctricas, además de fijar un mínimo efectivo del 19 % en Sociedades y del 29 % para oligopolios (pp. 17, 21).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-18",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
         }
       },
       "review": {
@@ -1250,6 +1294,26 @@
                 "reviewer": "curacion-expansion-20",
                 "date": "2026-11-16",
                 "note": "Posición codificada sobre propuestas verificadas del corpus 29N."
+              }
+            ]
+          }
+        },
+        "podemos": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "podemos-113"
+          ],
+          "rationale": "Propone reducir la jornada laboral a 30 horas semanales durante la legislatura sin reducción salarial, comenzando con una bajada inicial a 35 horas (p. 41).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-18",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
               }
             ]
           }
@@ -1670,6 +1734,26 @@
               }
             ]
           }
+        },
+        "podemos": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "podemos-300"
+          ],
+          "rationale": "Se compromete a acabar con la privatización sanitaria y recuperar la gestión pública directa derogando la Ley 15/1997 y los artículos 66, 67 y 90 de la Ley General de Sanidad (p. 88).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-18",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
         }
       },
       "review": {
@@ -2087,6 +2171,27 @@
               }
             ]
           }
+        },
+        "podemos": {
+          "status": "posicion",
+          "value": -2,
+          "evidence_proposal_ids": [
+            "podemos-279",
+            "podemos-281"
+          ],
+          "rationale": "Plantea avanzar hacia una única red educativa de gestión pública directa con moratoria indefinida a nuevos conciertos, reabsorción voluntaria de centros concertados y financiación estatal exclusiva para la pública (pp. 79-80).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-18",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
         }
       },
       "review": {
@@ -2496,6 +2601,26 @@
                 "reviewer": "curacion-expansion-20",
                 "date": "2026-11-16",
                 "note": "Posición codificada sobre propuestas verificadas del corpus 29N."
+              }
+            ]
+          }
+        },
+        "podemos": {
+          "status": "posicion",
+          "value": -2,
+          "evidence_proposal_ids": [
+            "podemos-339"
+          ],
+          "rationale": "Defiende cumplir el calendario vigente de cierre de las centrales nucleares, empezando por Almaraz, sin prórrogas nucleares indefinidas y con planes de transición justa (p. 103).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-18",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
               }
             ]
           }
@@ -2915,6 +3040,29 @@
                 "reviewer": "curacion-expansion-20",
                 "date": "2026-11-16",
                 "note": "Posición codificada sobre propuestas verificadas del corpus 29N."
+              }
+            ]
+          }
+        },
+        "podemos": {
+          "status": "posicion",
+          "value": 1,
+          "evidence_proposal_ids": [
+            "podemos-050",
+            "podemos-126",
+            "podemos-127",
+            "podemos-133"
+          ],
+          "rationale": "Defiende reforzar el sistema público de Seguridad Social, suprimir el tope máximo de cotización, equiparar la pensión mínima al SMI y eliminar las desgravaciones a planes privados (pp. 21, 44-45), sin detallar la fórmula del IPC en pensiones.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-18",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
               }
             ]
           }
@@ -3351,6 +3499,28 @@
               }
             ]
           }
+        },
+        "podemos": {
+          "status": "posicion",
+          "value": -2,
+          "evidence_proposal_ids": [
+            "podemos-206",
+            "podemos-210",
+            "podemos-211"
+          ],
+          "rationale": "Propone derogar la Ley de Extranjería, cerrar todos los Centros de Internamiento de Extranjeros (CIE) y establecer un procedimiento permanente de regularización por residencia y arraigo (pp. 65-67).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-18",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
         }
       },
       "review": {
@@ -3776,6 +3946,28 @@
                 "reviewer": "curacion-expansion-20",
                 "date": "2026-11-16",
                 "note": "Posición codificada sobre propuestas verificadas del corpus 29N."
+              }
+            ]
+          }
+        },
+        "podemos": {
+          "status": "posicion",
+          "value": -2,
+          "evidence_proposal_ids": [
+            "podemos-070",
+            "podemos-072",
+            "podemos-073"
+          ],
+          "rationale": "Propone la salida de España de la OTAN, el cierre de las bases militares estadounidenses de Rota y Morón, revertir el rearme y rechazar el objetivo del 5 % del PIB en gasto militar (p. 28).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-18",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
               }
             ]
           }
@@ -4209,6 +4401,27 @@
               }
             ]
           }
+        },
+        "podemos": {
+          "status": "insuficiente",
+          "value": null,
+          "evidence_proposal_ids": [
+            "podemos-406",
+            "podemos-412"
+          ],
+          "rationale": "Plantea una constitución republicana que reconozca la plurinacionalidad y una reforma federal del Senado con igual representación autonómica (pp. 128-129), sin concretar traspasos competenciales o financiación bilateral de concierto.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-18",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
         }
       },
       "review": {
@@ -4624,6 +4837,24 @@
                 "reviewer": "curacion-expansion-20",
                 "date": "2026-11-16",
                 "note": "Posición codificada sobre propuestas verificadas del corpus 29N."
+              }
+            ]
+          }
+        },
+        "podemos": {
+          "status": "sin_referencia",
+          "value": null,
+          "evidence_proposal_ids": [],
+          "rationale": "Plantea suprimir la Audiencia Nacional, derogar la Ley Mordaza y despenalizar el cannabis (pp. 131, 133), sin pronunciarse sobre la prisión permanente revisable ni modelos de justicia restaurativa.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-18",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
               }
             ]
           }
@@ -5047,6 +5278,27 @@
               }
             ]
           }
+        },
+        "podemos": {
+          "status": "posicion",
+          "value": 1,
+          "evidence_proposal_ids": [
+            "podemos-409",
+            "podemos-428"
+          ],
+          "rationale": "Propone la supresión de los aforamientos y prohibir la contratación pública con empresas implicadas en corrupción (pp. 128, 133), sin incluir referencias expresas a la prohibición de indultos.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-18",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
         }
       },
       "review": {
@@ -5466,6 +5718,26 @@
                 "reviewer": "curacion-expansion-20",
                 "date": "2026-11-16",
                 "note": "Posición codificada sobre propuestas verificadas del corpus 29N."
+              }
+            ]
+          }
+        },
+        "podemos": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "podemos-040"
+          ],
+          "rationale": "Garantiza la gratuidad universal de todo el transporte público de viajeros —urbano, interurbano, cercanías y ferrocarril de media y larga distancia— junto a una tarjeta única interoperable (p. 19).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-18",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
               }
             ]
           }
@@ -5907,6 +6179,28 @@
               }
             ]
           }
+        },
+        "podemos": {
+          "status": "posicion",
+          "value": -2,
+          "evidence_proposal_ids": [
+            "podemos-363",
+            "podemos-365",
+            "podemos-378"
+          ],
+          "rationale": "Defiende una PAC redistributiva orientada a prácticas ambientales verificables, un plan estatal de transición agroecológica para reducir pesticidas de síntesis y el impulso a la agricultura ecológica (pp. 111-112, 116).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-18",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
         }
       },
       "review": {
@@ -6338,6 +6632,28 @@
                 "reviewer": "curacion-expansion-20",
                 "date": "2026-11-16",
                 "note": "Posición codificada sobre propuestas verificadas del corpus 29N."
+              }
+            ]
+          }
+        },
+        "podemos": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "podemos-178",
+            "podemos-179",
+            "podemos-180"
+          ],
+          "rationale": "Propone una prestación universal por crianza hasta los 21 años equivalente al 15 % del SMI, ampliar los permisos de nacimiento a 26 semanas por progenitor y remunerar al 100 % el permiso parental de 10 semanas (p. 60).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-18",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
               }
             ]
           }

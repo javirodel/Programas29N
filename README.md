@@ -6,8 +6,8 @@ Plataforma web cívica neutral, verificable y accesible (WCAG 2.2 AA) para consu
 
 ## Cobertura actual del corpus
 
-- **20 programas electorales oficiales en PDF** compilados y sellados criptográficamente mediante **SHA-256** (`pdfs_originales/`), con **5.681 medidas literales publicadas** y enlace directo a la página exacta de cada PDF.
-- **Seguimiento íntegro del Congreso de los Diputados saliente (350 escaños):** incluye las 10 formaciones con programa publicado (PP, PSOE, VOX, Sumar / Frente Amplio, ERC, EH Bildu, PNV, Compromís, BNG y Coalición Canaria) y las 3 sin documento autónomo publicado para el 29N (Junts, Podemos y UPN).
+- **21 programas electorales oficiales en PDF** compilados y sellados criptográficamente mediante **SHA-256** (`pdfs_originales/`), con **6.123 medidas literales publicadas** y enlace directo a la página exacta de cada PDF.
+- **Seguimiento íntegro del Congreso de los Diputados saliente (350 escaños):** incluye las 11 formaciones con programa publicado (PP, PSOE, VOX, Sumar / Frente Amplio, ERC, EH Bildu, PNV, Podemos, Compromís, BNG y Coalición Canaria) y las 2 sin documento autónomo publicado para el 29N (Junts y UPN).
 - **10 candidaturas extraparlamentarias** con programa oficial completo (Adelante Andalucía, Falange, Frente Obrero, Iustitia Europa, PACMA, Partido Humanista, Por un Mundo más Justo, SALF, Soria ¡YA! y Teruel Existe).
 
 ---

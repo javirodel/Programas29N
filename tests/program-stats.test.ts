@@ -2,10 +2,10 @@ import assert from "node:assert/strict";
 import test from "node:test";
 import { getAllPartyAnalytics } from "../src/modules/corpus/repository.ts";
 
-test("getAllPartyAnalytics calcula estadísticas reales y vocabulario TF-IDF para los 20 partidos", async () => {
+test("getAllPartyAnalytics calcula estadísticas reales y vocabulario TF-IDF para los 21 partidos", async () => {
   const analytics = await getAllPartyAnalytics();
 
-  assert.equal(analytics.length, 20, "Debe haber estadísticas para las 20 candidaturas");
+  assert.equal(analytics.length, 21, "Debe haber estadísticas para las 21 candidaturas");
 
   for (const item of analytics) {
     assert.ok(item.proposalCount > 0, `${item.partyId} debe tener propuestas publicables`);

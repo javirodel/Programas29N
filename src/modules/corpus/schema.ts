@@ -24,6 +24,7 @@ export const PartyIdSchema = z.enum([
   "pacma",
   "partido-humanista",
   "pnv",
+  "podemos",
   "por-un-mundo-mas-justo",
   "pp",
   "psoe",
@@ -345,7 +346,7 @@ export const RegistryFileSchema = z.object({
   election_id: z.string().min(1),
   election_name: z.string().min(1),
   election_date: z.string().min(1),
-  entries: z.array(RegistryEntrySchema).length(20),
+  entries: z.array(RegistryEntrySchema).length(21),
 });
 
 export const TaxonomyFileSchema = z.object({
@@ -404,11 +405,11 @@ export const CorpusDatasetSchema = z.object({
     pdf_sha256: z.record(z.string(), z.string()),
     review_overlays_loaded: z.array(z.string()),
   }),
-  parties: z.array(PartySchema).length(20),
-  programs: z.array(ProgramSchema).length(20),
-  documents: z.array(SourceDocumentSchema).length(20),
+  parties: z.array(PartySchema).length(21),
+  programs: z.array(ProgramSchema).length(21),
+  documents: z.array(SourceDocumentSchema).length(21),
   themes: z.array(ThemeSchema).min(20),
-  proposals: z.array(ProposalSchema).length(5689),
+  proposals: z.array(ProposalSchema).length(6131),
 });
 
 export const SurveyDatasetSchema = z.object({
