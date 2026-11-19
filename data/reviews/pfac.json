@@ -1,0 +1,628 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "pfac",
+  "entries": {
+    "pfac-007": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-1029": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-1031": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-1032": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-1050": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-168": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-170": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-215": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-216": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-223": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-258": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-299": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-317": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-319": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-353": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-354": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-355": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-397": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-398": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-426": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-436": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-472": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-508": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-653": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-655": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-678": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-680": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-775": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-785": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-816": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-849": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-903": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-988": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-990": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "pfac-015": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            8,
+            9
+          ],
+          "snippet": "Reconocer la condición de víctima de violencia machista a las mujeres que, debido al cambio de la mención registral del sexo de sus agresores al amparo de la legislación estatal en materia trans, hayan visto imposibilitado su acceso a los recursos y medidas de protección establecidos en la Ley Orgánica 1/2004, de Medidas de Protección Integral contra la Violencia de Género.",
+          "docling_refs": [
+            "#/texts/67",
+            "#/texts/72"
+          ]
+        }
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Texto literal verificado manualmente entre páginas [8, 9] del PDF oficial de PFAC (salto de página con cabecera intercalada en Docling)."
+    },
+    "pfac-044": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            11,
+            12
+          ],
+          "snippet": "Fomentar la implantación de «puntos violeta» para transformar cualquier espacio (comercios, empresas, entidades y organismos públicos) en lugares seguros y de apoyo, con información y guías de actuación para la prevención y denuncia de violencias machistas.",
+          "docling_refs": [
+            "#/texts/111",
+            "#/texts/116"
+          ]
+        }
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Texto literal verificado manualmente entre páginas [11, 12] del PDF oficial de PFAC (salto de página con cabecera intercalada en Docling)."
+    },
+    "pfac-061": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            14,
+            15
+          ],
+          "snippet": "Difundir los canales de emergencia de la Policía Nacional y de la Guardia Civil para luchar contra la violencia machista ejercida sobre mujeres prostituidas.",
+          "docling_refs": [
+            "#/texts/153",
+            "#/texts/158"
+          ]
+        }
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Texto literal verificado manualmente entre páginas [14, 15] del PDF oficial de PFAC (salto de página con cabecera intercalada en Docling)."
+    },
+    "pfac-072": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            16,
+            17
+          ],
+          "snippet": "Subvencionar la investigación científica sobre efectos del consumo de pornografía (adicción, percepción de la sexualidad, violencia, desigualdad de género).",
+          "docling_refs": [
+            "#/texts/184",
+            "#/texts/189"
+          ]
+        }
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Texto literal verificado manualmente entre páginas [16, 17] del PDF oficial de PFAC (salto de página con cabecera intercalada en Docling)."
+    },
+    "pfac-148": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            28,
+            29
+          ],
+          "snippet": "Urgir la aprobación definitiva de una Ley sobre Bebés Robados que investigue y repare lo ocurrido con las niñas y los niños que fueron apartados de sus madres desde el 17 de julio de 1936 en adelante, incluyendo el franquismo y la etapa democrática inicial durante la cual continuaron las redes de adopciones irregulares; así como la no prescripción de estos delitos, para que no queden impunes y se complete la reparación de las víctimas.",
+          "docling_refs": [
+            "#/texts/342",
+            "#/texts/347"
+          ]
+        }
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Texto literal verificado manualmente entre páginas [28, 29] del PDF oficial de PFAC (salto de página con cabecera intercalada en Docling)."
+    },
+    "pfac-228": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            40,
+            41
+          ],
+          "snippet": "Reforzar la cooperación bilateral y multilateral con los países de origen y tránsito mediante acuerdos estables, verificables y recíprocos, con objetivos concretos en materia de prevención de la migración irregular, lucha contra las redes criminales, protección de menores y personas vulnerables, cooperación en materia de retornos y respuesta ante situaciones migratorias extraordinarias, garantizando siempre el respeto al Derecho Internacional y evitando dependencias que comprometan la capacidad de actuación de España.",
+          "docling_refs": [
+            "#/texts/506",
+            "#/texts/511"
+          ]
+        }
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Texto literal verificado manualmente entre páginas [40, 41] del PDF oficial de PFAC (salto de página con cabecera intercalada en Docling)."
+    },
+    "pfac-335": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            56,
+            57
+          ],
+          "snippet": "Reconocimiento automático del 33% de discapacidad para enfermedades incapacitantes de alta prevalencia femenina (como la fibromialgia o la fatiga crónica), corrigiendo el sesgo de una medicina que históricamente ha ignorado el dolor de las mujeres.",
+          "docling_refs": [
+            "#/texts/715",
+            "#/texts/720"
+          ]
+        }
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Texto literal verificado manualmente entre páginas [56, 57] del PDF oficial de PFAC (salto de página con cabecera intercalada en Docling)."
+    },
+    "pfac-462": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            77,
+            78
+          ],
+          "snippet": "Exigir formación especializada en Salud, Sexo y Perspectiva feminista a todas las personas integrantes del SNS, incluyendo, no solo al personal sanitario, sino también al de gestión.",
+          "docling_refs": [
+            "#/texts/975",
+            "#/texts/980"
+          ]
+        }
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Texto literal verificado manualmente entre páginas [77, 78] del PDF oficial de PFAC (salto de página con cabecera intercalada en Docling)."
+    },
+    "pfac-512": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            85,
+            86
+          ],
+          "snippet": "Crear una unidad de cotización específica para computar los años dedicados a la crianza y al cuidado de personas dependientes como períodos efectivamente cotizados a efectos de jubilación. La Unidad de Cotización Especial para la Crianza y el Cuidado de Dependientes (UCEC) será un mecanismo de justicia social financiado a través de los Presupuestos Generales del Estado para impedir que este tipo de trabajo — que históricamente ha penalizado las carreras laborales de las mujeres— se traduzca en una brecha entre los sexos en las pensiones. Se establecerán requisitos de acceso",
+          "docling_refs": [
+            "#/texts/1079",
+            "#/texts/1084"
+          ]
+        }
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Texto literal verificado manualmente entre páginas [85, 86] del PDF oficial de PFAC (salto de página con cabecera intercalada en Docling)."
+    },
+    "pfac-598": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            96,
+            97
+          ],
+          "snippet": "Garantizar accesibilidad universal en centros culturales , deportivos, educativos y sanitarios.",
+          "docling_refs": [
+            "#/texts/1241",
+            "#/texts/1246"
+          ]
+        }
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Texto literal verificado manualmente entre páginas [96, 97] del PDF oficial de PFAC (salto de página con cabecera intercalada en Docling)."
+    },
+    "pfac-611": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            97,
+            98
+          ],
+          "snippet": "Incrementar la inversión pública en becas y ayudas al estudio desde el actual 0,21 % del PIB hasta el 0,44 % para igualar, al menos, el valor medio de la Unión Europea en este concepto. Asimismo, se establecerá un umbral de renta mínimo que garantice a la infancia en situación de vulnerabilidad el acceso a ayudas de comedor, transporte, actividades extraescolares y material escolar, asegurando así la cobertura de los costes directos e indirectos",
+          "docling_refs": [
+            "#/texts/1260",
+            "#/texts/1265"
+          ]
+        }
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Texto literal verificado manualmente entre páginas [97, 98] del PDF oficial de PFAC (salto de página con cabecera intercalada en Docling)."
+    },
+    "pfac-662": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            104,
+            105
+          ],
+          "snippet": "Establecer prestaciones para proteger a familias vulnerables ante las subidas de los tipos de interés.",
+          "docling_refs": [
+            "#/texts/1357",
+            "#/texts/1362"
+          ]
+        }
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Texto literal verificado manualmente entre páginas [104, 105] del PDF oficial de PFAC (salto de página con cabecera intercalada en Docling)."
+    },
+    "pfac-677": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            106,
+            107
+          ],
+          "snippet": "Regular, planificar y garantizar que las ciudades y pueblos sean transitables y habitables para todas las personas, sin importar sus capacidades físicas, sensoriales o cognitivas.",
+          "docling_refs": [
+            "#/texts/1383",
+            "#/texts/1388"
+          ]
+        }
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Texto literal verificado manualmente entre páginas [106, 107] del PDF oficial de PFAC (salto de página con cabecera intercalada en Docling)."
+    },
+    "pfac-694": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            109,
+            110
+          ],
+          "snippet": "Aplicar, reglamentar y ejecutar los mandatos directos que ya contempla el texto del Real Decreto 607/2026, de 22 de julio, por el que se regula la relación laboral especial de las personas artistas que desarrollan su actividad en las artes escénicas, audiovisuales y musicales, así como de las personas que realizan actividades técnicas o auxiliares necesarias para el desarrollo de dicha actividad:",
+          "docling_refs": [
+            "#/texts/1425",
+            "#/texts/1430"
+          ]
+        }
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Texto literal verificado manualmente entre páginas [109, 110] del PDF oficial de PFAC (salto de página con cabecera intercalada en Docling)."
+    },
+    "pfac-730": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            113,
+            114
+          ],
+          "snippet": "Desplegar una oferta suficiente de instalaciones y actividades deportivas de carácter público en el conjunto del territorio, prestando especial atención a las zonas rurales y a los barrios y territorios con mayores necesidades sociales.",
+          "docling_refs": [
+            "#/texts/1488",
+            "#/texts/1493"
+          ]
+        }
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Texto literal verificado manualmente entre páginas [113, 114] del PDF oficial de PFAC (salto de página con cabecera intercalada en Docling)."
+    },
+    "pfac-819": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            130,
+            131
+          ],
+          "snippet": "Mejorar el control sobre los Límites de Residuos Máximos (LMR) permitidos en los alimentos antes de su comercialización.",
+          "docling_refs": [
+            "#/texts/1694",
+            "#/texts/1699"
+          ]
+        }
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Texto literal verificado manualmente entre páginas [130, 131] del PDF oficial de PFAC (salto de página con cabecera intercalada en Docling)."
+    },
+    "pfac-850": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            134,
+            135
+          ],
+          "snippet": "Incluir en todas las políticas públicas medidas que eviten o reduzcan las causas principales de la pérdida de biodiversidad: pérdida o destrucción de hábitats, especies invasoras, sobreexplotación de especies, contaminación y cambio climático.",
+          "docling_refs": [
+            "#/texts/1750",
+            "#/texts/1755"
+          ]
+        }
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Texto literal verificado manualmente entre páginas [134, 135] del PDF oficial de PFAC (salto de página con cabecera intercalada en Docling)."
+    },
+    "pfac-869": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            137,
+            138
+          ],
+          "snippet": "Utilizar estrategias de soluciones basadas en la naturaleza (SBN) para los diferentes tipos de entornos: techos verdes, jardines verticales y parques, que reducen el calor y filtran el agua de lluvia, en entornos urbanos; reforestación con árboles nativos, para evitar deslizamientos de tierras y capturar dióxido de carbono, en entornos forestales; o restauración de manglares, dunas o humedales, para frenar la erosión marina y controlar inundaciones, en costas y ríos.",
+          "docling_refs": [
+            "#/texts/1791",
+            "#/texts/1796"
+          ]
+        }
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Texto literal verificado manualmente entre páginas [137, 138] del PDF oficial de PFAC (salto de página con cabecera intercalada en Docling)."
+    },
+    "pfac-880": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            138,
+            139
+          ],
+          "snippet": "Incentivar la investigación técnica y científica para la prevención de los incendios de sexta generación, promoviendo la formación del personal para paliar sus efectos hasta que cambien las condiciones meteorológicas que permitan su extinción.",
+          "docling_refs": [
+            "#/texts/1807",
+            "#/texts/1812"
+          ]
+        }
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Texto literal verificado manualmente entre páginas [138, 139] del PDF oficial de PFAC (salto de página con cabecera intercalada en Docling)."
+    },
+    "pfac-1012": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            160,
+            161
+          ],
+          "snippet": "Promover la creación de una Alianza Europea por los Derechos de las Mujeres, integrada por organizaciones feministas de los Estados miembros y con participación estable en los procesos de elaboración, evaluación y seguimiento de las políticas de igualdad de la Unión Europea. Esta Alianza tendrá como prioridades la defensa de los derechos de las mujeres basados en el sexo, la erradicación de la violencia contra las mujeres y la abolición de la explotación sexual y reproductiva.",
+          "docling_refs": [
+            "#/texts/2090",
+            "#/texts/2095"
+          ]
+        }
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Texto literal verificado manualmente entre páginas [160, 161] del PDF oficial de PFAC (salto de página con cabecera intercalada en Docling)."
+    },
+    "pfac-1034": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            166,
+            167
+          ],
+          "snippet": "Modificar la Ley reguladora de las Bases del Régimen Local que data de 1985, no recoge de forma adecuada las competencias que deben asumir los entes locales para un mejor servicio y no contempla la participación ciudadana en los asuntos municipales. Además, derogar la Ley de Racionalización y Sostenibilidad de la Administración Local que vino a modificar parcialmente la anterior y legislar para establecer con claridad el cuadro de competencias a ejercer y, en consecuencia, a financiar, evitando duplicidades y respetando los principios de autonomía política y financiera de l",
+          "docling_refs": [
+            "#/texts/2163",
+            "#/texts/2168"
+          ]
+        }
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Texto literal verificado manualmente entre páginas [166, 167] del PDF oficial de PFAC (salto de página con cabecera intercalada en Docling)."
+    },
+    "pfac-1044": {
+      "status": "verificada",
+      "evidence": [
+        {
+          "pages": [
+            167,
+            168
+          ],
+          "snippet": "Retirar la simbología religiosa permanente de los edificios públicos, salvo cuando forme parte del patrimonio histórico-artístico debidamente contextualizado.",
+          "docling_refs": [
+            "#/texts/2179",
+            "#/texts/2184"
+          ]
+        }
+      ],
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Texto literal verificado manualmente entre páginas [167, 168] del PDF oficial de PFAC (salto de página con cabecera intercalada en Docling)."
+    }
+  }
+}

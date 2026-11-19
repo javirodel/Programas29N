@@ -1,8 +1,8 @@
 # STATUS.md — Estado Actual del Proyecto 29N
 
-> **Última actualización:** 2026-11-18
-> **Fase completada:** Incorporación aditiva del programa electoral oficial publicado hoy por **Podemos** (`podemos`, *«Así de básico: Paz, casa y trabajo»*, 141 págs., 442 medidas), elevando el corpus auditado a 21 candidaturas oficiales en PDF y dejando únicamente 2 formaciones del Congreso saliente aún pendientes de PDF propio (`Junts` y `UPN` en coalición Navarra con PP).
-> **Estado de compilación y calidad:** `format:check`, `typecheck`, `lint`, `data:build`, `auditar_corpus.py`, `test` (12/12) y `build` (41/41 páginas estáticas/SSG + rutas dinámicas) en verde.
+> **Última actualización:** 2026-11-19
+> **Fase completada:** Incorporación aditiva de **4 candidaturas extraparlamentarias proclamadas en el BOE (`BOE-A-2026-23103`) con programa oficial 29N en PDF** (**Geroa Bai**, **Partido Autónomos**, **Unidad del Pueblo Canario** y **Partido Feministas al Congreso**), elevando el corpus auditado a **26 candidaturas oficiales en PDF** (**7.934** medidas extraídas / **7.926** publicables), tras la incorporación previa de **Junts per Catalunya** y el endurecimiento de `/api/contact`. Queda únicamente **UPN** (en coalición Navarra con el PP vía `upn-pp.es`) del Congreso saliente sin PDF programático autónomo separado.
+> **Estado de compilación y calidad:** `auditar_corpus.py`, `data:build`, `format:check`, `typecheck`, `lint`, `test` (12/12) y `build` en verde.
 
 ---
 
@@ -10,16 +10,16 @@
 
 Resultado del último `npm run data:build` (compilación verificada frente a `pdfs_originales/` y `procesados/`):
 
-- **Programas oficiales en PDF verificados (SHA-256):** 21 / 21 (`ok` en `scripts/auditar_corpus.py`):
-  - **Integrados en fases previas (20):** Adelante Andalucía (719), BNG (492, `gl`), Coalición Canaria (100), Compromís - Front Valencià (561, `ca`), EH Bildu (185), ERC (227, `ca`), Falange Española de las JONS (260), Frente Amplio · Sumar (908), Frente Obrero (135), Iustitia Europa (101), PACMA (400), Partido Humanista (40), PNV (225), Por un Mundo Más Justo (191), PP (249 extraídas / 241 publicables + 8 reservadas), PSOE (500), SALF (119), Soria ¡YA! (22), Teruel Existe (140), VOX (115).
-  - **Incorporado aditivamente hoy (1):** Podemos (`podemos`, 442 medidas, 141 págs., `Podemos_programa29N.pdf`).
-- **Congreso de los Diputados saliente (XV Legislatura) sin PDF programático propio publicado para 29N (2):** Junts per Catalunya (7 escaños, mantiene 11 bloques web HTML en `junts.cat/propostes/` sin PDF descargable) y UPN (1 escaño, concurre en coalición con el PP en Navarra vía `upn-pp.es` sin PDF autónomo separado). Sus fichas informativas en `/programas`, el hemiciclo y `/programas/[partyId]` muestran su estado pendiente sin inventar medidas ni posturas.
-- **Medidas extraídas:** 6.131
-- **Medidas publicables:** 6.123
-- **Medidas verificadas frente al PDF / trazabilidad de encuesta y maquetación:** 1.117 (incluye los 500 compromisos del PSOE, 84 medidas con evidencia explícita multi-columna de Teruel Existe, todas las evidencias citadas en encuesta de los 21 partidos, las 3 medidas con salto de página de Podemos y las subsanaciones previas de `bng`, `pp` y `por-un-mundo-mas-justo`).
+- **Programas oficiales en PDF verificados (SHA-256):** 26 / 26 (`ok` en `scripts/auditar_corpus.py`):
+  - **Integrados en fases previas (22):** Adelante Andalucía (719), BNG (492, `gl`), Coalición Canaria (100), Compromís - Front Valencià (561, `ca`), EH Bildu (185), ERC (227, `ca`), Falange Española de las JONS (260), Frente Amplio · Sumar (908), Frente Obrero (135), Iustitia Europa (101), Junts per Catalunya (613, `ca`), PACMA (400), Partido Humanista (40), PNV (225), Podemos (442), Por un Mundo Más Justo (191), PP (249 extraídas / 241 publicables + 8 reservadas), PSOE (500), SALF (119), Soria ¡YA! (22), Teruel Existe (140), VOX (115).
+  - **Incorporados aditivamente tras revisión BOE (4):** Geroa Bai (`geroa-bai`, 16 medidas, 14 págs., Navarra), Partido Autónomos (`partido-autonomos`, 100 medidas, 15 págs., Alicante/Castellón/Valencia/S. C. Tenerife), Partido Feministas al Congreso (`pfac`, 1.056 medidas, 170 págs., Álava y Bizkaia) y Unidad del Pueblo Canario (`upc`, 18 medidas, 6 págs., Canarias).
+- **Otras candidaturas proclamadas (`BOE-A-2026-23103`) revisadas sin PDF 29N publicado:** UPN (coalición Navarra con PP sin programa autónomo separado), PCTE, Escaños en Blanco, Alhora, Drago Canarias, Liberación Canaria y listas menores provinciales sin programa 29N publicado en PDF.
+- **Medidas extraídas:** 7.934
+- **Medidas publicables:** 7.926
+- **Medidas verificadas frente al PDF / trazabilidad de encuesta y maquetación:** 1.253 (incluye los 500 compromisos del PSOE, 84 medidas con evidencia explícita multi-columna de Teruel Existe, todas las evidencias citadas en encuesta de los 26 partidos, las 22 medidas con salto de página de PFAC, las 3 medidas con salto de página de Podemos y las subsanaciones previas de `bng`, `pp` y `por-un-mundo-mas-justo`).
 - **Medidas en revisión pendiente (`requiere_revision`):** 0
 - **Huecos reservados de campaña (`reservada`):** 8 (`pp-083`, `pp-109`, `pp-132`, `pp-164`, `pp-167`, `pp-173`, `pp-200`, `pp-210`)
-- **Preguntas de encuesta (`5min`):** 15 (codificadas para las 21 candidaturas con PDF oficial publicado, respetando explícitamente `sin_referencia` e `insuficiente` ante silencios programáticos)
+- **Preguntas de encuesta (`5min`):** 15 (codificadas para las 26 candidaturas con PDF oficial publicado, respetando explícitamente `sin_referencia` e `insuficiente` ante silencios programáticos)
 
 ---
 
@@ -80,14 +80,23 @@ Resultado del último `npm run data:build` (compilación verificada frente a `pd
     - Descarga y procesamiento Docling (`PyPdfiumBackend`) aditivo de `Podemos_programa29N` (`29N-programa-Podemos.-Paz-casa-y-trabajo.pdf`, 141 págs., 442 medidas).
     - Emisión completa N2 (`Podemos_programa29N_442medidas_detallado.{json,md}`), overlay N3 verificado (`data/reviews/podemos.json` con citas de encuesta y las 3 medidas con salto de página), registro en `data/registry/documents.json`, codificación de las 15 cuestiones en `data/survey/questions.json`, promoción de `podemos` a `PARTY_META` en `party-colors.ts` (quedando solo `Junts` y `UPN` pendientes de PDF autónomo) y actualización de esquema, textos públicos (`layout.tsx`, `aviso-legal`, `buscar`, `estadisticas`, `README.md`) y tests (`6.131` extraídas / `6.123` publicables).
 
+11. **Ampliación aditiva con Junts per Catalunya (`22` programas en PDF) y seguridad en `/api/contact`:**
+    - Descarga y procesamiento Docling (`PyPdfiumBackend`) aditivo de `Junts_programa29N` (`PROGRAMA-ELECTORAL_JUNTS_29N.pdf` desde `tualcentre.cat`, 90 págs., 613 medidas en catalán original `ca`).
+    - Emisión completa N2 (`Junts_programa29N_613medidas_detallado.{json,md}`), overlay N3 verificado (`data/reviews/junts.json` con 34 medidas citadas en encuesta), registro en `data/registry/documents.json`, codificación de las 15 cuestiones en `data/survey/questions.json`, promoción de `junts` a `PARTY_META` en `party-colors.ts` (quedando únicamente `UPN` pendiente en coalición Navarra con PP) y actualización de esquema, textos públicos y tests (`6.744` extraídas / `6.736` publicables).
+    - Endurecimiento de `src/app/api/contact/route.ts` con validación de `Origin`, `escapeForSafeDisplay` y guardado automático en GitHub Issues vía `GITHUB_CONTACT_TOKEN`.
+
+12. **Ampliación aditiva tras búsqueda integral en candidaturas BOE (`26` programas en PDF):**
+    - Revisadas las candidaturas proclamadas en `BOE-A-2026-23103` más allá del Congreso saliente; descarga y procesamiento Docling (`PyPdfiumBackend`) aditivo de **Geroa Bai** (`GeroaBai_programa29N`, 14 págs., 16 medidas), **Partido Autónomos** (`PartidoAutonomos_programa29N`, 15 págs., 100 medidas), **Unidad del Pueblo Canario** (`UPC_programa29N`, 6 págs., 18 medidas) y **Partido Feministas al Congreso** (`PFAC_programa29N`, 170 págs., 1.056 medidas).
+    - Emisión completa N2 (`*_medidas_detallado.{json,md}`), overlays N3 verificados (`data/reviews/{geroa-bai,partido-autonomos,upc,pfac}.json` con todas las citas de encuesta y las 22 medidas con salto de página de PFAC), registro en `data/registry/documents.json`, codificación de las 15 cuestiones en `data/survey/questions.json`, paleta WCAG AA y ámbito territorial en `party-colors.ts`, flexibilización del patrón de ID en `schema.ts` y actualización de textos públicos y tests (`7.934` extraídas / `7.926` publicables / `1.253` verificadas / `0` en revisión).
+
 ---
 
 ## 3. Verificaciones Ejecutadas Tras los Últimos Cambios
 
-- `python scripts/auditar_corpus.py` — OK (`21/21` documentos `ok`, 0 campos vacíos, 0 bloques incoherentes)
+- `python scripts/auditar_corpus.py` — OK (`26/26` documentos `ok`, 0 campos vacíos, 0 bloques incoherentes)
 - `npm run format:check` — OK
 - `npm run typecheck` (`tsc --noEmit`) — OK
 - `npm run lint` (`eslint .` con `eslint-plugin-jsx-a11y`) — OK (0 errores, 0 avisos)
-- `npm run data:build` — OK (`21/21 SHA-256 verificados | extraídas: 6131 | publicables: 6123 | verificadas/corregidas: 1117 | en revisión: 0 | reservadas/rechazadas: 8 | preguntas encuesta: 15`)
+- `npm run data:build` — OK (`26/26 SHA-256 verificados | extraídas: 7934 | publicables: 7926 | verificadas/corregidas: 1253 | en revisión: 0 | reservadas/rechazadas: 8 | preguntas encuesta: 15`)
 - `npm test` (`node --test "tests/**/*.test.ts"`) — OK (`12/12` tests superados, `0` fallos, `0` omitidos)
-- `npm run build` (`next build`) — OK (`41/41` páginas estáticas/SSG y rutas dinámicas compiladas sin errores)
+- `npm run build` (`next build`) — OK (compilación completa sin errores)

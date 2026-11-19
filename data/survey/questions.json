@@ -436,6 +436,110 @@
               }
             ]
           }
+        },
+        "junts": {
+          "status": "posicion",
+          "value": -1,
+          "evidence_proposal_ids": [
+            "junts-072",
+            "junts-076",
+            "junts-077"
+          ],
+          "rationale": "Propone incentivos fiscales a propietarios que ofrezcan alquiler asequible y revisar la legislación estatal de vivienda para garantizar seguridad jurídica y evaluar el impacto de la regulación sobre la oferta (p. 18).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "geroa-bai": {
+          "status": "insuficiente",
+          "value": null,
+          "evidence_proposal_ids": [
+            "geroa-bai-008"
+          ],
+          "rationale": "Señala que el encarecimiento de la vivienda agrava el coste de la vida (p. 11), sin detallar si respalda límites legales directos al precio del alquiler.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "partido-autonomos": {
+          "status": "posicion",
+          "value": -2,
+          "evidence_proposal_ids": [
+            "partido-autonomos-081"
+          ],
+          "rationale": "Rechaza expresamente intervenir artificialmente el mercado del alquiler y apuesta por liberar suelo público y reducir cargas fiscales para aumentar la oferta (p. 12).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "upc": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "upc-005"
+          ],
+          "rationale": "Exige regular los precios del alquiler en zonas tensionadas, intervenir el mercado, limitar la vivienda vacacional y ampliar el parque público (p. 3).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "pfac": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "pfac-653",
+            "pfac-655",
+            "pfac-299"
+          ],
+          "rationale": "Propone limitar por ley el precio de los alquileres, establecer prórrogas automáticas, declarar moratorias de pisos turísticos y elevar el parque público al 8 % (pp. 50, 104).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
         }
       },
       "review": {
@@ -890,6 +994,110 @@
               }
             ]
           }
+        },
+        "junts": {
+          "status": "posicion",
+          "value": -2,
+          "evidence_proposal_ids": [
+            "junts-382",
+            "junts-442",
+            "junts-443",
+            "junts-447"
+          ],
+          "rationale": "Propone eliminar el impuesto de sucesiones y donaciones, deflactar y rebajar los primeros tramos del IRPF y acelerar la rebaja de Sociedades para pymes, microempresas y cooperatives (pp. 58, 68-69).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "geroa-bai": {
+          "status": "sin_referencia",
+          "value": null,
+          "evidence_proposal_ids": [],
+          "rationale": "No incluye referencias específicas sobre tipos impositivos estatales a grandes fortunas o beneficios empresariales.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "partido-autonomos": {
+          "status": "posicion",
+          "value": -2,
+          "evidence_proposal_ids": [
+            "partido-autonomos-013",
+            "partido-autonomos-014",
+            "partido-autonomos-021"
+          ],
+          "rationale": "Propone bonificar al 99 % el Impuesto de Sucesiones y Donaciones en toda España, eximir plusvalías en traspasos y rebajar el IBI y el IVA sectorial (pp. 4–5).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "upc": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "upc-010"
+          ],
+          "rationale": "Defiende una reforma fiscal progresiva para que contribuyan más grandes empresas, grandes patrimonios y rentas del capital, reforzando los impuestos a grandes fortunas, banca y energéticas (p. 4).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "pfac": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "pfac-397",
+            "pfac-398"
+          ],
+          "rationale": "Propone subir o eliminar los topes superiores fiscales y convertir Patrimonio en un impuesto estatal homogéneo sobre la riqueza y las grandes fortunas sin bonificaciones autonómicas (p. 67).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
         }
       },
       "review": {
@@ -1313,6 +1521,103 @@
                 "status": "verificada",
                 "reviewer": "curacion-29n",
                 "date": "2026-11-18",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "junts": {
+          "status": "sin_referencia",
+          "value": null,
+          "evidence_proposal_ids": [],
+          "rationale": "En materia laboral propone un salario mínimo catalán del 60 % del salario medio y ampliar el límite de horas extraordinarias voluntarias (p. 70), sin incluir reducción legal de la jornada ordinaria a 35 horas o menos.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "geroa-bai": {
+          "status": "insuficiente",
+          "value": null,
+          "evidence_proposal_ids": [
+            "geroa-bai-008"
+          ],
+          "rationale": "Valora la subida del SMI y advierte del estancamiento salarial frente a la inflación (p. 11), sin posicionarse sobre la jornada laboral máxima.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "partido-autonomos": {
+          "status": "sin_referencia",
+          "value": null,
+          "evidence_proposal_ids": [],
+          "rationale": "No contiene propuesta sobre la reducción legal de la jornada laboral semanal a 35 o menos horas.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "upc": {
+          "status": "insuficiente",
+          "value": null,
+          "evidence_proposal_ids": [
+            "upc-011"
+          ],
+          "rationale": "Reivindica salarios dignos, subida del SMI, control de horas extras y conciliación (p. 4), sin fijar un tope horario legal semanal.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "pfac": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "pfac-317",
+            "pfac-319"
+          ],
+          "rationale": "Propone reducir la jornada laboral ordinaria a 30 horas semanales sin reducción salarial para redistribuir el tiempo de trabajo y los cuidados (pp. 54–55).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
                 "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
               }
             ]
@@ -1750,6 +2055,107 @@
                 "status": "verificada",
                 "reviewer": "curacion-29n",
                 "date": "2026-11-18",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "junts": {
+          "status": "posicion",
+          "value": -1,
+          "evidence_proposal_ids": [
+            "junts-333"
+          ],
+          "rationale": "Rechaza cualquier norma estatal uniformizadora que limite las competencias o el modelo sanitario catalán de colaboración público-social previsto en la LOSC (p. 51).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "geroa-bai": {
+          "status": "insuficiente",
+          "value": null,
+          "evidence_proposal_ids": [
+            "geroa-bai-009"
+          ],
+          "rationale": "Reivindica la defensa del Estado de Bienestar y de los servicios públicos frente a recortes (p. 11), sin detallar medidas sobre concesiones privadas sanitarias.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "partido-autonomos": {
+          "status": "insuficiente",
+          "value": null,
+          "evidence_proposal_ids": [
+            "partido-autonomos-066",
+            "partido-autonomos-069"
+          ],
+          "rationale": "Plantea implantar la Tarjeta Sanitaria Única interoperable y exigir ratios en residencias públicas y privadas concertadas (pp. 10–11), sin pronunciarse sobre externalizaciones hospitalarias.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "upc": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "upc-006"
+          ],
+          "rationale": "Defiende una sanidad pública universal de gestión prioritariamente directa y avanzar en la reversión de privatizaciones y externalizaciones (p. 3).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "pfac": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "pfac-436"
+          ],
+          "rationale": "Propone revertir las privatizaciones de servicios sanitarios y de gestión hospitalaria y derogar la Ley 15/1997 de nuevas formas de gestión del SNS (p. 74).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
                 "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
               }
             ]
@@ -2192,6 +2598,108 @@
               }
             ]
           }
+        },
+        "junts": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "junts-343",
+            "junts-344"
+          ],
+          "rationale": "Defiende destinar más recursos a la escuela pública y a la de iniciativa social financiada con fondos públicos, actualizando los módulos de la enseñanza concertada a sus costes reales (p. 54).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "geroa-bai": {
+          "status": "sin_referencia",
+          "value": null,
+          "evidence_proposal_ids": [],
+          "rationale": "No recoge pronunciamiento sobre el régimen de conciertos educativos ni sobre cheques escolares.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "partido-autonomos": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "partido-autonomos-075",
+            "partido-autonomos-080"
+          ],
+          "rationale": "Defiende el derecho a elegir centros concertados o privados mediante financiación equitativa del puesto escolar y cheques guardería en 0–3 años (p. 12).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "upc": {
+          "status": "posicion",
+          "value": -1,
+          "evidence_proposal_ids": [
+            "upc-006",
+            "upc-007"
+          ],
+          "rationale": "Apuesta por una educación pública, universal y de gestión prioritariamente directa, reforzando la red pública de 0 a 3 años (p. 3).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "pfac": {
+          "status": "posicion",
+          "value": -2,
+          "evidence_proposal_ids": [
+            "pfac-472",
+            "pfac-1050"
+          ],
+          "rationale": "Propone revisar progresivamente el sistema de conciertos educativos para priorizar la red pública y suprimir los conciertos de centros religiosos que contravengan la igualdad (pp. 79, 168).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
         }
       },
       "review": {
@@ -2620,6 +3128,103 @@
                 "status": "verificada",
                 "reviewer": "curacion-29n",
                 "date": "2026-11-18",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "junts": {
+          "status": "posicion",
+          "value": 1,
+          "evidence_proposal_ids": [
+            "junts-550"
+          ],
+          "rationale": "Propone revisar el calendario de cierre de las centrales nucleares catalanas para garantizar el suministro a empresas y hogares si las renovables no aseguran la demanda (p. 78).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "geroa-bai": {
+          "status": "sin_referencia",
+          "value": null,
+          "evidence_proposal_ids": [],
+          "rationale": "Menciona la planificación eléctrica 2030 para Navarra (p. 12), sin referirse a centrales nucleares.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "partido-autonomos": {
+          "status": "posicion",
+          "value": 1,
+          "evidence_proposal_ids": [
+            "partido-autonomos-098"
+          ],
+          "rationale": "Rechaza los cierres prematuros de centrales de respaldo bajo neutralidad tecnológica para evitar encarecer la factura eléctrica de pymes y autónomos (p. 15).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "upc": {
+          "status": "sin_referencia",
+          "value": null,
+          "evidence_proposal_ids": [],
+          "rationale": "Apuesta por energías renovables, generación distribuida y soberanía energética (p. 3), sin mención expresa al parque nuclear peninsular.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "pfac": {
+          "status": "posicion",
+          "value": -2,
+          "evidence_proposal_ids": [
+            "pfac-903",
+            "pfac-785"
+          ],
+          "rationale": "Plantea expresamente no prorrogar la vida útil de ninguna central nuclear y cerrarlas y desmantelarlas en el plazo establecido (pp. 126, 142).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
                 "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
               }
             ]
@@ -3062,6 +3667,109 @@
                 "status": "verificada",
                 "reviewer": "curacion-29n",
                 "date": "2026-11-18",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "junts": {
+          "status": "posicion",
+          "value": 1,
+          "evidence_proposal_ids": [
+            "junts-379",
+            "junts-381",
+            "junts-482"
+          ],
+          "rationale": "Garantiza el sistema público de pensiones revisado anualmente según el IPC catalán y el coste de la vida, fomentando a la vez planes de ahorro y pensiones complementarios o de empresa (pp. 57, 70).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "geroa-bai": {
+          "status": "sin_referencia",
+          "value": null,
+          "evidence_proposal_ids": [],
+          "rationale": "Defiende el Estado del Bienestar en términos generales (pp. 4, 11), sin mencionar la revalorización o el modelo del sistema de pensiones.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "partido-autonomos": {
+          "status": "posicion",
+          "value": -1,
+          "evidence_proposal_ids": [
+            "partido-autonomos-022",
+            "partido-autonomos-030",
+            "partido-autonomos-037"
+          ],
+          "rationale": "Propone implantar una Mochila Austriaca de capitalización individual y recuperar deducciones fiscales para planes privados de pensiones, sin mención a la indexación al IPC (pp. 5–7).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "upc": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "upc-007"
+          ],
+          "rationale": "Defiende un sistema público de pensiones garantizadas y revalorizadas conforme al coste de la vida (p. 3).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "pfac": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "pfac-426",
+            "pfac-508"
+          ],
+          "rationale": "Garantiza el sistema público de pensiones de reparto y su actualización anual obligatoria conforme al crecimiento real del IPC, reforzando el Fondo de Reserva (pp. 72, 85).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
                 "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
               }
             ]
@@ -3521,6 +4229,112 @@
               }
             ]
           }
+        },
+        "junts": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "junts-306",
+            "junts-310",
+            "junts-320",
+            "junts-321"
+          ],
+          "rationale": "Se opone a las regularizaciones masivas por decreto, exige ejecutar las resoluciones de retorno, delegar los expedientes sancionadores, de expulsión y la gestión de CIE a la Generalitat y el control Schengen a los Mossos (pp. 48-49).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "geroa-bai": {
+          "status": "posicion",
+          "value": -1,
+          "evidence_proposal_ids": [
+            "geroa-bai-016"
+          ],
+          "rationale": "Reivindica expresamente seguir siendo tierra de acogida frente a los discursos excluyentes de la ultraderecha (p. 14).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "partido-autonomos": {
+          "status": "posicion",
+          "value": 1,
+          "evidence_proposal_ids": [
+            "partido-autonomos-064",
+            "partido-autonomos-065"
+          ],
+          "rationale": "Defiende control de fronteras con exigencia de arraigo para ayudas y expulsión inmediata de extranjeros multirreincidentes, manteniendo visados legales ligados al empleo (p. 10).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "upc": {
+          "status": "posicion",
+          "value": -2,
+          "evidence_proposal_ids": [
+            "upc-013"
+          ],
+          "rationale": "Exige vías legales y seguras, acogida digna, reparto solidario de menores migrantes y rechazo a la externalización de fronteras (p. 4).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "pfac": {
+          "status": "posicion",
+          "value": 0,
+          "evidence_proposal_ids": [
+            "pfac-215",
+            "pfac-216",
+            "pfac-223"
+          ],
+          "rationale": "Combina el control efectivo y dotación tecnológica de fronteras con la reforma de la Ley de Extranjería para reducir la irregularidad y abrir vías legales y seguras (pp. 39–40).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
         }
       },
       "review": {
@@ -3967,6 +4781,104 @@
                 "status": "verificada",
                 "reviewer": "curacion-29n",
                 "date": "2026-11-18",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "junts": {
+          "status": "posicion",
+          "value": 1,
+          "evidence_proposal_ids": [
+            "junts-117",
+            "junts-152"
+          ],
+          "rationale": "Defiende una defensa europea más integrada y complementaria de la OTAN, con capacidades, financiación y participación de la industria y la investigación catalanas (pp. 24, 28).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "geroa-bai": {
+          "status": "sin_referencia",
+          "value": null,
+          "evidence_proposal_ids": [],
+          "rationale": "No aborda en sus bases políticas la pertenencia a la OTAN ni el gasto en defensa.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "partido-autonomos": {
+          "status": "sin_referencia",
+          "value": null,
+          "evidence_proposal_ids": [],
+          "rationale": "Se ocupa de dotación salarial y medios para Fuerzas y Cuerpos de Seguridad interior (pp. 9–10), sin referencias a la OTAN ni al presupuesto militar.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "upc": {
+          "status": "insuficiente",
+          "value": null,
+          "evidence_proposal_ids": [
+            "upc-016"
+          ],
+          "rationale": "Defiende Canarias como territorio de paz y cooperación internacional con un mínimo del 0,7 % del PGE para solidaridad, sin pronunciarse sobre OTAN o presupuesto de defensa (p. 5).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "pfac": {
+          "status": "posicion",
+          "value": -2,
+          "evidence_proposal_ids": [
+            "pfac-988",
+            "pfac-990"
+          ],
+          "rationale": "Propone acabar con el incremento del gasto militar, prohibir el comercio armamentístico y ejecutar un plan progresivo de salida de España de la OTAN (p. 157).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
                 "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
               }
             ]
@@ -4422,6 +5334,115 @@
               }
             ]
           }
+        },
+        "junts": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "junts-001",
+            "junts-439",
+            "junts-494"
+          ],
+          "rationale": "Reclama el derecho de autodeterminación, el despliegue del concierto económico fuera del régimen común con recaudación íntegra por la Agencia Tributaria de Cataluña y el traspaso del 100 % de Rodalies (pp. 13, 68, 72).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "geroa-bai": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "geroa-bai-004",
+            "geroa-bai-007",
+            "geroa-bai-011"
+          ],
+          "rationale": "Exige el cumplimiento íntegro de transferencias y bilateralidad de la LORAFNA, la defensa del Convenio Económico navarro y representación foral directa en la UE (pp. 7, 9, 12).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "partido-autonomos": {
+          "status": "posicion",
+          "value": -1,
+          "evidence_proposal_ids": [
+            "partido-autonomos-054",
+            "partido-autonomos-072",
+            "partido-autonomos-074"
+          ],
+          "rationale": "Propone reformar la LOREG para corregir la sobrerrepresentación regionalista y centralizar una Ley Única de Educación con inspección estatal y español vehicular (pp. 9, 11).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "upc": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "upc-001",
+            "upc-002"
+          ],
+          "rationale": "Defiende el reconocimiento de Canarias como sujeto político, el pleno desarrollo competencial del Estatuto, el derecho a decidir y el respeto íntegro del REF (p. 2).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "pfac": {
+          "status": "posicion",
+          "value": 0,
+          "evidence_proposal_ids": [
+            "pfac-1029",
+            "pfac-1031",
+            "pfac-1032"
+          ],
+          "rationale": "Propone avanzar hacia un Estado federal por libre voluntad de las partes, pero exige una financiación autonómica homogénea por población ajustada y prohíbe bonificaciones fiscales territoriales en Patrimonio (pp. 67, 166).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
         }
       },
       "review": {
@@ -4854,6 +5875,106 @@
                 "status": "verificada",
                 "reviewer": "curacion-29n",
                 "date": "2026-11-18",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "junts": {
+          "status": "posicion",
+          "value": -1,
+          "evidence_proposal_ids": [
+            "junts-039",
+            "junts-099"
+          ],
+          "rationale": "Propone derogar la prisión permanente revisable (p. 15) a la vez que exige aplicar de forma efectiva la reforma contra la multirreincidencia en hurtos (p. 23).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "geroa-bai": {
+          "status": "sin_referencia",
+          "value": null,
+          "evidence_proposal_ids": [],
+          "rationale": "No incluye propuestas sobre el régimen de penas privativas de libertad ni justicia restaurativa.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "partido-autonomos": {
+          "status": "posicion",
+          "value": 1,
+          "evidence_proposal_ids": [
+            "partido-autonomos-061",
+            "partido-autonomos-062",
+            "partido-autonomos-094"
+          ],
+          "rationale": "Plantea endurecer penas de prisión en delitos viales con fuga, reformar la Ley del Menor para trabajos obligatorios y ampliar la legítima defensa (pp. 10, 14).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "upc": {
+          "status": "sin_referencia",
+          "value": null,
+          "evidence_proposal_ids": [],
+          "rationale": "No recoge propuestas relativas a prisión permanente revisable o cumplimiento íntegro de condenas.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "pfac": {
+          "status": "insuficiente",
+          "value": null,
+          "evidence_proposal_ids": [
+            "pfac-775",
+            "pfac-007"
+          ],
+          "rationale": "Pide agravar determinadas penas en delitos de violencia sexual o corrupción y rechaza la justicia restaurativa en violencia machista (pp. 8, 122), sin pronunciarse sobre prisión permanente revisable.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
                 "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
               }
             ]
@@ -5299,6 +6420,110 @@
               }
             ]
           }
+        },
+        "junts": {
+          "status": "insuficiente",
+          "value": null,
+          "evidence_proposal_ids": [
+            "junts-023",
+            "junts-030"
+          ],
+          "rationale": "Propone suprimir aforamientos y puertas giratorias entre judicatura y política (p. 14) a la vez que rechaza bloquear debates parlamentarios sobre amnistía (p. 15), sin prohibir indultos en acuerdos políticos.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "geroa-bai": {
+          "status": "insuficiente",
+          "value": null,
+          "evidence_proposal_ids": [
+            "geroa-bai-006",
+            "geroa-bai-013"
+          ],
+          "rationale": "Exige reformar la Ley de Secretos Oficiales y señala el desgaste por corrupción (pp. 7, 11, 14), sin mencionar aforamientos ni indultos.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "partido-autonomos": {
+          "status": "insuficiente",
+          "value": null,
+          "evidence_proposal_ids": [
+            "partido-autonomos-050",
+            "partido-autonomos-054"
+          ],
+          "rationale": "Propone auditorías vinculantes de cumplimiento electoral y reforma de la LOREG (pp. 8–9), sin pronunciamiento sobre aforamientos o indultos.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "upc": {
+          "status": "posicion",
+          "value": 1,
+          "evidence_proposal_ids": [
+            "upc-015"
+          ],
+          "rationale": "Reclama limitar privilegios políticos, reforzar la rendición de cuentas y medidas firmes contra la corrupción y el transfuguismo (p. 5).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "pfac": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "pfac-168",
+            "pfac-170"
+          ],
+          "rationale": "Propone una Ley Orgánica de Integridad Pública con limitación de aforamientos, eliminación de indultos e inviolabilidad del monarca y endurecimiento penal frente a la corrupción (pp. 31–32).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
         }
       },
       "review": {
@@ -5737,6 +6962,108 @@
                 "status": "verificada",
                 "reviewer": "curacion-29n",
                 "date": "2026-11-18",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "junts": {
+          "status": "posicion",
+          "value": 1,
+          "evidence_proposal_ids": [
+            "junts-369",
+            "junts-494"
+          ],
+          "rationale": "Propone financiar con fondos estatales programas de transporte público gratuito para las personas mayores decididos por Cataluña y sus ayuntamientos, junto al traspaso de Rodalies (pp. 57, 72).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "geroa-bai": {
+          "status": "insuficiente",
+          "value": null,
+          "evidence_proposal_ids": [
+            "geroa-bai-003",
+            "geroa-bai-010"
+          ],
+          "rationale": "Reclama inversiones en la conexión ferroviaria navarra con la Y vasca por Ezkio (pp. 7, 12), sin pronunciarse sobre gratuidad del transporte terrestre.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "partido-autonomos": {
+          "status": "sin_referencia",
+          "value": null,
+          "evidence_proposal_ids": [],
+          "rationale": "Aborda infraestructuras viarias, DGT y transporte profesional de mercancías y viajeros (pp. 14–15), sin referencia a la gratuidad del transporte público.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "upc": {
+          "status": "insuficiente",
+          "value": null,
+          "evidence_proposal_ids": [
+            "upc-002",
+            "upc-003"
+          ],
+          "rationale": "Exige financiación estatal para el transporte público y bonificaciones al transporte de pasajeros y mercancías por insularidad (pp. 2–3), sin concretar gratuidad permanente general.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "pfac": {
+          "status": "posicion",
+          "value": 1,
+          "evidence_proposal_ids": [
+            "pfac-678",
+            "pfac-680"
+          ],
+          "rationale": "Propone incentivar el transporte público terrestre con más frecuencias y tarifas asequibles, descuentos y abonos regulares, sin comprometer gratuidad total permanente (p. 107).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
                 "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
               }
             ]
@@ -6201,6 +7528,110 @@
               }
             ]
           }
+        },
+        "junts": {
+          "status": "insuficiente",
+          "value": null,
+          "evidence_proposal_ids": [
+            "junts-516",
+            "junts-519",
+            "junts-522"
+          ],
+          "rationale": "Exige que el Estado no imponga restricciones agrícolas ni fitosanitarias superiores a las de la UE y pide cláusulas espejo en tratados comerciales (pp. 74-75), sin proponer la derogación del Pacto Verde Europeo.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "geroa-bai": {
+          "status": "insuficiente",
+          "value": null,
+          "evidence_proposal_ids": [
+            "geroa-bai-003",
+            "geroa-bai-010"
+          ],
+          "rationale": "Defiende el regadío navarro y reforzar las políticas frente al cambio climático (pp. 7, 12, 14), sin pedir la derogación de normas del Pacto Verde Europeo.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "partido-autonomos": {
+          "status": "insuficiente",
+          "value": null,
+          "evidence_proposal_ids": [
+            "partido-autonomos-086",
+            "partido-autonomos-088"
+          ],
+          "rationale": "Exige inspecciones en la Ley de la Cadena Alimentaria y obras hídricas con fondos europeos de resiliencia climática (p. 13), sin pedir derogar el Pacto Verde.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "upc": {
+          "status": "sin_referencia",
+          "value": null,
+          "evidence_proposal_ids": [],
+          "rationale": "Reclama actualizar las ayudas agrarias y pesqueras del POSEI como región ultraperiférica (p. 3), sin mención al Pacto Verde Europeo.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "pfac": {
+          "status": "posicion",
+          "value": -2,
+          "evidence_proposal_ids": [
+            "pfac-258",
+            "pfac-816",
+            "pfac-849"
+          ],
+          "rationale": "Impulsa reforzar exigencias agroecológicas, planes obligatorios de reducción de emisiones en agricultura y ganadería e impuestos ecológicos a grandes cadenas (pp. 46, 130, 134).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
         }
       },
       "review": {
@@ -6653,6 +8084,111 @@
                 "status": "verificada",
                 "reviewer": "curacion-29n",
                 "date": "2026-11-18",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "junts": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "junts-203",
+            "junts-292",
+            "junts-293"
+          ],
+          "rationale": "Propone permisos individuales retribuidos para cuidar hijos y dependientes, revisar los mínimos y deducciones estatales por hijos estudiando mecanismos reembolsables para rentas bajas y reforzar el apoyo fiscal a la conciliación (pp. 33, 45).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "geroa-bai": {
+          "status": "sin_referencia",
+          "value": null,
+          "evidence_proposal_ids": [],
+          "rationale": "No recoge propuestas sobre deducciones por hijo o permisos de crianza.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "partido-autonomos": {
+          "status": "posicion",
+          "value": 1,
+          "evidence_proposal_ids": [
+            "partido-autonomos-015",
+            "partido-autonomos-028",
+            "partido-autonomos-080"
+          ],
+          "rationale": "Propone red gratuita 0–3 años y cheques guardería, bonificación del 100 % de la cuota por cuidado de familiares y tipo superreducido del 4 % para pañales (pp. 4, 6, 12).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "upc": {
+          "status": "insuficiente",
+          "value": null,
+          "evidence_proposal_ids": [
+            "upc-007",
+            "upc-011"
+          ],
+          "rationale": "Defiende ampliar la educación pública de 0 a 3 años, un sistema público de cuidados y medidas de conciliación (pp. 3–4), sin detallar deducciones por hijo ni duración de permisos.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "pfac": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "pfac-353",
+            "pfac-354",
+            "pfac-355"
+          ],
+          "rationale": "Propone una prestación universal por crianza de 1.440 €/año por hijo menor de 18 años, duplicar a 2.400 € la renta crianza hasta rentas bajas y ampliar permisos parentales para cubrir el primer año de vida (pp. 58–59).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-19",
                 "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
               }
             ]

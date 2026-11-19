@@ -11,7 +11,7 @@ import {
 } from "../src/modules/corpus/repository.ts";
 import { ALL_PARTY_IDS, isProposalSurveyEligible } from "../src/modules/corpus/schema.ts";
 
-test("el corpus N4 mantiene los invariantes de 21 partidos y 6131 registros", async () => {
+test("el corpus N4 mantiene los invariantes de 26 partidos y 7934 registros", async () => {
   const [corpus, coverage, parties, published] = await Promise.all([
     loadCorpusDataset(),
     loadCoverageReport(),
@@ -19,10 +19,10 @@ test("el corpus N4 mantiene los invariantes de 21 partidos y 6131 registros", as
     getPublishedProposals(),
   ]);
 
-  assert.equal(parties.length, 21);
-  assert.equal(corpus.proposals.length, 6131);
-  assert.equal(Object.keys(corpus.inputs.pdf_sha256).length, 21);
-  assert.equal(coverage.totals.extracted, 6131);
+  assert.equal(parties.length, 26);
+  assert.equal(corpus.proposals.length, 7934);
+  assert.equal(Object.keys(corpus.inputs.pdf_sha256).length, 26);
+  assert.equal(coverage.totals.extracted, 7934);
   assert.equal(coverage.totals.published, published.length);
   assert.equal(coverage.totals.reserved, 8);
   assert.equal(coverage.totals.requires_review, 0);
@@ -93,9 +93,16 @@ test("BNG preserva idioma gallego, ERC preserva catalán y PH/SALF/PP/VOX/ERC/AA
   assert.equal(corpus.proposals.filter((p) => p.party_id === "frente-amplio").length, 908);
   assert.equal(corpus.proposals.filter((p) => p.party_id === "eh-bildu").length, 185);
   assert.equal(corpus.proposals.filter((p) => p.party_id === "podemos").length, 442);
+  const juntsProps = corpus.proposals.filter((p) => p.party_id === "junts");
+  assert.equal(juntsProps.length, 613);
+  assert.ok(juntsProps.every((p) => p.official_text.language === "ca"));
+  assert.equal(corpus.proposals.filter((p) => p.party_id === "geroa-bai").length, 16);
+  assert.equal(corpus.proposals.filter((p) => p.party_id === "partido-autonomos").length, 100);
+  assert.equal(corpus.proposals.filter((p) => p.party_id === "upc").length, 18);
+  assert.equal(corpus.proposals.filter((p) => p.party_id === "pfac").length, 1056);
 });
 
-test("las 15 preguntas de encuesta codifican los 21 partidos con citas verificadas", async () => {
+test("las 15 preguntas de encuesta codifican los 26 partidos con citas verificadas", async () => {
   const [questions, corpus] = await Promise.all([getSurveyQuestions(), loadCorpusDataset()]);
   const proposalMap = new Map(corpus.proposals.map((p) => [p.id, p]));
 

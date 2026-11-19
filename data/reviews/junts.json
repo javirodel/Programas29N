@@ -1,0 +1,210 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "junts",
+  "entries": {
+    "junts-001": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-023": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-030": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-039": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-072": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-076": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-077": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-099": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-117": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-152": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-203": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-292": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-293": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-306": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-310": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-320": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-321": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-333": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-343": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-344": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-369": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-379": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-381": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-382": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-439": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-442": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-443": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-447": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-482": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-494": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-516": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-519": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-522": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    },
+    "junts-550": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta verificada frente al PDF oficial para trazabilidad del test de afinidad y comparador."
+    }
+  }
+}

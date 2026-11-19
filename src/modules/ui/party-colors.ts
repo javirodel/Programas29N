@@ -54,6 +54,10 @@ const PARTY_VISUALS: Record<string, PartyVisualIdentity> = {
   "eh-bildu": { bg: "#65a30d", fg: "#0a0d14", accentBorder: "#84cc16" },
   podemos: { bg: "#7e22ce", fg: "#ffffff", accentBorder: "#a855f7" },
   upn: { bg: "#1e40af", fg: "#ffffff", accentBorder: "#3b82f6" },
+  "geroa-bai": { bg: "#b91c1c", fg: "#ffffff", accentBorder: "#ef4444" },
+  "partido-autonomos": { bg: "#0e7490", fg: "#ffffff", accentBorder: "#06b6d4" },
+  pfac: { bg: "#6b21a8", fg: "#ffffff", accentBorder: "#a855f7" },
+  upc: { bg: "#166534", fg: "#ffffff", accentBorder: "#22c55e" },
 };
 
 const PARTY_META: Record<string, PartyInstitutionalMeta> = {
@@ -62,6 +66,7 @@ const PARTY_META: Record<string, PartyInstitutionalMeta> = {
   vox: { outgoingCongressSeats: 33, scope: "estatal", territory: "Ámbito estatal" },
   "frente-amplio": { outgoingCongressSeats: 25, scope: "estatal", territory: "Ámbito estatal" },
   erc: { outgoingCongressSeats: 7, scope: "autonomico", territory: "Cataluña" },
+  junts: { outgoingCongressSeats: 7, scope: "autonomico", territory: "Cataluña" },
   "eh-bildu": {
     outgoingCongressSeats: 6,
     scope: "autonomico",
@@ -94,20 +99,17 @@ const PARTY_META: Record<string, PartyInstitutionalMeta> = {
   },
   "teruel-existe": { outgoingCongressSeats: null, scope: "autonomico", territory: "Teruel" },
   "soria-ya": { outgoingCongressSeats: null, scope: "autonomico", territory: "Soria" },
+  "geroa-bai": { outgoingCongressSeats: null, scope: "autonomico", territory: "Navarra" },
+  "partido-autonomos": {
+    outgoingCongressSeats: null,
+    scope: "autonomico",
+    territory: "C. Valenciana y S. C. Tenerife",
+  },
+  pfac: { outgoingCongressSeats: null, scope: "autonomico", territory: "Álava y Bizkaia" },
+  upc: { outgoingCongressSeats: null, scope: "autonomico", territory: "Canarias" },
 };
 
 export const PENDING_CONGRESS_PARTIES: PendingCongressParty[] = [
-  {
-    partyId: "junts",
-    shortName: "Junts",
-    partyName: "Junts per Catalunya",
-    outgoingCongressSeats: 7,
-    scope: "autonomico",
-    territory: "Cataluña",
-    website: "https://junts.cat",
-    statusNote:
-      "Formación con representación en el Congreso de los Diputados saliente (XV Legislatura). Todavía no ha publicado un documento programático completo en PDF para el 29N.",
-  },
   {
     partyId: "upn",
     shortName: "UPN",
@@ -214,6 +216,11 @@ const TERRITORIAL_PARTY_MATCHERS: Record<string, (prov: ConstituencyProvince) =>
   "adelante-andalucia": (p) => p.community === "Andalucía",
   "teruel-existe": (p) => p.id === "teruel",
   "soria-ya": (p) => p.id === "soria",
+  "geroa-bai": (p) => p.community === "Navarra",
+  "partido-autonomos": (p) =>
+    ["alicante", "castellon", "valencia", "santa-cruz-tenerife"].includes(p.id),
+  pfac: (p) => ["alava", "bizkaia"].includes(p.id),
+  upc: (p) => p.community === "Canarias",
 };
 
 export function isPartyInProvince(partyId: string, provinceId: string): boolean {

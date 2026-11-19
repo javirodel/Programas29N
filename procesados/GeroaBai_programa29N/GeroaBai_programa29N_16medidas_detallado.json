@@ -1,0 +1,311 @@
+{
+  "nombre_partido": "Geroa Bai",
+  "siglas": "GBAI",
+  "titulo_programa": "Bases Políticas · Elecciones Generales 2026",
+  "fecha_publicacion": "2026-11-19",
+  "elecciones": "Elecciones Generales 29 de noviembre de 2026 (29N)",
+  "url_programa_oficial": "https://geroabai.eus/files/2026/11/bases-politicas-29n-1.pdf",
+  "web_oficial": "https://geroabai.eus",
+  "total_medidas": 16,
+  "total_bloques_comunes_con_medidas": 8,
+  "total_otros_bloques": 0,
+  "nota_metodologica": "Documento y JSON estructurado que recogen literalmente las 16 medidas y compromisos políticos extraídos del documento oficial de Geroa Bai para las Elecciones Generales del 29N (2026), junto a su encuadre en los bloques temáticos comunes del proyecto 29N, explicación analítica y argumentos a favor y en contra.",
+  "bloques": [
+    {
+      "id_bloque": "bloque_01",
+      "numero_bloque": 1,
+      "titulo_bloque": "Vivienda, Urbanismo y Mercado del Alquiler",
+      "alcance_medidas": "Medidas 8 a 8 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        8
+      ],
+      "medidas": [
+        {
+          "numero_medida": 8,
+          "id_medida": "GBAI-8",
+          "seccion_original": "4. Defender el Estado del Bienestar, defender la democracia",
+          "titulo_medida": "Frenar el alza del coste de la vida, impulsar mejoras salariales y proteger el acceso a la vivienda",
+          "texto_oficial": "En lo relativo a la economía doméstica ha habido avances importantes que debemos reconocer como el aumento del Salario Mínimo Interprofesional, pero los sueldos medios siguen estancados frente a una economía en constante inflación. La clase media se ha empobrecido, y ve todavía más endurecidas sus condiciones de vida por el aumento de precio de la vivienda. Y es cierto que políticas de vivienda son políticas compartidas con las Comunidades Autónomas, pero las iniciativas del Gobierno Central no han tenido repercusión en la realidad de la gente, hasta el punto que han precipitado el fin de la legislatura…",
+          "explicacion_medida": "Propuesta del apartado «4. Defender el Estado del Bienestar, defender la democracia» del programa de GBAI: En lo relativo a la economía doméstica ha habido avances importantes que debemos reconocer como el aumento del Salario Mínimo Interprofesional, pero los sueldos medios siguen estancados frente a una economía en constante inflación. La clase media se ha empobrecido, y ve todavía más endurecidas sus condiciones de vida…",
+          "datos_a_favor": "Busca ampliar la oferta efectiva de vivienda asequible, reforzar la seguridad jurídica o limitar la presión especulativa sobre el alquiler.",
+          "datos_en_contra": "Su eficacia depende de la coordinación con comunidades autónomas y ayuntamientos, del presupuesto movilizado y de posibles efectos sobre la oferta disponible.",
+          "id_bloque_comun": "bloque_01",
+          "titulo_bloque_comun": "Vivienda, Urbanismo y Mercado del Alquiler"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_06",
+      "numero_bloque": 6,
+      "titulo_bloque": "Familia, Conciliación, Infancia y Juventud",
+      "alcance_medidas": "Medidas 1 a 9 (2 medidas)",
+      "total_medidas_bloque": 2,
+      "medidas_incluidas": [
+        1,
+        9
+      ],
+      "medidas": [
+        {
+          "numero_medida": 1,
+          "id_medida": "GBAI-1",
+          "seccion_original": "1. Defender y defendernos",
+          "titulo_medida": "Construir gobiernos estables y reforzar el Estado del Bienestar",
+          "texto_oficial": "Por eso en Geroa Bai reivindicamos la necesidad de ganar la batalla a la ultraderecha donde más les duele a los totalitarios: en las urnas. Y hacerlo además como mejor se les combate: construyendo gobiernos estables, capaces de políticas públicas para el reparto de la riqueza y que hagan realidad el bienestar del conjunto más amplio de la sociedad. La democracia se defiende también y especialmente reforzando el Estado del Bienestar.",
+          "explicacion_medida": "Propuesta del apartado «1. Defender y defendernos» del programa de GBAI: Por eso en Geroa Bai reivindicamos la necesidad de ganar la batalla a la ultraderecha donde más les duele a los totalitarios: en las urnas. Y hacerlo además como mejor se les combate: construyendo gobiernos estables, capaces de políticas públicas para el reparto de la riqueza y que hagan realidad el bienestar del…",
+          "datos_a_favor": "Pretende proteger el poder adquisitivo de pensionistas, personas dependientes y hogares vulnerables reforzando prestaciones y servicios sociales.",
+          "datos_en_contra": "El aumento del gasto estructural en pensiones y protección social plantea retos de sostenibilidad financiera a medio y largo plazo ante el envejecimiento demográfico.",
+          "id_bloque_comun": "bloque_06",
+          "titulo_bloque_comun": "Familia, Conciliación, Infancia y Juventud"
+        },
+        {
+          "numero_medida": 9,
+          "id_medida": "GBAI-9",
+          "seccion_original": "4. Defender el Estado del Bienestar, defender la democracia",
+          "titulo_medida": "Defender el Estado de Bienestar y los servicios públicos frente a los recortes",
+          "texto_oficial": "Todo esto debe tener respuesta desde la izquierda plural los próximos cuatro años, y ese es el compromiso de Geroa Bai: la defensa el Estado de Bienestar y los servicios públicos de los recortes que se avecinan.",
+          "explicacion_medida": "Propuesta del apartado «4. Defender el Estado del Bienestar, defender la democracia» del programa de GBAI: Todo esto debe tener respuesta desde la izquierda plural los próximos cuatro años, y ese es el compromiso de Geroa Bai: la defensa el Estado de Bienestar y los servicios públicos de los recortes que se avecinan.",
+          "datos_a_favor": "Pretende proteger el poder adquisitivo de pensionistas, personas dependientes y hogares vulnerables reforzando prestaciones y servicios sociales.",
+          "datos_en_contra": "El aumento del gasto estructural en pensiones y protección social plantea retos de sostenibilidad financiera a medio y largo plazo ante el envejecimiento demográfico.",
+          "id_bloque_comun": "bloque_06",
+          "titulo_bloque_comun": "Familia, Conciliación, Infancia y Juventud"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_07",
+      "numero_bloque": 7,
+      "titulo_bloque": "Sanidad Pública, Salud Mental y Dependencia",
+      "alcance_medidas": "Medidas 16 a 16 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        16
+      ],
+      "medidas": [
+        {
+          "numero_medida": 16,
+          "id_medida": "GBAI-16",
+          "seccion_original": "5. La pluralidad, eje de la convivencia",
+          "titulo_medida": "Mantener una política solidaria de acogida, reforzar las políticas climáticas y las políticas de memoria",
+          "texto_oficial": "Combatir a la ultraderecha es seguir siendo tierra de acogida, reforzar las políticas frente al cambio climático o reforzar las políticas de memoria.",
+          "explicacion_medida": "Propuesta del apartado «5. La pluralidad, eje de la convivencia» del programa de GBAI: Combatir a la ultraderecha es seguir siendo tierra de acogida, reforzar las políticas frente al cambio climático o reforzar las políticas de memoria.",
+          "datos_a_favor": "Busca ordenar los flujos migratorios, garantizar la seguridad jurídica o reforzar la acogida e integración humanitaria de personas migrantes.",
+          "datos_en_contra": "Puede generar tensiones entre control fronterizo, capacidad operativa de los recursos de acogida y garantías de derechos fundamentales o cooperación con terceros países.",
+          "id_bloque_comun": "bloque_07",
+          "titulo_bloque_comun": "Sanidad Pública, Salud Mental y Dependencia"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_10",
+      "numero_bloque": 10,
+      "titulo_bloque": "Sector Primario, Agua y Medio Rural",
+      "alcance_medidas": "Medidas 3 a 3 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        3
+      ],
+      "medidas": [
+        {
+          "numero_medida": 3,
+          "id_medida": "GBAI-3",
+          "seccion_original": "2. Navarra, sujeto político",
+          "titulo_medida": "Exigir la conexión ferroviaria con la Y vasca por Ezkio y el cumplimiento en infraestructuras y regadío",
+          "texto_oficial": "Exige el cumplimiento de las obligaciones que el Estado quiere obviar en nuestro territorio en materia de infraestructuras ferroviarias o de regadío.",
+          "explicacion_medida": "Propuesta del apartado «2. Navarra, sujeto político» del programa de GBAI: Exige el cumplimiento de las obligaciones que el Estado quiere obviar en nuestro territorio en materia de infraestructuras ferroviarias o de regadío.",
+          "datos_a_favor": "Busca modernizar las redes de transporte, corregir déficits de conectividad territorial o mejorar la seguridad vial y las condiciones del sector.",
+          "datos_en_contra": "Grandes obras e incentivos en movilidad exigen plazos largos de ejecución, evaluación de demanda real y compatibilidad con los objetivos ambientales.",
+          "id_bloque_comun": "bloque_10",
+          "titulo_bloque_comun": "Sector Primario, Agua y Medio Rural"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_11",
+      "numero_bloque": 11,
+      "titulo_bloque": "Infraestructuras, Transporte, Movilidad y Conectividad",
+      "alcance_medidas": "Medidas 10 a 10 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        10
+      ],
+      "medidas": [
+        {
+          "numero_medida": 10,
+          "id_medida": "GBAI-10",
+          "seccion_original": "4. Defender el Estado del Bienestar, defender la democracia",
+          "titulo_medida": "Defender la posición de Navarra en la planificación eléctrica 2030, la Y vasca, el regadío y las becas",
+          "texto_oficial": "Con respecto a nuestra comunidad, quedan pendientes asuntos de envergadura para nuestra realidad hoy, pero también para el futuro de las próximas generaciones: en el momento de la convocatoria electoral quedan pendientes de cerrar cuestiones nucleares para nuestra comunidad como la posición de Navarra en la planificación eléctrica 2030, la definición de la conexión ferroviaria navarra con la Y vasca, los compromisos con el regadío navarro o la transferencia de la competencia de becas a Navarra.",
+          "explicacion_medida": "Propuesta del apartado «4. Defender el Estado del Bienestar, defender la democracia» del programa de GBAI: Con respecto a nuestra comunidad, quedan pendientes asuntos de envergadura para nuestra realidad hoy, pero también para el futuro de las próximas generaciones: en el momento de la convocatoria electoral quedan pendientes de cerrar cuestiones nucleares para nuestra comunidad como la posición de Navarra en la…",
+          "datos_a_favor": "Apunta a acelerar la transición ecológica, asegurar el suministro energético e hídrico y mitigar los efectos de la emergencia climática.",
+          "datos_en_contra": "Afronta compensaciones complejas entre coste energético a corto plazo, aceptación territorial de infraestructuras y seguridad de abastecimiento.",
+          "id_bloque_comun": "bloque_11",
+          "titulo_bloque_comun": "Infraestructuras, Transporte, Movilidad y Conectividad"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_14",
+      "numero_bloque": 14,
+      "titulo_bloque": "Política Migratoria, Fronteras, Integración y Nacionalidad",
+      "alcance_medidas": "Medidas 14 a 15 (2 medidas)",
+      "total_medidas_bloque": 2,
+      "medidas_incluidas": [
+        14,
+        15
+      ],
+      "medidas": [
+        {
+          "numero_medida": 14,
+          "id_medida": "GBAI-14",
+          "seccion_original": "5. La pluralidad, eje de la convivencia",
+          "titulo_medida": "Proteger y mantener vigentes los derechos civiles conquistados para el colectivo LGTBI",
+          "texto_oficial": "Porque combatir a la ultraderecha es mantener vigentes los derechos civiles conquistados estos años para el colectivo LGTBI.",
+          "explicacion_medida": "Propuesta del apartado «5. La pluralidad, eje de la convivencia» del programa de GBAI: Porque combatir a la ultraderecha es mantener vigentes los derechos civiles conquistados estos años para el colectivo LGTBI.",
+          "datos_a_favor": "Orientada a erradicar violencias machistas, corregir desigualdades estructurales o redefinir políticas de igualdad y derechos civiles.",
+          "datos_en_contra": "Conlleva intenso debate jurídico, social y competencial sobre alcance normativo, recursos especializados e impacto en garantías procesales o libertades.",
+          "id_bloque_comun": "bloque_14",
+          "titulo_bloque_comun": "Política Migratoria, Fronteras, Integración y Nacionalidad"
+        },
+        {
+          "numero_medida": 15,
+          "id_medida": "GBAI-15",
+          "seccion_original": "5. La pluralidad, eje de la convivencia",
+          "titulo_medida": "Reforzar las políticas públicas de protección a las mujeres víctimas de violencia machista",
+          "texto_oficial": "Combatir a la ultraderecha reforzando las políticas públicas de protección de mujeres víctimas de maltrato.",
+          "explicacion_medida": "Propuesta del apartado «5. La pluralidad, eje de la convivencia» del programa de GBAI: Combatir a la ultraderecha reforzando las políticas públicas de protección de mujeres víctimas de maltrato.",
+          "datos_a_favor": "Orientada a erradicar violencias machistas, corregir desigualdades estructurales o redefinir políticas de igualdad y derechos civiles.",
+          "datos_en_contra": "Conlleva intenso debate jurídico, social y competencial sobre alcance normativo, recursos especializados e impacto en garantías procesales o libertades.",
+          "id_bloque_comun": "bloque_14",
+          "titulo_bloque_comun": "Política Migratoria, Fronteras, Integración y Nacionalidad"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_15",
+      "numero_bloque": 15,
+      "titulo_bloque": "Calidad Democrática, Instituciones y Transparencia",
+      "alcance_medidas": "Medidas 2 a 12 (6 medidas)",
+      "total_medidas_bloque": 6,
+      "medidas_incluidas": [
+        2,
+        4,
+        5,
+        7,
+        11,
+        12
+      ],
+      "medidas": [
+        {
+          "numero_medida": 2,
+          "id_medida": "GBAI-2",
+          "seccion_original": "2. Navarra, sujeto político",
+          "titulo_medida": "Rechazar exclusiones impuestas desde Madrid y defender a Navarra como sujeto político",
+          "texto_oficial": "Geroa Bai jamás ha aceptado esto ni lo aceptará. Al contrario, frente al objeto político al que unos y otros han pretendido limitar durante décadas a nuestra comunidad, Geroa Bai ha fundamentado la realidad de ser sujeto político de Navarra y su ciudadanía. Por eso no aceptamos exclusiones ordenadas en Madrid.",
+          "explicacion_medida": "Propuesta del apartado «2. Navarra, sujeto político» del programa de GBAI: Geroa Bai jamás ha aceptado esto ni lo aceptará. Al contrario, frente al objeto político al que unos y otros han pretendido limitar durante décadas a nuestra comunidad, Geroa Bai ha fundamentado la realidad de ser sujeto político de Navarra y su ciudadanía. Por eso no aceptamos exclusiones ordenadas en Madrid.",
+          "datos_a_favor": "Busca defender el autogobierno, la financiación foral o insular, la bilateralidad institucional o un nuevo encaje territorial del Estado.",
+          "datos_en_contra": "Reformas competenciales, fiscales o constitucionales requieren mayorías parlamentarias reforzadas y suscitan debate sobre cohesión e igualdad interterritorial.",
+          "id_bloque_comun": "bloque_15",
+          "titulo_bloque_comun": "Calidad Democrática, Instituciones y Transparencia"
+        },
+        {
+          "numero_medida": 4,
+          "id_medida": "GBAI-4",
+          "seccion_original": "2. Navarra, sujeto político",
+          "titulo_medida": "Exigir el cumplimiento íntegro de la LORAFNA en materia de transferencias y bilateralidad",
+          "texto_oficial": "Exige el cumplimiento de lo marcado por la LORAFNA en materia de transferencias.",
+          "explicacion_medida": "Propuesta del apartado «2. Navarra, sujeto político» del programa de GBAI: Exige el cumplimiento de lo marcado por la LORAFNA en materia de transferencias.",
+          "datos_a_favor": "Busca defender el autogobierno, la financiación foral o insular, la bilateralidad institucional o un nuevo encaje territorial del Estado.",
+          "datos_en_contra": "Reformas competenciales, fiscales o constitucionales requieren mayorías parlamentarias reforzadas y suscitan debate sobre cohesión e igualdad interterritorial.",
+          "id_bloque_comun": "bloque_15",
+          "titulo_bloque_comun": "Calidad Democrática, Instituciones y Transparencia"
+        },
+        {
+          "numero_medida": 5,
+          "id_medida": "GBAI-5",
+          "seccion_original": "2. Navarra, sujeto político",
+          "titulo_medida": "Exigir representación directa del Gobierno de Navarra en instituciones europeas como el Ecofin",
+          "texto_oficial": "Exige la presencia de una representación del Gobierno de Navarra con voz y con voto en aquellas instituciones europeas que deciden sobre competencias forales (como es el Ecofin).",
+          "explicacion_medida": "Propuesta del apartado «2. Navarra, sujeto político» del programa de GBAI: Exige la presencia de una representación del Gobierno de Navarra con voz y con voto en aquellas instituciones europeas que deciden sobre competencias forales (como es el Ecofin).",
+          "datos_a_favor": "Busca defender el autogobierno, la financiación foral o insular, la bilateralidad institucional o un nuevo encaje territorial del Estado.",
+          "datos_en_contra": "Reformas competenciales, fiscales o constitucionales requieren mayorías parlamentarias reforzadas y suscitan debate sobre cohesión e igualdad interterritorial.",
+          "id_bloque_comun": "bloque_15",
+          "titulo_bloque_comun": "Calidad Democrática, Instituciones y Transparencia"
+        },
+        {
+          "numero_medida": 7,
+          "id_medida": "GBAI-7",
+          "seccion_original": "3. ¿Una nueva Gamazada?",
+          "titulo_medida": "Defender el Convenio Económico y el Amejoramiento frente a reformas constitucionales centralizadoras",
+          "texto_oficial": "Por eso Geroa Bai defenderá en las urnas el próximo 29 de noviembre la permanencia del Convenio Económico como herramienta básica del autogobierno, frente a quienes amparan gamazadas encubiertas.",
+          "explicacion_medida": "Propuesta del apartado «3. ¿Una nueva Gamazada?» del programa de GBAI: Por eso Geroa Bai defenderá en las urnas el próximo 29 de noviembre la permanencia del Convenio Económico como herramienta básica del autogobierno, frente a quienes amparan gamazadas encubiertas.",
+          "datos_a_favor": "Busca defender el autogobierno, la financiación foral o insular, la bilateralidad institucional o un nuevo encaje territorial del Estado.",
+          "datos_en_contra": "Reformas competenciales, fiscales o constitucionales requieren mayorías parlamentarias reforzadas y suscitan debate sobre cohesión e igualdad interterritorial.",
+          "id_bloque_comun": "bloque_15",
+          "titulo_bloque_comun": "Calidad Democrática, Instituciones y Transparencia"
+        },
+        {
+          "numero_medida": 11,
+          "id_medida": "GBAI-11",
+          "seccion_original": "4. Defender el Estado del Bienestar, defender la democracia",
+          "titulo_medida": "Garantizar la presencia reglada de Navarra en reuniones con la Unión Europea sobre competencias propias",
+          "texto_oficial": "Estos entre otros, como la presencia reglada y regulada de Navarra en reuniones con la UE sobre materias reguladas por nuestra comunidad son compromisos de Geroa Bai en las Cortes Generales, también a partir de las próximas elecciones del 29 de noviembre.",
+          "explicacion_medida": "Propuesta del apartado «4. Defender el Estado del Bienestar, defender la democracia» del programa de GBAI: Estos entre otros, como la presencia reglada y regulada de Navarra en reuniones con la UE sobre materias reguladas por nuestra comunidad son compromisos de Geroa Bai en las Cortes Generales, también a partir de las próximas elecciones del 29 de noviembre.",
+          "datos_a_favor": "Busca defender el autogobierno, la financiación foral o insular, la bilateralidad institucional o un nuevo encaje territorial del Estado.",
+          "datos_en_contra": "Reformas competenciales, fiscales o constitucionales requieren mayorías parlamentarias reforzadas y suscitan debate sobre cohesión e igualdad interterritorial.",
+          "id_bloque_comun": "bloque_15",
+          "titulo_bloque_comun": "Calidad Democrática, Instituciones y Transparencia"
+        },
+        {
+          "numero_medida": 12,
+          "id_medida": "GBAI-12",
+          "seccion_original": "5. La pluralidad, eje de la convivencia",
+          "titulo_medida": "Reconocer la realidad plurinacional del Estado y proteger las lenguas oficiales",
+          "texto_oficial": "Esto, y el desprecio explícito al reconocimiento de la realidad plurinacional en el Estado con especial amenaza a las lenguas oficiales, son motivos más que suficientes para temer por el grado de enfrentamiento al que quieren someternos los nostálgicos de la \"Una, Grande y Libre\"…",
+          "explicacion_medida": "Propuesta del apartado «5. La pluralidad, eje de la convivencia» del programa de GBAI: Esto, y el desprecio explícito al reconocimiento de la realidad plurinacional en el Estado con especial amenaza a las lenguas oficiales, son motivos más que suficientes para temer por el grado de enfrentamiento al que quieren someternos los nostálgicos de la \"Una, Grande y Libre\"…",
+          "datos_a_favor": "Busca defender el autogobierno, la financiación foral o insular, la bilateralidad institucional o un nuevo encaje territorial del Estado.",
+          "datos_en_contra": "Reformas competenciales, fiscales o constitucionales requieren mayorías parlamentarias reforzadas y suscitan debate sobre cohesión e igualdad interterritorial.",
+          "id_bloque_comun": "bloque_15",
+          "titulo_bloque_comun": "Calidad Democrática, Instituciones y Transparencia"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_16",
+      "numero_bloque": 16,
+      "titulo_bloque": "Organización Territorial, Autogobierno y Financiación Autonómica",
+      "alcance_medidas": "Medidas 6 a 13 (2 medidas)",
+      "total_medidas_bloque": 2,
+      "medidas_incluidas": [
+        6,
+        13
+      ],
+      "medidas": [
+        {
+          "numero_medida": 6,
+          "id_medida": "GBAI-6",
+          "seccion_original": "2. Navarra, sujeto político",
+          "titulo_medida": "Reformar la Ley de Secretos Oficiales y reconocer el daño causado en casos como el de Mikel Zabalza",
+          "texto_oficial": "Exige el reconocimiento del daño causado con la reforma de la Ley de Secretos Oficiales, que permita resolver casos como el de Mikel Zabalza ante los que los sucesivos gobiernos de PP y PSOE han optado por mirar a otro lado.",
+          "explicacion_medida": "Propuesta del apartado «2. Navarra, sujeto político» del programa de GBAI: Exige el reconocimiento del daño causado con la reforma de la Ley de Secretos Oficiales, que permita resolver casos como el de Mikel Zabalza ante los que los sucesivos gobiernos de PP y PSOE han optado por mirar a otro lado.",
+          "datos_a_favor": "Apunta a simplificar trámites, reforzar la transparencia institucional, prevenir la corrupción y mejorar la rendición de cuentas democrática.",
+          "datos_en_contra": "La efectividad de las reformas administrativas o electorales depende de controles independientes reales y de que no introduzcan nueva rigidez burocrática.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Organización Territorial, Autogobierno y Financiación Autonómica"
+        },
+        {
+          "numero_medida": 13,
+          "id_medida": "GBAI-13",
+          "seccion_original": "5. La pluralidad, eje de la convivencia",
+          "titulo_medida": "Combatir normas heredadas del franquismo como la Ley de Secretos Oficiales",
+          "texto_oficial": "Porque combatir a la ultraderecha es combatir monumentos franquistas como la Ley de Secretos Oficiales.",
+          "explicacion_medida": "Propuesta del apartado «5. La pluralidad, eje de la convivencia» del programa de GBAI: Porque combatir a la ultraderecha es combatir monumentos franquistas como la Ley de Secretos Oficiales.",
+          "datos_a_favor": "Apunta a simplificar trámites, reforzar la transparencia institucional, prevenir la corrupción y mejorar la rendición de cuentas democrática.",
+          "datos_en_contra": "La efectividad de las reformas administrativas o electorales depende de controles independientes reales y de que no introduzcan nueva rigidez burocrática.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Organización Territorial, Autogobierno y Financiación Autonómica"
+        }
+      ]
+    }
+  ]
+}

@@ -1558,6 +1558,376 @@
           }
         }
       }
+    },
+    {
+      "party": {
+        "id": "junts",
+        "name": {
+          "value": "Junts per Catalunya",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "Junts",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "JUNTS",
+        "website": {
+          "value": "https://junts.cat",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "junts-29n-2026",
+        "party_id": "junts",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "Catalunya al centre · Programa Electoral 29N",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-11-18",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "Junts_programa29N",
+        "languages": [
+          "ca"
+        ]
+      },
+      "document": {
+        "id": "Junts_programa29N",
+        "pdf_path": "pdfs_originales/Junts_programa29N.pdf",
+        "expected_sha256": "cde2c5f3f30b66c72dd4f4bae3d22e9f6bc3e0ee4362da72f9e32e85129374b6",
+        "page_count": 90,
+        "expected_extracted_count": 613,
+        "requires_editorial_remediation": false,
+        "original_filename": "PROGRAMA-ELECTORAL_JUNTS_29N.pdf",
+        "official_url": {
+          "value": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling (PyPdfiumBackend)",
+          "processed_at": "2026-11-19T12:25:30+0100",
+          "artifacts": {
+            "md": "procesados/Junts_programa29N/Junts_programa29N.md",
+            "json": "procesados/Junts_programa29N/Junts_programa29N.json",
+            "txt": "procesados/Junts_programa29N/Junts_programa29N.txt",
+            "metadata": "procesados/Junts_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/Junts_programa29N/Junts_programa29N_613medidas_detallado.json",
+            "md": "procesados/Junts_programa29N/Junts_programa29N_613medidas_detallado.md"
+          }
+        }
+      }
+    },
+    {
+      "party": {
+        "id": "geroa-bai",
+        "name": {
+          "value": "Geroa Bai",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "Geroa Bai",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "GBAI",
+        "website": {
+          "value": "https://geroabai.eus",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "geroa-bai-29n-2026",
+        "party_id": "geroa-bai",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "Bases Políticas · Elecciones Generales 2026",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-11-19",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "GeroaBai_programa29N",
+        "languages": [
+          "es"
+        ]
+      },
+      "document": {
+        "id": "GeroaBai_programa29N",
+        "pdf_path": "pdfs_originales/GeroaBai_programa29N.pdf",
+        "expected_sha256": "4e011dc660957ebac66666844fc65ff2f069633ea5254a524c7aad1c34e20c0c",
+        "page_count": 14,
+        "expected_extracted_count": 16,
+        "requires_editorial_remediation": false,
+        "original_filename": "bases-politicas-29n-1.pdf",
+        "official_url": {
+          "value": "https://geroabai.eus/files/2026/11/bases-politicas-29n-1.pdf",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling (PyPdfiumBackend)",
+          "processed_at": "2026-11-19T12:37:45+0100",
+          "artifacts": {
+            "md": "procesados/GeroaBai_programa29N/GeroaBai_programa29N.md",
+            "json": "procesados/GeroaBai_programa29N/GeroaBai_programa29N.json",
+            "txt": "procesados/GeroaBai_programa29N/GeroaBai_programa29N.txt",
+            "metadata": "procesados/GeroaBai_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/GeroaBai_programa29N/GeroaBai_programa29N_16medidas_detallado.json",
+            "md": "procesados/GeroaBai_programa29N/GeroaBai_programa29N_16medidas_detallado.md"
+          }
+        }
+      }
+    },
+    {
+      "party": {
+        "id": "partido-autonomos",
+        "name": {
+          "value": "Partido Autónomos",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "P. Autónomos",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "PA",
+        "website": {
+          "value": "https://www.partidoautonomos.es",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "partido-autonomos-29n-2026",
+        "party_id": "partido-autonomos",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "Programa Electoral · Elecciones Generales 29N",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-11-19",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "PartidoAutonomos_programa29N",
+        "languages": [
+          "es"
+        ]
+      },
+      "document": {
+        "id": "PartidoAutonomos_programa29N",
+        "pdf_path": "pdfs_originales/PartidoAutonomos_programa29N.pdf",
+        "expected_sha256": "2df2537bd762f280c139a0d9b28c77de713d2dcadaf89d1bef6bb75277e7975f",
+        "page_count": 15,
+        "expected_extracted_count": 100,
+        "requires_editorial_remediation": false,
+        "original_filename": "PARTIDO-AUTONOMOS-PROGRAMA-ELECCIONES-GENERALES-2026-29N.pdf",
+        "official_url": {
+          "value": "https://www.partidoautonomos.es/wp-content/uploads/2026/11/PARTIDO-AUTONOMOS-PROGRAMA-ELECCIONES-GENERALES-2026-29N.pdf",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling (PyPdfiumBackend)",
+          "processed_at": "2026-11-19T12:37:57+0100",
+          "artifacts": {
+            "md": "procesados/PartidoAutonomos_programa29N/PartidoAutonomos_programa29N.md",
+            "json": "procesados/PartidoAutonomos_programa29N/PartidoAutonomos_programa29N.json",
+            "txt": "procesados/PartidoAutonomos_programa29N/PartidoAutonomos_programa29N.txt",
+            "metadata": "procesados/PartidoAutonomos_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/PartidoAutonomos_programa29N/PartidoAutonomos_programa29N_100medidas_detallado.json",
+            "md": "procesados/PartidoAutonomos_programa29N/PartidoAutonomos_programa29N_100medidas_detallado.md"
+          }
+        }
+      }
+    },
+    {
+      "party": {
+        "id": "pfac",
+        "name": {
+          "value": "Partido Feministas al Congreso",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "PFAC",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "PFAC",
+        "website": {
+          "value": "https://www.feministasalcongreso.es",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "pfac-29n-2026",
+        "party_id": "pfac",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "Programa Electoral 2026",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-11-19",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "PFAC_programa29N",
+        "languages": [
+          "es"
+        ]
+      },
+      "document": {
+        "id": "PFAC_programa29N",
+        "pdf_path": "pdfs_originales/PFAC_programa29N.pdf",
+        "expected_sha256": "b4f2048bfd388a0863a36029bc7001a6eafbc91ec3e37eadb88c9a12a2cdd0ea",
+        "page_count": 170,
+        "expected_extracted_count": 1056,
+        "requires_editorial_remediation": false,
+        "original_filename": "PROGRAMA-ELECTORAL_2026.pdf",
+        "official_url": {
+          "value": "https://www.feministasalcongreso.es/wp-content/uploads/2026/11/PROGRAMA-ELECTORAL_2026.pdf",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling (PyPdfiumBackend)",
+          "processed_at": "2026-11-19T12:40:25+0100",
+          "artifacts": {
+            "md": "procesados/PFAC_programa29N/PFAC_programa29N.md",
+            "json": "procesados/PFAC_programa29N/PFAC_programa29N.json",
+            "txt": "procesados/PFAC_programa29N/PFAC_programa29N.txt",
+            "metadata": "procesados/PFAC_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/PFAC_programa29N/PFAC_programa29N_1056medidas_detallado.json",
+            "md": "procesados/PFAC_programa29N/PFAC_programa29N_1056medidas_detallado.md"
+          }
+        }
+      }
+    },
+    {
+      "party": {
+        "id": "upc",
+        "name": {
+          "value": "Unidad del Pueblo Canario",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "UPC",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "UPC",
+        "website": {
+          "value": "https://www.unidadpueblocanario.org",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "upc-29n-2026",
+        "party_id": "upc",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "Manifiesto Electoral · Una sola papeleta. Todo un pueblo",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-11-19",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "UPC_programa29N",
+        "languages": [
+          "es"
+        ]
+      },
+      "document": {
+        "id": "UPC_programa29N",
+        "pdf_path": "pdfs_originales/UPC_programa29N.pdf",
+        "expected_sha256": "502ce157ba499fb959e5ed735f593f903c2e5f17c79ee28bf2daad8ca18c941b",
+        "page_count": 6,
+        "expected_extracted_count": 18,
+        "requires_editorial_remediation": false,
+        "original_filename": "manifiesto-upc.pdf",
+        "official_url": {
+          "value": "https://www.unidadpueblocanario.org/documentos/manifiesto-upc.pdf",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling (PyPdfiumBackend)",
+          "processed_at": "2026-11-19T12:38:14+0100",
+          "artifacts": {
+            "md": "procesados/UPC_programa29N/UPC_programa29N.md",
+            "json": "procesados/UPC_programa29N/UPC_programa29N.json",
+            "txt": "procesados/UPC_programa29N/UPC_programa29N.txt",
+            "metadata": "procesados/UPC_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/UPC_programa29N/UPC_programa29N_18medidas_detallado.json",
+            "md": "procesados/UPC_programa29N/UPC_programa29N_18medidas_detallado.md"
+          }
+        }
+      }
     }
   ]
 }

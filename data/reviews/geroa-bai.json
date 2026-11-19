@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0.0",
+  "party_id": "geroa-bai",
+  "entries": {
+    "geroa-bai-003": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "geroa-bai-004": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "geroa-bai-006": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "geroa-bai-007": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "geroa-bai-008": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "geroa-bai-009": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "geroa-bai-010": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "geroa-bai-011": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "geroa-bai-013": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    },
+    "geroa-bai-016": {
+      "status": "verificada",
+      "reviewer": "curacion-29n",
+      "date": "2026-11-19",
+      "note": "Propuesta contrastada contra el PDF oficial N0 y la extracción Docling N1 como evidencia para el test de afinidad."
+    }
+  }
+}

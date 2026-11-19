@@ -20,9 +20,13 @@ export const PartyIdSchema = z.enum([
   "falange",
   "frente-amplio",
   "frente-obrero",
+  "geroa-bai",
   "iustitia-europa",
+  "junts",
   "pacma",
+  "partido-autonomos",
   "partido-humanista",
+  "pfac",
   "pnv",
   "podemos",
   "por-un-mundo-mas-justo",
@@ -31,6 +35,7 @@ export const PartyIdSchema = z.enum([
   "salf",
   "soria-ya",
   "teruel-existe",
+  "upc",
   "vox",
 ]);
 
@@ -242,7 +247,7 @@ export const AnnotationOverlayFileSchema = z.object({
 });
 
 export const ProposalSchema = z.object({
-  id: z.string().regex(/^[a-z0-9-]+-\d{3}$/),
+  id: z.string().regex(/^[a-z0-9-]+-\d{3,}$/),
   legacy_id: z.string().min(1),
   program_id: z.string().min(1),
   party_id: PartyIdSchema,
@@ -346,7 +351,7 @@ export const RegistryFileSchema = z.object({
   election_id: z.string().min(1),
   election_name: z.string().min(1),
   election_date: z.string().min(1),
-  entries: z.array(RegistryEntrySchema).length(21),
+  entries: z.array(RegistryEntrySchema).length(26),
 });
 
 export const TaxonomyFileSchema = z.object({
@@ -405,11 +410,11 @@ export const CorpusDatasetSchema = z.object({
     pdf_sha256: z.record(z.string(), z.string()),
     review_overlays_loaded: z.array(z.string()),
   }),
-  parties: z.array(PartySchema).length(21),
-  programs: z.array(ProgramSchema).length(21),
-  documents: z.array(SourceDocumentSchema).length(21),
+  parties: z.array(PartySchema).length(26),
+  programs: z.array(ProgramSchema).length(26),
+  documents: z.array(SourceDocumentSchema).length(26),
   themes: z.array(ThemeSchema).min(20),
-  proposals: z.array(ProposalSchema).length(6131),
+  proposals: z.array(ProposalSchema).length(7934),
 });
 
 export const SurveyDatasetSchema = z.object({

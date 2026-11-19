@@ -1,0 +1,20 @@
+{
+  "archivo_original": "PFAC_programa29N.pdf",
+  "nombre": "PFAC_programa29N",
+  "sha256": "b4f2048bfd388a0863a36029bc7001a6eafbc91ec3e37eadb88c9a12a2cdd0ea",
+  "fecha_procesamiento": "2026-11-19T12:40:25+0100",
+  "herramienta": "Docling (PyPdfiumBackend)",
+  "formatos": [
+    "md",
+    "json",
+    "txt"
+  ],
+  "paginas": 170,
+  "duracion_segundos": 129.1,
+  "tamano_bytes": {
+    "pdf": 2435598,
+    "md": 414307,
+    "json": 2645645,
+    "txt": 410995
+  }
+}

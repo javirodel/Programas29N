@@ -1,0 +1,414 @@
+{
+  "nombre_partido": "Unidad del Pueblo Canario",
+  "siglas": "UPC",
+  "titulo_programa": "Manifiesto Electoral · Una sola papeleta. Todo un pueblo",
+  "fecha_publicacion": "2026-11-19",
+  "elecciones": "Elecciones Generales 29 de noviembre de 2026 (29N)",
+  "url_programa_oficial": "https://www.unidadpueblocanario.org/documentos/manifiesto-upc.pdf",
+  "web_oficial": "https://www.unidadpueblocanario.org",
+  "total_medidas": 18,
+  "total_bloques_comunes_con_medidas": 15,
+  "total_otros_bloques": 0,
+  "nota_metodologica": "Documento y JSON estructurado que recogen literalmente las 18 medidas y compromisos extraídos del Manifiesto Electoral oficial de Unidad del Pueblo Canario (UPC) para las Elecciones Generales del 29N (2026), junto a su encuadre en los bloques temáticos comunes del proyecto 29N, explicación analítica y argumentos a favor y en contra.",
+  "bloques": [
+    {
+      "id_bloque": "bloque_01",
+      "numero_bloque": 1,
+      "titulo_bloque": "Vivienda, Urbanismo y Mercado del Alquiler",
+      "alcance_medidas": "Medidas 5 a 5 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        5
+      ],
+      "medidas": [
+        {
+          "numero_medida": 5,
+          "id_medida": "UPC-5",
+          "seccion_original": "5. La vivienda es un derecho y no un negocio",
+          "titulo_medida": "Ampliar parque público de vivienda, regular precios del alquiler en zonas tensionadas y limitar vivienda vacacional",
+          "texto_oficial": "Defendemos que el acceso a una vivienda digna y asequible sea un derecho efectivo y no un privilegio. Exigimos ampliar el parque público de vivienda con protección permanente, regular los precios del alquiler en zonas tensionadas, la intervención del mercado, limitar los efectos de la vivienda vacacional y de la especulación inmobiliaria y favorecer la emancipación juvenil, evitando que las familias sean expulsadas de sus hogares.",
+          "explicacion_medida": "Propuesta del apartado «5. La vivienda es un derecho y no un negocio» del programa de UPC: Defendemos que el acceso a una vivienda digna y asequible sea un derecho efectivo y no un privilegio. Exigimos ampliar el parque público de vivienda con protección permanente, regular los precios del alquiler en zonas tensionadas, la intervención del mercado, limitar los efectos de la vivienda vacacional y de la…",
+          "datos_a_favor": "Busca ampliar la oferta efectiva de vivienda asequible, reforzar la seguridad jurídica o limitar la presión especulativa sobre el alquiler.",
+          "datos_en_contra": "Su eficacia depende de la coordinación con comunidades autónomas y ayuntamientos, del presupuesto movilizado y de posibles efectos sobre la oferta disponible.",
+          "id_bloque_comun": "bloque_01",
+          "titulo_bloque_comun": "Vivienda, Urbanismo y Mercado del Alquiler"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_02",
+      "numero_bloque": 2,
+      "titulo_bloque": "Economía, Industria, Innovación y Turismo",
+      "alcance_medidas": "Medidas 10 a 10 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        10
+      ],
+      "medidas": [
+        {
+          "numero_medida": 10,
+          "id_medida": "UPC-10",
+          "seccion_original": "9. Propuestas de reforma fiscal a nivel estatal",
+          "titulo_medida": "Reforma fiscal progresiva sobre grandes empresas, fortunas, banca y energéticas y deducciones al alquiler",
+          "texto_oficial": "Defendemos una reforma fiscal progresiva para que contribuyan más las grandes empresas, los grandes patrimonios y las rentas del capital. Proponemos reforzar la tributación de las grandes fortunas y los sectores bancario y energético, mejorar las deducciones por alquiler de vivienda para las rentas medias y bajas y adoptar medidas fiscales frente a la inflación, protegiendo el poder adquisitivo de las familias trabajadoras.",
+          "explicacion_medida": "Propuesta del apartado «9. Propuestas de reforma fiscal a nivel estatal» del programa de UPC: Defendemos una reforma fiscal progresiva para que contribuyan más las grandes empresas, los grandes patrimonios y las rentas del capital. Proponemos reforzar la tributación de las grandes fortunas y los sectores bancario y energético, mejorar las deducciones por alquiler de vivienda para las rentas medias y bajas y…",
+          "datos_a_favor": "Pretende reequilibrar la carga tributaria, incentivar la actividad económica o aumentar la progresividad fiscal para sostener el gasto público.",
+          "datos_en_contra": "Las rebajas selectivas o recargos fiscales pueden alterar la recaudación prevista, incrementar la litigiosidad tributaria o trasladarse a precios y rentas.",
+          "id_bloque_comun": "bloque_02",
+          "titulo_bloque_comun": "Economía, Industria, Innovación y Turismo"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_03",
+      "numero_bloque": 3,
+      "titulo_bloque": "Fiscalidad, Impuestos y Hacienda Pública",
+      "alcance_medidas": "Medidas 11 a 11 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        11
+      ],
+      "medidas": [
+        {
+          "numero_medida": 11,
+          "id_medida": "UPC-11",
+          "seccion_original": "10. Aumento del salario mínimo y avances en legislación laboral",
+          "titulo_medida": "Defensa del salario mínimo interprofesional, negociación colectiva y mejora de condiciones laborales",
+          "texto_oficial": "Defenderemos salarios dignos, garantías en el cobro de las horas extras, empleo de calidad, negociación colectiva y mejores condiciones laborales. Combatiremos la precariedad y los abusos, impulsando la igualdad de oportunidades, la conciliación y la corresponsabilidad en los cuidados. Rechazamos que se elimine el papel del Estado en la actualización del salario mínimo interprofesional.",
+          "explicacion_medida": "Propuesta del apartado «10. Aumento del salario mínimo y avances en legislación laboral» del programa de UPC: Defenderemos salarios dignos, garantías en el cobro de las horas extras, empleo de calidad, negociación colectiva y mejores condiciones laborales. Combatiremos la precariedad y los abusos, impulsando la igualdad de oportunidades, la conciliación y la corresponsabilidad en los cuidados. Rechazamos que se elimine el…",
+          "datos_a_favor": "Aspira a mejorar las condiciones de trabajo, reducir la precariedad o aliviar cotizaciones y trabas para trabajadores por cuenta propia y asalariados.",
+          "datos_en_contra": "Cambios profundos en jornada, cotizaciones o salario mínimo generan debate sobre costes laborales para pequeñas empresas, productividad y sostenibilidad contributiva.",
+          "id_bloque_comun": "bloque_03",
+          "titulo_bloque_comun": "Fiscalidad, Impuestos y Hacienda Pública"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_04",
+      "numero_bloque": 4,
+      "titulo_bloque": "Empleo, Autónomos y Relaciones Laborales",
+      "alcance_medidas": "Medidas 6 a 6 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        6
+      ],
+      "medidas": [
+        {
+          "numero_medida": 6,
+          "id_medida": "UPC-6",
+          "seccion_original": "6. Servicios públicos y pensiones",
+          "titulo_medida": "Sanidad, educación y servicios sociales públicos y universales revirtiendo privatizaciones",
+          "texto_oficial": "Defendemos una sanidad, educación y unos servicios sociales públicos, universales y de calidad, con financiación suficiente y gestión prioritariamente directa, avanzando en la reversión de privatizaciones y externalizaciones.",
+          "explicacion_medida": "Propuesta del apartado «6. Servicios públicos y pensiones» del programa de UPC: Defendemos una sanidad, educación y unos servicios sociales públicos, universales y de calidad, con financiación suficiente y gestión prioritariamente directa, avanzando en la reversión de privatizaciones y externalizaciones.",
+          "datos_a_favor": "Busca reforzar la capacidad asistencial, reducir listas de espera, mejorar la equidad territorial y ampliar la cartera o los medios de atención sanitaria.",
+          "datos_en_contra": "Su despliegue exige incrementar financiación sanitaria estable, asegurar disponibilidad de profesionales y coordinar competencias autonómicas en el Sistema Nacional de Salud.",
+          "id_bloque_comun": "bloque_04",
+          "titulo_bloque_comun": "Empleo, Autónomos y Relaciones Laborales"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_05",
+      "numero_bloque": 5,
+      "titulo_bloque": "Pensiones, Bienestar Social, Igualdad y Reto Demográfico",
+      "alcance_medidas": "Medidas 14 a 14 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        14
+      ],
+      "medidas": [
+        {
+          "numero_medida": 14,
+          "id_medida": "UPC-14",
+          "seccion_original": "13. Cultura, identidad y patrimonio canario",
+          "titulo_medida": "Defensa de la identidad canaria, el habla, el patrimonio histórico-natural y las industrias culturales",
+          "texto_oficial": "Defendemos la identidad nacional canaria, nuestra historia, el habla, las tradiciones y el patrimonio histórico, natural y cultural. Apostamos por proteger el patrimonio material e inmaterial, apoyar la creación artística y las industrias culturales canarias y fomentar el intercambio con otros pueblos.",
+          "explicacion_medida": "Propuesta del apartado «13. Cultura, identidad y patrimonio canario» del programa de UPC: Defendemos la identidad nacional canaria, nuestra historia, el habla, las tradiciones y el patrimonio histórico, natural y cultural. Apostamos por proteger el patrimonio material e inmaterial, apoyar la creación artística y las industrias culturales canarias y fomentar el intercambio con otros pueblos.",
+          "datos_a_favor": "Apunta a mejorar la calidad formativa, ampliar el acceso equitativo a becas, formación profesional, cultura o deporte y actualizar contenidos educativos.",
+          "datos_en_contra": "Su implementación puede requerir consensos territoriales complejos respecto a competencias educativas autonómicas y financiación plurianual.",
+          "id_bloque_comun": "bloque_05",
+          "titulo_bloque_comun": "Pensiones, Bienestar Social, Igualdad y Reto Demográfico"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_06",
+      "numero_bloque": 6,
+      "titulo_bloque": "Familia, Conciliación, Infancia y Juventud",
+      "alcance_medidas": "Medidas 7 a 7 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        7
+      ],
+      "medidas": [
+        {
+          "numero_medida": 7,
+          "id_medida": "UPC-7",
+          "seccion_original": "6. Servicios públicos y pensiones",
+          "titulo_medida": "Fortalecer atención primaria, salud mental, educación 0-3, cuidados y pensiones públicas revalorizadas al IPC",
+          "texto_oficial": "Exigimos fortalecer la atención primaria, la salud mental, la educación pública de 0 a 3 años y un sistema público de cuidados y atención a la dependencia. Defendemos igualmente unas pensiones públicas dignas, garantizadas y revalorizadas conforme al coste de la vida.",
+          "explicacion_medida": "Propuesta del apartado «6. Servicios públicos y pensiones» del programa de UPC: Exigimos fortalecer la atención primaria, la salud mental, la educación pública de 0 a 3 años y un sistema público de cuidados y atención a la dependencia. Defendemos igualmente unas pensiones públicas dignas, garantizadas y revalorizadas conforme al coste de la vida.",
+          "datos_a_favor": "Pretende proteger el poder adquisitivo de pensionistas, personas dependientes y hogares vulnerables reforzando prestaciones y servicios sociales.",
+          "datos_en_contra": "El aumento del gasto estructural en pensiones y protección social plantea retos de sostenibilidad financiera a medio y largo plazo ante el envejecimiento demográfico.",
+          "id_bloque_comun": "bloque_06",
+          "titulo_bloque_comun": "Familia, Conciliación, Infancia y Juventud"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_07",
+      "numero_bloque": 7,
+      "titulo_bloque": "Sanidad Pública, Salud Mental y Dependencia",
+      "alcance_medidas": "Medidas 13 a 13 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        13
+      ],
+      "medidas": [
+        {
+          "numero_medida": 13,
+          "id_medida": "UPC-13",
+          "seccion_original": "12. Canarias, frontera Sur",
+          "titulo_medida": "Política migratoria basada en derechos humanos, vías legales y seguras y distribución solidaria de menores migrantes",
+          "texto_oficial": "Defendemos una política migratoria basada en los derechos humanos, las vías legales y seguras, la acogida digna y la corresponsabilidad entre territorios. Exigimos una protección específica de la infancia y adolescencia migrante no acompañada, garantizando sus derechos y una distribución solidaria de las responsabilidades de acogida. Rechazamos la externalización de fronteras, el racismo y la xenofobia, y apostamos por una Canarias diversa, solidaria y comprometida con la dignidad humana.",
+          "explicacion_medida": "Propuesta del apartado «12. Canarias, frontera Sur» del programa de UPC: Defendemos una política migratoria basada en los derechos humanos, las vías legales y seguras, la acogida digna y la corresponsabilidad entre territorios. Exigimos una protección específica de la infancia y adolescencia migrante no acompañada, garantizando sus derechos y una distribución solidaria de las…",
+          "datos_a_favor": "Busca ordenar los flujos migratorios, garantizar la seguridad jurídica o reforzar la acogida e integración humanitaria de personas migrantes.",
+          "datos_en_contra": "Puede generar tensiones entre control fronterizo, capacidad operativa de los recursos de acogida y garantías de derechos fundamentales o cooperación con terceros países.",
+          "id_bloque_comun": "bloque_07",
+          "titulo_bloque_comun": "Sanidad Pública, Salud Mental y Dependencia"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_08",
+      "numero_bloque": 8,
+      "titulo_bloque": "Educación, Formación Profesional y Universidad",
+      "alcance_medidas": "Medidas 3 a 9 (2 medidas)",
+      "total_medidas_bloque": 2,
+      "medidas_incluidas": [
+        3,
+        9
+      ],
+      "medidas": [
+        {
+          "numero_medida": 3,
+          "id_medida": "UPC-3",
+          "seccion_original": "3. Presupuestos Generales del Estado",
+          "titulo_medida": "Cumplimiento de los PGE con Canarias, compensación de sobrecostes energéticos e inversión justa",
+          "texto_oficial": "Reclamamos que los Presupuestos Generales del Estado cumplan con Canarias y financien adecuadamente nuestro REF. Exigimos compensaciones por los sobrecostes energéticos, las bonificaciones al transporte de pasajeros y mercancías, el transporte público, las políticas de empleo, la lucha contra la pobreza, el agua, el sector primario y una inversión territorializada justa.",
+          "explicacion_medida": "Propuesta del apartado «3. Presupuestos Generales del Estado» del programa de UPC: Reclamamos que los Presupuestos Generales del Estado cumplan con Canarias y financien adecuadamente nuestro REF. Exigimos compensaciones por los sobrecostes energéticos, las bonificaciones al transporte de pasajeros y mercancías, el transporte público, las políticas de empleo, la lucha contra la pobreza, el agua, el…",
+          "datos_a_favor": "Orientada a impulsar la competitividad productiva, diversificar sectores estratégicos y facilitar crédito o respaldo institucional a empresas y pymes.",
+          "datos_en_contra": "La intervención pública o las ayudas sectoriales requieren control riguroso de ayudas de Estado, evaluación de retorno económico y neutralidad competitiva.",
+          "id_bloque_comun": "bloque_08",
+          "titulo_bloque_comun": "Educación, Formación Profesional y Universidad"
+        },
+        {
+          "numero_medida": 9,
+          "id_medida": "UPC-9",
+          "seccion_original": "8. Nuevo Pacto Económico para Canarias",
+          "titulo_medida": "Diversificar la economía canaria, moratoria de nuevas camas turísticas y tasa turística a no residentes",
+          "texto_oficial": "Apostamos por diversificar la economía y reducir la dependencia del turismo, impulsando el sector primario, la economía azul, las energías limpias, la investigación, la tecnología y la cultura canaria. Reclamamos que la riqueza turística revierta en la mayoría social, con mejores salarios, empleo de calidad y una fiscalidad justa. Defendemos un REF orientado a la sostenibilidad, la innovación y la cohesión social. Planificando y modulando el modelo turístico, con una moratoria de nuevas instalaciones y camas. Apostando por la calidad frente a la cantidad y el incremento del gasto en destino. Implantando una tasa turística para los no residentes. Con mayor formación y cualificación, mejores condiciones laborales y más elevados salarios.",
+          "explicacion_medida": "Propuesta del apartado «8. Nuevo Pacto Económico para Canarias» del programa de UPC: Apostamos por diversificar la economía y reducir la dependencia del turismo, impulsando el sector primario, la economía azul, las energías limpias, la investigación, la tecnología y la cultura canaria. Reclamamos que la riqueza turística revierta en la mayoría social, con mejores salarios, empleo de calidad y una…",
+          "datos_a_favor": "Orientada a impulsar la competitividad productiva, diversificar sectores estratégicos y facilitar crédito o respaldo institucional a empresas y pymes.",
+          "datos_en_contra": "La intervención pública o las ayudas sectoriales requieren control riguroso de ayudas de Estado, evaluación de retorno económico y neutralidad competitiva.",
+          "id_bloque_comun": "bloque_08",
+          "titulo_bloque_comun": "Educación, Formación Profesional y Universidad"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_11",
+      "numero_bloque": 11,
+      "titulo_bloque": "Infraestructuras, Transporte, Movilidad y Conectividad",
+      "alcance_medidas": "Medidas 8 a 8 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        8
+      ],
+      "medidas": [
+        {
+          "numero_medida": 8,
+          "id_medida": "UPC-8",
+          "seccion_original": "7. Sostenibilidad territorial, límites al crecimiento turístico y soberanía energética",
+          "titulo_medida": "Límites al crecimiento turístico, energías renovables, generación distribuida y gestión pública de recursos",
+          "texto_oficial": "Defendemos una planificación del crecimiento acorde con la capacidad real de las Islas y límites efectivos al crecimiento turístico para proteger la vivienda, el territorio, nuestros recursos naturales y el medioambiente y la convivencia. Apostamos por las energías renovables, la generación distribuida, la soberanía energética, la gestión responsable, sostenible y circular de residuos y vertidos y la gestión pública de los recursos estratégicos.",
+          "explicacion_medida": "Propuesta del apartado «7. Sostenibilidad territorial, límites al crecimiento turístico y soberanía energética» del programa de UPC: Defendemos una planificación del crecimiento acorde con la capacidad real de las Islas y límites efectivos al crecimiento turístico para proteger la vivienda, el territorio, nuestros recursos naturales y el medioambiente y la convivencia. Apostamos por las energías renovables, la generación distribuida, la soberanía…",
+          "datos_a_favor": "Apunta a acelerar la transición ecológica, asegurar el suministro energético e hídrico y mitigar los efectos de la emergencia climática.",
+          "datos_en_contra": "Afronta compensaciones complejas entre coste energético a corto plazo, aceptación territorial de infraestructuras y seguridad de abastecimiento.",
+          "id_bloque_comun": "bloque_11",
+          "titulo_bloque_comun": "Infraestructuras, Transporte, Movilidad y Conectividad"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_12",
+      "numero_bloque": 12,
+      "titulo_bloque": "Administración Pública, Gestión Presupuestaria y Simplificación",
+      "alcance_medidas": "Medidas 4 a 4 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        4
+      ],
+      "medidas": [
+        {
+          "numero_medida": 4,
+          "id_medida": "UPC-4",
+          "seccion_original": "4. Nuevo Marco Financiero Plurianual 2028-2034 de la Unión Europea",
+          "titulo_medida": "Mantener el trato específico RUP en la UE, actualizar el POSEI y preservar FEDER y FSE+",
+          "texto_oficial": "Defendemos que la Unión Europea mantenga un tratamiento específico para Canarias como Región Ultraperiférica. Exigimos garantizar y actualizar los fondos del POSEI, apoyar al sector agrario, pesquero y acuícola, preservar la financiación regionalizada del FEDER y el FSE+ y atender la realidad migratoria de las Islas.",
+          "explicacion_medida": "Propuesta del apartado «4. Nuevo Marco Financiero Plurianual 2028-2034 de la Unión Europea» del programa de UPC: Defendemos que la Unión Europea mantenga un tratamiento específico para Canarias como Región Ultraperiférica. Exigimos garantizar y actualizar los fondos del POSEI, apoyar al sector agrario, pesquero y acuícola, preservar la financiación regionalizada del FEDER y el FSE+ y atender la realidad migratoria de las Islas.",
+          "datos_a_favor": "Busca garantizar la rentabilidad del sector primario, modernizar el regadío o apoyar la soberanía alimentaria y el relevo generacional rural.",
+          "datos_en_contra": "Debe compatibilizar apoyo a rentas agrarias y costes de producción con normativa comercial de la Unión Europea y sostenibilidad hídrica y ambiental.",
+          "id_bloque_comun": "bloque_12",
+          "titulo_bloque_comun": "Administración Pública, Gestión Presupuestaria y Simplificación"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_13",
+      "numero_bloque": 13,
+      "titulo_bloque": "Justicia, Seguridad Ciudadana y Derechos Civiles",
+      "alcance_medidas": "Medidas 18 a 18 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        18
+      ],
+      "medidas": [
+        {
+          "numero_medida": 18,
+          "id_medida": "UPC-18",
+          "seccion_original": "16. Juventud, emancipación y justicia intergeneracional",
+          "titulo_medida": "Vivienda, empleo digno y salud mental juvenil, voto a los 16 años y justicia intergeneracional",
+          "texto_oficial": "Defendemos el derecho de la juventud canaria a construir su futuro en las islas, con vivienda asequible, empleo digno, educación pública y acceso a la salud mental. Apostamos por ampliar la participación democrática, incluido el voto a los 16 años, y por incorporar la justicia intergeneracional a las políticas públicas, garantizando que las decisiones de hoy no comprometan los derechos y oportunidades de las generaciones futuras.",
+          "explicacion_medida": "Propuesta del apartado «16. Juventud, emancipación y justicia intergeneracional» del programa de UPC: Defendemos el derecho de la juventud canaria a construir su futuro en las islas, con vivienda asequible, empleo digno, educación pública y acceso a la salud mental. Apostamos por ampliar la participación democrática, incluido el voto a los 16 años, y por incorporar la justicia intergeneracional a las políticas…",
+          "datos_a_favor": "Persigue facilitar la conciliación laboral y familiar, proteger a la infancia y mejorar las oportunidades de emancipación juvenil.",
+          "datos_en_contra": "Su impacto real depende de la cobertura efectiva de plazas públicas de 0 a 3 años, ayudas estables y estabilidad en el empleo joven.",
+          "id_bloque_comun": "bloque_13",
+          "titulo_bloque_comun": "Justicia, Seguridad Ciudadana y Derechos Civiles"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_14",
+      "numero_bloque": 14,
+      "titulo_bloque": "Política Migratoria, Fronteras, Integración y Nacionalidad",
+      "alcance_medidas": "Medidas 12 a 12 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        12
+      ],
+      "medidas": [
+        {
+          "numero_medida": 12,
+          "id_medida": "UPC-12",
+          "seccion_original": "11. Canarias feminista e igualitaria",
+          "titulo_medida": "Erradicación de violencias machistas, igualdad salarial, sistema público de cuidados y derechos LGTBIQA+ y trans",
+          "texto_oficial": "Defendemos una Canarias feminista e igualitaria, comprometida con la erradicación de las violencias machistas, la igualdad salarial y la garantía de los derechos sexuales y reproductivos. Apostamos por un sistema público de cuidados que avance en la corresponsabilidad y combata la desigualdad estructural. Reivindicamos los derechos de las personas LGTBIQA+, especialmente de las personas trans, y el rechazo a cualquier forma de discriminación, odio o exclusión.",
+          "explicacion_medida": "Propuesta del apartado «11. Canarias feminista e igualitaria» del programa de UPC: Defendemos una Canarias feminista e igualitaria, comprometida con la erradicación de las violencias machistas, la igualdad salarial y la garantía de los derechos sexuales y reproductivos. Apostamos por un sistema público de cuidados que avance en la corresponsabilidad y combata la desigualdad estructural.…",
+          "datos_a_favor": "Orientada a erradicar violencias machistas, corregir desigualdades estructurales o redefinir políticas de igualdad y derechos civiles.",
+          "datos_en_contra": "Conlleva intenso debate jurídico, social y competencial sobre alcance normativo, recursos especializados e impacto en garantías procesales o libertades.",
+          "id_bloque_comun": "bloque_14",
+          "titulo_bloque_comun": "Política Migratoria, Fronteras, Integración y Nacionalidad"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_15",
+      "numero_bloque": 15,
+      "titulo_bloque": "Calidad Democrática, Instituciones y Transparencia",
+      "alcance_medidas": "Medidas 1 a 2 (2 medidas)",
+      "total_medidas_bloque": 2,
+      "medidas_incluidas": [
+        1,
+        2
+      ],
+      "medidas": [
+        {
+          "numero_medida": 1,
+          "id_medida": "UPC-1",
+          "seccion_original": "1. Autogobierno, soberanía popular y derecho a decidir",
+          "titulo_medida": "Reconocimiento de Canarias como sujeto político, fortalecimiento del autogobierno y condición RUP",
+          "texto_oficial": "Defendemos el reconocimiento de Canarias como sujeto político, el fortalecimiento de su autogobierno y el pleno desarrollo de las competencias reconocidas en nuestro Estatuto de Autonomía. Reclamamos una financiación justa, la participación adecuada en los presupuestos estatales y europeos y el reconocimiento efectivo de nuestra condición de región ultraperiférica, respetando las singularidades del Archipiélago. Igualmente, defendemos el establecimiento de la mediana con Marruecos, el reconocimiento de nuestras aguas, así como de los fondos marinos del archipiélago, y su espacio aéreo.",
+          "explicacion_medida": "Propuesta del apartado «1. Autogobierno, soberanía popular y derecho a decidir» del programa de UPC: Defendemos el reconocimiento de Canarias como sujeto político, el fortalecimiento de su autogobierno y el pleno desarrollo de las competencias reconocidas en nuestro Estatuto de Autonomía. Reclamamos una financiación justa, la participación adecuada en los presupuestos estatales y europeos y el reconocimiento efectivo…",
+          "datos_a_favor": "Busca defender el autogobierno, la financiación foral o insular, la bilateralidad institucional o un nuevo encaje territorial del Estado.",
+          "datos_en_contra": "Reformas competenciales, fiscales o constitucionales requieren mayorías parlamentarias reforzadas y suscitan debate sobre cohesión e igualdad interterritorial.",
+          "id_bloque_comun": "bloque_15",
+          "titulo_bloque_comun": "Calidad Democrática, Instituciones y Transparencia"
+        },
+        {
+          "numero_medida": 2,
+          "id_medida": "UPC-2",
+          "seccion_original": "2. Sistema de Financiación Autonómica",
+          "titulo_medida": "Financiación autonómica justa que respete el REF y compense la insularidad y lejanía",
+          "texto_oficial": "Exigimos una financiación autonómica suficiente y justa que respete los recursos del Régimen Económico y Fiscal (REF), garantice la solidaridad y que compense la insularidad y la lejanía, garantice la conectividad, el transporte público, el apoyo al sector primario y los servicios esenciales, y contribuya a reducir las desigualdades entre islas y personas.",
+          "explicacion_medida": "Propuesta del apartado «2. Sistema de Financiación Autonómica» del programa de UPC: Exigimos una financiación autonómica suficiente y justa que respete los recursos del Régimen Económico y Fiscal (REF), garantice la solidaridad y que compense la insularidad y la lejanía, garantice la conectividad, el transporte público, el apoyo al sector primario y los servicios esenciales, y contribuya a reducir…",
+          "datos_a_favor": "Busca defender el autogobierno, la financiación foral o insular, la bilateralidad institucional o un nuevo encaje territorial del Estado.",
+          "datos_en_contra": "Reformas competenciales, fiscales o constitucionales requieren mayorías parlamentarias reforzadas y suscitan debate sobre cohesión e igualdad interterritorial.",
+          "id_bloque_comun": "bloque_15",
+          "titulo_bloque_comun": "Calidad Democrática, Instituciones y Transparencia"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_16",
+      "numero_bloque": 16,
+      "titulo_bloque": "Organización Territorial, Autogobierno y Financiación Autonómica",
+      "alcance_medidas": "Medidas 15 a 15 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        15
+      ],
+      "medidas": [
+        {
+          "numero_medida": 15,
+          "id_medida": "UPC-15",
+          "seccion_original": "14. Democracia participativa, transparencia pública y lucha contra el transfuguismo",
+          "titulo_medida": "Mecanismos de participación directa, rendición de cuentas y medidas contra corrupción y transfuguismo",
+          "texto_oficial": "Proponemos profundizar en una democracia más participativa, transparente y cercana, que garantice la implicación ciudadana en las decisiones políticas. Reclamamos mecanismos de participación directa, rendición de cuentas, limitación de privilegios y medidas firmes contra la corrupción y el transfuguismo político, que deterioran la confianza en las instituciones.",
+          "explicacion_medida": "Propuesta del apartado «14. Democracia participativa, transparencia pública y lucha contra el transfuguismo» del programa de UPC: Proponemos profundizar en una democracia más participativa, transparente y cercana, que garantice la implicación ciudadana en las decisiones políticas. Reclamamos mecanismos de participación directa, rendición de cuentas, limitación de privilegios y medidas firmes contra la corrupción y el transfuguismo político, que…",
+          "datos_a_favor": "Apunta a simplificar trámites, reforzar la transparencia institucional, prevenir la corrupción y mejorar la rendición de cuentas democrática.",
+          "datos_en_contra": "La efectividad de las reformas administrativas o electorales depende de controles independientes reales y de que no introduzcan nueva rigidez burocrática.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Organización Territorial, Autogobierno y Financiación Autonómica"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_19",
+      "numero_bloque": 19,
+      "titulo_bloque": "Política Exterior, Unión Europea, Cooperación y Defensa",
+      "alcance_medidas": "Medidas 16 a 17 (2 medidas)",
+      "total_medidas_bloque": 2,
+      "medidas_incluidas": [
+        16,
+        17
+      ],
+      "medidas": [
+        {
+          "numero_medida": 16,
+          "id_medida": "UPC-16",
+          "seccion_original": "15. Solidaridad internacional, cooperación entre pueblos y búsqueda de la paz",
+          "titulo_medida": "Canarias como territorio de paz, derechos humanos y solidaridad con los pueblos palestino y saharaui",
+          "texto_oficial": "Defendemos Canarias como territorio de paz, de cooperación y solidaridad internacional. Apostamos por relaciones justas con África, América Latina y Europa, basadas en los derechos humanos, el antirracismo y la justicia global. Expresamos nuestra solidaridad con los pueblos palestino y saharaui en su lucha por la autodeterminación y la independencia, y defendemos una Canarias acogedora, contraria a la xenofobia y comprometida con la dignidad de todas las personas.",
+          "explicacion_medida": "Propuesta del apartado «15. Solidaridad internacional, cooperación entre pueblos y búsqueda de la paz» del programa de UPC: Defendemos Canarias como territorio de paz, de cooperación y solidaridad internacional. Apostamos por relaciones justas con África, América Latina y Europa, basadas en los derechos humanos, el antirracismo y la justicia global. Expresamos nuestra solidaridad con los pueblos palestino y saharaui en su lucha por la…",
+          "datos_a_favor": "Orientada a definir las alianzas internacionales, cooperación al desarrollo, política de paz y posición de España en la Unión Europea y conflictos exteriores.",
+          "datos_en_contra": "Está condicionada por compromisos multilaterales vigentes en la UE, ONU u OTAN y exige coherencia entre objetivos diplomáticos, seguridad y cooperación.",
+          "id_bloque_comun": "bloque_19",
+          "titulo_bloque_comun": "Política Exterior, Unión Europea, Cooperación y Defensa"
+        },
+        {
+          "numero_medida": 17,
+          "id_medida": "UPC-17",
+          "seccion_original": "15. Solidaridad internacional, cooperación entre pueblos y búsqueda de la paz",
+          "titulo_medida": "Consignar como mínimo el 0,7 % de los Presupuestos Generales del Estado a cooperación internacional",
+          "texto_oficial": "Igualmente impulsaremos una consignación, mínimo, del 0,7% de los Presupuestos Generales del Estado destinado a proyectos de cooperación y solidaridad internacional.",
+          "explicacion_medida": "Propuesta del apartado «15. Solidaridad internacional, cooperación entre pueblos y búsqueda de la paz» del programa de UPC: Igualmente impulsaremos una consignación, mínimo, del 0,7% de los Presupuestos Generales del Estado destinado a proyectos de cooperación y solidaridad internacional.",
+          "datos_a_favor": "Orientada a definir las alianzas internacionales, cooperación al desarrollo, política de paz y posición de España en la Unión Europea y conflictos exteriores.",
+          "datos_en_contra": "Está condicionada por compromisos multilaterales vigentes en la UE, ONU u OTAN y exige coherencia entre objetivos diplomáticos, seguridad y cooperación.",
+          "id_bloque_comun": "bloque_19",
+          "titulo_bloque_comun": "Política Exterior, Unión Europea, Cooperación y Defensa"
+        }
+      ]
+    }
+  ]
+}

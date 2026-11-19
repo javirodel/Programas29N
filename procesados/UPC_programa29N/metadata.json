@@ -1,0 +1,20 @@
+{
+  "archivo_original": "UPC_programa29N.pdf",
+  "nombre": "UPC_programa29N",
+  "sha256": "502ce157ba499fb959e5ed735f593f903c2e5f17c79ee28bf2daad8ca18c941b",
+  "fecha_procesamiento": "2026-11-19T12:38:14+0100",
+  "herramienta": "Docling (PyPdfiumBackend)",
+  "formatos": [
+    "md",
+    "json",
+    "txt"
+  ],
+  "paginas": 6,
+  "duracion_segundos": 16.93,
+  "tamano_bytes": {
+    "pdf": 3443588,
+    "md": 10082,
+    "json": 129501,
+    "txt": 9581
+  }
+}

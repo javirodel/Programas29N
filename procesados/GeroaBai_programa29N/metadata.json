@@ -1,0 +1,20 @@
+{
+  "archivo_original": "GeroaBai_programa29N.pdf",
+  "nombre": "GeroaBai_programa29N",
+  "sha256": "4e011dc660957ebac66666844fc65ff2f069633ea5254a524c7aad1c34e20c0c",
+  "fecha_procesamiento": "2026-11-19T12:37:45+0100",
+  "herramienta": "Docling (PyPdfiumBackend)",
+  "formatos": [
+    "md",
+    "json",
+    "txt"
+  ],
+  "paginas": 14,
+  "duracion_segundos": 25.44,
+  "tamano_bytes": {
+    "pdf": 161871,
+    "md": 14098,
+    "json": 138889,
+    "txt": 13801
+  }
+}

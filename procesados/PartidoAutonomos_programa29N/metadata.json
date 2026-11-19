@@ -1,0 +1,20 @@
+{
+  "archivo_original": "PartidoAutonomos_programa29N.pdf",
+  "nombre": "PartidoAutonomos_programa29N",
+  "sha256": "2df2537bd762f280c139a0d9b28c77de713d2dcadaf89d1bef6bb75277e7975f",
+  "fecha_procesamiento": "2026-11-19T12:37:57+0100",
+  "herramienta": "Docling (PyPdfiumBackend)",
+  "formatos": [
+    "md",
+    "json",
+    "txt"
+  ],
+  "paginas": 15,
+  "duracion_segundos": 11.23,
+  "tamano_bytes": {
+    "pdf": 253778,
+    "md": 52551,
+    "json": 358413,
+    "txt": 52206
+  }
+}

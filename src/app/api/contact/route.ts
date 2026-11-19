@@ -56,7 +56,38 @@ function stripControlChars(input: string): string {
   return input.replace(/[\u0000-\u0008\u000B\u000C\u000E-\u001F\u007F]/g, "");
 }
 
+function escapeForSafeDisplay(input: string): string {
+  return input
+    .replace(/</g, "‹")
+    .replace(/>/g, "›")
+    .replace(/@/g, "@\u200B")
+    .replace(/~~~/g, "~\u200B~~");
+}
+
+function isAllowedOrigin(request: NextRequest): boolean {
+  const origin = request.headers.get("origin")?.trim();
+  if (!origin) {
+    return true;
+  }
+  const rawHost =
+    request.headers.get("x-forwarded-host")?.split(",")[0]?.trim() ||
+    request.headers.get("host")?.trim();
+  if (!rawHost) {
+    return false;
+  }
+  try {
+    const originHost = new URL(origin).host.toLowerCase();
+    return originHost === rawHost.toLowerCase();
+  } catch {
+    return false;
+  }
+}
+
 export async function POST(request: NextRequest) {
+  if (!isAllowedOrigin(request)) {
+    return NextResponse.json({ error: "Origen de solicitud no permitido." }, { status: 403 });
+  }
+
   const contentType = request.headers.get("content-type") ?? "";
   if (!contentType.includes("application/json")) {
     return NextResponse.json({ error: "Formato no permitido." }, { status: 415 });
@@ -101,27 +132,76 @@ export async function POST(request: NextRequest) {
     submittedAt: new Date().toISOString(),
   };
 
+  const safeName = escapeForSafeDisplay(sanitized.name).replace(/[\r\n]+/g, " ");
+  const safeEmail = escapeForSafeDisplay(sanitized.email).replace(/[\r\n]+/g, " ");
+  const safeMessage = escapeForSafeDisplay(sanitized.message);
+
   console.info("[/api/contact] Mensaje recibido", {
     category: sanitized.category,
     name: sanitized.name,
     email: sanitized.email,
+    message: sanitized.message,
     messageLength: sanitized.message.length,
     submittedAt: sanitized.submittedAt,
   });
 
+  const githubToken = process.env.GITHUB_CONTACT_TOKEN?.trim();
+  const githubRepo = process.env.GITHUB_CONTACT_REPO?.trim() || "javirodel/Programas29N";
+  if (githubToken && /^[a-zA-Z0-9_.-]+\/[a-zA-Z0-9_.-]+$/.test(githubRepo)) {
+    try {
+      const ghRes = await fetch(`https://api.github.com/repos/${githubRepo}/issues`, {
+        method: "POST",
+        headers: {
+          Authorization: `Bearer ${githubToken}`,
+          Accept: "application/vnd.github+json",
+          "Content-Type": "application/json",
+          "User-Agent": "Programa29N-Contact",
+          "X-GitHub-Api-Version": "2022-11-28",
+        },
+        body: JSON.stringify({
+          title: `[Buzón 29N · ${sanitized.category}] ${safeName}`,
+          body: [
+            `- **Nombre:** ${safeName}`,
+            `- **Correo:** \`${safeEmail}\``,
+            `- **Motivo:** \`${sanitized.category}\``,
+            `- **Fecha:** \`${sanitized.submittedAt}\``,
+            "",
+            "~~~text",
+            safeMessage,
+            "~~~",
+          ].join("\n"),
+        }),
+        signal: AbortSignal.timeout(5000),
+      });
+      if (!ghRes.ok) {
+        const errBody = await ghRes.text().catch(() => "");
+        console.error(
+          `[/api/contact] Error al guardar Issue en GitHub (${ghRes.status}):`,
+          errBody.slice(0, 300),
+        );
+      }
+    } catch (err) {
+      console.error("[/api/contact] Error de red al crear Issue en GitHub:", err);
+    }
+  }
+
   const webhookUrl = process.env.CONTACT_WEBHOOK_URL?.trim();
   if (webhookUrl && webhookUrl.startsWith("https://")) {
     try {
-      await fetch(webhookUrl, {
+      const whRes = await fetch(webhookUrl, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           project: "Programa29N",
-          content: `**[Programa29N · ${sanitized.category}]** ${sanitized.name} (${sanitized.email}):\n${sanitized.message}`,
+          content: `**[Programa29N · ${sanitized.category}]** ${safeName} (${safeEmail}):\n~~~text\n${safeMessage}\n~~~`,
           ...sanitized,
         }),
         signal: AbortSignal.timeout(5000),
       });
+      if (!whRes.ok) {
+        const errBody = await whRes.text().catch(() => "");
+        console.error(`[/api/contact] Error en webhook (${whRes.status}):`, errBody.slice(0, 300));
+      }
     } catch (err) {
       console.error("[/api/contact] Error al reenviar al webhook:", err);
     }
@@ -131,7 +211,7 @@ export async function POST(request: NextRequest) {
   const contactToEmail = process.env.CONTACT_TO_EMAIL?.trim();
   if (resendApiKey && contactToEmail) {
     try {
-      await fetch("https://api.resend.com/emails", {
+      const mailRes = await fetch("https://api.resend.com/emails", {
         method: "POST",
         headers: {
           Authorization: `Bearer ${resendApiKey}`,
@@ -141,11 +221,18 @@ export async function POST(request: NextRequest) {
           from: process.env.RESEND_FROM_EMAIL?.trim() || "Programa29N <onboarding@resend.dev>",
           to: [contactToEmail],
           reply_to: sanitized.email,
-          subject: `[Programa29N · ${sanitized.category}] Mensaje de ${sanitized.name}`,
+          subject: `[Programa29N · ${sanitized.category}] Mensaje de ${safeName}`,
           text: `Nombre: ${sanitized.name}\nCorreo: ${sanitized.email}\nMotivo: ${sanitized.category}\nFecha: ${sanitized.submittedAt}\n\n${sanitized.message}`,
         }),
         signal: AbortSignal.timeout(5000),
       });
+      if (!mailRes.ok) {
+        const errBody = await mailRes.text().catch(() => "");
+        console.error(
+          `[/api/contact] Error al enviar correo con Resend (${mailRes.status}):`,
+          errBody.slice(0, 300),
+        );
+      }
     } catch (err) {
       console.error("[/api/contact] Error al enviar correo con Resend:", err);
     }

@@ -7,7 +7,7 @@ import { ScrollReveal } from "@/modules/ui/components/ScrollReveal";
 export const metadata: Metadata = {
   title: "Aviso legal, licencias y respaldo | 29N",
   description:
-    "Condiciones de uso, licencias de código y textos oficiales, seguridad técnica y respaldo criptográfico SHA-256 de los 21 programas del 29N.",
+    "Condiciones de uso, licencias de código y textos oficiales, seguridad técnica y respaldo criptográfico SHA-256 de los 26 programas del 29N.",
 };
 
 export default async function AvisoLegalPage() {

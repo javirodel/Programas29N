@@ -1418,6 +1418,132 @@
    }
   },
   {
+   "id": "GeroaBai_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 161871,
+    "sha256": "4e011dc660957ebac66666844fc65ff2f069633ea5254a524c7aad1c34e20c0c",
+    "paginas": 14
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 14098
+    },
+    "json": {
+     "existe": true,
+     "bytes": 138889
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 13801
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 14,
+    "n_texts": 145,
+    "n_tables": 0,
+    "n_pictures": 14,
+    "paginas_con_texto": 14,
+    "paginas_texto_escaso_lt200": [
+     1,
+     3,
+     5,
+     6,
+     8,
+     10,
+     13
+    ],
+    "texts_con_prov": 145,
+    "md_imagenes_embebidas_base64": 0,
+    "md_placeholders_image": 14,
+    "md_headings": 15,
+    "md_chars_texto_aprox": 13231,
+    "txt_chars": 12962,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "4e011dc660957ebac66666844fc65ff2f069633ea5254a524c7aad1c34e20c0c",
+    "herramienta": "Docling (PyPdfiumBackend)",
+    "fecha": "2026-11-19T12:37:45+0100",
+    "archivo_original": "GeroaBai_programa29N.pdf",
+    "paginas_meta": 14,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "paginas",
+     "duracion_segundos",
+     "tamano_bytes"
+    ],
+    "sha_coincide": true,
+    "tamanos_coinciden": true
+   },
+   "detallado": {
+    "json": [
+     "GeroaBai_programa29N_16medidas_detallado.json"
+    ],
+    "md": [
+     "GeroaBai_programa29N_16medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Geroa Bai",
+    "siglas": "GBAI",
+    "titulo_programa": "Bases Políticas · Elecciones Generales 2026",
+    "fecha_publicacion": "2026-11-19",
+    "url_programa_oficial": "https://geroabai.eus/files/2026/11/bases-politicas-29n-1.pdf",
+    "web_oficial": "https://geroabai.eus",
+    "total_medidas_declarado": 16,
+    "total_en_nombre_archivo": 16,
+    "total_real": 16,
+    "n_bloques": 8,
+    "n_otros_bloques": 0,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     16
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 1,
+     "bloque_06": 2,
+     "bloque_07": 1,
+     "bloque_10": 1,
+     "bloque_11": 1,
+     "bloque_14": 2,
+     "bloque_15": 6,
+     "bloque_16": 2
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [],
+    "md_n_ids_ausentes": 0
+   },
+   "trazabilidad": {
+    "resultado": {
+     "literal": 16
+    },
+    "con_pagina_localizable": 16,
+    "muestras_no_encontradas": []
+   }
+  },
+  {
    "id": "IustitiaEuropa_programa29N",
    "pdf": {
     "existe": true,
@@ -1577,6 +1703,146 @@
    }
   },
   {
+   "id": "Junts_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 1355756,
+    "sha256": "cde2c5f3f30b66c72dd4f4bae3d22e9f6bc3e0ee4362da72f9e32e85129374b6",
+    "paginas": 90
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 323441
+    },
+    "json": {
+     "existe": true,
+     "bytes": 1955282
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 321832
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 90,
+    "n_texts": 1852,
+    "n_tables": 0,
+    "n_pictures": 32,
+    "paginas_con_texto": 90,
+    "paginas_texto_escaso_lt200": [
+     1,
+     2,
+     4,
+     6,
+     11,
+     43,
+     66,
+     87,
+     90
+    ],
+    "texts_con_prov": 1852,
+    "md_imagenes_embebidas_base64": 0,
+    "md_placeholders_image": 32,
+    "md_headings": 344,
+    "md_chars_texto_aprox": 313740,
+    "txt_chars": 312195,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "cde2c5f3f30b66c72dd4f4bae3d22e9f6bc3e0ee4362da72f9e32e85129374b6",
+    "herramienta": "Docling (PyPdfiumBackend)",
+    "fecha": "2026-11-19T12:25:30+0100",
+    "archivo_original": "Junts_programa29N.pdf",
+    "paginas_meta": 90,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "paginas",
+     "duracion_segundos",
+     "tamano_bytes"
+    ],
+    "sha_coincide": true,
+    "tamanos_coinciden": true
+   },
+   "detallado": {
+    "json": [
+     "Junts_programa29N_613medidas_detallado.json"
+    ],
+    "md": [
+     "Junts_programa29N_613medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Junts per Catalunya",
+    "siglas": "Junts",
+    "titulo_programa": "Catalunya al centre · Programa Electoral 29N",
+    "fecha_publicacion": "2026-11-18",
+    "url_programa_oficial": "https://www.tualcentre.cat/app/uploads/2026/11/PROGRAMA-ELECTORAL_JUNTS_29N.pdf",
+    "web_oficial": "https://junts.cat",
+    "total_medidas_declarado": 613,
+    "total_en_nombre_archivo": 613,
+    "total_real": 613,
+    "n_bloques": 19,
+    "n_otros_bloques": 1,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     613
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 36,
+     "bloque_02": 25,
+     "bloque_03": 31,
+     "bloque_04": 15,
+     "bloque_05": 114,
+     "bloque_06": 27,
+     "bloque_07": 18,
+     "bloque_08": 16,
+     "bloque_09": 29,
+     "bloque_10": 43,
+     "bloque_11": 11,
+     "bloque_12": 28,
+     "bloque_13": 62,
+     "bloque_14": 21,
+     "bloque_15": 3,
+     "bloque_16": 27,
+     "bloque_17": 60,
+     "bloque_18": 6,
+     "bloque_19": 25,
+     "otro_bloque_01": 16
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [],
+    "md_n_ids_ausentes": 0
+   },
+   "trazabilidad": {
+    "resultado": {
+     "literal": 613
+    },
+    "con_pagina_localizable": 613,
+    "muestras_no_encontradas": []
+   }
+  },
+  {
    "id": "PACMA_programa29N",
    "pdf": {
     "existe": true,
@@ -1707,6 +1973,143 @@
      "fragmentado": 2
     },
     "con_pagina_localizable": 400,
+    "muestras_no_encontradas": []
+   }
+  },
+  {
+   "id": "PFAC_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 2435598,
+    "sha256": "b4f2048bfd388a0863a36029bc7001a6eafbc91ec3e37eadb88c9a12a2cdd0ea",
+    "paginas": 170
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 414307
+    },
+    "json": {
+     "existe": true,
+     "bytes": 2645645
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 410995
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 170,
+    "n_texts": 2214,
+    "n_tables": 2,
+    "n_pictures": 172,
+    "paginas_con_texto": 170,
+    "paginas_texto_escaso_lt200": [
+     1,
+     2,
+     3,
+     170
+    ],
+    "texts_con_prov": 2214,
+    "md_imagenes_embebidas_base64": 0,
+    "md_placeholders_image": 172,
+    "md_headings": 72,
+    "md_chars_texto_aprox": 404885,
+    "txt_chars": 401917,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "b4f2048bfd388a0863a36029bc7001a6eafbc91ec3e37eadb88c9a12a2cdd0ea",
+    "herramienta": "Docling (PyPdfiumBackend)",
+    "fecha": "2026-11-19T12:40:25+0100",
+    "archivo_original": "PFAC_programa29N.pdf",
+    "paginas_meta": 170,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "paginas",
+     "duracion_segundos",
+     "tamano_bytes"
+    ],
+    "sha_coincide": true,
+    "tamanos_coinciden": true
+   },
+   "detallado": {
+    "json": [
+     "PFAC_programa29N_1056medidas_detallado.json"
+    ],
+    "md": [
+     "PFAC_programa29N_1056medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Partido Feministas al Congreso",
+    "siglas": "PFAC",
+    "titulo_programa": "Programa Electoral 2026",
+    "fecha_publicacion": "2026-11-19",
+    "url_programa_oficial": "https://www.feministasalcongreso.es/wp-content/uploads/2026/11/PROGRAMA-ELECTORAL_2026.pdf",
+    "web_oficial": "https://www.feministasalcongreso.es",
+    "total_medidas_declarado": 1056,
+    "total_en_nombre_archivo": 1056,
+    "total_real": 1056,
+    "n_bloques": 19,
+    "n_otros_bloques": 1,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     1056
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 58,
+     "bloque_02": 20,
+     "bloque_03": 38,
+     "bloque_04": 72,
+     "bloque_05": 40,
+     "bloque_06": 37,
+     "bloque_07": 23,
+     "bloque_08": 23,
+     "bloque_09": 45,
+     "bloque_10": 17,
+     "bloque_11": 78,
+     "bloque_12": 34,
+     "bloque_13": 76,
+     "bloque_14": 356,
+     "bloque_15": 25,
+     "bloque_16": 22,
+     "bloque_17": 16,
+     "bloque_18": 4,
+     "bloque_19": 24,
+     "otro_bloque_01": 48
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [],
+    "md_n_ids_ausentes": 0
+   },
+   "trazabilidad": {
+    "resultado": {
+     "literal": 988,
+     "fragmentado": 46,
+     "parcial": 22
+    },
+    "con_pagina_localizable": 1056,
     "muestras_no_encontradas": []
    }
   },
@@ -2190,6 +2593,132 @@
      "parcial": 2
     },
     "con_pagina_localizable": 500,
+    "muestras_no_encontradas": []
+   }
+  },
+  {
+   "id": "PartidoAutonomos_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 253778,
+    "sha256": "2df2537bd762f280c139a0d9b28c77de713d2dcadaf89d1bef6bb75277e7975f",
+    "paginas": 15
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 52551
+    },
+    "json": {
+     "existe": true,
+     "bytes": 358413
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 52206
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 15,
+    "n_texts": 345,
+    "n_tables": 1,
+    "n_pictures": 1,
+    "paginas_con_texto": 15,
+    "paginas_texto_escaso_lt200": [],
+    "texts_con_prov": 345,
+    "md_imagenes_embebidas_base64": 0,
+    "md_placeholders_image": 1,
+    "md_headings": 109,
+    "md_chars_texto_aprox": 51017,
+    "txt_chars": 50674,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "2df2537bd762f280c139a0d9b28c77de713d2dcadaf89d1bef6bb75277e7975f",
+    "herramienta": "Docling (PyPdfiumBackend)",
+    "fecha": "2026-11-19T12:37:57+0100",
+    "archivo_original": "PartidoAutonomos_programa29N.pdf",
+    "paginas_meta": 15,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "paginas",
+     "duracion_segundos",
+     "tamano_bytes"
+    ],
+    "sha_coincide": true,
+    "tamanos_coinciden": true
+   },
+   "detallado": {
+    "json": [
+     "PartidoAutonomos_programa29N_100medidas_detallado.json"
+    ],
+    "md": [
+     "PartidoAutonomos_programa29N_100medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Partido Autónomos",
+    "siglas": "PA",
+    "titulo_programa": "Programa Electoral · Elecciones Generales 29N",
+    "fecha_publicacion": "2026-11-19",
+    "url_programa_oficial": "https://www.partidoautonomos.es/wp-content/uploads/2026/11/PARTIDO-AUTONOMOS-PROGRAMA-ELECCIONES-GENERALES-2026-29N.pdf",
+    "web_oficial": "https://www.partidoautonomos.es",
+    "total_medidas_declarado": 100,
+    "total_en_nombre_archivo": 100,
+    "total_real": 100,
+    "n_bloques": 15,
+    "n_otros_bloques": 1,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     100
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 4,
+     "bloque_02": 15,
+     "bloque_03": 21,
+     "bloque_04": 4,
+     "bloque_05": 9,
+     "bloque_06": 3,
+     "bloque_07": 2,
+     "bloque_08": 5,
+     "bloque_09": 4,
+     "bloque_10": 5,
+     "bloque_11": 3,
+     "bloque_12": 2,
+     "bloque_13": 2,
+     "bloque_16": 19,
+     "bloque_18": 1,
+     "otro_bloque_01": 1
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [],
+    "md_n_ids_ausentes": 0
+   },
+   "trazabilidad": {
+    "resultado": {
+     "literal": 100
+    },
+    "con_pagina_localizable": 100,
     "muestras_no_encontradas": []
    }
   },
@@ -3109,6 +3638,133 @@
    }
   },
   {
+   "id": "UPC_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 3443588,
+    "sha256": "502ce157ba499fb959e5ed735f593f903c2e5f17c79ee28bf2daad8ca18c941b",
+    "paginas": 6
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 10082
+    },
+    "json": {
+     "existe": true,
+     "bytes": 129501
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 9581
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 6,
+    "n_texts": 128,
+    "n_tables": 0,
+    "n_pictures": 27,
+    "paginas_con_texto": 5,
+    "paginas_texto_escaso_lt200": [
+     6
+    ],
+    "texts_con_prov": 128,
+    "md_imagenes_embebidas_base64": 0,
+    "md_placeholders_image": 27,
+    "md_headings": 5,
+    "md_chars_texto_aprox": 9803,
+    "txt_chars": 9356,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "502ce157ba499fb959e5ed735f593f903c2e5f17c79ee28bf2daad8ca18c941b",
+    "herramienta": "Docling (PyPdfiumBackend)",
+    "fecha": "2026-11-19T12:38:14+0100",
+    "archivo_original": "UPC_programa29N.pdf",
+    "paginas_meta": 6,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "paginas",
+     "duracion_segundos",
+     "tamano_bytes"
+    ],
+    "sha_coincide": true,
+    "tamanos_coinciden": true
+   },
+   "detallado": {
+    "json": [
+     "UPC_programa29N_18medidas_detallado.json"
+    ],
+    "md": [
+     "UPC_programa29N_18medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Unidad del Pueblo Canario",
+    "siglas": "UPC",
+    "titulo_programa": "Manifiesto Electoral · Una sola papeleta. Todo un pueblo",
+    "fecha_publicacion": "2026-11-19",
+    "url_programa_oficial": "https://www.unidadpueblocanario.org/documentos/manifiesto-upc.pdf",
+    "web_oficial": "https://www.unidadpueblocanario.org",
+    "total_medidas_declarado": 18,
+    "total_en_nombre_archivo": 18,
+    "total_real": 18,
+    "n_bloques": 15,
+    "n_otros_bloques": 0,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     18
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 1,
+     "bloque_02": 1,
+     "bloque_03": 1,
+     "bloque_04": 1,
+     "bloque_05": 1,
+     "bloque_06": 1,
+     "bloque_07": 1,
+     "bloque_08": 2,
+     "bloque_11": 1,
+     "bloque_12": 1,
+     "bloque_13": 1,
+     "bloque_14": 1,
+     "bloque_15": 2,
+     "bloque_16": 1,
+     "bloque_19": 2
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [],
+    "md_n_ids_ausentes": 0
+   },
+   "trazabilidad": {
+    "resultado": {
+     "literal": 18
+    },
+    "con_pagina_localizable": 18,
+    "muestras_no_encontradas": []
+   }
+  },
+  {
    "id": "VOX_programa29N",
    "pdf": {
     "existe": true,
@@ -3291,61 +3947,77 @@
  ],
  "titulos_bloques_canonicos": {
   "bloque_01": {
-   "Vivienda, Urbanismo, Alquiler y Lucha contra la Okupación": 21
+   "Vivienda, Urbanismo, Alquiler y Lucha contra la Okupación": 22,
+   "Vivienda, Urbanismo y Mercado del Alquiler": 4
   },
   "bloque_02": {
-   "Economía, Productividad, Industria, Innovación y Turismo": 21
+   "Economía, Productividad, Industria, Innovación y Turismo": 22,
+   "Economía, Industria, Innovación y Turismo": 3
   },
   "bloque_03": {
-   "Fiscalidad e Impuestos": 20
+   "Fiscalidad e Impuestos": 21,
+   "Fiscalidad, Impuestos y Hacienda Pública": 3
   },
   "bloque_04": {
-   "Empleo, Autónomos, Emprendimiento y Mercado Laboral": 21
+   "Empleo, Autónomos, Emprendimiento y Mercado Laboral": 22,
+   "Empleo, Autónomos y Relaciones Laborales": 3
   },
   "bloque_05": {
-   "Pensiones, Mayores, Reto Demográfico, Discapacidad e Igualdad": 21
+   "Pensiones, Mayores, Reto Demográfico, Discapacidad e Igualdad": 22,
+   "Pensiones, Bienestar Social, Igualdad y Reto Demográfico": 3
   },
   "bloque_06": {
-   "Familia, Natalidad, Conciliación, Infancia y Juventud": 20
+   "Familia, Natalidad, Conciliación, Infancia y Juventud": 21,
+   "Familia, Conciliación, Infancia y Juventud": 4
   },
   "bloque_07": {
-   "Sanidad Pública, Salud Mental y Dependencia": 20
+   "Sanidad Pública, Salud Mental y Dependencia": 25
   },
   "bloque_08": {
-   "Educación, Formación Profesional y Universidad": 21
+   "Educación, Formación Profesional y Universidad": 25
   },
   "bloque_09": {
-   "Energía, Transición Ecológica y Soberanía Energética": 21
+   "Energía, Transición Ecológica y Soberanía Energética": 22,
+   "Energía, Transición Ecológica y Medio Ambiente": 2
   },
   "bloque_10": {
-   "Agricultura, Ganadería, Pesca, Agua y Mundo Rural": 21
+   "Agricultura, Ganadería, Pesca, Agua y Mundo Rural": 22,
+   "Sector Primario, Agua y Medio Rural": 3
   },
   "bloque_11": {
-   "Infraestructuras, Transporte, Ferrocarril y Conectividad": 21
+   "Infraestructuras, Transporte, Ferrocarril y Conectividad": 22,
+   "Infraestructuras, Transporte, Movilidad y Conectividad": 4
   },
   "bloque_12": {
-   "Administración Pública, Control del Gasto Público y Reducción de Burocracia": 20
+   "Administración Pública, Control del Gasto Público y Reducción de Burocracia": 21,
+   "Administración Pública, Gestión Presupuestaria y Simplificación": 3
   },
   "bloque_13": {
-   "Justicia, Seguridad Ciudadana y Cumplimiento de la Ley": 20
+   "Justicia, Seguridad Ciudadana y Cumplimiento de la Ley": 21,
+   "Justicia, Seguridad Ciudadana y Derechos Civiles": 3
   },
   "bloque_14": {
-   "Inmigración, Control de Fronteras, Integración y Nacionalidad": 19
+   "Inmigración, Control de Fronteras, Integración y Nacionalidad": 20,
+   "Política Migratoria, Fronteras, Integración y Nacionalidad": 3
   },
   "bloque_15": {
-   "Regeneración Democrática, Independencia Institucional y Lucha contra la Corrupción": 20
+   "Regeneración Democrática, Independencia Institucional y Lucha contra la Corrupción": 21,
+   "Calidad Democrática, Instituciones y Transparencia": 3
   },
   "bloque_16": {
-   "Cohesión Territorial, Financiación Autonómica, Presencia del Estado y Ceuta y Melilla": 20
+   "Cohesión Territorial, Financiación Autonómica, Presencia del Estado y Ceuta y Melilla": 21,
+   "Organización Territorial, Autogobierno y Financiación Autonómica": 4
   },
   "bloque_17": {
-   "Cultura, Deporte, Historia Común y Víctimas del Terrorismo": 20
+   "Cultura, Deporte, Historia Común y Víctimas del Terrorismo": 21,
+   "Cultura, Lenguas, Deporte y Memoria": 1
   },
   "bloque_18": {
-   "Gestión de Emergencias y Protección Civil": 20
+   "Gestión de Emergencias y Protección Civil": 23
   },
   "bloque_19": {
-   "Defensa Nacional, Fuerzas Armadas y Política Exterior": 18
+   "Defensa Nacional, Fuerzas Armadas y Política Exterior": 19,
+   "Política Exterior, Unión Europea, Cooperación y Defensa": 2
   },
   "otro_bloque_01": {
    "Protección y Bienestar Animal": 0

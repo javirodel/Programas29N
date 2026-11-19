@@ -1,0 +1,1493 @@
+{
+  "nombre_partido": "Partido Autónomos",
+  "siglas": "PA",
+  "titulo_programa": "Programa Electoral · Elecciones Generales 29N",
+  "fecha_publicacion": "2026-11-19",
+  "elecciones": "Elecciones Generales 29 de noviembre de 2026 (29N)",
+  "url_programa_oficial": "https://www.partidoautonomos.es/wp-content/uploads/2026/11/PARTIDO-AUTONOMOS-PROGRAMA-ELECCIONES-GENERALES-2026-29N.pdf",
+  "web_oficial": "https://www.partidoautonomos.es",
+  "total_medidas": 100,
+  "total_bloques_comunes_con_medidas": 15,
+  "total_otros_bloques": 1,
+  "nota_metodologica": "Documento y JSON estructurado que recogen literalmente las 100 medidas extraídas del programa electoral oficial de Partido Autónomos para las Elecciones Generales del 29N (2026), junto a su encuadre en los bloques temáticos comunes del proyecto 29N, explicación analítica y argumentos a favor y en contra.",
+  "bloques": [
+    {
+      "id_bloque": "bloque_01",
+      "numero_bloque": 1,
+      "titulo_bloque": "Vivienda, Urbanismo y Mercado del Alquiler",
+      "alcance_medidas": "Medidas 60 a 83 (4 medidas)",
+      "total_medidas_bloque": 4,
+      "medidas_incluidas": [
+        60,
+        81,
+        82,
+        83
+      ],
+      "medidas": [
+        {
+          "numero_medida": 60,
+          "id_medida": "PA-60",
+          "seccion_original": "BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO",
+          "titulo_medida": "Ley integral contra la ocupación ilegal y protección de la propiedad privada",
+          "texto_oficial": "Desalojo policial inmediato en menos de 24 horas en casos de allanamiento o usurpación sin título habilitante, endurecimiento de penas para mafias de ocupación y suspensión del empadronamiento fraudulento. Viabilidad: Es viable armonizando la legislación penal y procesal española con la de países vecinos como Francia o Alemania, protegiendo tanto a familias como a locales comerciales.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO» del programa de PA: Desalojo policial inmediato en menos de 24 horas en casos de allanamiento o usurpación sin título habilitante, endurecimiento de penas para mafias de ocupación y suspensión del empadronamiento fraudulento. Viabilidad: Es viable armonizando la legislación penal y procesal española con la de países vecinos como Francia…",
+          "datos_a_favor": "Busca ampliar la oferta efectiva de vivienda asequible, reforzar la seguridad jurídica o limitar la presión especulativa sobre el alquiler.",
+          "datos_en_contra": "Su eficacia depende de la coordinación con comunidades autónomas y ayuntamientos, del presupuesto movilizado y de posibles efectos sobre la oferta disponible.",
+          "id_bloque_comun": "bloque_01",
+          "titulo_bloque_comun": "Vivienda, Urbanismo y Mercado del Alquiler"
+        },
+        {
+          "numero_medida": 81,
+          "id_medida": "PA-81",
+          "seccion_original": "BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL",
+          "titulo_medida": "Plan Nacional de Vivienda Asequible y movilización de suelo público",
+          "texto_oficial": "Liberación ágil de suelo público en desuso para construcción de vivienda en alquiler asequible mediante colaboración público-privada, reduciendo plazos urbanísticos y cargas fiscales sobre la primera vivienda. Viabilidad: Es viable porque aumenta la oferta real de vivienda —única vía eficaz para moderar los precios— sin intervenir artificialmente el mercado ni ahuyentar a los propietarios.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL» del programa de PA: Liberación ágil de suelo público en desuso para construcción de vivienda en alquiler asequible mediante colaboración público-privada, reduciendo plazos urbanísticos y cargas fiscales sobre la primera vivienda. Viabilidad: Es viable porque aumenta la oferta real de vivienda —única vía eficaz para moderar los precios—…",
+          "datos_a_favor": "Busca ampliar la oferta efectiva de vivienda asequible, reforzar la seguridad jurídica o limitar la presión especulativa sobre el alquiler.",
+          "datos_en_contra": "Su eficacia depende de la coordinación con comunidades autónomas y ayuntamientos, del presupuesto movilizado y de posibles efectos sobre la oferta disponible.",
+          "id_bloque_comun": "bloque_01",
+          "titulo_bloque_comun": "Vivienda, Urbanismo y Mercado del Alquiler"
+        },
+        {
+          "numero_medida": 82,
+          "id_medida": "PA-82",
+          "seccion_original": "BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL",
+          "titulo_medida": "Segunda oportunidad habitacional y dación en pago negociada",
+          "texto_oficial": "Moratoria temporal y mediación obligatoria para familias vulnerables en paro sobrevenido con riesgo de ejecución hipotecaria de su vivienda habitual, facilitando alquileres sociales o reestructuraciones. Viabilidad: Es viable mejorando el Código de Buenas Prácticas Bancarias y agilizando los mecanismos judiciales de segunda oportunidad.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL» del programa de PA: Moratoria temporal y mediación obligatoria para familias vulnerables en paro sobrevenido con riesgo de ejecución hipotecaria de su vivienda habitual, facilitando alquileres sociales o reestructuraciones. Viabilidad: Es viable mejorando el Código de Buenas Prácticas Bancarias y agilizando los mecanismos judiciales de…",
+          "datos_a_favor": "Busca ampliar la oferta efectiva de vivienda asequible, reforzar la seguridad jurídica o limitar la presión especulativa sobre el alquiler.",
+          "datos_en_contra": "Su eficacia depende de la coordinación con comunidades autónomas y ayuntamientos, del presupuesto movilizado y de posibles efectos sobre la oferta disponible.",
+          "id_bloque_comun": "bloque_01",
+          "titulo_bloque_comun": "Vivienda, Urbanismo y Mercado del Alquiler"
+        },
+        {
+          "numero_medida": 83,
+          "id_medida": "PA-83",
+          "seccion_original": "BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL",
+          "titulo_medida": "Obligación de bancos y grandes tenedores de pagar cuotas de comunidad",
+          "texto_oficial": "Exigencia legal inmediata para que entidades financieras y fondos propietarios de viviendas adjudicadas abonen puntualmente las cuotas ordinarias y derramas de las comunidades de propietarios. Viabilidad: Es viable reforzando la Ley de Propiedad Horizontal con embargos exprés sobre cuentas de grandes tenedores morosos.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL» del programa de PA: Exigencia legal inmediata para que entidades financieras y fondos propietarios de viviendas adjudicadas abonen puntualmente las cuotas ordinarias y derramas de las comunidades de propietarios. Viabilidad: Es viable reforzando la Ley de Propiedad Horizontal con embargos exprés sobre cuentas de grandes tenedores morosos.",
+          "datos_a_favor": "Busca ampliar la oferta efectiva de vivienda asequible, reforzar la seguridad jurídica o limitar la presión especulativa sobre el alquiler.",
+          "datos_en_contra": "Su eficacia depende de la coordinación con comunidades autónomas y ayuntamientos, del presupuesto movilizado y de posibles efectos sobre la oferta disponible.",
+          "id_bloque_comun": "bloque_01",
+          "titulo_bloque_comun": "Vivienda, Urbanismo y Mercado del Alquiler"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_02",
+      "numero_bloque": 2,
+      "titulo_bloque": "Economía, Industria, Innovación y Turismo",
+      "alcance_medidas": "Medidas 13 a 27 (15 medidas)",
+      "total_medidas_bloque": 15,
+      "medidas_incluidas": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "medidas": [
+        {
+          "numero_medida": 13,
+          "id_medida": "PA-13",
+          "seccion_original": "BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS",
+          "titulo_medida": "Supresión del Impuesto de Sucesiones y Donaciones en toda España",
+          "texto_oficial": "Armonización nacional mediante bonificación del 99 % del Impuesto sobre Sucesiones y Donaciones en todo el territorio español para familiares directos, evitando la doble imposición sobre ahorros y patrimonios familiares que ya tributaron en vida. Viabilidad: Es viable porque este impuesto apenas representa alrededor del 0,2 % del PIB y su eliminación en varias comunidades autónomas ha demostrado atraer inversión, evitar deslocalizaciones fiscales y facilitar la continuidad de empresas familiares.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS» del programa de PA: Armonización nacional mediante bonificación del 99 % del Impuesto sobre Sucesiones y Donaciones en todo el territorio español para familiares directos, evitando la doble imposición sobre ahorros y patrimonios familiares que ya tributaron en vida. Viabilidad: Es viable porque este impuesto apenas representa alrededor…",
+          "datos_a_favor": "Pretende reequilibrar la carga tributaria, incentivar la actividad económica o aumentar la progresividad fiscal para sostener el gasto público.",
+          "datos_en_contra": "Las rebajas selectivas o recargos fiscales pueden alterar la recaudación prevista, incrementar la litigiosidad tributaria o trasladarse a precios y rentas.",
+          "id_bloque_comun": "bloque_02",
+          "titulo_bloque_comun": "Economía, Industria, Innovación y Turismo"
+        },
+        {
+          "numero_medida": 14,
+          "id_medida": "PA-14",
+          "seccion_original": "BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS",
+          "titulo_medida": "Exención fiscal en la transmisión y relevo de pequeños negocios",
+          "texto_oficial": "Bonificación del 100 % en impuestos de transmisión patrimonial y plusvalías cuando se traspase un comercio o microempresa por jubilación del titular, siempre que el adquirente mantenga la actividad y el empleo durante al menos tres años. Viabilidad: Es viable porque cada año se pierden miles de negocios rentables por falta de relevo generacional; facilitar el traspaso evita el cierre de locales y conserva puestos de trabajo y cotizaciones que de otro modo desaparecerían.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS» del programa de PA: Bonificación del 100 % en impuestos de transmisión patrimonial y plusvalías cuando se traspase un comercio o microempresa por jubilación del titular, siempre que el adquirente mantenga la actividad y el empleo durante al menos tres años. Viabilidad: Es viable porque cada año se pierden miles de negocios rentables por…",
+          "datos_a_favor": "Pretende reequilibrar la carga tributaria, incentivar la actividad económica o aumentar la progresividad fiscal para sostener el gasto público.",
+          "datos_en_contra": "Las rebajas selectivas o recargos fiscales pueden alterar la recaudación prevista, incrementar la litigiosidad tributaria o trasladarse a precios y rentas.",
+          "id_bloque_comun": "bloque_02",
+          "titulo_bloque_comun": "Economía, Industria, Innovación y Turismo"
+        },
+        {
+          "numero_medida": 15,
+          "id_medida": "PA-15",
+          "seccion_original": "BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS",
+          "titulo_medida": "IVA superreducido del 4 % para productos de higiene y primera necesidad",
+          "texto_oficial": "Aplicación permanente del tipo superreducido del 4 % de IVA a pañales infantiles y de adultos, compresas, tampones y productos básicos de higiene femenina, equiparándolos fiscalmente a los alimentos de primera necesidad. Viabilidad: Es viable tras la reforma de la Directiva Europea de tipos de IVA, tiene un impacto recaudatorio muy acotado y alivia de forma directa y regresiva la cesta de la compra de todas las familias.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS» del programa de PA: Aplicación permanente del tipo superreducido del 4 % de IVA a pañales infantiles y de adultos, compresas, tampones y productos básicos de higiene femenina, equiparándolos fiscalmente a los alimentos de primera necesidad. Viabilidad: Es viable tras la reforma de la Directiva Europea de tipos de IVA, tiene un impacto…",
+          "datos_a_favor": "Pretende reequilibrar la carga tributaria, incentivar la actividad económica o aumentar la progresividad fiscal para sostener el gasto público.",
+          "datos_en_contra": "Las rebajas selectivas o recargos fiscales pueden alterar la recaudación prevista, incrementar la litigiosidad tributaria o trasladarse a precios y rentas.",
+          "id_bloque_comun": "bloque_02",
+          "titulo_bloque_comun": "Economía, Industria, Innovación y Turismo"
+        },
+        {
+          "numero_medida": 16,
+          "id_medida": "PA-16",
+          "seccion_original": "BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS",
+          "titulo_medida": "Eliminación de retenciones en alquileres de locales comerciales",
+          "texto_oficial": "Supresión de la obligación de practicar retención del 19 % en el alquiler de locales afectos a actividades económicas cuando el arrendatario sea un autónomo o microempresa al corriente de sus obligaciones fiscales. Viabilidad: Es viable porque simplifica la gestión trimestral (modelo 115) sin alterar la tributación final del propietario en su IRPF o Impuesto de Sociedades, reduciendo errores formales y sanciones innecesarias.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS» del programa de PA: Supresión de la obligación de practicar retención del 19 % en el alquiler de locales afectos a actividades económicas cuando el arrendatario sea un autónomo o microempresa al corriente de sus obligaciones fiscales. Viabilidad: Es viable porque simplifica la gestión trimestral (modelo 115) sin alterar la tributación…",
+          "datos_a_favor": "Pretende reequilibrar la carga tributaria, incentivar la actividad económica o aumentar la progresividad fiscal para sostener el gasto público.",
+          "datos_en_contra": "Las rebajas selectivas o recargos fiscales pueden alterar la recaudación prevista, incrementar la litigiosidad tributaria o trasladarse a precios y rentas.",
+          "id_bloque_comun": "bloque_02",
+          "titulo_bloque_comun": "Economía, Industria, Innovación y Turismo"
+        },
+        {
+          "numero_medida": 17,
+          "id_medida": "PA-17",
+          "seccion_original": "BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS",
+          "titulo_medida": "Deducción estatal por alquiler de vivienda habitual y local profesional",
+          "texto_oficial": "Recuperación de la deducción estatal en el IRPF por alquiler de vivienda habitual para rentas medias y bajas, extendiendo un tramo deducible específico cuando parte de la vivienda esté afecta declaradamente al teletrabajo o actividad profesional. Viabilidad: Es viable porque incentiva la declaración oficial de los contratos de arrendamiento frente al mercado sumergido, compensando parte del coste fiscal mediante el afloramiento de rentas inmobiliarias no declaradas.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS» del programa de PA: Recuperación de la deducción estatal en el IRPF por alquiler de vivienda habitual para rentas medias y bajas, extendiendo un tramo deducible específico cuando parte de la vivienda esté afecta declaradamente al teletrabajo o actividad profesional. Viabilidad: Es viable porque incentiva la declaración oficial de los…",
+          "datos_a_favor": "Pretende reequilibrar la carga tributaria, incentivar la actividad económica o aumentar la progresividad fiscal para sostener el gasto público.",
+          "datos_en_contra": "Las rebajas selectivas o recargos fiscales pueden alterar la recaudación prevista, incrementar la litigiosidad tributaria o trasladarse a precios y rentas.",
+          "id_bloque_comun": "bloque_02",
+          "titulo_bloque_comun": "Economía, Industria, Innovación y Turismo"
+        },
+        {
+          "numero_medida": 18,
+          "id_medida": "PA-18",
+          "seccion_original": "BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS",
+          "titulo_medida": "Reparto equitativo de gastos notariales y registrales en financiación",
+          "texto_oficial": "Obligación legal de que las entidades financieras asuman al menos el 50 % de los gastos de notaría, gestoría y tasación en operaciones de financiación empresarial, traspaso de negocios y novaciones hipotecarias. Viabilidad: Es viable siguiendo el precedente de la Ley de Contratos de Crédito Inmobiliario, equilibrando la capacidad negociadora entre la banca y las pymes que necesitan crédito para invertir.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS» del programa de PA: Obligación legal de que las entidades financieras asuman al menos el 50 % de los gastos de notaría, gestoría y tasación en operaciones de financiación empresarial, traspaso de negocios y novaciones hipotecarias. Viabilidad: Es viable siguiendo el precedente de la Ley de Contratos de Crédito Inmobiliario, equilibrando…",
+          "datos_a_favor": "Pretende reequilibrar la carga tributaria, incentivar la actividad económica o aumentar la progresividad fiscal para sostener el gasto público.",
+          "datos_en_contra": "Las rebajas selectivas o recargos fiscales pueden alterar la recaudación prevista, incrementar la litigiosidad tributaria o trasladarse a precios y rentas.",
+          "id_bloque_comun": "bloque_02",
+          "titulo_bloque_comun": "Economía, Industria, Innovación y Turismo"
+        },
+        {
+          "numero_medida": 19,
+          "id_medida": "PA-19",
+          "seccion_original": "BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS",
+          "titulo_medida": "Arancel notarial y registral reducido para constituir pymes",
+          "texto_oficial": "Fijación de una tarifa plana notarial y registral máxima de 100 € para la constitución telemática de sociedades limitadas y sociedades profesionales, eliminando tasas intermedias del BORME. Viabilidad: Es viable aprovechando la digitalización de notarías y registros mercantiles prevista en la normativa europea de sociedades, reduciendo el coste inicial de emprender en España.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS» del programa de PA: Fijación de una tarifa plana notarial y registral máxima de 100 € para la constitución telemática de sociedades limitadas y sociedades profesionales, eliminando tasas intermedias del BORME. Viabilidad: Es viable aprovechando la digitalización de notarías y registros mercantiles prevista en la normativa europea de…",
+          "datos_a_favor": "Pretende reequilibrar la carga tributaria, incentivar la actividad económica o aumentar la progresividad fiscal para sostener el gasto público.",
+          "datos_en_contra": "Las rebajas selectivas o recargos fiscales pueden alterar la recaudación prevista, incrementar la litigiosidad tributaria o trasladarse a precios y rentas.",
+          "id_bloque_comun": "bloque_02",
+          "titulo_bloque_comun": "Economía, Industria, Innovación y Turismo"
+        },
+        {
+          "numero_medida": 20,
+          "id_medida": "PA-20",
+          "seccion_original": "BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS",
+          "titulo_medida": "Bonificación del 50 % en el ICIO para rehabilitación y eficiencia energética",
+          "texto_oficial": "Reducción obligatoria del 50 % en el Impuesto sobre Construcciones, Instalaciones y Obras (ICIO) para reformas de mantenimiento, accesibilidad y eficiencia energética tanto en viviendas particulares como en locales comerciales. Viabilidad: Es viable porque dinamiza al sector de autónomos de la construcción y reformas (albañiles, fontaneros, electricistas), aflorando facturas legales con IVA que compensan la bonificación municipal.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS» del programa de PA: Reducción obligatoria del 50 % en el Impuesto sobre Construcciones, Instalaciones y Obras (ICIO) para reformas de mantenimiento, accesibilidad y eficiencia energética tanto en viviendas particulares como en locales comerciales. Viabilidad: Es viable porque dinamiza al sector de autónomos de la construcción y reformas…",
+          "datos_a_favor": "Pretende reequilibrar la carga tributaria, incentivar la actividad económica o aumentar la progresividad fiscal para sostener el gasto público.",
+          "datos_en_contra": "Las rebajas selectivas o recargos fiscales pueden alterar la recaudación prevista, incrementar la litigiosidad tributaria o trasladarse a precios y rentas.",
+          "id_bloque_comun": "bloque_02",
+          "titulo_bloque_comun": "Economía, Industria, Innovación y Turismo"
+        },
+        {
+          "numero_medida": 21,
+          "id_medida": "PA-21",
+          "seccion_original": "BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS",
+          "titulo_medida": "Reducción y revisión nacional de los tipos del Impuesto de Bienes Inmuebles",
+          "texto_oficial": "Rebaja del tipo mínimo y máximo del IBI urbano y rústico tras la actualización de valores catastrales, estableciendo bonificaciones obligatorias para locales comerciales abiertos al público en zonas afectadas por obras o caída de tráfico. Viabilidad: Es viable compensando la menor recaudación por IBI con la reducción de gasto político municipal y la mayor actividad económica derivada de mantener persianas abiertas en los barrios.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS» del programa de PA: Rebaja del tipo mínimo y máximo del IBI urbano y rústico tras la actualización de valores catastrales, estableciendo bonificaciones obligatorias para locales comerciales abiertos al público en zonas afectadas por obras o caída de tráfico. Viabilidad: Es viable compensando la menor recaudación por IBI con la reducción…",
+          "datos_a_favor": "Pretende reequilibrar la carga tributaria, incentivar la actividad económica o aumentar la progresividad fiscal para sostener el gasto público.",
+          "datos_en_contra": "Las rebajas selectivas o recargos fiscales pueden alterar la recaudación prevista, incrementar la litigiosidad tributaria o trasladarse a precios y rentas.",
+          "id_bloque_comun": "bloque_02",
+          "titulo_bloque_comun": "Economía, Industria, Innovación y Turismo"
+        },
+        {
+          "numero_medida": 22,
+          "id_medida": "PA-22",
+          "seccion_original": "BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS",
+          "titulo_medida": "Incentivos fiscales al ahorro privado y a la previsión complementaria",
+          "texto_oficial": "Recuperación de las reducciones en IRPF por aportaciones a planes de pensiones individuales y planes de previsión social empresarial hasta 5.000 € anuales, junto con una cuenta ahorro vivienda libre de tributación por rendimientos. Viabilidad: Es viable porque fomenta el ahorro nacional a largo plazo, reduce la dependencia futura del sistema público de pensiones y facilita que los jóvenes acumulen la entrada para su primera vivienda.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS» del programa de PA: Recuperación de las reducciones en IRPF por aportaciones a planes de pensiones individuales y planes de previsión social empresarial hasta 5.000 € anuales, junto con una cuenta ahorro vivienda libre de tributación por rendimientos. Viabilidad: Es viable porque fomenta el ahorro nacional a largo plazo, reduce la…",
+          "datos_a_favor": "Pretende reequilibrar la carga tributaria, incentivar la actividad económica o aumentar la progresividad fiscal para sostener el gasto público.",
+          "datos_en_contra": "Las rebajas selectivas o recargos fiscales pueden alterar la recaudación prevista, incrementar la litigiosidad tributaria o trasladarse a precios y rentas.",
+          "id_bloque_comun": "bloque_02",
+          "titulo_bloque_comun": "Economía, Industria, Innovación y Turismo"
+        },
+        {
+          "numero_medida": 23,
+          "id_medida": "PA-23",
+          "seccion_original": "BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS",
+          "titulo_medida": "Restitución del IVA reducido al 10 % para peluquerías, estética y gimnasios",
+          "texto_oficial": "Rebaja definitiva del tipo de IVA del 21 % al 10 % para los servicios de peluquería, imagen personal, estética y centros deportivos, corrigiendo la subida excepcional aprobada en 2012. Viabilidad: Es viable porque se trata de sectores intensivos en mano de obra femenina y autoempleo con miles de pequeños salones; bajar el IVA frena el cierre de establecimientos y reduce la economía informal.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS» del programa de PA: Rebaja definitiva del tipo de IVA del 21 % al 10 % para los servicios de peluquería, imagen personal, estética y centros deportivos, corrigiendo la subida excepcional aprobada en 2012. Viabilidad: Es viable porque se trata de sectores intensivos en mano de obra femenina y autoempleo con miles de pequeños salones…",
+          "datos_a_favor": "Pretende reequilibrar la carga tributaria, incentivar la actividad económica o aumentar la progresividad fiscal para sostener el gasto público.",
+          "datos_en_contra": "Las rebajas selectivas o recargos fiscales pueden alterar la recaudación prevista, incrementar la litigiosidad tributaria o trasladarse a precios y rentas.",
+          "id_bloque_comun": "bloque_02",
+          "titulo_bloque_comun": "Economía, Industria, Innovación y Turismo"
+        },
+        {
+          "numero_medida": 24,
+          "id_medida": "PA-24",
+          "seccion_original": "BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS",
+          "titulo_medida": "Eliminación de penalizaciones fiscales por tener dos o más pagadores",
+          "texto_oficial": "Unificación del umbral obligatorio para presentar la declaración de la Renta en 22.000 € anuales con independencia del número de pagadores, obligando además al SEPE y a las empresas a aplicar retenciones proporcionales reales en contratos temporales. Viabilidad: Es viable mediante un simple ajuste técnico en el Reglamento del IRPF y en las tablas de retención, evitando que trabajadores precarios o en pluriempleo sufran liquidaciones inesperadas en la Renta.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS» del programa de PA: Unificación del umbral obligatorio para presentar la declaración de la Renta en 22.000 € anuales con independencia del número de pagadores, obligando además al SEPE y a las empresas a aplicar retenciones proporcionales reales en contratos temporales. Viabilidad: Es viable mediante un simple ajuste técnico en el…",
+          "datos_a_favor": "Pretende reequilibrar la carga tributaria, incentivar la actividad económica o aumentar la progresividad fiscal para sostener el gasto público.",
+          "datos_en_contra": "Las rebajas selectivas o recargos fiscales pueden alterar la recaudación prevista, incrementar la litigiosidad tributaria o trasladarse a precios y rentas.",
+          "id_bloque_comun": "bloque_02",
+          "titulo_bloque_comun": "Economía, Industria, Innovación y Turismo"
+        },
+        {
+          "numero_medida": 25,
+          "id_medida": "PA-25",
+          "seccion_original": "BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS",
+          "titulo_medida": "Bonificación profesional del gasóleo y energía para transportistas",
+          "texto_oficial": "Devolución mensual automática y ampliada del impuesto sobre hidrocarburos (gasóleo profesional) para transportistas autónomos, taxistas, VTC y maquinaria agrícola, vinculada a índices objetivos de costes energéticos. Viabilidad: Es viable utilizando el censo ya operativo de beneficiarios de gasóleo profesional de la Agencia Tributaria, evitando el colapso logístico y el encarecimiento de la cesta de la compra.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS» del programa de PA: Devolución mensual automática y ampliada del impuesto sobre hidrocarburos (gasóleo profesional) para transportistas autónomos, taxistas, VTC y maquinaria agrícola, vinculada a índices objetivos de costes energéticos. Viabilidad: Es viable utilizando el censo ya operativo de beneficiarios de gasóleo profesional de la…",
+          "datos_a_favor": "Pretende reequilibrar la carga tributaria, incentivar la actividad económica o aumentar la progresividad fiscal para sostener el gasto público.",
+          "datos_en_contra": "Las rebajas selectivas o recargos fiscales pueden alterar la recaudación prevista, incrementar la litigiosidad tributaria o trasladarse a precios y rentas.",
+          "id_bloque_comun": "bloque_02",
+          "titulo_bloque_comun": "Economía, Industria, Innovación y Turismo"
+        },
+        {
+          "numero_medida": 26,
+          "id_medida": "PA-26",
+          "seccion_original": "BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL",
+          "titulo_medida": "Reducción progresiva de las cotizaciones sociales a cargo de la empresa",
+          "texto_oficial": "Rebaja escalonada de dos puntos en las cotizaciones empresariales por contingencias comunes para pymes y autónomos con menos de 50 trabajadores, vinculada al mantenimiento del empleo indefinido. Viabilidad: Es viable porque España soporta una de las cuñas fiscales sobre el trabajo más altas de la OCDE; reducir el coste laboral no salarial incentiva nuevas contrataciones que amplían el número total de cotizantes.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL» del programa de PA: Rebaja escalonada de dos puntos en las cotizaciones empresariales por contingencias comunes para pymes y autónomos con menos de 50 trabajadores, vinculada al mantenimiento del empleo indefinido. Viabilidad: Es viable porque España soporta una de las cuñas fiscales sobre el trabajo más altas de la OCDE; reducir el…",
+          "datos_a_favor": "Pretende reequilibrar la carga tributaria, incentivar la actividad económica o aumentar la progresividad fiscal para sostener el gasto público.",
+          "datos_en_contra": "Las rebajas selectivas o recargos fiscales pueden alterar la recaudación prevista, incrementar la litigiosidad tributaria o trasladarse a precios y rentas.",
+          "id_bloque_comun": "bloque_02",
+          "titulo_bloque_comun": "Economía, Industria, Innovación y Turismo"
+        },
+        {
+          "numero_medida": 27,
+          "id_medida": "PA-27",
+          "seccion_original": "BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL",
+          "titulo_medida": "Bonificación del 100 % en contratos de sustitución por baja médica",
+          "texto_oficial": "Exención total de las cotizaciones empresariales tanto del trabajador sustituido como del sustituto cuando un autónomo o pyme contrate a un desempleado para cubrir una baja por enfermedad común, accidente o maternidad/paternidad. Viabilidad: Es viable porque elimina la doble carga financiera que hoy obliga a muchas microempresas a cerrar temporalmente o sobrecargar a la plantilla cuando un empleado enferma.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL» del programa de PA: Exención total de las cotizaciones empresariales tanto del trabajador sustituido como del sustituto cuando un autónomo o pyme contrate a un desempleado para cubrir una baja por enfermedad común, accidente o maternidad/paternidad. Viabilidad: Es viable porque elimina la doble carga financiera que hoy obliga a muchas…",
+          "datos_a_favor": "Pretende reequilibrar la carga tributaria, incentivar la actividad económica o aumentar la progresividad fiscal para sostener el gasto público.",
+          "datos_en_contra": "Las rebajas selectivas o recargos fiscales pueden alterar la recaudación prevista, incrementar la litigiosidad tributaria o trasladarse a precios y rentas.",
+          "id_bloque_comun": "bloque_02",
+          "titulo_bloque_comun": "Economía, Industria, Innovación y Turismo"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_03",
+      "numero_bloque": 3,
+      "titulo_bloque": "Fiscalidad, Impuestos y Hacienda Pública",
+      "alcance_medidas": "Medidas 1 a 40 (21 medidas)",
+      "total_medidas_bloque": 21,
+      "medidas_incluidas": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "medidas": [
+        {
+          "numero_medida": 1,
+          "id_medida": "PA-1",
+          "seccion_original": "BLOQUE I · LAS 10 PROPUESTAS ESTRELLA DE CAMPAÑA 2026",
+          "titulo_medida": "Cuota Cero automática cuando los ingresos no alcancen el SMI",
+          "texto_oficial": "Exención total e inmediata de la cuota de autónomos en cualquier mes en que los rendimientos netos del trabajador por cuenta propia no superen el Salario Mínimo Interprofesional (SMI), ampliando además la tarifa plana reducida inicial a 24 meses sin burocracia previa. Viabilidad: Es plenamente viable porque evita el cierre prematuro de negocios estacionales o en fase de arranque: en España hay más de 3,38 millones de autónomos (RETA 2026) y alrededor de un tercio declara rendimientos inferiores al SMI. Mantenerlos activos preserva el tejido comercial y retorna ingresos vía IVA, IRPF y consumo.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE I · LAS 10 PROPUESTAS ESTRELLA DE CAMPAÑA 2026» del programa de PA: Exención total e inmediata de la cuota de autónomos en cualquier mes en que los rendimientos netos del trabajador por cuenta propia no superen el Salario Mínimo Interprofesional (SMI), ampliando además la tarifa plana reducida inicial a 24 meses sin burocracia previa. Viabilidad: Es plenamente viable porque evita el…",
+          "datos_a_favor": "Aspira a mejorar las condiciones de trabajo, reducir la precariedad o aliviar cotizaciones y trabas para trabajadores por cuenta propia y asalariados.",
+          "datos_en_contra": "Cambios profundos en jornada, cotizaciones o salario mínimo generan debate sobre costes laborales para pequeñas empresas, productividad y sostenibilidad contributiva.",
+          "id_bloque_comun": "bloque_03",
+          "titulo_bloque_comun": "Fiscalidad, Impuestos y Hacienda Pública"
+        },
+        {
+          "numero_medida": 2,
+          "id_medida": "PA-2",
+          "seccion_original": "BLOQUE I · LAS 10 PROPUESTAS ESTRELLA DE CAMPAÑA 2026",
+          "titulo_medida": "IVA Franquiciado hasta 85.000 € y IVA de Caja obligatorio",
+          "texto_oficial": "Transposición inmediata de la Directiva Europea 2020/285 para que autónomos y microempresas que facturen menos de 85.000 € anuales queden exentos de repercutir y liquidar el IVA trimestral, implantando además el IVA de caja real para que nadie adelante impuestos de facturas no cobradas. Viabilidad: Es viable jurídica y económicamente porque ya funciona en la práctica totalidad de la Unión Europea sin merma estructural de recaudación. El ahorro en gestión administrativa y la mejora de liquidez reducen la morosidad y afloran actividad económica que hoy se frena por miedo a los adelantos fiscales.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE I · LAS 10 PROPUESTAS ESTRELLA DE CAMPAÑA 2026» del programa de PA: Transposición inmediata de la Directiva Europea 2020/285 para que autónomos y microempresas que facturen menos de 85.000 € anuales queden exentos de repercutir y liquidar el IVA trimestral, implantando además el IVA de caja real para que nadie adelante impuestos de facturas no cobradas. Viabilidad: Es viable jurídica…",
+          "datos_a_favor": "Aspira a mejorar las condiciones de trabajo, reducir la precariedad o aliviar cotizaciones y trabas para trabajadores por cuenta propia y asalariados.",
+          "datos_en_contra": "Cambios profundos en jornada, cotizaciones o salario mínimo generan debate sobre costes laborales para pequeñas empresas, productividad y sostenibilidad contributiva.",
+          "id_bloque_comun": "bloque_03",
+          "titulo_bloque_comun": "Fiscalidad, Impuestos y Hacienda Pública"
+        },
+        {
+          "numero_medida": 3,
+          "id_medida": "PA-3",
+          "seccion_original": "BLOQUE I · LAS 10 PROPUESTAS ESTRELLA DE CAMPAÑA 2026",
+          "titulo_medida": "Licencia Exprés en 24 horas mediante Declaración Responsable",
+          "texto_oficial": "Sustitución de todas las licencias municipales y autonómicas previas de apertura, reforma inocua o cambio de titularidad de locales comerciales por una declaración responsable telemática única que habilita para abrir el negocio en 24 horas, reservando el control previo solo a actividades peligrosas o contaminantes. Viabilidad: Es viable sin coste presupuestario porque traslada el control administrativo a inspecciones aleatorias posteriores, liberando a los técnicos municipales del atasco de expedientes. Reducir de seis meses a un día el tiempo de apertura acelera el cobro de impuestos locales y el empleo desde la primera semana.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE I · LAS 10 PROPUESTAS ESTRELLA DE CAMPAÑA 2026» del programa de PA: Sustitución de todas las licencias municipales y autonómicas previas de apertura, reforma inocua o cambio de titularidad de locales comerciales por una declaración responsable telemática única que habilita para abrir el negocio en 24 horas, reservando el control previo solo a actividades peligrosas o contaminantes.…",
+          "datos_a_favor": "Aspira a mejorar las condiciones de trabajo, reducir la precariedad o aliviar cotizaciones y trabas para trabajadores por cuenta propia y asalariados.",
+          "datos_en_contra": "Cambios profundos en jornada, cotizaciones o salario mínimo generan debate sobre costes laborales para pequeñas empresas, productividad y sostenibilidad contributiva.",
+          "id_bloque_comun": "bloque_03",
+          "titulo_bloque_comun": "Fiscalidad, Impuestos y Hacienda Pública"
+        },
+        {
+          "numero_medida": 4,
+          "id_medida": "PA-4",
+          "seccion_original": "BLOQUE I · LAS 10 PROPUESTAS ESTRELLA DE CAMPAÑA 2026",
+          "titulo_medida": "Paro automático y Baja Laboral digna desde el primer día",
+          "texto_oficial": "Equiparación objetiva de la prestación por cese de actividad con el desempleo asalariado, eliminando requisitos probatorios abusivos, junto con la bonificación del 100 % de la cuota desde el primer día de baja médica acreditada y el cálculo de pensiones sobre los años más favorables cotizados. Viabilidad: Es viable porque los autónomos ya cotizan obligatoriamente por contingencias profesionales y cese de actividad, acumulando superávit recurrente en las mutuas colaboradoras debido al alto porcentaje de denegaciones actuales. Reasignar esos fondos propios cubre el coste sin elevar el déficit público.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE I · LAS 10 PROPUESTAS ESTRELLA DE CAMPAÑA 2026» del programa de PA: Equiparación objetiva de la prestación por cese de actividad con el desempleo asalariado, eliminando requisitos probatorios abusivos, junto con la bonificación del 100 % de la cuota desde el primer día de baja médica acreditada y el cálculo de pensiones sobre los años más favorables cotizados. Viabilidad: Es viable…",
+          "datos_a_favor": "Aspira a mejorar las condiciones de trabajo, reducir la precariedad o aliviar cotizaciones y trabas para trabajadores por cuenta propia y asalariados.",
+          "datos_en_contra": "Cambios profundos en jornada, cotizaciones o salario mínimo generan debate sobre costes laborales para pequeñas empresas, productividad y sostenibilidad contributiva.",
+          "id_bloque_comun": "bloque_03",
+          "titulo_bloque_comun": "Fiscalidad, Impuestos y Hacienda Pública"
+        },
+        {
+          "numero_medida": 5,
+          "id_medida": "PA-5",
+          "seccion_original": "BLOQUE I · LAS 10 PROPUESTAS ESTRELLA DE CAMPAÑA 2026",
+          "titulo_medida": "Derecho al Error Tributario y Segunda Oportunidad Fiscal",
+          "texto_oficial": "Prohibición legal de imponer sanciones económicas automáticas por errores formales o discrepancias contables de buena fe sin ánimo de defraudación, estableciendo un plazo obligatorio de 15 días hábiles para subsanar sin recargo y agilizando la exoneración de deudas públicas en la Ley de Segunda Oportunidad. Viabilidad: Es viable porque descarga a los tribunales económico-administrativos de miles de recursos por multas menores y permite que emprendedores insolventes de buena fe vuelvan a cotizar y emprender en lugar de quedar atrapados en la economía sumergida durante décadas.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE I · LAS 10 PROPUESTAS ESTRELLA DE CAMPAÑA 2026» del programa de PA: Prohibición legal de imponer sanciones económicas automáticas por errores formales o discrepancias contables de buena fe sin ánimo de defraudación, estableciendo un plazo obligatorio de 15 días hábiles para subsanar sin recargo y agilizando la exoneración de deudas públicas en la Ley de Segunda Oportunidad.…",
+          "datos_a_favor": "Aspira a mejorar las condiciones de trabajo, reducir la precariedad o aliviar cotizaciones y trabas para trabajadores por cuenta propia y asalariados.",
+          "datos_en_contra": "Cambios profundos en jornada, cotizaciones o salario mínimo generan debate sobre costes laborales para pequeñas empresas, productividad y sostenibilidad contributiva.",
+          "id_bloque_comun": "bloque_03",
+          "titulo_bloque_comun": "Fiscalidad, Impuestos y Hacienda Pública"
+        },
+        {
+          "numero_medida": 6,
+          "id_medida": "PA-6",
+          "seccion_original": "BLOQUE I · LAS 10 PROPUESTAS ESTRELLA DE CAMPAÑA 2026",
+          "titulo_medida": "Recorte del 50 % en asesores y cargos de confianza política",
+          "texto_oficial": "Limitación legal estricta del número y retribución de personal eventual y cargos de libre designación en ministerios, autonomías y diputaciones, sustituyendo el asesoramiento partidista por funcionarios de carrera cualificados y colegios profesionales mediante convenios técnicos. Viabilidad: Es viable de forma inmediata mediante ley presupuestaria, generando un ahorro directo superior a 600 millones de euros anuales en el conjunto de las administraciones públicas, recursos que se destinarán íntegramente a bonificar el inicio de actividad y el relevo generacional de pymes.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE I · LAS 10 PROPUESTAS ESTRELLA DE CAMPAÑA 2026» del programa de PA: Limitación legal estricta del número y retribución de personal eventual y cargos de libre designación en ministerios, autonomías y diputaciones, sustituyendo el asesoramiento partidista por funcionarios de carrera cualificados y colegios profesionales mediante convenios técnicos. Viabilidad: Es viable de forma…",
+          "datos_a_favor": "Aspira a mejorar las condiciones de trabajo, reducir la precariedad o aliviar cotizaciones y trabas para trabajadores por cuenta propia y asalariados.",
+          "datos_en_contra": "Cambios profundos en jornada, cotizaciones o salario mínimo generan debate sobre costes laborales para pequeñas empresas, productividad y sostenibilidad contributiva.",
+          "id_bloque_comun": "bloque_03",
+          "titulo_bloque_comun": "Fiscalidad, Impuestos y Hacienda Pública"
+        },
+        {
+          "numero_medida": 7,
+          "id_medida": "PA-7",
+          "seccion_original": "BLOQUE I · LAS 10 PROPUESTAS ESTRELLA DE CAMPAÑA 2026",
+          "titulo_medida": "Presupuesto Base Cero y Auditoría anual de chiringuitos",
+          "texto_oficial": "Eliminación de la prórroga automática de partidas presupuestarias: cada ministerio y ente público deberá justificar anualmente desde cero la utilidad de cada euro solicitado, suprimiendo observatorios, fundaciones y organismos duplicados entre Estado y Comunidades Autónomas. Viabilidad: Es viable aplicando técnicas estándar de control financiero empresarial a través de la Intervención General y el Tribunal de Cuentas. Detectar solapamientos administrativos permite reducir el gasto improductivo entre un 3 % y un 5 % sin recortar ni un euro en sanidad, educación o pensiones.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE I · LAS 10 PROPUESTAS ESTRELLA DE CAMPAÑA 2026» del programa de PA: Eliminación de la prórroga automática de partidas presupuestarias: cada ministerio y ente público deberá justificar anualmente desde cero la utilidad de cada euro solicitado, suprimiendo observatorios, fundaciones y organismos duplicados entre Estado y Comunidades Autónomas. Viabilidad: Es viable aplicando técnicas…",
+          "datos_a_favor": "Aspira a mejorar las condiciones de trabajo, reducir la precariedad o aliviar cotizaciones y trabas para trabajadores por cuenta propia y asalariados.",
+          "datos_en_contra": "Cambios profundos en jornada, cotizaciones o salario mínimo generan debate sobre costes laborales para pequeñas empresas, productividad y sostenibilidad contributiva.",
+          "id_bloque_comun": "bloque_03",
+          "titulo_bloque_comun": "Fiscalidad, Impuestos y Hacienda Pública"
+        },
+        {
+          "numero_medida": 8,
+          "id_medida": "PA-8",
+          "seccion_original": "BLOQUE I · LAS 10 PROPUESTAS ESTRELLA DE CAMPAÑA 2026",
+          "titulo_medida": "Dato Único Digital: prohibido pedir papeles que ya tiene el Estado",
+          "texto_oficial": "Interconexión obligatoria de todas las bases de datos de Hacienda, Seguridad Social, SEPE, DGT y registros autonómicos o locales bajo el principio europeo de «solo una vez», prohibiendo sancionar o paralizar trámites por no aportar certificados que obran en poder público. Viabilidad: Es viable apoyándose en la infraestructura digital ya existente (Carpeta Ciudadana y plataformas de intermediación de datos), exigiendo únicamente voluntad normativa para eliminar silos administrativos y ahorrar a cada autónomo más de 120 horas anuales de gestión burocrática.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE I · LAS 10 PROPUESTAS ESTRELLA DE CAMPAÑA 2026» del programa de PA: Interconexión obligatoria de todas las bases de datos de Hacienda, Seguridad Social, SEPE, DGT y registros autonómicos o locales bajo el principio europeo de «solo una vez», prohibiendo sancionar o paralizar trámites por no aportar certificados que obran en poder público. Viabilidad: Es viable apoyándose en la…",
+          "datos_a_favor": "Aspira a mejorar las condiciones de trabajo, reducir la precariedad o aliviar cotizaciones y trabas para trabajadores por cuenta propia y asalariados.",
+          "datos_en_contra": "Cambios profundos en jornada, cotizaciones o salario mínimo generan debate sobre costes laborales para pequeñas empresas, productividad y sostenibilidad contributiva.",
+          "id_bloque_comun": "bloque_03",
+          "titulo_bloque_comun": "Fiscalidad, Impuestos y Hacienda Pública"
+        },
+        {
+          "numero_medida": 9,
+          "id_medida": "PA-9",
+          "seccion_original": "BLOQUE I · LAS 10 PROPUESTAS ESTRELLA DE CAMPAÑA 2026",
+          "titulo_medida": "Bono Primer Empleado: bonificación del 100 % de cotización el primer año",
+          "texto_oficial": "Bonificación íntegra de la cuota empresarial a la Seguridad Social durante los primeros doce meses para cualquier autónomo persona física o microempresa que contrate de forma indefinida a su primer trabajador asalariado, manteniendo un 50 % de reducción durante el segundo año. Viabilidad: Es viable y autofinanciable porque en España existen casi 2 millones de autónomos sin asalariados. Si apenas un 5 % da el paso de contratar, se crean 100.000 empleos netos que ahorran prestaciones por desempleo y generan recaudación directa vía IRPF y consumo.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE I · LAS 10 PROPUESTAS ESTRELLA DE CAMPAÑA 2026» del programa de PA: Bonificación íntegra de la cuota empresarial a la Seguridad Social durante los primeros doce meses para cualquier autónomo persona física o microempresa que contrate de forma indefinida a su primer trabajador asalariado, manteniendo un 50 % de reducción durante el segundo año. Viabilidad: Es viable y autofinanciable…",
+          "datos_a_favor": "Aspira a mejorar las condiciones de trabajo, reducir la precariedad o aliviar cotizaciones y trabas para trabajadores por cuenta propia y asalariados.",
+          "datos_en_contra": "Cambios profundos en jornada, cotizaciones o salario mínimo generan debate sobre costes laborales para pequeñas empresas, productividad y sostenibilidad contributiva.",
+          "id_bloque_comun": "bloque_03",
+          "titulo_bloque_comun": "Fiscalidad, Impuestos y Hacienda Pública"
+        },
+        {
+          "numero_medida": 10,
+          "id_medida": "PA-10",
+          "seccion_original": "BLOQUE I · LAS 10 PROPUESTAS ESTRELLA DE CAMPAÑA 2026",
+          "titulo_medida": "Deducción plena y objetiva de gastos afectos al negocio",
+          "texto_oficial": "Reconocimiento automático en IRPF e IVA del 100 % de los gastos reales necesarios para ejercer la actividad (vehículo profesional, combustible, suministros en teletrabajo y manutención en jornada laboral) mediante reglas claras que acaben con la arbitrariedad inspectora. Viabilidad: Es viable porque aporta seguridad jurídica y elimina la litigiosidad tributaria: cuando un gasto es deducible de forma transparente, el autónomo exige factura oficial a sus proveedores, reduciendo el fraude fiscal en cadena y aumentando la base imponible declarada.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE I · LAS 10 PROPUESTAS ESTRELLA DE CAMPAÑA 2026» del programa de PA: Reconocimiento automático en IRPF e IVA del 100 % de los gastos reales necesarios para ejercer la actividad (vehículo profesional, combustible, suministros en teletrabajo y manutención en jornada laboral) mediante reglas claras que acaben con la arbitrariedad inspectora. Viabilidad: Es viable porque aporta seguridad…",
+          "datos_a_favor": "Aspira a mejorar las condiciones de trabajo, reducir la precariedad o aliviar cotizaciones y trabas para trabajadores por cuenta propia y asalariados.",
+          "datos_en_contra": "Cambios profundos en jornada, cotizaciones o salario mínimo generan debate sobre costes laborales para pequeñas empresas, productividad y sostenibilidad contributiva.",
+          "id_bloque_comun": "bloque_03",
+          "titulo_bloque_comun": "Fiscalidad, Impuestos y Hacienda Pública"
+        },
+        {
+          "numero_medida": 11,
+          "id_medida": "PA-11",
+          "seccion_original": "BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS",
+          "titulo_medida": "Reversión fiscal y transparencia en el retorno de impuestos",
+          "texto_oficial": "Creación de un informe anual personalizado para cada contribuyente que detalle el destino exacto de sus impuestos pagados y la calidad real de los servicios públicos recibidos frente a la media europea (donde el IVA general medio ronda el 21,6 %). Viabilidad: Es viable aprovechando los sistemas de información de la Agencia Tributaria sin coste adicional, fomentando la cultura de exigencia ciudadana y obligando a los gestores públicos a mejorar la eficiencia del gasto para justificar la presión fiscal.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS» del programa de PA: Creación de un informe anual personalizado para cada contribuyente que detalle el destino exacto de sus impuestos pagados y la calidad real de los servicios públicos recibidos frente a la media europea (donde el IVA general medio ronda el 21,6 %). Viabilidad: Es viable aprovechando los sistemas de información de la…",
+          "datos_a_favor": "Aspira a mejorar las condiciones de trabajo, reducir la precariedad o aliviar cotizaciones y trabas para trabajadores por cuenta propia y asalariados.",
+          "datos_en_contra": "Cambios profundos en jornada, cotizaciones o salario mínimo generan debate sobre costes laborales para pequeñas empresas, productividad y sostenibilidad contributiva.",
+          "id_bloque_comun": "bloque_03",
+          "titulo_bloque_comun": "Fiscalidad, Impuestos y Hacienda Pública"
+        },
+        {
+          "numero_medida": 12,
+          "id_medida": "PA-12",
+          "seccion_original": "BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS",
+          "titulo_medida": "Rebaja del IVA eléctrico al 10 % y optimización de potencia para pymes",
+          "texto_oficial": "Reducción permanente del IVA de la electricidad al 10 % para hogares y pequeños negocios con potencia contratada inferior a 15 kW, permitiendo además cambiar gratuitamente la potencia contratada dos veces al año para adaptarla a la estacionalidad. Viabilidad: Es viable porque el coste energético sigue representando uno de los principales gastos fijos del comercio y la hostelería; ajustar los tramos de potencia evita sobrecostes innecesarios en la red y mantiene la actividad abierta en meses valle.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE II · FISCALIDAD JUSTA, ENERGÍA Y REDUCCIÓN DE CARGAS» del programa de PA: Reducción permanente del IVA de la electricidad al 10 % para hogares y pequeños negocios con potencia contratada inferior a 15 kW, permitiendo además cambiar gratuitamente la potencia contratada dos veces al año para adaptarla a la estacionalidad. Viabilidad: Es viable porque el coste energético sigue representando…",
+          "datos_a_favor": "Aspira a mejorar las condiciones de trabajo, reducir la precariedad o aliviar cotizaciones y trabas para trabajadores por cuenta propia y asalariados.",
+          "datos_en_contra": "Cambios profundos en jornada, cotizaciones o salario mínimo generan debate sobre costes laborales para pequeñas empresas, productividad y sostenibilidad contributiva.",
+          "id_bloque_comun": "bloque_03",
+          "titulo_bloque_comun": "Fiscalidad, Impuestos y Hacienda Pública"
+        },
+        {
+          "numero_medida": 32,
+          "id_medida": "PA-32",
+          "seccion_original": "BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL",
+          "titulo_medida": "Tarifa reducida real para asalariados en situación de pluriactividad",
+          "texto_oficial": "Sustitución de la actual devolución anual tardía por una exención directa en origen del 75 % de la cuota de autónomos para trabajadores por cuenta ajena que emprendan una actividad complementaria, hasta alcanzar el tope máximo de cotización. Viabilidad: Es viable porque ya cotizan por contingencias comunes en su empleo principal; eliminar el sobrecoste inicial fomenta el emprendimiento gradual sin riesgo de perder el sustento familiar.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL» del programa de PA: Sustitución de la actual devolución anual tardía por una exención directa en origen del 75 % de la cuota de autónomos para trabajadores por cuenta ajena que emprendan una actividad complementaria, hasta alcanzar el tope máximo de cotización. Viabilidad: Es viable porque ya cotizan por contingencias comunes en su…",
+          "datos_a_favor": "Aspira a mejorar las condiciones de trabajo, reducir la precariedad o aliviar cotizaciones y trabas para trabajadores por cuenta propia y asalariados.",
+          "datos_en_contra": "Cambios profundos en jornada, cotizaciones o salario mínimo generan debate sobre costes laborales para pequeñas empresas, productividad y sostenibilidad contributiva.",
+          "id_bloque_comun": "bloque_03",
+          "titulo_bloque_comun": "Fiscalidad, Impuestos y Hacienda Pública"
+        },
+        {
+          "numero_medida": 33,
+          "id_medida": "PA-33",
+          "seccion_original": "BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL",
+          "titulo_medida": "Líneas ICO directas con 2 años de carencia para nuevos proyectos",
+          "texto_oficial": "Creación de una línea permanente de financiación directa del Instituto de Crédito Oficial (ICO) sin intermediación bancaria abusiva, con 2 años de carencia de capital e interés referenciado al Euríbor para emprendedores y pymes. Viabilidad: Es viable canalizando los fondos europeos y reembolsos financieros a través del ICO con aval público parcial sobre proyectos avalados por planes de viabilidad técnica.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL» del programa de PA: Creación de una línea permanente de financiación directa del Instituto de Crédito Oficial (ICO) sin intermediación bancaria abusiva, con 2 años de carencia de capital e interés referenciado al Euríbor para emprendedores y pymes. Viabilidad: Es viable canalizando los fondos europeos y reembolsos financieros a través…",
+          "datos_a_favor": "Aspira a mejorar las condiciones de trabajo, reducir la precariedad o aliviar cotizaciones y trabas para trabajadores por cuenta propia y asalariados.",
+          "datos_en_contra": "Cambios profundos en jornada, cotizaciones o salario mínimo generan debate sobre costes laborales para pequeñas empresas, productividad y sostenibilidad contributiva.",
+          "id_bloque_comun": "bloque_03",
+          "titulo_bloque_comun": "Fiscalidad, Impuestos y Hacienda Pública"
+        },
+        {
+          "numero_medida": 34,
+          "id_medida": "PA-34",
+          "seccion_original": "BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL",
+          "titulo_medida": "Estatuto del Trabajador Autónomo Económicamente Dependiente (TRADE) flexible",
+          "texto_oficial": "Reforma de la regulación del autónomo que trabaja mayoritariamente para uno o pocos clientes (repartidores, consultores, transportistas), garantizando libertad real de horarios y tarifas mínimas pactadas sin imposición forzosa de asalarización. Viabilidad: Es viable mediante un marco mercantil equilibrado con seguros obligatorios de accidentes y derecho a desconexión, preservando miles de empleos flexibles que la rigidez normativa ha destruido.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL» del programa de PA: Reforma de la regulación del autónomo que trabaja mayoritariamente para uno o pocos clientes (repartidores, consultores, transportistas), garantizando libertad real de horarios y tarifas mínimas pactadas sin imposición forzosa de asalarización. Viabilidad: Es viable mediante un marco mercantil equilibrado con seguros…",
+          "datos_a_favor": "Aspira a mejorar las condiciones de trabajo, reducir la precariedad o aliviar cotizaciones y trabas para trabajadores por cuenta propia y asalariados.",
+          "datos_en_contra": "Cambios profundos en jornada, cotizaciones o salario mínimo generan debate sobre costes laborales para pequeñas empresas, productividad y sostenibilidad contributiva.",
+          "id_bloque_comun": "bloque_03",
+          "titulo_bloque_comun": "Fiscalidad, Impuestos y Hacienda Pública"
+        },
+        {
+          "numero_medida": 35,
+          "id_medida": "PA-35",
+          "seccion_original": "BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL",
+          "titulo_medida": "Oficinas de Asesoramiento Empresarial dentro del SEPE",
+          "texto_oficial": "Transformación de las oficinas de empleo para integrar unidades de consultoría financiera, fiscal y comercial gratuita impartida por mentores empresariales para desempleados que capitalicen el paro para emprender. Viabilidad: Es viable reorientando los actuales presupuestos de formación para el empleo hacia tutorización práctica, reduciendo la tasa de fracaso empresarial durante los dos primeros años.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL» del programa de PA: Transformación de las oficinas de empleo para integrar unidades de consultoría financiera, fiscal y comercial gratuita impartida por mentores empresariales para desempleados que capitalicen el paro para emprender. Viabilidad: Es viable reorientando los actuales presupuestos de formación para el empleo hacia…",
+          "datos_a_favor": "Aspira a mejorar las condiciones de trabajo, reducir la precariedad o aliviar cotizaciones y trabas para trabajadores por cuenta propia y asalariados.",
+          "datos_en_contra": "Cambios profundos en jornada, cotizaciones o salario mínimo generan debate sobre costes laborales para pequeñas empresas, productividad y sostenibilidad contributiva.",
+          "id_bloque_comun": "bloque_03",
+          "titulo_bloque_comun": "Fiscalidad, Impuestos y Hacienda Pública"
+        },
+        {
+          "numero_medida": 36,
+          "id_medida": "PA-36",
+          "seccion_original": "BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL",
+          "titulo_medida": "Plan dual de contratación para jóvenes y mayores de 45 años",
+          "texto_oficial": "Bonificación progresiva en cotizaciones sociales durante dos años para pymes que contraten de forma indefinida a jóvenes sin experiencia previa o a desempleados mayores de 45 años de larga duración. Viabilidad: Es viable porque el ahorro inmediato en subsidios por desempleo y rentas mínimas supera el importe de la bonificación de cuotas, integrando dos colectivos clave en la empresa.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL» del programa de PA: Bonificación progresiva en cotizaciones sociales durante dos años para pymes que contraten de forma indefinida a jóvenes sin experiencia previa o a desempleados mayores de 45 años de larga duración. Viabilidad: Es viable porque el ahorro inmediato en subsidios por desempleo y rentas mínimas supera el importe de la…",
+          "datos_a_favor": "Aspira a mejorar las condiciones de trabajo, reducir la precariedad o aliviar cotizaciones y trabas para trabajadores por cuenta propia y asalariados.",
+          "datos_en_contra": "Cambios profundos en jornada, cotizaciones o salario mínimo generan debate sobre costes laborales para pequeñas empresas, productividad y sostenibilidad contributiva.",
+          "id_bloque_comun": "bloque_03",
+          "titulo_bloque_comun": "Fiscalidad, Impuestos y Hacienda Pública"
+        },
+        {
+          "numero_medida": 37,
+          "id_medida": "PA-37",
+          "seccion_original": "BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL",
+          "titulo_medida": "Implantación de la Mochila Austriaca de capitalización individual",
+          "texto_oficial": "Creación de un fondo individual de capitalización laboral portátil que acompaña al trabajador durante toda su vida profesional, acumulando aportaciones mensuales que puede rescatar en caso de despido, formación o jubilación. Viabilidad: Es viable de forma gradual sin subir los costes laborales totales, aportando movilidad al mercado de trabajo y liquidez a las pymes en momentos de reestructuración.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL» del programa de PA: Creación de un fondo individual de capitalización laboral portátil que acompaña al trabajador durante toda su vida profesional, acumulando aportaciones mensuales que puede rescatar en caso de despido, formación o jubilación. Viabilidad: Es viable de forma gradual sin subir los costes laborales totales, aportando…",
+          "datos_a_favor": "Aspira a mejorar las condiciones de trabajo, reducir la precariedad o aliviar cotizaciones y trabas para trabajadores por cuenta propia y asalariados.",
+          "datos_en_contra": "Cambios profundos en jornada, cotizaciones o salario mínimo generan debate sobre costes laborales para pequeñas empresas, productividad y sostenibilidad contributiva.",
+          "id_bloque_comun": "bloque_03",
+          "titulo_bloque_comun": "Fiscalidad, Impuestos y Hacienda Pública"
+        },
+        {
+          "numero_medida": 38,
+          "id_medida": "PA-38",
+          "seccion_original": "BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL",
+          "titulo_medida": "Cumplimiento estricto de la Ley de Morosidad y régimen sancionador",
+          "texto_oficial": "Sanciones económicas automáticas y exclusión de contratación pública para grandes empresas y administraciones que superen los plazos legales de pago (30 días sector público y 60 días sector privado), con devengo automático de intereses de demora. Viabilidad: Es viable aplicando el Reglamento Europeo contra la Morosidad y utilizando los datos de facturación electrónica B2B para detectar de oficio los retrasos abusivos sobre pymes.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL» del programa de PA: Sanciones económicas automáticas y exclusión de contratación pública para grandes empresas y administraciones que superen los plazos legales de pago (30 días sector público y 60 días sector privado), con devengo automático de intereses de demora. Viabilidad: Es viable aplicando el Reglamento Europeo contra la…",
+          "datos_a_favor": "Aspira a mejorar las condiciones de trabajo, reducir la precariedad o aliviar cotizaciones y trabas para trabajadores por cuenta propia y asalariados.",
+          "datos_en_contra": "Cambios profundos en jornada, cotizaciones o salario mínimo generan debate sobre costes laborales para pequeñas empresas, productividad y sostenibilidad contributiva.",
+          "id_bloque_comun": "bloque_03",
+          "titulo_bloque_comun": "Fiscalidad, Impuestos y Hacienda Pública"
+        },
+        {
+          "numero_medida": 39,
+          "id_medida": "PA-39",
+          "seccion_original": "BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL",
+          "titulo_medida": "Modelo Preston y reserva de contratación local para pymes",
+          "texto_oficial": "Impulso a la contratación pública de proximidad en ayuntamientos, hospitales y universidades mediante la división obligatoria de contratos en lotes accesibles para autónomos y pymes locales. Viabilidad: Es viable dentro de la Ley de Contratos del Sector Público, logrando que el gasto público reinvierta en el tejido productivo local y genere empleo estable en cada comarca.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL» del programa de PA: Impulso a la contratación pública de proximidad en ayuntamientos, hospitales y universidades mediante la división obligatoria de contratos en lotes accesibles para autónomos y pymes locales. Viabilidad: Es viable dentro de la Ley de Contratos del Sector Público, logrando que el gasto público reinvierta en el tejido…",
+          "datos_a_favor": "Aspira a mejorar las condiciones de trabajo, reducir la precariedad o aliviar cotizaciones y trabas para trabajadores por cuenta propia y asalariados.",
+          "datos_en_contra": "Cambios profundos en jornada, cotizaciones o salario mínimo generan debate sobre costes laborales para pequeñas empresas, productividad y sostenibilidad contributiva.",
+          "id_bloque_comun": "bloque_03",
+          "titulo_bloque_comun": "Fiscalidad, Impuestos y Hacienda Pública"
+        },
+        {
+          "numero_medida": 40,
+          "id_medida": "PA-40",
+          "seccion_original": "BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL",
+          "titulo_medida": "Transparencia en licitaciones y límite a sobrecostes de obra pública",
+          "texto_oficial": "Simplificación de pliegos administrativos eliminando requisitos de solvencia desproporcionados y obligación legal de que la empresa adjudicataria asuma cualquier sobrecoste de obra de hasta el 15 % mediante aval bancario previo. Viabilidad: Es viable porque erradica la práctica de presentar ofertas temerarias a la baja que luego se encarecen mediante modificados presupuestarios a costa del contribuyente.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL» del programa de PA: Simplificación de pliegos administrativos eliminando requisitos de solvencia desproporcionados y obligación legal de que la empresa adjudicataria asuma cualquier sobrecoste de obra de hasta el 15 % mediante aval bancario previo. Viabilidad: Es viable porque erradica la práctica de presentar ofertas temerarias a la…",
+          "datos_a_favor": "Aspira a mejorar las condiciones de trabajo, reducir la precariedad o aliviar cotizaciones y trabas para trabajadores por cuenta propia y asalariados.",
+          "datos_en_contra": "Cambios profundos en jornada, cotizaciones o salario mínimo generan debate sobre costes laborales para pequeñas empresas, productividad y sostenibilidad contributiva.",
+          "id_bloque_comun": "bloque_03",
+          "titulo_bloque_comun": "Fiscalidad, Impuestos y Hacienda Pública"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_04",
+      "numero_bloque": 4,
+      "titulo_bloque": "Empleo, Autónomos y Relaciones Laborales",
+      "alcance_medidas": "Medidas 66 a 69 (4 medidas)",
+      "total_medidas_bloque": 4,
+      "medidas_incluidas": [
+        66,
+        67,
+        68,
+        69
+      ],
+      "medidas": [
+        {
+          "numero_medida": 66,
+          "id_medida": "PA-66",
+          "seccion_original": "BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL",
+          "titulo_medida": "Tarjeta Sanitaria Única interoperable en toda España",
+          "texto_oficial": "Implantación definitiva de una historia clínica digital y tarjeta sanitaria única válida en las 17 comunidades autónomas, Ceuta y Melilla para atención primaria, especialistas y retirada de recetas sin trámites de desplazado. Viabilidad: Es viable aprovechando la infraestructura del Sistema Nacional de Salud y la receta electrónica interoperable, eliminando barreras burocráticas internas para trabajadores y viajeros.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL» del programa de PA: Implantación definitiva de una historia clínica digital y tarjeta sanitaria única válida en las 17 comunidades autónomas, Ceuta y Melilla para atención primaria, especialistas y retirada de recetas sin trámites de desplazado. Viabilidad: Es viable aprovechando la infraestructura del Sistema Nacional de Salud y la…",
+          "datos_a_favor": "Busca reforzar la capacidad asistencial, reducir listas de espera, mejorar la equidad territorial y ampliar la cartera o los medios de atención sanitaria.",
+          "datos_en_contra": "Su despliegue exige incrementar financiación sanitaria estable, asegurar disponibilidad de profesionales y coordinar competencias autonómicas en el Sistema Nacional de Salud.",
+          "id_bloque_comun": "bloque_04",
+          "titulo_bloque_comun": "Empleo, Autónomos y Relaciones Laborales"
+        },
+        {
+          "numero_medida": 67,
+          "id_medida": "PA-67",
+          "seccion_original": "BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL",
+          "titulo_medida": "Deducción del 20 % en IRPF por gafas, audífonos, ortodoncia y prótesis",
+          "texto_oficial": "Deducción estatal del 20 % en la cuota del IRPF por gastos sanitarios necesarios no cubiertos por la cartera pública básica (salud bucodental, óptica, audífonos y prótesis ortopédicas) mediante factura médica. Viabilidad: Es viable y fomenta la facturación transparente en clínicas dentales y ópticas, mejorando la calidad de vida de mayores, niños y trabajadores.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL» del programa de PA: Deducción estatal del 20 % en la cuota del IRPF por gastos sanitarios necesarios no cubiertos por la cartera pública básica (salud bucodental, óptica, audífonos y prótesis ortopédicas) mediante factura médica. Viabilidad: Es viable y fomenta la facturación transparente en clínicas dentales y ópticas, mejorando la…",
+          "datos_a_favor": "Busca reforzar la capacidad asistencial, reducir listas de espera, mejorar la equidad territorial y ampliar la cartera o los medios de atención sanitaria.",
+          "datos_en_contra": "Su despliegue exige incrementar financiación sanitaria estable, asegurar disponibilidad de profesionales y coordinar competencias autonómicas en el Sistema Nacional de Salud.",
+          "id_bloque_comun": "bloque_04",
+          "titulo_bloque_comun": "Empleo, Autónomos y Relaciones Laborales"
+        },
+        {
+          "numero_medida": 68,
+          "id_medida": "PA-68",
+          "seccion_original": "BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL",
+          "titulo_medida": "Reconocimiento profesional del celador sanitario en Formación Profesional",
+          "texto_oficial": "Creación del título oficial de Técnico de Formación Profesional para el colectivo de celadores sanitarios, reconociendo su cualificación clínica, movilización de pacientes y apoyo hospitalario. Viabilidad: Es viable a través del Instituto Nacional de las Cualificaciones (INCUAL), dignificando una profesión esencial en hospitales y centros de salud.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL» del programa de PA: Creación del título oficial de Técnico de Formación Profesional para el colectivo de celadores sanitarios, reconociendo su cualificación clínica, movilización de pacientes y apoyo hospitalario. Viabilidad: Es viable a través del Instituto Nacional de las Cualificaciones (INCUAL), dignificando una profesión esencial en…",
+          "datos_a_favor": "Busca reforzar la capacidad asistencial, reducir listas de espera, mejorar la equidad territorial y ampliar la cartera o los medios de atención sanitaria.",
+          "datos_en_contra": "Su despliegue exige incrementar financiación sanitaria estable, asegurar disponibilidad de profesionales y coordinar competencias autonómicas en el Sistema Nacional de Salud.",
+          "id_bloque_comun": "bloque_04",
+          "titulo_bloque_comun": "Empleo, Autónomos y Relaciones Laborales"
+        },
+        {
+          "numero_medida": 69,
+          "id_medida": "PA-69",
+          "seccion_original": "BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL",
+          "titulo_medida": "Dotación obligatoria de enfermería y urgencias en residencias de mayores",
+          "texto_oficial": "Exigencia legal de ratios mínimos de personal sanitario y equipamiento de primera intervención en todas las residencias geriátricas públicas y privadas, con inspecciones periódicas sin previo aviso. Viabilidad: Es viable mediante conciertos sociosanitarios auditados que vinculen la financiación pública al cumplimiento estricto de los ratios asistenciales.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL» del programa de PA: Exigencia legal de ratios mínimos de personal sanitario y equipamiento de primera intervención en todas las residencias geriátricas públicas y privadas, con inspecciones periódicas sin previo aviso. Viabilidad: Es viable mediante conciertos sociosanitarios auditados que vinculen la financiación pública al cumplimiento…",
+          "datos_a_favor": "Busca reforzar la capacidad asistencial, reducir listas de espera, mejorar la equidad territorial y ampliar la cartera o los medios de atención sanitaria.",
+          "datos_en_contra": "Su despliegue exige incrementar financiación sanitaria estable, asegurar disponibilidad de profesionales y coordinar competencias autonómicas en el Sistema Nacional de Salud.",
+          "id_bloque_comun": "bloque_04",
+          "titulo_bloque_comun": "Empleo, Autónomos y Relaciones Laborales"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_05",
+      "numero_bloque": 5,
+      "titulo_bloque": "Pensiones, Bienestar Social, Igualdad y Reto Demográfico",
+      "alcance_medidas": "Medidas 72 a 97 (9 medidas)",
+      "total_medidas_bloque": 9,
+      "medidas_incluidas": [
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        79,
+        96,
+        97
+      ],
+      "medidas": [
+        {
+          "numero_medida": 72,
+          "id_medida": "PA-72",
+          "seccion_original": "BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL",
+          "titulo_medida": "Pacto Nacional por una Ley Única de Educación estable y sin ideología",
+          "texto_oficial": "Aprobación de un marco educativo común en toda España que garantice el mismo nivel de contenidos troncales (matemáticas, lengua, ciencias e idiomas) en todas las autonomías y blinde el sistema frente a cambios de gobierno. Viabilidad: Es viable recuperando la Alta Inspección Educativa del Estado y evaluaciones nacionales homogéneas que aseguren la igualdad de oportunidades.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL» del programa de PA: Aprobación de un marco educativo común en toda España que garantice el mismo nivel de contenidos troncales (matemáticas, lengua, ciencias e idiomas) en todas las autonomías y blinde el sistema frente a cambios de gobierno. Viabilidad: Es viable recuperando la Alta Inspección Educativa del Estado y evaluaciones…",
+          "datos_a_favor": "Apunta a mejorar la calidad formativa, ampliar el acceso equitativo a becas, formación profesional, cultura o deporte y actualizar contenidos educativos.",
+          "datos_en_contra": "Su implementación puede requerir consensos territoriales complejos respecto a competencias educativas autonómicas y financiación plurianual.",
+          "id_bloque_comun": "bloque_05",
+          "titulo_bloque_comun": "Pensiones, Bienestar Social, Igualdad y Reto Demográfico"
+        },
+        {
+          "numero_medida": 73,
+          "id_medida": "PA-73",
+          "seccion_original": "BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL",
+          "titulo_medida": "Revolución de la Formación Profesional Dual con incentivos a pymes",
+          "texto_oficial": "Equiparación de prestigio de la FP con la universidad, subvencionando a las pymes que acojan alumnos en prácticas reales y permitiendo que autónomos veteranos mayores de 55 años ejerzan como profesores técnicos. Viabilidad: Es viable porque resuelve simultáneamente la falta de relevo en oficios especializados (fontanería, electricidad, mecánica, hostelería) y el desgaste físico de profesionales veteranos.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL» del programa de PA: Equiparación de prestigio de la FP con la universidad, subvencionando a las pymes que acojan alumnos en prácticas reales y permitiendo que autónomos veteranos mayores de 55 años ejerzan como profesores técnicos. Viabilidad: Es viable porque resuelve simultáneamente la falta de relevo en oficios especializados…",
+          "datos_a_favor": "Apunta a mejorar la calidad formativa, ampliar el acceso equitativo a becas, formación profesional, cultura o deporte y actualizar contenidos educativos.",
+          "datos_en_contra": "Su implementación puede requerir consensos territoriales complejos respecto a competencias educativas autonómicas y financiación plurianual.",
+          "id_bloque_comun": "bloque_05",
+          "titulo_bloque_comun": "Pensiones, Bienestar Social, Igualdad y Reto Demográfico"
+        },
+        {
+          "numero_medida": 74,
+          "id_medida": "PA-74",
+          "seccion_original": "BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL",
+          "titulo_medida": "Garantía del castellano como lengua vehicular y respeto a lenguas cooficiales",
+          "texto_oficial": "Ley orgánica que garantice el derecho a estudiar y relacionarse con la Administración en español en todo el territorio nacional, considerando las lenguas cooficiales como mérito cultural pero nunca como barrera excluyente. Viabilidad: Es viable conforme a la doctrina del Tribunal Constitucional, favoreciendo la movilidad laboral de profesionales, médicos y docentes en toda España.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL» del programa de PA: Ley orgánica que garantice el derecho a estudiar y relacionarse con la Administración en español en todo el territorio nacional, considerando las lenguas cooficiales como mérito cultural pero nunca como barrera excluyente. Viabilidad: Es viable conforme a la doctrina del Tribunal Constitucional, favoreciendo la…",
+          "datos_a_favor": "Apunta a mejorar la calidad formativa, ampliar el acceso equitativo a becas, formación profesional, cultura o deporte y actualizar contenidos educativos.",
+          "datos_en_contra": "Su implementación puede requerir consensos territoriales complejos respecto a competencias educativas autonómicas y financiación plurianual.",
+          "id_bloque_comun": "bloque_05",
+          "titulo_bloque_comun": "Pensiones, Bienestar Social, Igualdad y Reto Demográfico"
+        },
+        {
+          "numero_medida": 75,
+          "id_medida": "PA-75",
+          "seccion_original": "BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL",
+          "titulo_medida": "Aconfesionalidad en la escuela pública y libertad de elección en concertada",
+          "texto_oficial": "Consolidación de una escuela pública laica centrada en la excelencia académica y científica, respetando plenamente el derecho constitucional de las familias a elegir centros concertados o privados con ideario propio. Viabilidad: Es viable dentro del artículo 27 de la Constitución Española mediante financiación equitativa del puesto escolar.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL» del programa de PA: Consolidación de una escuela pública laica centrada en la excelencia académica y científica, respetando plenamente el derecho constitucional de las familias a elegir centros concertados o privados con ideario propio. Viabilidad: Es viable dentro del artículo 27 de la Constitución Española mediante financiación…",
+          "datos_a_favor": "Apunta a mejorar la calidad formativa, ampliar el acceso equitativo a becas, formación profesional, cultura o deporte y actualizar contenidos educativos.",
+          "datos_en_contra": "Su implementación puede requerir consensos territoriales complejos respecto a competencias educativas autonómicas y financiación plurianual.",
+          "id_bloque_comun": "bloque_05",
+          "titulo_bloque_comun": "Pensiones, Bienestar Social, Igualdad y Reto Demográfico"
+        },
+        {
+          "numero_medida": 76,
+          "id_medida": "PA-76",
+          "seccion_original": "BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL",
+          "titulo_medida": "Asignatura obligatoria de Primeros Auxilios, Emergencias y Educación Financiera",
+          "texto_oficial": "Incorporación en Educación Secundaria de formación práctica en reanimación cardiopulmonar (RCP), actuación ante emergencias y educación financiera básica (impuestos, ahorro y emprendimiento). Viabilidad: Es viable reordenando el currículo actual sin aumentar horas lectivas, preparando a los jóvenes tanto para salvar vidas como para gestionar su economía personal.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL» del programa de PA: Incorporación en Educación Secundaria de formación práctica en reanimación cardiopulmonar (RCP), actuación ante emergencias y educación financiera básica (impuestos, ahorro y emprendimiento). Viabilidad: Es viable reordenando el currículo actual sin aumentar horas lectivas, preparando a los jóvenes tanto para salvar…",
+          "datos_a_favor": "Apunta a mejorar la calidad formativa, ampliar el acceso equitativo a becas, formación profesional, cultura o deporte y actualizar contenidos educativos.",
+          "datos_en_contra": "Su implementación puede requerir consensos territoriales complejos respecto a competencias educativas autonómicas y financiación plurianual.",
+          "id_bloque_comun": "bloque_05",
+          "titulo_bloque_comun": "Pensiones, Bienestar Social, Igualdad y Reto Demográfico"
+        },
+        {
+          "numero_medida": 77,
+          "id_medida": "PA-77",
+          "seccion_original": "BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL",
+          "titulo_medida": "Protocolo nacional vinculante contra el acoso escolar y el ciberbullying",
+          "texto_oficial": "Implantación obligatoria de protocolos rápidos de detección, mediación e intervención psicológica en todos los centros escolares y actividades extraescolares frente al acoso escolar y digital. Viabilidad: Es viable coordinando a equipos de orientación educativa, inspección y fiscalía de menores bajo plazos estrictos de actuación.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL» del programa de PA: Implantación obligatoria de protocolos rápidos de detección, mediación e intervención psicológica en todos los centros escolares y actividades extraescolares frente al acoso escolar y digital. Viabilidad: Es viable coordinando a equipos de orientación educativa, inspección y fiscalía de menores bajo plazos estrictos…",
+          "datos_a_favor": "Apunta a mejorar la calidad formativa, ampliar el acceso equitativo a becas, formación profesional, cultura o deporte y actualizar contenidos educativos.",
+          "datos_en_contra": "Su implementación puede requerir consensos territoriales complejos respecto a competencias educativas autonómicas y financiación plurianual.",
+          "id_bloque_comun": "bloque_05",
+          "titulo_bloque_comun": "Pensiones, Bienestar Social, Igualdad y Reto Demográfico"
+        },
+        {
+          "numero_medida": 79,
+          "id_medida": "PA-79",
+          "seccion_original": "BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL",
+          "titulo_medida": "Reducción de costes educativos para familias con hijos con necesidades especiales",
+          "texto_oficial": "Gratuidad real en transporte adaptado, terapias complementarias y material específico para alumnado con discapacidad o necesidades educativas especiales en centros ordinarios y de educación especial. Viabilidad: Es viable reasignando subvenciones improductivas hacia becas directas universales para familias con hijos con diversidad funcional.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL» del programa de PA: Gratuidad real en transporte adaptado, terapias complementarias y material específico para alumnado con discapacidad o necesidades educativas especiales en centros ordinarios y de educación especial. Viabilidad: Es viable reasignando subvenciones improductivas hacia becas directas universales para familias con hijos…",
+          "datos_a_favor": "Apunta a mejorar la calidad formativa, ampliar el acceso equitativo a becas, formación profesional, cultura o deporte y actualizar contenidos educativos.",
+          "datos_en_contra": "Su implementación puede requerir consensos territoriales complejos respecto a competencias educativas autonómicas y financiación plurianual.",
+          "id_bloque_comun": "bloque_05",
+          "titulo_bloque_comun": "Pensiones, Bienestar Social, Igualdad y Reto Demográfico"
+        },
+        {
+          "numero_medida": 96,
+          "id_medida": "PA-96",
+          "seccion_original": "BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD",
+          "titulo_medida": "Impulso al deporte base, inclusivo y apoyo a deportistas olímpicos",
+          "texto_oficial": "Incremento de las becas ADO y paralímpicas, bonificaciones fiscales al patrocinio deportivo de pymes y mejora de instalaciones municipales para el deporte base e inclusivo. Viabilidad: Es viable mediante incentivos de mecenazgo deportivo que permiten a pequeñas y medianas empresas desgravar su apoyo a clubes locales.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD» del programa de PA: Incremento de las becas ADO y paralímpicas, bonificaciones fiscales al patrocinio deportivo de pymes y mejora de instalaciones municipales para el deporte base e inclusivo. Viabilidad: Es viable mediante incentivos de mecenazgo deportivo que permiten a pequeñas y medianas empresas desgravar su apoyo a clubes locales.",
+          "datos_a_favor": "Apunta a mejorar la calidad formativa, ampliar el acceso equitativo a becas, formación profesional, cultura o deporte y actualizar contenidos educativos.",
+          "datos_en_contra": "Su implementación puede requerir consensos territoriales complejos respecto a competencias educativas autonómicas y financiación plurianual.",
+          "id_bloque_comun": "bloque_05",
+          "titulo_bloque_comun": "Pensiones, Bienestar Social, Igualdad y Reto Demográfico"
+        },
+        {
+          "numero_medida": 97,
+          "id_medida": "PA-97",
+          "seccion_original": "BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD",
+          "titulo_medida": "Promoción del deporte y hábitos saludables en televisión y colegios",
+          "texto_oficial": "Franjas obligatorias de difusión del deporte base, femenino y paralímpico en los medios públicos y ampliación de actividades deportivas extraescolares en centros educativos. Viabilidad: Es viable sin coste presupuestario adicional reorientando la programación de servicio público hacia la prevención de la obesidad infantil.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD» del programa de PA: Franjas obligatorias de difusión del deporte base, femenino y paralímpico en los medios públicos y ampliación de actividades deportivas extraescolares en centros educativos. Viabilidad: Es viable sin coste presupuestario adicional reorientando la programación de servicio público hacia la prevención de la obesidad…",
+          "datos_a_favor": "Apunta a mejorar la calidad formativa, ampliar el acceso equitativo a becas, formación profesional, cultura o deporte y actualizar contenidos educativos.",
+          "datos_en_contra": "Su implementación puede requerir consensos territoriales complejos respecto a competencias educativas autonómicas y financiación plurianual.",
+          "id_bloque_comun": "bloque_05",
+          "titulo_bloque_comun": "Pensiones, Bienestar Social, Igualdad y Reto Demográfico"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_06",
+      "numero_bloque": 6,
+      "titulo_bloque": "Familia, Conciliación, Infancia y Juventud",
+      "alcance_medidas": "Medidas 43 a 71 (3 medidas)",
+      "total_medidas_bloque": 3,
+      "medidas_incluidas": [
+        43,
+        70,
+        71
+      ],
+      "medidas": [
+        {
+          "numero_medida": 43,
+          "id_medida": "PA-43",
+          "seccion_original": "BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL",
+          "titulo_medida": "Convenio marco diferenciado para pequeña hostelería y comercio",
+          "texto_oficial": "Adaptación de la negociación colectiva para diferenciar la realidad operativa y salarial de las grandes cadenas multinacionales frente a los pequeños bares, restaurantes y comercios familiares de menos de 10 empleados. Viabilidad: Es viable dentro del Estatuto de los Trabajadores mediante convenios sectoriales con cláusulas específicas para microempresas, evitando cierres por rigidez laboral.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL» del programa de PA: Adaptación de la negociación colectiva para diferenciar la realidad operativa y salarial de las grandes cadenas multinacionales frente a los pequeños bares, restaurantes y comercios familiares de menos de 10 empleados. Viabilidad: Es viable dentro del Estatuto de los Trabajadores mediante convenios sectoriales con…",
+          "datos_a_favor": "Pretende proteger el poder adquisitivo de pensionistas, personas dependientes y hogares vulnerables reforzando prestaciones y servicios sociales.",
+          "datos_en_contra": "El aumento del gasto estructural en pensiones y protección social plantea retos de sostenibilidad financiera a medio y largo plazo ante el envejecimiento demográfico.",
+          "id_bloque_comun": "bloque_06",
+          "titulo_bloque_comun": "Familia, Conciliación, Infancia y Juventud"
+        },
+        {
+          "numero_medida": 70,
+          "id_medida": "PA-70",
+          "seccion_original": "BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL",
+          "titulo_medida": "Agilización en 60 días de las valoraciones de la Ley de Dependencia",
+          "texto_oficial": "Plazo máximo legal de 60 días para resolver las solicitudes de dependencia mediante baremación médica unificada y silencio positivo administrativo en prestaciones vinculadas al servicio. Viabilidad: Es viable reduciendo la duplicidad burocrática entre servicios sociales municipales y autonómicos, evitando que miles de dependientes fallezcan en lista de espera.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL» del programa de PA: Plazo máximo legal de 60 días para resolver las solicitudes de dependencia mediante baremación médica unificada y silencio positivo administrativo en prestaciones vinculadas al servicio. Viabilidad: Es viable reduciendo la duplicidad burocrática entre servicios sociales municipales y autonómicos, evitando que miles de…",
+          "datos_a_favor": "Pretende proteger el poder adquisitivo de pensionistas, personas dependientes y hogares vulnerables reforzando prestaciones y servicios sociales.",
+          "datos_en_contra": "El aumento del gasto estructural en pensiones y protección social plantea retos de sostenibilidad financiera a medio y largo plazo ante el envejecimiento demográfico.",
+          "id_bloque_comun": "bloque_06",
+          "titulo_bloque_comun": "Familia, Conciliación, Infancia y Juventud"
+        },
+        {
+          "numero_medida": 71,
+          "id_medida": "PA-71",
+          "seccion_original": "BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL",
+          "titulo_medida": "Auditoría de fundaciones y entidades gestoras de servicios de dependencia",
+          "texto_oficial": "Control financiero estricto sobre fundaciones y asociaciones que gestionan centros de dependencia con subvenciones públicas, prohibiendo el lucro encubierto y garantizando que los fondos lleguen al usuario. Viabilidad: Es viable mediante auditorías obligatorias de cuentas por la Intervención autonómica como requisito previo para renovar cualquier concierto público.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL» del programa de PA: Control financiero estricto sobre fundaciones y asociaciones que gestionan centros de dependencia con subvenciones públicas, prohibiendo el lucro encubierto y garantizando que los fondos lleguen al usuario. Viabilidad: Es viable mediante auditorías obligatorias de cuentas por la Intervención autonómica como requisito…",
+          "datos_a_favor": "Pretende proteger el poder adquisitivo de pensionistas, personas dependientes y hogares vulnerables reforzando prestaciones y servicios sociales.",
+          "datos_en_contra": "El aumento del gasto estructural en pensiones y protección social plantea retos de sostenibilidad financiera a medio y largo plazo ante el envejecimiento demográfico.",
+          "id_bloque_comun": "bloque_06",
+          "titulo_bloque_comun": "Familia, Conciliación, Infancia y Juventud"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_07",
+      "numero_bloque": 7,
+      "titulo_bloque": "Sanidad Pública, Salud Mental y Dependencia",
+      "alcance_medidas": "Medidas 64 a 65 (2 medidas)",
+      "total_medidas_bloque": 2,
+      "medidas_incluidas": [
+        64,
+        65
+      ],
+      "medidas": [
+        {
+          "numero_medida": 64,
+          "id_medida": "PA-64",
+          "seccion_original": "BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO",
+          "titulo_medida": "Ordenación legal de la inmigración vinculada al empleo y la integración",
+          "texto_oficial": "Agilización administrativa de los visados de trabajo en origen para cubrir vacantes reales en sectores deficitarios, exigiendo cumplimiento de la legalidad y arraigo efectivo para el acceso a ayudas. Viabilidad: Es viable combinando rigor en el control de fronteras con canales legales ágiles para empresas que no encuentran mano de obra cualificada.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO» del programa de PA: Agilización administrativa de los visados de trabajo en origen para cubrir vacantes reales en sectores deficitarios, exigiendo cumplimiento de la legalidad y arraigo efectivo para el acceso a ayudas. Viabilidad: Es viable combinando rigor en el control de fronteras con canales legales ágiles para empresas que no…",
+          "datos_a_favor": "Busca ordenar los flujos migratorios, garantizar la seguridad jurídica o reforzar la acogida e integración humanitaria de personas migrantes.",
+          "datos_en_contra": "Puede generar tensiones entre control fronterizo, capacidad operativa de los recursos de acogida y garantías de derechos fundamentales o cooperación con terceros países.",
+          "id_bloque_comun": "bloque_07",
+          "titulo_bloque_comun": "Sanidad Pública, Salud Mental y Dependencia"
+        },
+        {
+          "numero_medida": 65,
+          "id_medida": "PA-65",
+          "seccion_original": "BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO",
+          "titulo_medida": "Expulsión efectiva de delincuentes extranjeros multirreincidentes",
+          "texto_oficial": "Ejecución inmediata de la expulsión del territorio nacional y prohibición de reentrada para ciudadanos extranjeros condenados por delitos graves o multirreincidencia en robos y agresiones. Viabilidad: Es viable aplicando los artículos vigentes del Código Penal y la Ley de Extranjería mediante acuerdos bilaterales de repatriación y refuerzo judicial.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO» del programa de PA: Ejecución inmediata de la expulsión del territorio nacional y prohibición de reentrada para ciudadanos extranjeros condenados por delitos graves o multirreincidencia en robos y agresiones. Viabilidad: Es viable aplicando los artículos vigentes del Código Penal y la Ley de Extranjería mediante acuerdos bilaterales de…",
+          "datos_a_favor": "Busca ordenar los flujos migratorios, garantizar la seguridad jurídica o reforzar la acogida e integración humanitaria de personas migrantes.",
+          "datos_en_contra": "Puede generar tensiones entre control fronterizo, capacidad operativa de los recursos de acogida y garantías de derechos fundamentales o cooperación con terceros países.",
+          "id_bloque_comun": "bloque_07",
+          "titulo_bloque_comun": "Sanidad Pública, Salud Mental y Dependencia"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_08",
+      "numero_bloque": 8,
+      "titulo_bloque": "Educación, Formación Profesional y Universidad",
+      "alcance_medidas": "Medidas 28 a 84 (5 medidas)",
+      "total_medidas_bloque": 5,
+      "medidas_incluidas": [
+        28,
+        29,
+        30,
+        31,
+        84
+      ],
+      "medidas": [
+        {
+          "numero_medida": 28,
+          "id_medida": "PA-28",
+          "seccion_original": "BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL",
+          "titulo_medida": "Bonificación de cuota por cuidado de familiares de primer grado",
+          "texto_oficial": "Bonificación del 100 % de la cuota de autónomos durante un máximo de doce meses para trabajadores por cuenta propia que reduzcan su actividad para cuidar a hijos menores con enfermedad grave o familiares dependientes en primer grado. Viabilidad: Es viable equiparando los derechos de conciliación del autoempleo con los del régimen general, evitando que las mujeres autónomas tengan que darse de baja definitivamente del RETA por cargas familiares.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL» del programa de PA: Bonificación del 100 % de la cuota de autónomos durante un máximo de doce meses para trabajadores por cuenta propia que reduzcan su actividad para cuidar a hijos menores con enfermedad grave o familiares dependientes en primer grado. Viabilidad: Es viable equiparando los derechos de conciliación del autoempleo con los…",
+          "datos_a_favor": "Orientada a impulsar la competitividad productiva, diversificar sectores estratégicos y facilitar crédito o respaldo institucional a empresas y pymes.",
+          "datos_en_contra": "La intervención pública o las ayudas sectoriales requieren control riguroso de ayudas de Estado, evaluación de retorno económico y neutralidad competitiva.",
+          "id_bloque_comun": "bloque_08",
+          "titulo_bloque_comun": "Educación, Formación Profesional y Universidad"
+        },
+        {
+          "numero_medida": 29,
+          "id_medida": "PA-29",
+          "seccion_original": "BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL",
+          "titulo_medida": "Plena equiparación laboral para hijos y familiares colaboradores del autónomo",
+          "texto_oficial": "Reconocimiento del derecho a cotizar y percibir prestación por desempleo en igualdad de condiciones para los familiares colaboradores del autónomo, eliminando la presunción automática de exclusión del régimen general cuando exista salario y jornada acreditados. Viabilidad: Es viable porque aporta transparencia laboral en los negocios familiares, incentivando contratos formales con cotización completa frente al trabajo familiar no remunerado.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL» del programa de PA: Reconocimiento del derecho a cotizar y percibir prestación por desempleo en igualdad de condiciones para los familiares colaboradores del autónomo, eliminando la presunción automática de exclusión del régimen general cuando exista salario y jornada acreditados. Viabilidad: Es viable porque aporta transparencia laboral…",
+          "datos_a_favor": "Orientada a impulsar la competitividad productiva, diversificar sectores estratégicos y facilitar crédito o respaldo institucional a empresas y pymes.",
+          "datos_en_contra": "La intervención pública o las ayudas sectoriales requieren control riguroso de ayudas de Estado, evaluación de retorno económico y neutralidad competitiva.",
+          "id_bloque_comun": "bloque_08",
+          "titulo_bloque_comun": "Educación, Formación Profesional y Universidad"
+        },
+        {
+          "numero_medida": 30,
+          "id_medida": "PA-30",
+          "seccion_original": "BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL",
+          "titulo_medida": "Cómputo flexible de toda la vida laboral para jubilación y cese",
+          "texto_oficial": "Permitir que el trabajador autónomo elija para el cálculo de su pensión de jubilación los 25 mejores años cotizados de toda su carrera laboral, evitando que una caída de ingresos en los últimos años previo al retiro penalice su pensión. Viabilidad: Es viable porque refleja con justicia el esfuerzo contributivo real de carreras profesionales de 35 o 40 años caracterizadas por ciclos económicos variables.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL» del programa de PA: Permitir que el trabajador autónomo elija para el cálculo de su pensión de jubilación los 25 mejores años cotizados de toda su carrera laboral, evitando que una caída de ingresos en los últimos años previo al retiro penalice su pensión. Viabilidad: Es viable porque refleja con justicia el esfuerzo contributivo real de…",
+          "datos_a_favor": "Orientada a impulsar la competitividad productiva, diversificar sectores estratégicos y facilitar crédito o respaldo institucional a empresas y pymes.",
+          "datos_en_contra": "La intervención pública o las ayudas sectoriales requieren control riguroso de ayudas de Estado, evaluación de retorno económico y neutralidad competitiva.",
+          "id_bloque_comun": "bloque_08",
+          "titulo_bloque_comun": "Educación, Formación Profesional y Universidad"
+        },
+        {
+          "numero_medida": 31,
+          "id_medida": "PA-31",
+          "seccion_original": "BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL",
+          "titulo_medida": "Jubilación anticipada sin penalización con 40 o más años cotizados",
+          "texto_oficial": "Eliminación de los coeficientes reductores permanentes en la pensión de jubilación para aquellos trabajadores autónomos y asalariados que acrediten 40 o más años de cotización efectiva a la Seguridad Social. Viabilidad: Es viable aplicando criterios actuariales de equidad contributiva: quien ha cotizado durante cuatro décadas ha financiado sobradamente su pensión y libera espacio laboral para nuevas generaciones.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL» del programa de PA: Eliminación de los coeficientes reductores permanentes en la pensión de jubilación para aquellos trabajadores autónomos y asalariados que acrediten 40 o más años de cotización efectiva a la Seguridad Social. Viabilidad: Es viable aplicando criterios actuariales de equidad contributiva: quien ha cotizado durante cuatro…",
+          "datos_a_favor": "Orientada a impulsar la competitividad productiva, diversificar sectores estratégicos y facilitar crédito o respaldo institucional a empresas y pymes.",
+          "datos_en_contra": "La intervención pública o las ayudas sectoriales requieren control riguroso de ayudas de Estado, evaluación de retorno económico y neutralidad competitiva.",
+          "id_bloque_comun": "bloque_08",
+          "titulo_bloque_comun": "Educación, Formación Profesional y Universidad"
+        },
+        {
+          "numero_medida": 84,
+          "id_medida": "PA-84",
+          "seccion_original": "BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL",
+          "titulo_medida": "Auditoría social del rescate bancario y retorno en obra comunitaria",
+          "texto_oficial": "Evaluación transparente de las ayudas públicas pendientes de recuperación del sector financiero, impulsando acuerdos de retorno social destinados a atención domiciliaria de mayores y educación financiera. Viabilidad: Es viable mediante convenios de responsabilidad social vinculados a las participaciones públicas aún vigentes en entidades rescatadas.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL» del programa de PA: Evaluación transparente de las ayudas públicas pendientes de recuperación del sector financiero, impulsando acuerdos de retorno social destinados a atención domiciliaria de mayores y educación financiera. Viabilidad: Es viable mediante convenios de responsabilidad social vinculados a las participaciones públicas aún…",
+          "datos_a_favor": "Orientada a impulsar la competitividad productiva, diversificar sectores estratégicos y facilitar crédito o respaldo institucional a empresas y pymes.",
+          "datos_en_contra": "La intervención pública o las ayudas sectoriales requieren control riguroso de ayudas de Estado, evaluación de retorno económico y neutralidad competitiva.",
+          "id_bloque_comun": "bloque_08",
+          "titulo_bloque_comun": "Educación, Formación Profesional y Universidad"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_09",
+      "numero_bloque": 9,
+      "titulo_bloque": "Energía, Transición Ecológica y Medio Ambiente",
+      "alcance_medidas": "Medidas 61 a 94 (4 medidas)",
+      "total_medidas_bloque": 4,
+      "medidas_incluidas": [
+        61,
+        62,
+        63,
+        94
+      ],
+      "medidas": [
+        {
+          "numero_medida": 61,
+          "id_medida": "PA-61",
+          "seccion_original": "BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO",
+          "titulo_medida": "Refuerzo de la legítima defensa en el domicilio y en el negocio",
+          "texto_oficial": "Reforma del Código Penal para ampliar la presunción de legítima defensa proporcionada cuando un ciudadano o comerciante repele una intrusión violenta en su vivienda habitual o establecimiento mercantil. Viabilidad: Es viable jurídicamente y aporta seguridad legal a familias y autónomos que sufren robos con violencia en sus propios locales.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO» del programa de PA: Reforma del Código Penal para ampliar la presunción de legítima defensa proporcionada cuando un ciudadano o comerciante repele una intrusión violenta en su vivienda habitual o establecimiento mercantil. Viabilidad: Es viable jurídicamente y aporta seguridad legal a familias y autónomos que sufren robos con violencia…",
+          "datos_a_favor": "Persigue agilizar los procedimientos judiciales, reforzar las garantías procesales o endurecer la respuesta penal frente a determinados delitos.",
+          "datos_en_contra": "Requiere dotación presupuestaria y de plantillas judiciales para evitar retrasos procesales, así como equilibrio entre punitivismo, proporcionalidad y reinserción.",
+          "id_bloque_comun": "bloque_09",
+          "titulo_bloque_comun": "Energía, Transición Ecológica y Medio Ambiente"
+        },
+        {
+          "numero_medida": 62,
+          "id_medida": "PA-62",
+          "seccion_original": "BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO",
+          "titulo_medida": "Responsabilidad civil y trabajos comunitarios por vandalismo de menores",
+          "texto_oficial": "Reforma de la Ley del Menor para agilizar la reparación económica directa del daño causado por actos vandálicos o agresiones, estableciendo servicios obligatorios a la comunidad bajo tutela judicial. Viabilidad: Es viable porque educa en la responsabilidad individual y evita que los comerciantes y ayuntamientos asuman en solitario los daños por vandalismo urbano.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO» del programa de PA: Reforma de la Ley del Menor para agilizar la reparación económica directa del daño causado por actos vandálicos o agresiones, estableciendo servicios obligatorios a la comunidad bajo tutela judicial. Viabilidad: Es viable porque educa en la responsabilidad individual y evita que los comerciantes y ayuntamientos asuman…",
+          "datos_a_favor": "Persigue agilizar los procedimientos judiciales, reforzar las garantías procesales o endurecer la respuesta penal frente a determinados delitos.",
+          "datos_en_contra": "Requiere dotación presupuestaria y de plantillas judiciales para evitar retrasos procesales, así como equilibrio entre punitivismo, proporcionalidad y reinserción.",
+          "id_bloque_comun": "bloque_09",
+          "titulo_bloque_comun": "Energía, Transición Ecológica y Medio Ambiente"
+        },
+        {
+          "numero_medida": 63,
+          "id_medida": "PA-63",
+          "seccion_original": "BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO",
+          "titulo_medida": "Igualdad plena ante la ley y persecución de denuncias falsas",
+          "texto_oficial": "Garantía absoluta de la presunción de inocencia, tutela judicial efectiva para todas las víctimas de violencia intrafamiliar sin discriminación y persecución de oficio del falso testimonio y la denuncia falsa. Viabilidad: Es viable reforzando los recursos de los juzgados especializados y aplicando con rigor el artículo 14 de la Constitución Española.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO» del programa de PA: Garantía absoluta de la presunción de inocencia, tutela judicial efectiva para todas las víctimas de violencia intrafamiliar sin discriminación y persecución de oficio del falso testimonio y la denuncia falsa. Viabilidad: Es viable reforzando los recursos de los juzgados especializados y aplicando con rigor el…",
+          "datos_a_favor": "Persigue agilizar los procedimientos judiciales, reforzar las garantías procesales o endurecer la respuesta penal frente a determinados delitos.",
+          "datos_en_contra": "Requiere dotación presupuestaria y de plantillas judiciales para evitar retrasos procesales, así como equilibrio entre punitivismo, proporcionalidad y reinserción.",
+          "id_bloque_comun": "bloque_09",
+          "titulo_bloque_comun": "Energía, Transición Ecológica y Medio Ambiente"
+        },
+        {
+          "numero_medida": 94,
+          "id_medida": "PA-94",
+          "seccion_original": "BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD",
+          "titulo_medida": "Endurecimiento penal por conducción bajo alcohol o drogas y fuga",
+          "texto_oficial": "Reforma del Código Penal para agravar las penas de prisión y retirada definitiva del permiso de conducir cuando se causen víctimas bajo los efectos del alcohol o drogas, especialmente si existe abandono del lugar del accidente. Viabilidad: Es viable jurídicamente y refuerza la seguridad vial y la justicia material para las víctimas y sus familias.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD» del programa de PA: Reforma del Código Penal para agravar las penas de prisión y retirada definitiva del permiso de conducir cuando se causen víctimas bajo los efectos del alcohol o drogas, especialmente si existe abandono del lugar del accidente. Viabilidad: Es viable jurídicamente y refuerza la seguridad vial y la justicia material…",
+          "datos_a_favor": "Persigue agilizar los procedimientos judiciales, reforzar las garantías procesales o endurecer la respuesta penal frente a determinados delitos.",
+          "datos_en_contra": "Requiere dotación presupuestaria y de plantillas judiciales para evitar retrasos procesales, así como equilibrio entre punitivismo, proporcionalidad y reinserción.",
+          "id_bloque_comun": "bloque_09",
+          "titulo_bloque_comun": "Energía, Transición Ecológica y Medio Ambiente"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_10",
+      "numero_bloque": 10,
+      "titulo_bloque": "Sector Primario, Agua y Medio Rural",
+      "alcance_medidas": "Medidas 90 a 99 (5 medidas)",
+      "total_medidas_bloque": 5,
+      "medidas_incluidas": [
+        90,
+        91,
+        92,
+        93,
+        99
+      ],
+      "medidas": [
+        {
+          "numero_medida": 90,
+          "id_medida": "PA-90",
+          "seccion_original": "BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD",
+          "titulo_medida": "Ampliación urgente de la plantilla de examinadores de tráfico de la DGT",
+          "texto_oficial": "Convocatoria extraordinaria de plazas de examinadores de tráfico para eliminar los meses de espera en provincias colapsadas, dando salida a la demanda acumulada de aspirantes que ya han abonado la tasa oficial de 94,05 €. Viabilidad: Es viable y autofinanciable porque la recaudación por tasas de examen de la DGT supera ampliamente el coste salarial de ampliar la plantilla de examinadores.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD» del programa de PA: Convocatoria extraordinaria de plazas de examinadores de tráfico para eliminar los meses de espera en provincias colapsadas, dando salida a la demanda acumulada de aspirantes que ya han abonado la tasa oficial de 94,05 €. Viabilidad: Es viable y autofinanciable porque la recaudación por tasas de examen de la DGT…",
+          "datos_a_favor": "Busca modernizar las redes de transporte, corregir déficits de conectividad territorial o mejorar la seguridad vial y las condiciones del sector.",
+          "datos_en_contra": "Grandes obras e incentivos en movilidad exigen plazos largos de ejecución, evaluación de demanda real y compatibilidad con los objetivos ambientales.",
+          "id_bloque_comun": "bloque_10",
+          "titulo_bloque_comun": "Sector Primario, Agua y Medio Rural"
+        },
+        {
+          "numero_medida": 91,
+          "id_medida": "PA-91",
+          "seccion_original": "BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD",
+          "titulo_medida": "Reforma y derogación de las rigideces del sistema CAPA en autoescuelas",
+          "texto_oficial": "Sustitución del actual sistema CAPA de reparto rígido de minutos de examen por una planificación flexible basada en demanda real y refuerzo itinerante de examinadores, desbloqueando la actividad de miles de autoescuelas. Viabilidad: Es viable organizativamente en cuanto se amplíe la plantilla examinadora, reactivando la facturación de las pequeñas autoescuelas y el acceso de jóvenes al empleo.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD» del programa de PA: Sustitución del actual sistema CAPA de reparto rígido de minutos de examen por una planificación flexible basada en demanda real y refuerzo itinerante de examinadores, desbloqueando la actividad de miles de autoescuelas. Viabilidad: Es viable organizativamente en cuanto se amplíe la plantilla examinadora, reactivando…",
+          "datos_a_favor": "Busca modernizar las redes de transporte, corregir déficits de conectividad territorial o mejorar la seguridad vial y las condiciones del sector.",
+          "datos_en_contra": "Grandes obras e incentivos en movilidad exigen plazos largos de ejecución, evaluación de demanda real y compatibilidad con los objetivos ambientales.",
+          "id_bloque_comun": "bloque_10",
+          "titulo_bloque_comun": "Sector Primario, Agua y Medio Rural"
+        },
+        {
+          "numero_medida": 92,
+          "id_medida": "PA-92",
+          "seccion_original": "BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD",
+          "titulo_medida": "Modernización del convenio y áreas de descanso del transporte por carretera",
+          "texto_oficial": "Actualización del marco laboral del transporte profesional de mercancías y viajeros, prohibiendo que los conductores realicen carga y descarga pesada y construyendo áreas de descanso seguras y vigiladas. Viabilidad: Es viable aplicando el Paquete de Movilidad Europeo, atajando la grave escasez de conductores profesionales en España.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD» del programa de PA: Actualización del marco laboral del transporte profesional de mercancías y viajeros, prohibiendo que los conductores realicen carga y descarga pesada y construyendo áreas de descanso seguras y vigiladas. Viabilidad: Es viable aplicando el Paquete de Movilidad Europeo, atajando la grave escasez de conductores…",
+          "datos_a_favor": "Busca modernizar las redes de transporte, corregir déficits de conectividad territorial o mejorar la seguridad vial y las condiciones del sector.",
+          "datos_en_contra": "Grandes obras e incentivos en movilidad exigen plazos largos de ejecución, evaluación de demanda real y compatibilidad con los objetivos ambientales.",
+          "id_bloque_comun": "bloque_10",
+          "titulo_bloque_comun": "Sector Primario, Agua y Medio Rural"
+        },
+        {
+          "numero_medida": 93,
+          "id_medida": "PA-93",
+          "seccion_original": "BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD",
+          "titulo_medida": "Sustitución total de guardarraíles peligrosos para motoristas",
+          "texto_oficial": "Plan plurianual obligatorio para instalar sistemas de protección para motoristas (SPM) en todos los quitamiedos de la red viaria estatal y autonómica, priorizando tramos de alta siniestralidad. Viabilidad: Es viable incluyendo los sistemas homologados de doble bionda en todos los contratos ordinarios de conservación de carreteras.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD» del programa de PA: Plan plurianual obligatorio para instalar sistemas de protección para motoristas (SPM) en todos los quitamiedos de la red viaria estatal y autonómica, priorizando tramos de alta siniestralidad. Viabilidad: Es viable incluyendo los sistemas homologados de doble bionda en todos los contratos ordinarios de conservación…",
+          "datos_a_favor": "Busca modernizar las redes de transporte, corregir déficits de conectividad territorial o mejorar la seguridad vial y las condiciones del sector.",
+          "datos_en_contra": "Grandes obras e incentivos en movilidad exigen plazos largos de ejecución, evaluación de demanda real y compatibilidad con los objetivos ambientales.",
+          "id_bloque_comun": "bloque_10",
+          "titulo_bloque_comun": "Sector Primario, Agua y Medio Rural"
+        },
+        {
+          "numero_medida": 99,
+          "id_medida": "PA-99",
+          "seccion_original": "BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD",
+          "titulo_medida": "Apoyo específico a las economías insulares y compensación de transporte",
+          "texto_oficial": "Bonificación permanente del 100 % en el transporte marítimo y aéreo de mercancías entre la Península, Baleares, Canarias, Ceuta y Melilla, simplificando los trámites aduaneros para pymes insulares. Viabilidad: Es viable reforzando el Régimen Económico y Fiscal de Canarias y el régimen especial de Baleares para que producir o comerciar en las islas no tenga sobrecostes.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD» del programa de PA: Bonificación permanente del 100 % en el transporte marítimo y aéreo de mercancías entre la Península, Baleares, Canarias, Ceuta y Melilla, simplificando los trámites aduaneros para pymes insulares. Viabilidad: Es viable reforzando el Régimen Económico y Fiscal de Canarias y el régimen especial de Baleares para que…",
+          "datos_a_favor": "Busca modernizar las redes de transporte, corregir déficits de conectividad territorial o mejorar la seguridad vial y las condiciones del sector.",
+          "datos_en_contra": "Grandes obras e incentivos en movilidad exigen plazos largos de ejecución, evaluación de demanda real y compatibilidad con los objetivos ambientales.",
+          "id_bloque_comun": "bloque_10",
+          "titulo_bloque_comun": "Sector Primario, Agua y Medio Rural"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_11",
+      "numero_bloque": 11,
+      "titulo_bloque": "Infraestructuras, Transporte, Movilidad y Conectividad",
+      "alcance_medidas": "Medidas 86 a 98 (3 medidas)",
+      "total_medidas_bloque": 3,
+      "medidas_incluidas": [
+        86,
+        87,
+        98
+      ],
+      "medidas": [
+        {
+          "numero_medida": 86,
+          "id_medida": "PA-86",
+          "seccion_original": "BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD",
+          "titulo_medida": "Plan Hidrológico Nacional y modernización de infraestructuras hídricas",
+          "texto_oficial": "Inversión prioritaria en interconexión de cuencas, balsas de regulación, desaladoras energéticamente eficientes y modernización de regadíos para garantizar agua en todo el territorio y apoyar la extinción aérea de incendios. Viabilidad: Es viable financiando las obras hidráulicas con fondos europeos de resiliencia climática, protegiendo tanto el abastecimiento urbano como la agricultura y ganadería.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD» del programa de PA: Inversión prioritaria en interconexión de cuencas, balsas de regulación, desaladoras energéticamente eficientes y modernización de regadíos para garantizar agua en todo el territorio y apoyar la extinción aérea de incendios. Viabilidad: Es viable financiando las obras hidráulicas con fondos europeos de resiliencia…",
+          "datos_a_favor": "Apunta a acelerar la transición ecológica, asegurar el suministro energético e hídrico y mitigar los efectos de la emergencia climática.",
+          "datos_en_contra": "Afronta compensaciones complejas entre coste energético a corto plazo, aceptación territorial de infraestructuras y seguridad de abastecimiento.",
+          "id_bloque_comun": "bloque_11",
+          "titulo_bloque_comun": "Infraestructuras, Transporte, Movilidad y Conectividad"
+        },
+        {
+          "numero_medida": 87,
+          "id_medida": "PA-87",
+          "seccion_original": "BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD",
+          "titulo_medida": "Prohibición estricta de construir en cauces y zonas inundables",
+          "texto_oficial": "Paralización inmediata de cualquier nueva recalificación urbanística en ramblas, cauces fluviales y zonas de riesgo inundable acreditado, ejecutando obras de encauzamiento y drenaje preventivo tras episodios extremos como las DANA. Viabilidad: Es viable actualizando los mapas de peligrosidad hídrica de las Confederaciones Hidrográficas y vinculando las licencias municipales a informes vinculantes de seguridad hídrica.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD» del programa de PA: Paralización inmediata de cualquier nueva recalificación urbanística en ramblas, cauces fluviales y zonas de riesgo inundable acreditado, ejecutando obras de encauzamiento y drenaje preventivo tras episodios extremos como las DANA. Viabilidad: Es viable actualizando los mapas de peligrosidad hídrica de las…",
+          "datos_a_favor": "Apunta a acelerar la transición ecológica, asegurar el suministro energético e hídrico y mitigar los efectos de la emergencia climática.",
+          "datos_en_contra": "Afronta compensaciones complejas entre coste energético a corto plazo, aceptación territorial de infraestructuras y seguridad de abastecimiento.",
+          "id_bloque_comun": "bloque_11",
+          "titulo_bloque_comun": "Infraestructuras, Transporte, Movilidad y Conectividad"
+        },
+        {
+          "numero_medida": 98,
+          "id_medida": "PA-98",
+          "seccion_original": "BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD",
+          "titulo_medida": "Transición energética realista y neutralidad tecnológica para pymes",
+          "texto_oficial": "Apoyo a las energías renovables y al autoconsumo industrial sin cierres ideológicos prematuros de centrales de respaldo que encarezcan la factura eléctrica ni restricciones arbitrarias en zonas de bajas emisiones que arruinen al comercio local. Viabilidad: Es viable garantizando seguridad de suministro eléctrico a precio competitivo y moratorias para los vehículos profesionales de reparto de autónomos.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD» del programa de PA: Apoyo a las energías renovables y al autoconsumo industrial sin cierres ideológicos prematuros de centrales de respaldo que encarezcan la factura eléctrica ni restricciones arbitrarias en zonas de bajas emisiones que arruinen al comercio local. Viabilidad: Es viable garantizando seguridad de suministro eléctrico a…",
+          "datos_a_favor": "Apunta a acelerar la transición ecológica, asegurar el suministro energético e hídrico y mitigar los efectos de la emergencia climática.",
+          "datos_en_contra": "Afronta compensaciones complejas entre coste energético a corto plazo, aceptación territorial de infraestructuras y seguridad de abastecimiento.",
+          "id_bloque_comun": "bloque_11",
+          "titulo_bloque_comun": "Infraestructuras, Transporte, Movilidad y Conectividad"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_12",
+      "numero_bloque": 12,
+      "titulo_bloque": "Administración Pública, Gestión Presupuestaria y Simplificación",
+      "alcance_medidas": "Medidas 88 a 89 (2 medidas)",
+      "total_medidas_bloque": 2,
+      "medidas_incluidas": [
+        88,
+        89
+      ],
+      "medidas": [
+        {
+          "numero_medida": 88,
+          "id_medida": "PA-88",
+          "seccion_original": "BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD",
+          "titulo_medida": "Cumplimiento de la Ley de la Cadena Alimentaria y precios justos",
+          "texto_oficial": "Inspección efectiva de los contratos agrarios para prohibir la venta a pérdidas de agricultores y ganaderos, garantizando que el precio en origen cubra los costes reales de producción y frenando márgenes especulativos. Viabilidad: Es viable dotando de inspectores suficientes a la Agencia de Información y Control Alimentarios (AICA) con capacidad sancionadora ágil.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD» del programa de PA: Inspección efectiva de los contratos agrarios para prohibir la venta a pérdidas de agricultores y ganaderos, garantizando que el precio en origen cubra los costes reales de producción y frenando márgenes especulativos. Viabilidad: Es viable dotando de inspectores suficientes a la Agencia de Información y Control…",
+          "datos_a_favor": "Busca garantizar la rentabilidad del sector primario, modernizar el regadío o apoyar la soberanía alimentaria y el relevo generacional rural.",
+          "datos_en_contra": "Debe compatibilizar apoyo a rentas agrarias y costes de producción con normativa comercial de la Unión Europea y sostenibilidad hídrica y ambiental.",
+          "id_bloque_comun": "bloque_12",
+          "titulo_bloque_comun": "Administración Pública, Gestión Presupuestaria y Simplificación"
+        },
+        {
+          "numero_medida": 89,
+          "id_medida": "PA-89",
+          "seccion_original": "BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD",
+          "titulo_medida": "Reforma del subsidio agrario (PER) hacia el empleo productivo",
+          "texto_oficial": "Auditoría integral del Programa de Fomento de Empleo Agrario (PER) para corregir fraudes en peonadas y transformar las ayudas pasivas en incentivos directos a la contratación agraria real, la agroindustria y el emprendimiento rural. Viabilidad: Es viable manteniendo la protección social de los jornaleros que realmente trabajan en el campo mientras se incentiva la fijación de empresas en el medio rural.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD» del programa de PA: Auditoría integral del Programa de Fomento de Empleo Agrario (PER) para corregir fraudes en peonadas y transformar las ayudas pasivas en incentivos directos a la contratación agraria real, la agroindustria y el emprendimiento rural. Viabilidad: Es viable manteniendo la protección social de los jornaleros que realmente…",
+          "datos_a_favor": "Busca garantizar la rentabilidad del sector primario, modernizar el regadío o apoyar la soberanía alimentaria y el relevo generacional rural.",
+          "datos_en_contra": "Debe compatibilizar apoyo a rentas agrarias y costes de producción con normativa comercial de la Unión Europea y sostenibilidad hídrica y ambiental.",
+          "id_bloque_comun": "bloque_12",
+          "titulo_bloque_comun": "Administración Pública, Gestión Presupuestaria y Simplificación"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_13",
+      "numero_bloque": 13,
+      "titulo_bloque": "Justicia, Seguridad Ciudadana y Derechos Civiles",
+      "alcance_medidas": "Medidas 78 a 80 (2 medidas)",
+      "total_medidas_bloque": 2,
+      "medidas_incluidas": [
+        78,
+        80
+      ],
+      "medidas": [
+        {
+          "numero_medida": 78,
+          "id_medida": "PA-78",
+          "seccion_original": "BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL",
+          "titulo_medida": "Protección integral del menor tutelado y auditoría de centros de acogida",
+          "texto_oficial": "Supervisión judicial y fiscalización externa permanente de todos los centros de menores tutelados, garantizando su seguridad física, atención psicológica y transición al empleo al cumplir la mayoría de edad. Viabilidad: Es viable reforzando las plantillas de trabajo social e inspección de la Fiscalía de Menores.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL» del programa de PA: Supervisión judicial y fiscalización externa permanente de todos los centros de menores tutelados, garantizando su seguridad física, atención psicológica y transición al empleo al cumplir la mayoría de edad. Viabilidad: Es viable reforzando las plantillas de trabajo social e inspección de la Fiscalía de Menores.",
+          "datos_a_favor": "Persigue facilitar la conciliación laboral y familiar, proteger a la infancia y mejorar las oportunidades de emancipación juvenil.",
+          "datos_en_contra": "Su impacto real depende de la cobertura efectiva de plazas públicas de 0 a 3 años, ayudas estables y estabilidad en el empleo joven.",
+          "id_bloque_comun": "bloque_13",
+          "titulo_bloque_comun": "Justicia, Seguridad Ciudadana y Derechos Civiles"
+        },
+        {
+          "numero_medida": 80,
+          "id_medida": "PA-80",
+          "seccion_original": "BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL",
+          "titulo_medida": "Red nacional de escuelas infantiles gratuitas de 0 a 3 años",
+          "texto_oficial": "Universalización de la educación infantil de primer ciclo (0-3 años) mediante plazas públicas gratuitas y cheques guardería directos para que las familias elijan centro privado o público. Viabilidad: Es viable porque facilita la conciliación laboral de madres y padres trabajadores y aumenta la tasa de actividad económica femenina.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL» del programa de PA: Universalización de la educación infantil de primer ciclo (0-3 años) mediante plazas públicas gratuitas y cheques guardería directos para que las familias elijan centro privado o público. Viabilidad: Es viable porque facilita la conciliación laboral de madres y padres trabajadores y aumenta la tasa de actividad…",
+          "datos_a_favor": "Persigue facilitar la conciliación laboral y familiar, proteger a la infancia y mejorar las oportunidades de emancipación juvenil.",
+          "datos_en_contra": "Su impacto real depende de la cobertura efectiva de plazas públicas de 0 a 3 años, ayudas estables y estabilidad en el empleo joven.",
+          "id_bloque_comun": "bloque_13",
+          "titulo_bloque_comun": "Justicia, Seguridad Ciudadana y Derechos Civiles"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_16",
+      "numero_bloque": 16,
+      "titulo_bloque": "Organización Territorial, Autogobierno y Financiación Autonómica",
+      "alcance_medidas": "Medidas 41 a 100 (19 medidas)",
+      "total_medidas_bloque": 19,
+      "medidas_incluidas": [
+        41,
+        42,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        100
+      ],
+      "medidas": [
+        {
+          "numero_medida": 41,
+          "id_medida": "PA-41",
+          "seccion_original": "BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL",
+          "titulo_medida": "Plan Industrial «Made in Spain» y retorno de empresas deslocalizadas",
+          "texto_oficial": "Incentivos fiscales a la inversión productiva, suelo industrial bonificado y deducciones por I+D+i para atraer de vuelta a España fábricas y centros logísticos deslocalizados por costes regulatorios. Viabilidad: Es viable aprovechando la tendencia europea de reindustrialización estratégica y autonomía de suministros, generando empleo industrial de alto valor añadido.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL» del programa de PA: Incentivos fiscales a la inversión productiva, suelo industrial bonificado y deducciones por I+D+i para atraer de vuelta a España fábricas y centros logísticos deslocalizados por costes regulatorios. Viabilidad: Es viable aprovechando la tendencia europea de reindustrialización estratégica y autonomía de suministros…",
+          "datos_a_favor": "Apunta a simplificar trámites, reforzar la transparencia institucional, prevenir la corrupción y mejorar la rendición de cuentas democrática.",
+          "datos_en_contra": "La efectividad de las reformas administrativas o electorales depende de controles independientes reales y de que no introduzcan nueva rigidez burocrática.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Organización Territorial, Autogobierno y Financiación Autonómica"
+        },
+        {
+          "numero_medida": 42,
+          "id_medida": "PA-42",
+          "seccion_original": "BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL",
+          "titulo_medida": "Impulso a Centros Comerciales Abiertos y zonas de comercio local",
+          "texto_oficial": "Planes municipales de dinamización del comercio de proximidad con bonificaciones de tasas, zonas de carga y descarga inteligentes, aparcamiento gratuito la primera hora y digitalización compartida. Viabilidad: Es viable mediante acuerdos entre ayuntamientos y asociaciones de comerciantes, frenando la desertización comercial de los centros urbanos frente a las grandes plataformas.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL» del programa de PA: Planes municipales de dinamización del comercio de proximidad con bonificaciones de tasas, zonas de carga y descarga inteligentes, aparcamiento gratuito la primera hora y digitalización compartida. Viabilidad: Es viable mediante acuerdos entre ayuntamientos y asociaciones de comerciantes, frenando la desertización…",
+          "datos_a_favor": "Apunta a simplificar trámites, reforzar la transparencia institucional, prevenir la corrupción y mejorar la rendición de cuentas democrática.",
+          "datos_en_contra": "La efectividad de las reformas administrativas o electorales depende de controles independientes reales y de que no introduzcan nueva rigidez burocrática.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Organización Territorial, Autogobierno y Financiación Autonómica"
+        },
+        {
+          "numero_medida": 44,
+          "id_medida": "PA-44",
+          "seccion_original": "BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL",
+          "titulo_medida": "Formación continua bonificada 100 % adaptada al sector del autónomo",
+          "texto_oficial": "Acceso directo de los trabajadores por cuenta propia al crédito de formación profesional (FUNDAE) para cursos prácticos de inteligencia artificial, marketing digital, gestión financiera y idiomas vinculados a su actividad. Viabilidad: Es viable porque los autónomos ya contribuyen por formación profesional en su cuota mensual sin poder utilizar de forma ágil los fondos que generan.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL» del programa de PA: Acceso directo de los trabajadores por cuenta propia al crédito de formación profesional (FUNDAE) para cursos prácticos de inteligencia artificial, marketing digital, gestión financiera y idiomas vinculados a su actividad. Viabilidad: Es viable porque los autónomos ya contribuyen por formación profesional en su cuota…",
+          "datos_a_favor": "Apunta a simplificar trámites, reforzar la transparencia institucional, prevenir la corrupción y mejorar la rendición de cuentas democrática.",
+          "datos_en_contra": "La efectividad de las reformas administrativas o electorales depende de controles independientes reales y de que no introduzcan nueva rigidez burocrática.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Organización Territorial, Autogobierno y Financiación Autonómica"
+        },
+        {
+          "numero_medida": 45,
+          "id_medida": "PA-45",
+          "seccion_original": "BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL",
+          "titulo_medida": "Modernización de ferias, mercados municipales y venta ambulante",
+          "texto_oficial": "Reducción de tasas municipales de ocupación de vía pública, ampliación de concesiones administrativas a 25 años y ayudas para modernización energética en mercados de abastos y mercadillos. Viabilidad: Es viable porque garantiza la seguridad jurídica necesaria para que los comerciantes de mercados tradicionales inviertan en sus puestos y mantengan el abastecimiento fresco en los barrios.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE III · EMPLEO, SEGURIDAD SOCIAL Y CRECIMIENTO EMPRESARIAL» del programa de PA: Reducción de tasas municipales de ocupación de vía pública, ampliación de concesiones administrativas a 25 años y ayudas para modernización energética en mercados de abastos y mercadillos. Viabilidad: Es viable porque garantiza la seguridad jurídica necesaria para que los comerciantes de mercados tradicionales…",
+          "datos_a_favor": "Apunta a simplificar trámites, reforzar la transparencia institucional, prevenir la corrupción y mejorar la rendición de cuentas democrática.",
+          "datos_en_contra": "La efectividad de las reformas administrativas o electorales depende de controles independientes reales y de que no introduzcan nueva rigidez burocrática.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Organización Territorial, Autogobierno y Financiación Autonómica"
+        },
+        {
+          "numero_medida": 46,
+          "id_medida": "PA-46",
+          "seccion_original": "BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO",
+          "titulo_medida": "Reforma de competencias autonómicas y eliminación de duplicidades",
+          "texto_oficial": "Auditoría constitucional y transferencia de competencias duplicadas para garantizar la unidad de mercado en España, evitando que una pyme tenga que cumplir 17 normativas distintas de etiquetado, licencias o impuestos para operar en todo el país. Viabilidad: Es viable aplicando estrictamente la Ley de Garantía de la Unidad de Mercado, reduciendo costes de cumplimiento normativo que hoy frenan el crecimiento de las pymes españolas.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO» del programa de PA: Auditoría constitucional y transferencia de competencias duplicadas para garantizar la unidad de mercado en España, evitando que una pyme tenga que cumplir 17 normativas distintas de etiquetado, licencias o impuestos para operar en todo el país. Viabilidad: Es viable aplicando estrictamente la Ley de Garantía de la…",
+          "datos_a_favor": "Apunta a simplificar trámites, reforzar la transparencia institucional, prevenir la corrupción y mejorar la rendición de cuentas democrática.",
+          "datos_en_contra": "La efectividad de las reformas administrativas o electorales depende de controles independientes reales y de que no introduzcan nueva rigidez burocrática.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Organización Territorial, Autogobierno y Financiación Autonómica"
+        },
+        {
+          "numero_medida": 47,
+          "id_medida": "PA-47",
+          "seccion_original": "BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO",
+          "titulo_medida": "Independencia real del Poder Judicial sin cuotas de partidos",
+          "texto_oficial": "Reforma de la Ley Orgánica del Poder Judicial para que los vocales del Consejo General del Poder Judicial sean elegidos directamente por jueces y magistrados en activo, con participación consultiva de colegios de abogados y fiscales, sin intervención parlamentaria. Viabilidad: Es viable conforme a las recomendaciones reiteradas de la Comisión Europea y el Grupo GRECO, devolviendo la confianza institucional y la seguridad jurídica indispensables para la inversión.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO» del programa de PA: Reforma de la Ley Orgánica del Poder Judicial para que los vocales del Consejo General del Poder Judicial sean elegidos directamente por jueces y magistrados en activo, con participación consultiva de colegios de abogados y fiscales, sin intervención parlamentaria. Viabilidad: Es viable conforme a las recomendaciones…",
+          "datos_a_favor": "Apunta a simplificar trámites, reforzar la transparencia institucional, prevenir la corrupción y mejorar la rendición de cuentas democrática.",
+          "datos_en_contra": "La efectividad de las reformas administrativas o electorales depende de controles independientes reales y de que no introduzcan nueva rigidez burocrática.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Organización Territorial, Autogobierno y Financiación Autonómica"
+        },
+        {
+          "numero_medida": 48,
+          "id_medida": "PA-48",
+          "seccion_original": "BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO",
+          "titulo_medida": "Endurecimiento real del régimen de puertas giratorias",
+          "texto_oficial": "Ampliación a cinco años del periodo de incompatibilidad para que exministros, secretarios de Estado y altos cargos puedan fichar por empresas reguladas o contratistas del sector público, bajo sanción de pérdida de retribuciones. Viabilidad: Es viable mediante reforma de la Ley de Altos Cargos, eliminando conflictos de intereses y garantizando igualdad de competencia en sectores estratégicos.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO» del programa de PA: Ampliación a cinco años del periodo de incompatibilidad para que exministros, secretarios de Estado y altos cargos puedan fichar por empresas reguladas o contratistas del sector público, bajo sanción de pérdida de retribuciones. Viabilidad: Es viable mediante reforma de la Ley de Altos Cargos, eliminando conflictos de…",
+          "datos_a_favor": "Apunta a simplificar trámites, reforzar la transparencia institucional, prevenir la corrupción y mejorar la rendición de cuentas democrática.",
+          "datos_en_contra": "La efectividad de las reformas administrativas o electorales depende de controles independientes reales y de que no introduzcan nueva rigidez burocrática.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Organización Territorial, Autogobierno y Financiación Autonómica"
+        },
+        {
+          "numero_medida": 49,
+          "id_medida": "PA-49",
+          "seccion_original": "BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO",
+          "titulo_medida": "Supresión de pensiones y pagas vitalicias de altos cargos políticos",
+          "texto_oficial": "Eliminación de cualquier pensión indemnizatoria, complemento vitalicio o privilegio retributivo de expresidentes, exministros y exparlamentarios, sometiéndolos exactamente al mismo régimen general de cotización que cualquier ciudadano. Viabilidad: Es viable por decreto legislativo inmediato y constituye una medida elemental de ejemplaridad pública y ahorro presupuestario.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO» del programa de PA: Eliminación de cualquier pensión indemnizatoria, complemento vitalicio o privilegio retributivo de expresidentes, exministros y exparlamentarios, sometiéndolos exactamente al mismo régimen general de cotización que cualquier ciudadano. Viabilidad: Es viable por decreto legislativo inmediato y constituye una medida…",
+          "datos_a_favor": "Apunta a simplificar trámites, reforzar la transparencia institucional, prevenir la corrupción y mejorar la rendición de cuentas democrática.",
+          "datos_en_contra": "La efectividad de las reformas administrativas o electorales depende de controles independientes reales y de que no introduzcan nueva rigidez burocrática.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Organización Territorial, Autogobierno y Financiación Autonómica"
+        },
+        {
+          "numero_medida": 50,
+          "id_medida": "PA-50",
+          "seccion_original": "BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO",
+          "titulo_medida": "Cumplimiento vinculante del 50 % del programa electoral en 4 años",
+          "texto_oficial": "Obligación legal de presentar ante el Congreso una auditoría pública semestral del grado de ejecución del programa de gobierno, activando mecanismos de rendición de cuentas si al tercer año no se supera el 50 % de compromisos cumplidos. Viabilidad: Es viable mediante reforma del Reglamento del Congreso y la Ley de Transparencia, profesionalizando la política bajo criterios de cumplimiento por objetivos.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO» del programa de PA: Obligación legal de presentar ante el Congreso una auditoría pública semestral del grado de ejecución del programa de gobierno, activando mecanismos de rendición de cuentas si al tercer año no se supera el 50 % de compromisos cumplidos. Viabilidad: Es viable mediante reforma del Reglamento del Congreso y la Ley de…",
+          "datos_a_favor": "Apunta a simplificar trámites, reforzar la transparencia institucional, prevenir la corrupción y mejorar la rendición de cuentas democrática.",
+          "datos_en_contra": "La efectividad de las reformas administrativas o electorales depende de controles independientes reales y de que no introduzcan nueva rigidez burocrática.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Organización Territorial, Autogobierno y Financiación Autonómica"
+        },
+        {
+          "numero_medida": 51,
+          "id_medida": "PA-51",
+          "seccion_original": "BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO",
+          "titulo_medida": "Eliminación de subvenciones públicas a sindicatos y patronales",
+          "texto_oficial": "Supresión de las subvenciones nominativas y estructurales con cargo a los Presupuestos Generales del Estado para sindicatos, organizaciones empresariales y asociaciones políticas, que deberán financiarse exclusivamente con las cuotas de sus afiliados. Viabilidad: Es viable y refuerza la independencia real de los agentes sociales, liberando cientos de millones de euros anuales para políticas activas de empleo directo.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO» del programa de PA: Supresión de las subvenciones nominativas y estructurales con cargo a los Presupuestos Generales del Estado para sindicatos, organizaciones empresariales y asociaciones políticas, que deberán financiarse exclusivamente con las cuotas de sus afiliados. Viabilidad: Es viable y refuerza la independencia real de los…",
+          "datos_a_favor": "Apunta a simplificar trámites, reforzar la transparencia institucional, prevenir la corrupción y mejorar la rendición de cuentas democrática.",
+          "datos_en_contra": "La efectividad de las reformas administrativas o electorales depende de controles independientes reales y de que no introduzcan nueva rigidez burocrática.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Organización Territorial, Autogobierno y Financiación Autonómica"
+        },
+        {
+          "numero_medida": 52,
+          "id_medida": "PA-52",
+          "seccion_original": "BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO",
+          "titulo_medida": "Fin de las subvenciones y publicidad institucional arbitraria en medios",
+          "texto_oficial": "Prohibición de ayudas directas y reparto discrecional de publicidad institucional a medios de comunicación privados, estableciendo criterios estrictamente objetivos de audiencia auditada y utilidad pública. Viabilidad: Es viable aplicando la Ley Europea de Libertad de los Medios de Comunicación, garantizando la independencia informativa y evitando el uso partidista de fondos públicos.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO» del programa de PA: Prohibición de ayudas directas y reparto discrecional de publicidad institucional a medios de comunicación privados, estableciendo criterios estrictamente objetivos de audiencia auditada y utilidad pública. Viabilidad: Es viable aplicando la Ley Europea de Libertad de los Medios de Comunicación, garantizando la…",
+          "datos_a_favor": "Apunta a simplificar trámites, reforzar la transparencia institucional, prevenir la corrupción y mejorar la rendición de cuentas democrática.",
+          "datos_en_contra": "La efectividad de las reformas administrativas o electorales depende de controles independientes reales y de que no introduzcan nueva rigidez burocrática.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Organización Territorial, Autogobierno y Financiación Autonómica"
+        },
+        {
+          "numero_medida": 53,
+          "id_medida": "PA-53",
+          "seccion_original": "BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO",
+          "titulo_medida": "Despolitización y control presupuestario de radiotelevisiones públicas",
+          "texto_oficial": "Incompatibilidad absoluta para que afiliados o exdirigentes de partidos políticos ocupen puestos directivos en RTVE y entes autonómicos, fijando un techo máximo de gasto y programación de servicio público. Viabilidad: Es viable mediante concurso público independiente de méritos profesionales, reduciendo el déficit crónico de las televisiones públicas.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO» del programa de PA: Incompatibilidad absoluta para que afiliados o exdirigentes de partidos políticos ocupen puestos directivos en RTVE y entes autonómicos, fijando un techo máximo de gasto y programación de servicio público. Viabilidad: Es viable mediante concurso público independiente de méritos profesionales, reduciendo el déficit…",
+          "datos_a_favor": "Apunta a simplificar trámites, reforzar la transparencia institucional, prevenir la corrupción y mejorar la rendición de cuentas democrática.",
+          "datos_en_contra": "La efectividad de las reformas administrativas o electorales depende de controles independientes reales y de que no introduzcan nueva rigidez burocrática.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Organización Territorial, Autogobierno y Financiación Autonómica"
+        },
+        {
+          "numero_medida": 54,
+          "id_medida": "PA-54",
+          "seccion_original": "BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO",
+          "titulo_medida": "Reforma de la Ley Electoral con circunscripción más proporcional y segunda vuelta",
+          "texto_oficial": "Modificación de la LOREG para corregir la sobrerrepresentación de partidos minoritarios regionalistas frente a fuerzas nacionales, valorando la elección a doble vuelta en alcaldías para garantizar gobiernos estables. Viabilidad: Es viable dentro del marco constitucional mediante reforma de ley orgánica, devolviendo el valor igualitario al voto de todos los españoles.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO» del programa de PA: Modificación de la LOREG para corregir la sobrerrepresentación de partidos minoritarios regionalistas frente a fuerzas nacionales, valorando la elección a doble vuelta en alcaldías para garantizar gobiernos estables. Viabilidad: Es viable dentro del marco constitucional mediante reforma de ley orgánica, devolviendo el…",
+          "datos_a_favor": "Apunta a simplificar trámites, reforzar la transparencia institucional, prevenir la corrupción y mejorar la rendición de cuentas democrática.",
+          "datos_en_contra": "La efectividad de las reformas administrativas o electorales depende de controles independientes reales y de que no introduzcan nueva rigidez burocrática.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Organización Territorial, Autogobierno y Financiación Autonómica"
+        },
+        {
+          "numero_medida": 55,
+          "id_medida": "PA-55",
+          "seccion_original": "BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO",
+          "titulo_medida": "Consultas ciudadanas telemáticas en ayuntamientos y grandes inversiones",
+          "texto_oficial": "Creación de plataformas municipales seguras de consulta telemática vinculante para proyectos urbanísticos de gran impacto, tasas locales extraordinarias y prioridades de inversión vecinal. Viabilidad: Es viable utilizando certificados digitales y sistemas de identificación ya implantados en la Administración electrónica municipal.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO» del programa de PA: Creación de plataformas municipales seguras de consulta telemática vinculante para proyectos urbanísticos de gran impacto, tasas locales extraordinarias y prioridades de inversión vecinal. Viabilidad: Es viable utilizando certificados digitales y sistemas de identificación ya implantados en la Administración…",
+          "datos_a_favor": "Apunta a simplificar trámites, reforzar la transparencia institucional, prevenir la corrupción y mejorar la rendición de cuentas democrática.",
+          "datos_en_contra": "La efectividad de las reformas administrativas o electorales depende de controles independientes reales y de que no introduzcan nueva rigidez burocrática.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Organización Territorial, Autogobierno y Financiación Autonómica"
+        },
+        {
+          "numero_medida": 56,
+          "id_medida": "PA-56",
+          "seccion_original": "BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO",
+          "titulo_medida": "Estandarización modular de edificios públicos para evitar sobrecostes",
+          "texto_oficial": "Aprobación de proyectos arquitectónicos tipo, modulares y energéticamente eficientes para la construcción de colegios, centros de salud, residencias y comisarías según ratios poblacionales. Viabilidad: Es viable y permite ahorrar hasta un 30 % en costes de diseño, licitación y desviaciones presupuestarias en obra pública civil.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO» del programa de PA: Aprobación de proyectos arquitectónicos tipo, modulares y energéticamente eficientes para la construcción de colegios, centros de salud, residencias y comisarías según ratios poblacionales. Viabilidad: Es viable y permite ahorrar hasta un 30 % en costes de diseño, licitación y desviaciones presupuestarias en obra…",
+          "datos_a_favor": "Apunta a simplificar trámites, reforzar la transparencia institucional, prevenir la corrupción y mejorar la rendición de cuentas democrática.",
+          "datos_en_contra": "La efectividad de las reformas administrativas o electorales depende de controles independientes reales y de que no introduzcan nueva rigidez burocrática.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Organización Territorial, Autogobierno y Financiación Autonómica"
+        },
+        {
+          "numero_medida": 57,
+          "id_medida": "PA-57",
+          "seccion_original": "BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO",
+          "titulo_medida": "Equiparación salarial total de Policía Nacional y Guardia Civil",
+          "texto_oficial": "Culminación efectiva de la equiparación salarial real (incluyendo pagas extraordinarias, productividad y jubilación) de las Fuerzas y Cuerpos de Seguridad del Estado con las policías autonómicas. Viabilidad: Es viable dotando la partida específica en los Presupuestos Generales del Estado mediante el recorte de gasto político superfluo.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO» del programa de PA: Culminación efectiva de la equiparación salarial real (incluyendo pagas extraordinarias, productividad y jubilación) de las Fuerzas y Cuerpos de Seguridad del Estado con las policías autonómicas. Viabilidad: Es viable dotando la partida específica en los Presupuestos Generales del Estado mediante el recorte de gasto…",
+          "datos_a_favor": "Apunta a simplificar trámites, reforzar la transparencia institucional, prevenir la corrupción y mejorar la rendición de cuentas democrática.",
+          "datos_en_contra": "La efectividad de las reformas administrativas o electorales depende de controles independientes reales y de que no introduzcan nueva rigidez burocrática.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Organización Territorial, Autogobierno y Financiación Autonómica"
+        },
+        {
+          "numero_medida": 58,
+          "id_medida": "PA-58",
+          "seccion_original": "BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO",
+          "titulo_medida": "Cobertura obligatoria del 100 % de plantillas de seguridad y emergencias",
+          "texto_oficial": "Obligación legal de cubrir de forma automática las vacantes por jubilación o traslado en policía, guardia civil, bomberos y protección civil mediante convocatorias anuales unificadas. Viabilidad: Es viable mediante planificación plurianual de oferta de empleo público, garantizando la seguridad ciudadana tanto en áreas urbanas como en el medio rural.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO» del programa de PA: Obligación legal de cubrir de forma automática las vacantes por jubilación o traslado en policía, guardia civil, bomberos y protección civil mediante convocatorias anuales unificadas. Viabilidad: Es viable mediante planificación plurianual de oferta de empleo público, garantizando la seguridad ciudadana tanto en áreas…",
+          "datos_a_favor": "Apunta a simplificar trámites, reforzar la transparencia institucional, prevenir la corrupción y mejorar la rendición de cuentas democrática.",
+          "datos_en_contra": "La efectividad de las reformas administrativas o electorales depende de controles independientes reales y de que no introduzcan nueva rigidez burocrática.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Organización Territorial, Autogobierno y Financiación Autonómica"
+        },
+        {
+          "numero_medida": 59,
+          "id_medida": "PA-59",
+          "seccion_original": "BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO",
+          "titulo_medida": "Dotación moderna de medios de defensa y protección para agentes",
+          "texto_oficial": "Renovación periódica obligatoria de chalecos antibalas individuales, vehículos patrulla, dispositivos no letales y equipamiento técnico para todos los efectivos de seguridad. Viabilidad: Es viable mediante compras centralizadas plurianuales que reducen el coste unitario y protegen la integridad física de quienes garantizan la ley.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE IV · REGENERACIÓN DEMOCRÁTICA, JUSTICIA Y EFICIENCIA DEL ESTADO» del programa de PA: Renovación periódica obligatoria de chalecos antibalas individuales, vehículos patrulla, dispositivos no letales y equipamiento técnico para todos los efectivos de seguridad. Viabilidad: Es viable mediante compras centralizadas plurianuales que reducen el coste unitario y protegen la integridad física de quienes…",
+          "datos_a_favor": "Apunta a simplificar trámites, reforzar la transparencia institucional, prevenir la corrupción y mejorar la rendición de cuentas democrática.",
+          "datos_en_contra": "La efectividad de las reformas administrativas o electorales depende de controles independientes reales y de que no introduzcan nueva rigidez burocrática.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Organización Territorial, Autogobierno y Financiación Autonómica"
+        },
+        {
+          "numero_medida": 100,
+          "id_medida": "PA-100",
+          "seccion_original": "BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD",
+          "titulo_medida": "Creación de la Oficina Nacional de Simplificación Normativa",
+          "texto_oficial": "Regla obligatoria de «una norma nueva, dos derogadas»: creación de un órgano técnico independiente que revise toda nueva ley o reglamento antes de su aprobación para evaluar su impacto real sobre autónomos y microempresas. Viabilidad: Es viable siguiendo el modelo de mejora regulatoria de la OCDE, frenando la hiperregulación y garantizando un entorno estable para invertir y crear empleo.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD» del programa de PA: Regla obligatoria de «una norma nueva, dos derogadas»: creación de un órgano técnico independiente que revise toda nueva ley o reglamento antes de su aprobación para evaluar su impacto real sobre autónomos y microempresas. Viabilidad: Es viable siguiendo el modelo de mejora regulatoria de la OCDE, frenando la…",
+          "datos_a_favor": "Apunta a simplificar trámites, reforzar la transparencia institucional, prevenir la corrupción y mejorar la rendición de cuentas democrática.",
+          "datos_en_contra": "La efectividad de las reformas administrativas o electorales depende de controles independientes reales y de que no introduzcan nueva rigidez burocrática.",
+          "id_bloque_comun": "bloque_16",
+          "titulo_bloque_comun": "Organización Territorial, Autogobierno y Financiación Autonómica"
+        }
+      ]
+    },
+    {
+      "id_bloque": "bloque_18",
+      "numero_bloque": 18,
+      "titulo_bloque": "Gestión de Emergencias y Protección Civil",
+      "alcance_medidas": "Medidas 85 a 85 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        85
+      ],
+      "medidas": [
+        {
+          "numero_medida": 85,
+          "id_medida": "PA-85",
+          "seccion_original": "BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL",
+          "titulo_medida": "Prohibición total de publicidad de casas de apuestas y juego online",
+          "texto_oficial": "Equiparación legal de la publicidad del juego y apuestas deportivas online con la prohibición vigente para el tabaco, erradicando anuncios en medios audiovisuales, redes sociales y patrocinios deportivos. Viabilidad: Es viable mediante decreto ley de protección de la salud pública y prevención de la ludopatía juvenil.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE V · SANIDAD, EDUCACIÓN, VIVIENDA Y BIENESTAR SOCIAL» del programa de PA: Equiparación legal de la publicidad del juego y apuestas deportivas online con la prohibición vigente para el tabaco, erradicando anuncios en medios audiovisuales, redes sociales y patrocinios deportivos. Viabilidad: Es viable mediante decreto ley de protección de la salud pública y prevención de la ludopatía juvenil.",
+          "datos_a_favor": "Busca proteger a las personas consumidoras frente a prácticas abusivas, riesgos adictivos o publicidad comercial lesiva para la salud pública.",
+          "datos_en_contra": "Puede generar debate sobre libertad comercial y publicitaria, fiscalización efectiva en entornos digitales transfronterizos y alternativas de ocio.",
+          "id_bloque_comun": "bloque_18",
+          "titulo_bloque_comun": "Gestión de Emergencias y Protección Civil"
+        }
+      ]
+    }
+  ],
+  "otros_bloques": [
+    {
+      "id_bloque": "otro_bloque_01",
+      "numero_bloque": 20,
+      "titulo_bloque": "Protección y Bienestar Animal",
+      "alcance_medidas": "Medidas 95 a 95 (1 medida)",
+      "total_medidas_bloque": 1,
+      "medidas_incluidas": [
+        95
+      ],
+      "medidas": [
+        {
+          "numero_medida": 95,
+          "id_medida": "PA-95",
+          "seccion_original": "BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD",
+          "titulo_medida": "Ley de Protección Animal equilibrada con el mundo rural y ganadero",
+          "texto_oficial": "Protección penal firme contra el maltrato y abandono de animales domésticos, con apoyo a protectoras para esterilización y vacunación, diferenciando claramente las mascotas urbanas de los animales de trabajo, caza y ganadería. Viabilidad: Es viable mediante una normativa consensuada con veterinarios y el sector primario que proteja a los animales sin criminalizar actividades rurales tradicionales.",
+          "explicacion_medida": "Propuesta del apartado «BLOQUE VI · INFRAESTRUCTURAS, SECTOR PRIMARIO, MOVILIDAD Y SOSTENIBILIDAD» del programa de PA: Protección penal firme contra el maltrato y abandono de animales domésticos, con apoyo a protectoras para esterilización y vacunación, diferenciando claramente las mascotas urbanas de los animales de trabajo, caza y ganadería. Viabilidad: Es viable mediante una normativa consensuada con veterinarios y el sector…",
+          "datos_a_favor": "Busca reforzar el marco legal de protección y bienestar animal, prevenir el maltrato o compatibilizar su tutela con la actividad en el medio rural.",
+          "datos_en_contra": "Genera debate sobre competencias sancionadoras, financiación de centros de protección, seguridad jurídica veterinaria y equilibrio con el mundo ganadero.",
+          "id_bloque_comun": "otro_bloque_01",
+          "titulo_bloque_comun": "Protección y Bienestar Animal"
+        }
+      ]
+    }
+  ]
+}
