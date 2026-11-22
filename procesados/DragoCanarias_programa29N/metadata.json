@@ -1,0 +1,20 @@
+{
+  "archivo_original": "DragoCanarias_programa29N.pdf",
+  "nombre": "DragoCanarias_programa29N",
+  "sha256": "176f89fb6c30087c9756a6db0be82b17b53a508650657e4718cf92103f446bd1",
+  "fecha_procesamiento": "2026-11-22T16:07:58+0100",
+  "herramienta": "Docling (PyPdfiumBackend)",
+  "formatos": [
+    "md",
+    "json",
+    "txt"
+  ],
+  "paginas": 32,
+  "duracion_segundos": 118.83,
+  "tamano_bytes": {
+    "pdf": 1239145,
+    "md": 74419,
+    "json": 714593,
+    "txt": 73156
+  }
+}

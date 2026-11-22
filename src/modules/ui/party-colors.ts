@@ -58,6 +58,7 @@ const PARTY_VISUALS: Record<string, PartyVisualIdentity> = {
   "partido-autonomos": { bg: "#0e7490", fg: "#ffffff", accentBorder: "#06b6d4" },
   pfac: { bg: "#6b21a8", fg: "#ffffff", accentBorder: "#a855f7" },
   upc: { bg: "#166534", fg: "#ffffff", accentBorder: "#22c55e" },
+  "drago-canarias": { bg: "#047857", fg: "#ffffff", accentBorder: "#10b981" },
 };
 
 const PARTY_META: Record<string, PartyInstitutionalMeta> = {
@@ -107,6 +108,7 @@ const PARTY_META: Record<string, PartyInstitutionalMeta> = {
   },
   pfac: { outgoingCongressSeats: null, scope: "autonomico", territory: "Álava y Bizkaia" },
   upc: { outgoingCongressSeats: null, scope: "autonomico", territory: "Canarias" },
+  "drago-canarias": { outgoingCongressSeats: null, scope: "autonomico", territory: "Canarias" },
 };
 
 export const PENDING_CONGRESS_PARTIES: PendingCongressParty[] = [
@@ -221,6 +223,7 @@ const TERRITORIAL_PARTY_MATCHERS: Record<string, (prov: ConstituencyProvince) =>
     ["alicante", "castellon", "valencia", "santa-cruz-tenerife"].includes(p.id),
   pfac: (p) => ["alava", "bizkaia"].includes(p.id),
   upc: (p) => p.community === "Canarias",
+  "drago-canarias": (p) => p.community === "Canarias",
 };
 
 export function isPartyInProvince(partyId: string, provinceId: string): boolean {

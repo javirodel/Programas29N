@@ -1928,6 +1928,80 @@
           }
         }
       }
+    },
+    {
+      "party": {
+        "id": "drago-canarias",
+        "name": {
+          "value": "Partido Drago Canarias",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "short_name": {
+          "value": "Drago Canarias",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "legacy_id_prefix": "DRG",
+        "website": {
+          "value": "https://www.dragocanarias.com",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        }
+      },
+      "program": {
+        "id": "drago-canarias-29n-2026",
+        "party_id": "drago-canarias",
+        "election_id": "generales-2026-11-29",
+        "title": {
+          "value": "Programa Electoral 29N · La esperanza vence al miedo",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "publication_date": {
+          "value": "2026-11-22",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "source_document_id": "DragoCanarias_programa29N",
+        "languages": [
+          "es"
+        ]
+      },
+      "document": {
+        "id": "DragoCanarias_programa29N",
+        "pdf_path": "pdfs_originales/DragoCanarias_programa29N.pdf",
+        "expected_sha256": "176f89fb6c30087c9756a6db0be82b17b53a508650657e4718cf92103f446bd1",
+        "page_count": 32,
+        "expected_extracted_count": 70,
+        "requires_editorial_remediation": false,
+        "original_filename": "Drago-Canarias-Programa-electoral-29N-2.pdf",
+        "official_url": {
+          "value": "https://www.dragocanarias.com/wp-content/uploads/2026/11/Drago-Canarias-Programa-electoral-29N-2.pdf",
+          "verification": "no_verificado",
+          "origin": "detallado_ia"
+        },
+        "retrieved_at": {
+          "value": null,
+          "verification": "no_verificado",
+          "origin": "metadata_extraccion"
+        },
+        "license_note": null,
+        "extraction": {
+          "tool": "Docling (PyPdfiumBackend)",
+          "processed_at": "2026-11-22T16:07:58+0100",
+          "artifacts": {
+            "md": "procesados/DragoCanarias_programa29N/DragoCanarias_programa29N.md",
+            "json": "procesados/DragoCanarias_programa29N/DragoCanarias_programa29N.json",
+            "txt": "procesados/DragoCanarias_programa29N/DragoCanarias_programa29N.txt",
+            "metadata": "procesados/DragoCanarias_programa29N/metadata.json"
+          },
+          "detailed": {
+            "json": "procesados/DragoCanarias_programa29N/DragoCanarias_programa29N_70medidas_detallado.json",
+            "md": "procesados/DragoCanarias_programa29N/DragoCanarias_programa29N_70medidas_detallado.md"
+          }
+        }
+      }
     }
   ]
 }

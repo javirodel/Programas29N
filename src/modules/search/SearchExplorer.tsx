@@ -392,7 +392,7 @@ export function SearchExplorer({
                   aria-hidden="true"
                   className="inline-block h-2 w-2 animate-ping rounded-full bg-civic"
                 />
-                <span>Buscando en 7.926 propuestas oficiales…</span>
+                <span>Buscando en 7.996 propuestas oficiales…</span>
               </>
             ) : (
               `${result.total.toLocaleString("es-ES")} ${

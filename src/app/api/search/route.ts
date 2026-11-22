@@ -14,7 +14,7 @@ export async function GET(request: NextRequest) {
   try {
     const sp = request.nextUrl.searchParams;
     const q = (sp.get("q") ?? "").slice(0, 200);
-    const rawParties = parseListParam(sp.get("partido")).slice(0, 25);
+    const rawParties = parseListParam(sp.get("partido")).slice(0, 40);
     const parties = rawParties
       .map((p) => PartyIdSchema.safeParse(p))
       .filter((r) => r.success)

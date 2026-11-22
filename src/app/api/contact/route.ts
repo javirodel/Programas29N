@@ -138,9 +138,6 @@ export async function POST(request: NextRequest) {
 
   console.info("[/api/contact] Mensaje recibido", {
     category: sanitized.category,
-    name: sanitized.name,
-    email: sanitized.email,
-    message: sanitized.message,
     messageLength: sanitized.message.length,
     submittedAt: sanitized.submittedAt,
   });

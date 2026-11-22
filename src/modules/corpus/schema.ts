@@ -15,6 +15,7 @@ export const PartyIdSchema = z.enum([
   "bng",
   "coalicion-canaria",
   "compromis",
+  "drago-canarias",
   "eh-bildu",
   "erc",
   "falange",
@@ -351,7 +352,7 @@ export const RegistryFileSchema = z.object({
   election_id: z.string().min(1),
   election_name: z.string().min(1),
   election_date: z.string().min(1),
-  entries: z.array(RegistryEntrySchema).length(26),
+  entries: z.array(RegistryEntrySchema).length(27),
 });
 
 export const TaxonomyFileSchema = z.object({
@@ -410,11 +411,11 @@ export const CorpusDatasetSchema = z.object({
     pdf_sha256: z.record(z.string(), z.string()),
     review_overlays_loaded: z.array(z.string()),
   }),
-  parties: z.array(PartySchema).length(26),
-  programs: z.array(ProgramSchema).length(26),
-  documents: z.array(SourceDocumentSchema).length(26),
+  parties: z.array(PartySchema).length(27),
+  programs: z.array(ProgramSchema).length(27),
+  documents: z.array(SourceDocumentSchema).length(27),
   themes: z.array(ThemeSchema).min(20),
-  proposals: z.array(ProposalSchema).length(7934),
+  proposals: z.array(ProposalSchema).length(8004),
 });
 
 export const SurveyDatasetSchema = z.object({

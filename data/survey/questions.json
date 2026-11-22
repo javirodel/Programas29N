@@ -540,6 +540,28 @@
               }
             ]
           }
+        },
+        "drago-canarias": {
+          "status": "insuficiente",
+          "value": null,
+          "evidence_proposal_ids": [
+            "drago-canarias-004",
+            "drago-canarias-007",
+            "drago-canarias-062"
+          ],
+          "rationale": "Propone duplicar la inversión estatal en alquiler público, fin de bonificaciones a SOCIMI sin alquiler protegido y vincular la RIC a vivienda protegida (pp. 8, 28), sin pronunciarse sobre topar por ley el alquiler privado entre particulares.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-22",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
         }
       },
       "review": {
@@ -1098,6 +1120,27 @@
               }
             ]
           }
+        },
+        "drago-canarias": {
+          "status": "posicion",
+          "value": 1,
+          "evidence_proposal_ids": [
+            "drago-canarias-007",
+            "drago-canarias-060"
+          ],
+          "rationale": "Plantea eliminar el tipo del 0 % en el Impuesto sobre Sociedades de las SOCIMI en vivienda no protegida y exigir contratación local estable para acceder al tipo reducido del 4 % en la ZEC (pp. 8, 28).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-22",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
         }
       },
       "review": {
@@ -1618,6 +1661,26 @@
                 "status": "verificada",
                 "reviewer": "curacion-29n",
                 "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "drago-canarias": {
+          "status": "posicion",
+          "value": 1,
+          "evidence_proposal_ids": [
+            "drago-canarias-010"
+          ],
+          "rationale": "Propone una reducción progresiva de la jornada hasta las 35 horas semanales para las camareras de piso (p. 10), sin plantear una reducción general para todos los sectores.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-22",
                 "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
               }
             ]
@@ -2156,6 +2219,26 @@
                 "status": "verificada",
                 "reviewer": "curacion-29n",
                 "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "drago-canarias": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "drago-canarias-014"
+          ],
+          "rationale": "Propone sustituir la Ley 15/1997 para hacer de la gestión sanitaria pública directa la regla y someter cualquier concierto a evaluación estricta (p. 11).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-22",
                 "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
               }
             ]
@@ -2700,6 +2783,27 @@
               }
             ]
           }
+        },
+        "drago-canarias": {
+          "status": "insuficiente",
+          "value": null,
+          "evidence_proposal_ids": [
+            "drago-canarias-015",
+            "drago-canarias-020"
+          ],
+          "rationale": "Reclama financiación estatal finalista para centros educativos públicos y estudios superiores en islas no capitalinas (pp. 11–12), sin abordar centros concertados ni cheque escolar.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-22",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
         }
       },
       "review": {
@@ -3225,6 +3329,24 @@
                 "status": "verificada",
                 "reviewer": "curacion-29n",
                 "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "drago-canarias": {
+          "status": "sin_referencia",
+          "value": null,
+          "evidence_proposal_ids": [],
+          "rationale": "Impulsa energías renovables distribuidas y el fin de la dependencia fósil en el archipiélago (p. 17), sin referencia expresa a centrales nucleares peninsulares.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-22",
                 "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
               }
             ]
@@ -3770,6 +3892,26 @@
                 "status": "verificada",
                 "reviewer": "curacion-29n",
                 "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "drago-canarias": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "drago-canarias-018"
+          ],
+          "rationale": "Defiende blindar en la Constitución la revalorización anual de todas las pensiones conforme al IPC real y elevar las pensiones mínimas y no contributivas con complemento de insularidad (p. 12).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-22",
                 "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
               }
             ]
@@ -4335,6 +4477,29 @@
               }
             ]
           }
+        },
+        "drago-canarias": {
+          "status": "posicion",
+          "value": -2,
+          "evidence_proposal_ids": [
+            "drago-canarias-041",
+            "drago-canarias-042",
+            "drago-canarias-043",
+            "drago-canarias-050"
+          ],
+          "rationale": "Exige el cierre inmediato de los CIE de Canarias, rechaza la militarización de fronteras y la intervención de Frontex, y pide asilo en origen, acogida digna y reparto obligatorio de menores migrantes (pp. 21–24).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-22",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
         }
       },
       "review": {
@@ -4879,6 +5044,24 @@
                 "status": "verificada",
                 "reviewer": "curacion-29n",
                 "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "drago-canarias": {
+          "status": "sin_referencia",
+          "value": null,
+          "evidence_proposal_ids": [],
+          "rationale": "Propone destinar suelo de Defensa en desuso a vivienda o parque marítimo y autorización parlamentaria para el control aéreo del Sáhara (pp. 8, 13, 30), sin pronunciarse sobre OTAN ni gasto militar.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-22",
                 "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
               }
             ]
@@ -5443,6 +5626,29 @@
               }
             ]
           }
+        },
+        "drago-canarias": {
+          "status": "posicion",
+          "value": 2,
+          "evidence_proposal_ids": [
+            "drago-canarias-008",
+            "drago-canarias-061",
+            "drago-canarias-065",
+            "drago-canarias-066"
+          ],
+          "rationale": "Propone completar todos los traspasos pendientes del Estatuto con financiación suficiente, reconocer en la Constitución la realidad nacional canaria y salvaguardar el REF al margen de la financiación común (pp. 9, 28–29).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-22",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
         }
       },
       "review": {
@@ -5975,6 +6181,24 @@
                 "status": "verificada",
                 "reviewer": "curacion-29n",
                 "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "drago-canarias": {
+          "status": "sin_referencia",
+          "value": null,
+          "evidence_proposal_ids": [],
+          "rationale": "No recoge propuestas sobre prisión permanente revisable, cumplimiento íntegro de penas ni justicia restaurativa.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-22",
                 "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
               }
             ]
@@ -6524,6 +6748,28 @@
               }
             ]
           }
+        },
+        "drago-canarias": {
+          "status": "insuficiente",
+          "value": null,
+          "evidence_proposal_ids": [
+            "drago-canarias-055",
+            "drago-canarias-058",
+            "drago-canarias-059"
+          ],
+          "rationale": "Plantea reformas de control parlamentario y evaluación independiente del gasto público mediante la AIReF (pp. 26–27), sin pronunciarse sobre aforamientos ni indultos.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-22",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
         }
       },
       "review": {
@@ -7064,6 +7310,26 @@
                 "status": "verificada",
                 "reviewer": "curacion-29n",
                 "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "drago-canarias": {
+          "status": "insuficiente",
+          "value": null,
+          "evidence_proposal_ids": [
+            "drago-canarias-024"
+          ],
+          "rationale": "Reclama obligaciones de servicio público con precios máximos en rutas aéreas y blindar el descuento de residente (p. 15), sin pronunciarse sobre gratuidad del transporte público terrestre estatal.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-22",
                 "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
               }
             ]
@@ -7632,6 +7898,28 @@
               }
             ]
           }
+        },
+        "drago-canarias": {
+          "status": "insuficiente",
+          "value": null,
+          "evidence_proposal_ids": [
+            "drago-canarias-035",
+            "drago-canarias-038",
+            "drago-canarias-040"
+          ],
+          "rationale": "Propone auditar el POSEI y el REA, recuperar fincas agrarias abandonadas y financiar la compra pública agroecológica de circuito corto (pp. 18–19), sin pedir derogar normas del Pacto Verde.",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-22",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
         }
       },
       "review": {
@@ -8189,6 +8477,27 @@
                 "status": "verificada",
                 "reviewer": "curacion-29n",
                 "date": "2026-11-19",
+                "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
+              }
+            ]
+          }
+        },
+        "drago-canarias": {
+          "status": "posicion",
+          "value": 1,
+          "evidence_proposal_ids": [
+            "drago-canarias-017",
+            "drago-canarias-047"
+          ],
+          "rationale": "Propone ampliar los permisos retribuidos de conciliación a 24 semanas, espacios de cuidado infantil en empresas de 100+ trabajadores y un año de prestación de transición para cuidadoras (pp. 12, 23).",
+          "origin": "manual",
+          "review": {
+            "status": "verificada",
+            "history": [
+              {
+                "status": "verificada",
+                "reviewer": "curacion-29n",
+                "date": "2026-11-22",
                 "note": "Posición codificada manualmente sobre propuestas verificadas del corpus N1-N3."
               }
             ]

@@ -601,6 +601,141 @@
    }
   },
   {
+   "id": "DragoCanarias_programa29N",
+   "pdf": {
+    "existe": true,
+    "bytes": 1239145,
+    "sha256": "176f89fb6c30087c9756a6db0be82b17b53a508650657e4718cf92103f446bd1",
+    "paginas": 32
+   },
+   "docling": {
+    "md": {
+     "existe": true,
+     "bytes": 74419
+    },
+    "json": {
+     "existe": true,
+     "bytes": 714593
+    },
+    "txt": {
+     "existe": true,
+     "bytes": 73156
+    },
+    "json_valido": true,
+    "schema_name": "DoclingDocument",
+    "version": "1.11.0",
+    "paginas": 32,
+    "n_texts": 439,
+    "n_tables": 5,
+    "n_pictures": 54,
+    "paginas_con_texto": 31,
+    "paginas_texto_escaso_lt200": [
+     1,
+     2,
+     5,
+     32
+    ],
+    "texts_con_prov": 439,
+    "md_imagenes_embebidas_base64": 0,
+    "md_placeholders_image": 54,
+    "md_headings": 97,
+    "md_chars_texto_aprox": 72462,
+    "txt_chars": 71307,
+    "txt_replacement_chars": 0,
+    "txt_glyph_artifacts": 0
+   },
+   "metadata": {
+    "existe": true,
+    "sha256_meta": "176f89fb6c30087c9756a6db0be82b17b53a508650657e4718cf92103f446bd1",
+    "herramienta": "Docling (PyPdfiumBackend)",
+    "fecha": "2026-11-22T16:07:58+0100",
+    "archivo_original": "DragoCanarias_programa29N.pdf",
+    "paginas_meta": 32,
+    "claves": [
+     "archivo_original",
+     "nombre",
+     "sha256",
+     "fecha_procesamiento",
+     "herramienta",
+     "formatos",
+     "paginas",
+     "duracion_segundos",
+     "tamano_bytes"
+    ],
+    "sha_coincide": true,
+    "tamanos_coinciden": true
+   },
+   "detallado": {
+    "json": [
+     "DragoCanarias_programa29N_70medidas_detallado.json"
+    ],
+    "md": [
+     "DragoCanarias_programa29N_70medidas_detallado.md"
+    ],
+    "json_valido": true,
+    "nombre_partido": "Partido Drago Canarias",
+    "siglas": "DRG",
+    "titulo_programa": "Programa Electoral 29N · La esperanza vence al miedo",
+    "fecha_publicacion": "2026-11-22",
+    "url_programa_oficial": "https://www.dragocanarias.com/wp-content/uploads/2026/11/Drago-Canarias-Programa-electoral-29N-2.pdf",
+    "web_oficial": "https://www.dragocanarias.com",
+    "total_medidas_declarado": 70,
+    "total_en_nombre_archivo": 70,
+    "total_real": 70,
+    "n_bloques": 18,
+    "n_otros_bloques": 1,
+    "ids_duplicados": [],
+    "numeros_duplicados": [],
+    "rango_numeros": [
+     1,
+     70
+    ],
+    "huecos_numeracion": [],
+    "bloques_vacios": [],
+    "bloques_incoherentes": [],
+    "medidas_por_bloque": {
+     "bloque_01": 5,
+     "bloque_02": 2,
+     "bloque_03": 6,
+     "bloque_04": 1,
+     "bloque_05": 6,
+     "bloque_06": 3,
+     "bloque_07": 7,
+     "bloque_08": 1,
+     "bloque_09": 1,
+     "bloque_10": 3,
+     "bloque_11": 9,
+     "bloque_12": 4,
+     "bloque_13": 1,
+     "bloque_14": 2,
+     "bloque_15": 10,
+     "bloque_16": 4,
+     "bloque_17": 1,
+     "bloque_19": 3,
+     "otro_bloque_01": 1
+    },
+    "campos_vacios": {
+     "titulo_medida": 0,
+     "texto_oficial": 0,
+     "explicacion_medida": 0,
+     "datos_a_favor": 0,
+     "datos_en_contra": 0,
+     "seccion_original": 0
+    },
+    "tiene_campo_pagina": false,
+    "md_ids_ausentes": [],
+    "md_n_ids_ausentes": 0
+   },
+   "trazabilidad": {
+    "resultado": {
+     "literal": 68,
+     "fragmentado": 2
+    },
+    "con_pagina_localizable": 70,
+    "muestras_no_encontradas": []
+   }
+  },
+  {
    "id": "EHBildu_programa29N",
    "pdf": {
     "existe": true,
@@ -3948,76 +4083,76 @@
  "titulos_bloques_canonicos": {
   "bloque_01": {
    "Vivienda, Urbanismo, Alquiler y Lucha contra la Okupación": 22,
-   "Vivienda, Urbanismo y Mercado del Alquiler": 4
+   "Vivienda, Urbanismo y Mercado del Alquiler": 5
   },
   "bloque_02": {
    "Economía, Productividad, Industria, Innovación y Turismo": 22,
-   "Economía, Industria, Innovación y Turismo": 3
+   "Economía, Industria, Innovación y Turismo": 4
   },
   "bloque_03": {
    "Fiscalidad e Impuestos": 21,
-   "Fiscalidad, Impuestos y Hacienda Pública": 3
+   "Fiscalidad, Impuestos y Hacienda Pública": 4
   },
   "bloque_04": {
    "Empleo, Autónomos, Emprendimiento y Mercado Laboral": 22,
-   "Empleo, Autónomos y Relaciones Laborales": 3
+   "Empleo, Autónomos y Relaciones Laborales": 4
   },
   "bloque_05": {
    "Pensiones, Mayores, Reto Demográfico, Discapacidad e Igualdad": 22,
-   "Pensiones, Bienestar Social, Igualdad y Reto Demográfico": 3
+   "Pensiones, Bienestar Social, Igualdad y Reto Demográfico": 4
   },
   "bloque_06": {
    "Familia, Natalidad, Conciliación, Infancia y Juventud": 21,
-   "Familia, Conciliación, Infancia y Juventud": 4
+   "Familia, Conciliación, Infancia y Juventud": 5
   },
   "bloque_07": {
-   "Sanidad Pública, Salud Mental y Dependencia": 25
+   "Sanidad Pública, Salud Mental y Dependencia": 26
   },
   "bloque_08": {
-   "Educación, Formación Profesional y Universidad": 25
+   "Educación, Formación Profesional y Universidad": 26
   },
   "bloque_09": {
    "Energía, Transición Ecológica y Soberanía Energética": 22,
-   "Energía, Transición Ecológica y Medio Ambiente": 2
+   "Energía, Transición Ecológica y Medio Ambiente": 3
   },
   "bloque_10": {
    "Agricultura, Ganadería, Pesca, Agua y Mundo Rural": 22,
-   "Sector Primario, Agua y Medio Rural": 3
+   "Sector Primario, Agua y Medio Rural": 4
   },
   "bloque_11": {
    "Infraestructuras, Transporte, Ferrocarril y Conectividad": 22,
-   "Infraestructuras, Transporte, Movilidad y Conectividad": 4
+   "Infraestructuras, Transporte, Movilidad y Conectividad": 5
   },
   "bloque_12": {
    "Administración Pública, Control del Gasto Público y Reducción de Burocracia": 21,
-   "Administración Pública, Gestión Presupuestaria y Simplificación": 3
+   "Administración Pública, Gestión Presupuestaria y Simplificación": 4
   },
   "bloque_13": {
    "Justicia, Seguridad Ciudadana y Cumplimiento de la Ley": 21,
-   "Justicia, Seguridad Ciudadana y Derechos Civiles": 3
+   "Justicia, Seguridad Ciudadana y Derechos Civiles": 4
   },
   "bloque_14": {
    "Inmigración, Control de Fronteras, Integración y Nacionalidad": 20,
-   "Política Migratoria, Fronteras, Integración y Nacionalidad": 3
+   "Política Migratoria, Fronteras, Integración y Nacionalidad": 4
   },
   "bloque_15": {
    "Regeneración Democrática, Independencia Institucional y Lucha contra la Corrupción": 21,
-   "Calidad Democrática, Instituciones y Transparencia": 3
+   "Calidad Democrática, Instituciones y Transparencia": 4
   },
   "bloque_16": {
    "Cohesión Territorial, Financiación Autonómica, Presencia del Estado y Ceuta y Melilla": 21,
-   "Organización Territorial, Autogobierno y Financiación Autonómica": 4
+   "Organización Territorial, Autogobierno y Financiación Autonómica": 5
   },
   "bloque_17": {
    "Cultura, Deporte, Historia Común y Víctimas del Terrorismo": 21,
-   "Cultura, Lenguas, Deporte y Memoria": 1
+   "Cultura, Lenguas, Deporte y Memoria": 2
   },
   "bloque_18": {
    "Gestión de Emergencias y Protección Civil": 23
   },
   "bloque_19": {
    "Defensa Nacional, Fuerzas Armadas y Política Exterior": 19,
-   "Política Exterior, Unión Europea, Cooperación y Defensa": 2
+   "Política Exterior, Unión Europea, Cooperación y Defensa": 3
   },
   "otro_bloque_01": {
    "Protección y Bienestar Animal": 0

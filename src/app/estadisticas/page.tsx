@@ -10,7 +10,7 @@ import { VocabularyStatsExplorer } from "@/modules/stats/VocabularyStatsExplorer
 export const metadata: Metadata = {
   title: "Vocabulario y Radiografía Estadística | 29N",
   description:
-    "Radar interactivo de conceptos, palabras características (TF-IDF), prioridades temáticas y análisis de extensión y estilo de los 26 programas del 29N.",
+    "Radar interactivo de conceptos, palabras características (TF-IDF), prioridades temáticas y análisis de extensión y estilo de los 27 programas del 29N.",
 };
 
 export default async function EstadisticasPage() {
